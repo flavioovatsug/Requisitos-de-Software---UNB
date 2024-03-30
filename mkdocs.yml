@@ -38,6 +38,8 @@ theme:
         icon: material/brightness-4
         name: Mudar para o modo claro
 
+  extra_css: [stylesheets/extra.css]
+  
 nav: 
   - Início: index.md
   - Atas:
