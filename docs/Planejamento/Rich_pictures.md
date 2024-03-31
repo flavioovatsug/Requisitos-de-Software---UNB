@@ -1,6 +1,6 @@
 ## 1. Introdução
 
-O Rich Picture<sup><a href="#Referências">[1]</a></sup> é uma representação semelhante a um desenho animado que identifica todos os stakeholders, suas preocupações e parte da estrutura subjacente ao contexto de trabalho. Funcionando como uma ferramenta para registrar e raciocinar sobre aspectos do contexto de trabalho, em particular, como eles devem afetar o projeto.
+O Rich Picture é uma representação semelhante a um desenho animado que identifica todos os stakeholders, suas preocupações e parte da estrutura subjacente ao contexto de trabalho. Funcionando como uma ferramenta para registrar e raciocinar sobre aspectos do contexto de trabalho, em particular, como eles devem afetar o projeto.
 
 
 ## 2. Metodologia
