@@ -8,7 +8,7 @@
 
 ## Sobre o Projeto
 
-Este repositório é dedicada à avaliação do aplicativo da [Sinesp Cidadão](https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR&gl=US) produzido pelo grupo 05 na turma de requisitos de software na Faculdade do Gama da Universidade de Brasília (FGA-UnB) durante o 2º semestre de 2024. O objetivo do projeto é levantar e avaliar os requisitos de projetos baseado nos conceitos estudados dentro de sala de aula!
+Este repositório é dedicada à avaliação do aplicativo da [Sinesp Cidadão](https://play.google.com/store/apps/details?id=br.gov.sinesp.cidadao.android&hl=pt_BR&gl=US) produzido pelo grupo 05 na turma de requisitos de software na Faculdade do Gama da Universidade de Brasília (FGA-UnB) durante o 1º semestre de 2024. O objetivo do projeto é levantar e avaliar os requisitos de projetos baseado nos conceitos estudados dentro de sala de aula!
 
 -------
 
