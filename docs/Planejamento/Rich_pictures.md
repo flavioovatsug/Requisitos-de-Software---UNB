@@ -14,7 +14,7 @@ Para síntese desse artefato foi estudado diversos aplicativos de origem governa
 
 <font size="2"><p style="text-align: center">Figura 1: Rich Picture: Carteira Digital de Trânsito </p></font>
 
-![CarteiraDigital](/2024.1-Sinesp_Cidadao/docs/assets/Rich_pictures/RichPicture_HarrysonCMartins.png)
+![CarteiraDigital](../assets/Rich_pictures/RichPicture_HarrysonCMartins.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Harryson C. MArtins](https://github.com/harry-cmartin), 2024</p></font>
 
@@ -24,7 +24,7 @@ Para síntese desse artefato foi estudado diversos aplicativos de origem governa
 
 <font size="2"><p style="text-align: center">Figura 2: Rich Picture: Sinesp </p></font>
 
-![Sinesp](/2024.1-Sinesp_Cidadao/docs/assets/Rich_pictures/RichPicture_sinespCidadão_Christian_escolhido.png)
+![Sinesp](../assets/Rich_pictures/RichPicture_sinespCidadão_Christian_escolhido.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Christian](https://github.com/crstyhs), 2024</p></font>
 
