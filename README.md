@@ -32,8 +32,6 @@ Sinesp Cidadão é um aplicativo do Sistema Nacional de informações de Seguran
 |---------------------------------------|---------------|---------------------------------------|---------------|---------------------------------------|----------------|
 | [Flávio Melo](https://github.com/flavioovatsug)                               | [Italo Bruno](https://github.com/ItaloBrunoM)        | [Harryson Campos Martins](https://github.com/harry-cmartin) | [Christian Hirsch Santos](https://github.com/crstyhs)      | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12)                               | [Marcos Bittar](https://github.com/Bittarx)         |
 
-Lembre-se de adicionar as fotos correspondentes e os nomes reais das pessoas que fazem parte da sua equipe.
-
 -------
 
 ## Estrutura do Repositório
