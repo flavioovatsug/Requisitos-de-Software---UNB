@@ -29,7 +29,7 @@ A tabela 1 apresenta os aplicativos sugeridos por cada membro do grupo durante a
 
 [1] e-Título. Disponível em: [Google Play](https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR&gl=US&pli=1). Acesso em: 27 de Março de 2024.</br>
 [2] Declara Água. Disponível em: [Google Play](https://play.google.com/store/apps/details?id=br.gov.ana.declaraagua&hl=pt_BR&gl=US). Acesso em: 27 de Março de 2024.</br>
-[3] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em: 15 de Setembro de 2023.</br>
+[3] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao).  Acesso em: 27 de Março de 2024.</br>
 [4] DETRAN-DF. Disponível em: [Google Play](https://play.google.com/store/apps/details?id=br.com.mesotec.detrandf&hl=pt_BR&gl=US). Acesso em: 27 de Março de 2024.</br>
 [5] Meu SUS Digital. Disponível em: [Google Play](https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR&gl=US). Acesso em: 27 de Março de 2024.</br>
 [6] Blender. Disponivel em: [Blender](https://www.blender.org). Acesso em:27 de Março de 2024 </br>
