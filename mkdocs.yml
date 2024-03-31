@@ -1,0 +1,50 @@
+site_name: Sinesp
+site_author: Grupo 5
+site_description: >-
+  Documentação para o rojeto de avaliação da disciplina de requisitos de software 
+ 
+# Repository
+repo_url: https://github.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao
+repo_name: 2024.1-Sinesp_Cidadao
+
+
+# Configuration
+docs_dir: docs
+theme: 
+  name: material
+  language: pt-BR
+  favicon: assets/logo.png
+  logo: assets/logo.png
+  icon: 
+   repo: fontawesome/brands/github
+  font: 
+    text: Roboto
+  features:
+  - navigation.instant
+  - navigation.section
+  - navigation.path
+  - navigation.top
+  - navigation.tabs
+  - navigation.tabs.sticky
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para o modo escuro
+     
+    - scheme: slate 
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para o modo claro
+
+  extra_css: [stylesheets/extra.css]
+  
+nav: 
+  - Início: index.md
+  - Atas:
+      - Ata 1: atas/Ata_Reuniao1_25_03_2024.md
+  - Planejamento:
+      - Lista de Aplicativos: Planejamento/Lista_de_aplicativos.md
+      - Rich Pictures: Planejamento/Rich_pictures.md
+  
