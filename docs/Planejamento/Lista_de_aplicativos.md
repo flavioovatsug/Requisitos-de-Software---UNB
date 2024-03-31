@@ -41,4 +41,4 @@ A tabela 1 apresenta os aplicativos sugeridos por cada membro do grupo durante a
 | Versão | Data de execução |            Descrição             |                      Autor(es)                       |                     Revisor                     |
 | :----: | :--------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
 | `1.0`  |    27/03/2024    |    Criação do arquivo da lista de aplicativos |   Christian   |  |
-| `1.1`  |    28/03/2024    |    Atualização da Lista |   Italo   |  |
+| `1.1`  |    28/03/2024    |    Atualização da Lista |   Italo   | Christian |
