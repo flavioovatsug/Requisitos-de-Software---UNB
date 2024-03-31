@@ -40,4 +40,4 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 
 | Versão | Data de execução | Data prevista de revisão | Descrição  |   Autor(es)    |  Revisado  |
 | :----: | :--------------: | :----------------------: | :--------: | :------------: | :---------:|
-| `1.0`  |    31/03/2024    |   31/03/2024    |                  Criação do artefato                   | [Ian Lucca](https://github.com/IanLucca12) | <input type="checkbox" enabled checked />    |
+| `1.0`  |    31/03/2024    |   31/03/2024    |                  Criação do artefato      Christian             | [Ian Lucca](https://github.com/IanLucca12) | <input type="checkbox" enabled checked />    |
