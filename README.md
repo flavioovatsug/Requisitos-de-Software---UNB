@@ -25,14 +25,17 @@ Sinesp Cidadão é um aplicativo do Sistema Nacional de informações de Seguran
 - Desaparecimentos: Disponibiliza ao cidadão a informação de quais pessoas constão como desaparecidas.
 
 -------
+
 ### Colaboradores
 
-| <img src="https://avatars.githubusercontent.com/u/91036264?v=4" width="150px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/52352651?v=4" width="150px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/129622482?v=4" width="90px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/80042310?v=4" width="100px" style="border-radius: 50%;"> |
-|:----------------------------------------------------------:|:------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------:|
-| [Flávio Melo](https://github.com/flavioovatsug)     | [Italo Bruno](https://github.com/ItaloBrunoM)      | [Harryson Campos Martins](https://github.com/harry-cmartin)      | [Christian Hirsch Santos](https://github.com/crstyhs) | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12)
+| <img src="https://avatars.githubusercontent.com/u/91036264?v=4" width="150px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/52352651?v=4" width="150px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/129622482?v=4" width="90px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/80042310?v=4" width="150px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/89036876?v=4" width="150px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/71234052?v=4" width="150px" style="border-radius: 50%;"> |
+|---------------------------------------|---------------|---------------------------------------|---------------|---------------------------------------|----------------|
+| [Flávio Melo](https://github.com/flavioovatsug)                               | [Italo Bruno](https://github.com/ItaloBrunoM)        | [Harryson Campos Martins](https://github.com/harry-cmartin) | [Christian Hirsch Santos](https://github.com/crstyhs)      | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12)                               | [Marcos Bittar](https://github.com/Bittarx)         |
 
+Lembre-se de adicionar as fotos correspondentes e os nomes reais das pessoas que fazem parte da sua equipe.
 
 -------
+
 ## Estrutura do Repositório
 
 * `docs/` - Documentação das análises e estudos realizados.
