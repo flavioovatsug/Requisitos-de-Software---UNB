@@ -1,6 +1,10 @@
-# Grupo 5
+<h1 align="center"> Grupo 5 </h1>
 
-# Sinesp Cidadão
+<p align="center">
+  <img width="450" alt="b26fab25f90d161d81b679edbd5abd24-Full" src="./docs/assets/Logos/Logo_sinesp.png">
+</p>
+
+<h1 align="center"> Sinesp Cidadão </h1>
 
 ## Sobre o Projeto
 
@@ -25,7 +29,7 @@ Sinesp Cidadão é um aplicativo do Sistema Nacional de informações de Seguran
 
 | <img src="https://avatars.githubusercontent.com/u/91036264?v=4" width="150px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/52352651?v=4" width="150px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/129622482?v=4" width="90px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/80042310?v=4" width="100px" style="border-radius: 50%;"> |
 |:----------------------------------------------------------:|:------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------:|
-| [Flávio Melo](https://github.com/flavioovatsug)     | [Italo Bruno](https://github.com/ItaloBrunoM)      | [Harryson Campos Martins](https://github.com/harry-cmartin)      | [Christian Hirsch Santos](https://github.com/crstyhs)
+| [Flávio Melo](https://github.com/flavioovatsug)     | [Italo Bruno](https://github.com/ItaloBrunoM)      | [Harryson Campos Martins](https://github.com/harry-cmartin)      | [Christian Hirsch Santos](https://github.com/crstyhs) | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12)
 
 
 -------
