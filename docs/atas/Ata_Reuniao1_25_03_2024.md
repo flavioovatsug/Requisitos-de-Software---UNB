@@ -40,9 +40,10 @@ Primeira reunião de grupo para distribuição de tarefas e início do desenvolv
 
 
 ## Gravação da reunião
-[Video sendo preparado]()
+[Video](https://youtu.be/zzsI4X1Jgew)
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 26/03/2024 | Criação da ata de reunião | Christian |  |
+| 1.1 | 31/03/2024 | Inserção do vídeo | Christian |  |

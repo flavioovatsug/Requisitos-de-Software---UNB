@@ -44,7 +44,11 @@ nav:
   - Início: index.md
   - Atas:
       - Ata 1: atas/Ata_Reuniao1_25_03_2024.md
+      - Ata 2: atas/Ata_Reuniao2_31_03_2024.md
   - Planejamento:
       - Lista de Aplicativos: Planejamento/Lista_de_aplicativos.md
+      - Aplicativo Escolhido: Planejamento/App_selecionado.md
+      - Cronograma: Planejamento/cronograma.md
+      - Heatmap: Planejamento/heatmap.md
       - Rich Pictures: Planejamento/Rich_pictures.md
-  
+      - Ferramentas: Planejamento/ferramentas.md
