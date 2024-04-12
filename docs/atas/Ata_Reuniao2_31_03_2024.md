@@ -25,17 +25,22 @@ Elaborar a apresentação e colocar no youtube.
 - Foi gravada a apresentação para ser disponibilizada no youtube
 
 ## Tarefas
-
+<font size="2"><p style="text-align: center">Tabela 1: Tarefas distribuídas </p></font>
 | Tarefa | Responsável |
 | ---- | ---- |
-| Alterações no mkdocs | Harryson
-| Criação da segunda Ata | Flávio
-| Upload das gravações das reuniões | Christian
+| Alterações no mkdocs | [Harryson](https://github.com/harry-cmartin) 
+| Criação da segunda Ata | [Flávio Gustavo](https://github.com/flavioovatsug) 
+| Upload das gravações das reuniões | [Christian](https://github.com/crstyhs)
+
+Fonte: [Christian](https://github.com/crstyhs), 2024
 
 ## Gravação da reunião
-[Video sendo preparado]()
+[Video](https://youtu.be/ZBQkWCX2v4A)
+
+## Referências
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 31/03/2024 | Criação da ata de reunião | Flávio |  |
+| 1.0 | 31/03/2024 | Criação da ata de reunião | [Flávio Gustavo](https://github.com/flavioovatsug)  | [Christian](https://github.com/crstyhs) |
+| 1.1 | 12/04/2024 | Adição do vídeo da reunião , links para perfis e legendas | Christian |  |

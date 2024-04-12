@@ -1,6 +1,6 @@
 # Lista de aplicativos
-
-Conjunto de aplicativos elicitados para análise com o objetivo de selecionar um entre eles para estudo e o seguimento do projeto
+## Introdução
+Este documento apresenta uma lista de aplicativos discutidos durante a fase inicial do projeto. Estes aplicativos foram elicitados para análise com o objetivo de selecionar um deles para estudo e seguimento do projeto. A seguir, são detalhados os aplicativos sugeridos por cada membro do grupo, juntamente com suas descrições e referências.
 
 ## Lista de Aplicativos Sugeridos
 
@@ -40,5 +40,6 @@ A tabela 1 apresenta os aplicativos sugeridos por cada membro do grupo durante a
 
 | Versão | Data de execução |            Descrição             |                      Autor(es)                       |                     Revisor                     |
 | :----: | :--------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    27/03/2024    |    Criação do arquivo da lista de aplicativos |   Christian   |  |
-| `1.1`  |    28/03/2024    |    Atualização da Lista |   Italo   | Christian |
+| `1.0`  |    27/03/2024    |    Criação do arquivo da lista de aplicativos |   [Christian](https://github.com/crstyhs)   |  |
+| `1.1`  |    28/03/2024    |    Atualização da Lista |   [Italo](https://github.com/ItaloBrunoM)   | [Christian](https://github.com/crstyhs) |
+| `1.2`  |    12/04/2024    |    Atualização da introdução para maior clareza |   [Christian](https://github.com/crstyhs)   |  |
