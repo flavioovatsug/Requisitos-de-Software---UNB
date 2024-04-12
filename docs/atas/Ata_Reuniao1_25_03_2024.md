@@ -30,16 +30,16 @@ Primeira reunião de grupo para distribuição de tarefas e início do desenvolv
 | Tarefa | Responsável |
 | ---- | ---- |
 | Criação das atas | Todos(ordem alfabética)
-| Criação da primeira Ata | Christian
-| Definição do Gerente |  Christian
-| Upload das gravações das reuniões | Christian
-| Documento da lista de possíveis aplicações | Christian
-| Upload das gravações das reuniões | Christian
+| Criação da primeira Ata |  [Christian](https://github.com/crstyhs)
+| Definição do Gerente |   [Christian](https://github.com/crstyhs)
+| Upload das gravações das reuniões |  [Christian](https://github.com/crstyhs)
+| Documento da lista de possíveis aplicações |  [Christian](https://github.com/crstyhs)
+| Upload das gravações das reuniões |  [Christian](https://github.com/crstyhs)
 | Leitura dos Termos de uso (Sinesp Cidadão)  | Todos
-| Ferramentas Utilizadas  | Marcos
-| Criação do ReadMe  | Italo
-| Criação do cronograma  | Ian, Christian
-| Criação do site MkDocs  | Flávio, Harry
+| Ferramentas Utilizadas  | [Marcos](https://github.com/Bittarx)
+| Criação do ReadMe  | [Italo](https://github.com/ItaloBrunoM)
+| Criação do cronograma  | [Ian](https://github.com/IanLucca12),  [Christian](https://github.com/crstyhs)
+| Criação do site MkDocs  | [Flávio Gustavo](https://github.com/flavioovatsug) , [Harryson](https://github.com/harry-cmartin) 
 
 ## Bibliografia
 
@@ -49,6 +49,6 @@ Primeira reunião de grupo para distribuição de tarefas e início do desenvolv
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 26/03/2024 | Criação da ata de reunião | Christian |  |
-| 1.1 | 31/03/2024 | Inserção do vídeo | Christian |  |
-| 1.1 | 12/04/2024 | Adição de legenda da tabela, bibliografia e complementação de tarefas | Christian |  |
+| 1.0 | 26/03/2024 | Criação da ata de reunião |  [Christian](https://github.com/crstyhs) |  |
+| 1.1 | 31/03/2024 | Inserção do vídeo |  [Christian](https://github.com/crstyhs) |  |
+| 1.2 | 12/04/2024 | Adição de legenda da tabela, bibliografia , complementação de tarefas e link para perfis |  [Christian](https://github.com/crstyhs)|  |
