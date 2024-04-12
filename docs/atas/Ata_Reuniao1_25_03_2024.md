@@ -26,7 +26,7 @@ Primeira reunião de grupo para distribuição de tarefas e início do desenvolv
 - Responsabilidades de tarefas foram atribuidas para alguns integrantes
 - Arquivos em MarkDown criados no Github foi o modo de documnetação escolhido para as futuras atas
 ## Tarefas
-
+<font size="2"><p style="text-align: center">Tabela 1: Tarefas distribuídas </p></font>
 | Tarefa | Responsável |
 | ---- | ---- |
 | Criação das atas | Todos(ordem alfabética)
@@ -36,8 +36,12 @@ Primeira reunião de grupo para distribuição de tarefas e início do desenvolv
 | Documento da lista de possíveis aplicações | Christian
 | Upload das gravações das reuniões | Christian
 | Leitura dos Termos de uso (Sinesp Cidadão)  | Todos
+| Ferramentas Utilizadas  | Marcos
+| Criação do ReadMe  | Italo
+| Criação do cronograma  | Ian, Christian
+| Criação do site MkDocs  | Flávio, Harry
 
-
+## Bibliografia
 
 ## Gravação da reunião
 [Video](https://youtu.be/zzsI4X1Jgew)
@@ -47,3 +51,4 @@ Primeira reunião de grupo para distribuição de tarefas e início do desenvolv
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 26/03/2024 | Criação da ata de reunião | Christian |  |
 | 1.1 | 31/03/2024 | Inserção do vídeo | Christian |  |
+| 1.1 | 12/04/2024 | Adição de legenda da tabela, bibliografia e complementação de tarefas | Christian |  |
