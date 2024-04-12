@@ -33,9 +33,12 @@ Elaborar a apresentação e colocar no youtube.
 | Upload das gravações das reuniões | Christian
 
 ## Gravação da reunião
-[Video sendo preparado]()
+[Video](https://youtu.be/ZBQkWCX2v4A)
+
+## Bibliografia
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 31/03/2024 | Criação da ata de reunião | Flávio |  |
+| 1.0 | 31/03/2024 | Criação da ata de reunião | Flávio | Christian |
+| 1.1 | 12/04/2024 | Adição do vídeo da reunião | Christian |  |
