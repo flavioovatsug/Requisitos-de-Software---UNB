@@ -28,9 +28,9 @@ Elaborar a apresentação e colocar no youtube.
 
 | Tarefa | Responsável |
 | ---- | ---- |
-| Alterações no mkdocs | Harryson
-| Criação da segunda Ata | Flávio
-| Upload das gravações das reuniões | Christian
+| Alterações no mkdocs | [Harryson](https://github.com/harry-cmartin) 
+| Criação da segunda Ata | [Flávio Gustavo](https://github.com/flavioovatsug) 
+| Upload das gravações das reuniões | [Christian](https://github.com/crstyhs)
 
 ## Gravação da reunião
 [Video](https://youtu.be/ZBQkWCX2v4A)
@@ -40,5 +40,5 @@ Elaborar a apresentação e colocar no youtube.
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 31/03/2024 | Criação da ata de reunião | Flávio | Christian |
-| 1.1 | 12/04/2024 | Adição do vídeo da reunião | Christian |  |
+| 1.0 | 31/03/2024 | Criação da ata de reunião | [Flávio Gustavo](https://github.com/flavioovatsug)  | [Christian](https://github.com/crstyhs) |
+| 1.1 | 12/04/2024 | Adição do vídeo da reunião e links para perfis | Christian |  |
