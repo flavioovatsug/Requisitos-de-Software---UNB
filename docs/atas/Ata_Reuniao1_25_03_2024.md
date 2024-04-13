@@ -27,6 +27,7 @@ Primeira reunião de grupo para distribuição de tarefas e início do desenvolv
 - Arquivos em MarkDown criados no Github foi o modo de documnetação escolhido para as futuras atas
 ## Tarefas
 <font size="2"><p style="text-align: center">Tabela 1: Tarefas distribuídas </p></font>
+
 | Tarefa | Responsável |
 | ---- | ---- |
 | Criação das atas | Todos(ordem alfabética)
@@ -49,6 +50,6 @@ Primeira reunião de grupo para distribuição de tarefas e início do desenvolv
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 26/03/2024 | Criação da ata de reunião |  [Christian](https://github.com/crstyhs) |  |
-| 1.1 | 31/03/2024 | Inserção do vídeo |  [Christian](https://github.com/crstyhs) |  |
-| 1.2 | 12/04/2024 | Adição de legenda da tabela, bibliografia , complementação de tarefas e link para perfis |  [Christian](https://github.com/crstyhs)|  |
+| 1.0 | 26/03/2024 | Criação da ata de reunião |  [Christian](https://github.com/crstyhs) | [Italo Bruno](https://github.com/ItaloBrunoM) |
+| 1.1 | 31/03/2024 | Inserção do vídeo |  [Christian](https://github.com/crstyhs) | [Italo Bruno](https://github.com/ItaloBrunoM) |
+| 1.2 | 12/04/2024 | Adição de legenda da tabela, bibliografia , complementação de tarefas e link para perfis |  [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |

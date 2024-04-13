@@ -34,4 +34,4 @@ Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cida
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 31/03/2024 | Criação do documento do aplicativo selecionado | [Christian](https://github.com/crstyhs)|[Harryson C.](https://github.com/harry-cmartin)  |
-| 1.1 | 12/04/2024 | Atualização da introdução , Critériose e adição de legenda | [Christian](https://github.com/crstyhs)|  |
+| 1.1 | 12/04/2024 | Atualização da introdução , Critériose e adição de legenda | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
