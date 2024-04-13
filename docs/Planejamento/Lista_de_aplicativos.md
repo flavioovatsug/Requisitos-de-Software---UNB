@@ -40,6 +40,6 @@ A tabela 1 apresenta os aplicativos sugeridos por cada membro do grupo durante a
 
 | Versão | Data de execução |            Descrição             |                      Autor(es)                       |                     Revisor                     |
 | :----: | :--------------: | :-------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
-| `1.0`  |    27/03/2024    |    Criação do arquivo da lista de aplicativos |   [Christian](https://github.com/crstyhs)   |  |
+| `1.0`  |    27/03/2024    |    Criação do arquivo da lista de aplicativos |   [Christian](https://github.com/crstyhs)   | Todos |
 | `1.1`  |    28/03/2024    |    Atualização da Lista |   [Italo](https://github.com/ItaloBrunoM)   | [Christian](https://github.com/crstyhs) |
-| `1.2`  |    12/04/2024    |    Atualização da introdução para maior clareza |   [Christian](https://github.com/crstyhs)   |  |
+| `1.2`  |    12/04/2024    |    Atualização da introdução para maior clareza |   [Christian](https://github.com/crstyhs)   | [Italo Bruno](https://github.com/ItaloBrunoM) |
