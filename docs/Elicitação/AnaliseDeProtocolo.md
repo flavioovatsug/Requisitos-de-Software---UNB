@@ -34,6 +34,8 @@ Tabela 2 - Requisitos elicitados
 | 5 | Disponibilizar diversas opções de denuncia | RF| Implementado
 | 6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
 | 7 | Tutorial de uso do aplicativo | RF| Implementado
+| 8 | Disponibilização de fotos do desaparecido | RF| Não Implementado
+| 9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado
 
 
 
