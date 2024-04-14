@@ -44,7 +44,7 @@ Tabela 01 - Requisitos elicitados
 
 ## Referências
 [1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 13 de abril de 2024.</br>
-[2] VAZQUEZ, Carlos Eduardo ; SIMOES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negocio. Edição (se houver). Brasport, 2016.</br>
+[2] VAZQUEZ, Carlos Eduardo ; SIMOES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negocio. Brasport, 2016.</br>
 [3] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/40/Plano_de_Ensino%20RE%20012024%20Turma%201.pdf>. Acesso em 13 de abril de 2024.</br>
 [4] SERRANO, Milene; SERRANO, Maurício. Slides de Requisitos. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em 13 de abril de 2024.
 ## Histórico de Versões
