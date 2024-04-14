@@ -9,7 +9,7 @@ contribuindo para o desenvolvimento de requisitos mais precisos e orientados par
 
 ## Processo
 Durante uma reunião realizada dia 10/04/2024, estabelecida entre os integrantes do grupo 5, [Marcos](https://github.com/Bittarx) e [Christian](https://github.com/crstyhs) com um ex-policial foi
-requisitado que o usuário seguisse alguns comando e expressase sua opnião sobre a usabilidade 
+requisitado que o usuário seguisse alguns comando e expressase sua opnião sobre a usabilidade . Foi requisitado a não divulgação do vídeo da reunião.
 
 Abaixo a tabela 1 com um resumo das questões levantadas
 
@@ -19,12 +19,22 @@ Tabela 1 - Questões levantadas
 | Faça uma busca de um veículo de dada placa | - O imediatismo de informação entre a placa Mercosul e a versão antiga </br> - O uso do rádio comparado a velocidade do aplicativo e sua necessidade de internet </br> - A falta de informação e a preceça de erro ao não conseguir fornecer informações quanto ao restrição | 
 |  |
 | Faça uma busca de um mandato de dada pessoa | - A Necessidade de atualização e alimentação do banco de dados para evitar falhas no sistema público </br> - A utilizade desta função para colaboração na apreesão de suspeitos no exercício do trabalho policial|
-| Acesse a aba de participação cidadã | - A presença de uma diversa gama de assusntos a serem denunciados através do aplicatvo </br> 
+|  |
+| Acesse a aba de participação cidadã | - A presença de uma diversa gama de assusntos a serem denunciados através do aplicatvo </br> - A necessidade de maior divulgação do aplicativo e explicitação de suas funcionalidades
+|  |
+| Acesse a aba de desaparecidos | - Carência de dados sobre o desaparecido
 ## Requisitos Elicitados
 Tabela 2 - Requisitos elicitados
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| 1 | Ler texto para deficiêntes visuais | RF| Não Implementado
+| 1 | Retorno rápido de informação | RNF| Implementado
+| 2 | Disponibilizar restrição sem erros | RF| Não Implementado
+| 3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
+| 4 | Banco de dados ser constantemente atualizado | RNF| 
+| 5 | Disponibilizar diversas opções de denuncia | RF| Implementado
+| 6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
+| 7 | Tutorial de uso do aplicativo | RF| Implementado
+
 
 
 ## Referências
@@ -37,4 +47,5 @@ Tabela 2 - Requisitos elicitados
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 13/04/2024 | Criação do documento da introspecção | [Christian](https://github.com/crstyhs)|  |
+| 1.0 | 13/04/2024 | Criação do documento da Análise de Protocolo | [Christian](https://github.com/crstyhs)|  |
+| 1.1 | 14/04/2024 | Adição dos requisitos elicitados  | [Christian](https://github.com/crstyhs)|  |
