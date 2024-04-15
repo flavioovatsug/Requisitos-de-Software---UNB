@@ -1,26 +1,26 @@
 # Análise de Protocolo
 
 ## Introdução
-Este documento refere-se à análise de protocolo, documentação de umas das metologia aplicadas sobre o projeto de requisitos de software pelo grupo 5 para a elicitação dos requisitos presentes no aplicativo Sinesp Cidadão disponibilizada na tabela 2
+Este documento refere-se à análise de protocolo, documentação de umas das metodologias aplicadas sobre o projeto de requisitos de software pelo grupo 5 para a elicitação dos requisitos presentes no aplicativo Sinesp Cidadão disponibilizada na tabela 2
 
 ## Metodologia
 Essa metodologia propõe uma interação direta com o usuário, solicitando que ele execute atividades dentro do sistema. Isso permite aos desenvolvedores obter uma compreensão detalhada de como as tarefas são realizadas pelo usuário, identificando eventuais dificuldades ou pontos de melhoria. Durante essa interação, o usuário é encorajado a narrar em voz alta suas ações e explicar o que está fazendo, seguindo os comandos do sistema. Essa abordagem, conhecida como análise de protocolo, proporciona um maior entendimento sobre o fluxo de trabalho do usuário e suas necessidades, 
 contribuindo para o desenvolvimento de requisitos mais precisos e orientados para a experiência do usuário [6]
 
 ## Processo
-Durante uma reunião realizada dia 10/04/2024, estabelecida entre os integrantes do grupo 5, [Marcos](https://github.com/Bittarx) e [Christian](https://github.com/crstyhs) com um ex-policial foi
-requisitado que o usuário seguisse alguns comando e expressase sua opnião sobre a usabilidade . Foi requisitado a não divulgação do vídeo da reunião.
+Durante uma reunião realizada dia 10/04/2024, estabelecida entre os integrantes do grupo 5, [Marcos](https://github.com/Bittarx) e [Christian](https://github.com/crstyhs) com um ex-policial, foi
+requisitado que o usuário seguisse alguns comando e expressasse sua opinião sobre a usabilidade . Foi pedido a não divulgação do vídeo da reunião.
 
 Abaixo a tabela 1 com um resumo das questões levantadas
 
 Tabela 1 - Questões levantadas
 | Comando | Questões  |
 | ---- | ---- |
-| Faça uma busca de um veículo de dada placa | - O imediatismo de informação entre a placa Mercosul e a versão antiga </br> - O uso do rádio comparado a velocidade do aplicativo e sua necessidade de internet </br> - A falta de informação e a preceça de erro ao não conseguir fornecer informações quanto ao restrição | 
+| Faça uma busca de um veículo de dada placa | - O imediatismo de informação entre a placa Mercosul e a versão antiga </br> - O uso do rádio comparado a velocidade do aplicativo e sua necessidade de internet </br> - A falta de informação e a presença de erro ao não conseguir fornecer informações quanto ao restrição | 
 |  |
-| Faça uma busca de um mandato de dada pessoa | - A Necessidade de atualização e alimentação do banco de dados para evitar falhas no sistema público </br> - A utilizade desta função para colaboração na apreesão de suspeitos no exercício do trabalho policial|
+| Faça uma busca de um mandato de dada pessoa | - A Necessidade de atualização e alimentação do banco de dados para evitar falhas no sistema público </br> - A utilidade desta função para colaboração na apreensão de suspeitos no exercício do trabalho policial|
 |  |
-| Acesse a aba de participação cidadã | - A presença de uma diversa gama de assusntos a serem denunciados através do aplicatvo </br> - A necessidade de maior divulgação do aplicativo e explicitação de suas funcionalidades
+| Acesse a aba de participação cidadã | - A presença de uma diversa gama de assuntos a serem denunciados através do aplicativo </br> - A necessidade de maior divulgação do aplicativo e explicitação de suas funcionalidades
 |  |
 | Acesse a aba de desaparecidos | - Carência de dados sobre o desaparecido
 ## Requisitos Elicitados
