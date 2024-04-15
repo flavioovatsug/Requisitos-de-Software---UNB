@@ -1,15 +1,15 @@
 # Entrevista
 
 ## Introdução
-Este documento refere-se a entrevista, documentação de umas das metologia aplicadas sobre o projeto de requisitos de software pelo grupo 5 para a elicitação dos requisitos presentes no aplicativo Sinesp Cidadão disponibilizada na tabela 2
+Este documento refere-se a entrevista, documentação de umas das metodologia aplicadas sobre o projeto de requisitos de software pelo grupo 5 para a elicitação dos requisitos presentes no aplicativo Sinesp Cidadão disponibilizada na tabela 2
 
 ## Metodologia
 Essa metodologia engloba a formulação de perguntas direcionadas ao usuário, permitindo que ele expresse sua opinião e forneça visões aos entrevistadores sobre o aplicativo. Durante a entrevista, o usuário é convidado a compartilhar suas experiências, desafios e sugestões relacionadas ao uso do aplicativo,
 proporcionando aos entrevistadores novas perspectivas e entendimentos sobre suas necessidades e expectativas  [2][4][5][6]
 
 ## Processo
-Durante uma reunião online realizada dia 10/04/2024, estabelecida entre os integrantes do grupo 5, [Marcos](https://github.com/Bittarx) e [Christian](https://github.com/crstyhs) com um ex-policial foram
-feitas algumas perguntas relacionadas ao aplicativo Sinesp cidadão sobre aspectos estéticos e técnicos com uma visão de usuário. Foi requisitado a não divulgação do vídeo da reunião.
+Durante uma reunião online realizada dia 10/04/2024, estabelecida entre os integrantes do grupo 5, [Marcos](https://github.com/Bittarx) e [Christian](https://github.com/crstyhs) com um ex-policial, foram
+feitas algumas perguntas relacionadas ao aplicativo Sinesp cidadão sobre aspectos estéticos e técnicos com uma visão de usuário. Foi pedido a não divulgação do vídeo da reunião.
 
 Abaixo a tabela 1 com a lista de perguntas elaboradas
 
@@ -29,10 +29,10 @@ Tabela 1 - Questões levantadas
 | Como você descreve sua experiência geral com o aplicativo|Fechada |How |
 
 ##  Técnicas
-Foram utilizadas as técnicas de perguntas 5W2H para uma maior variedade e abrangência de perguntas onde a ordem de apresentação delas foram entruturadas em forma de fúnil, sendo iniciado com perguntas
+Foram utilizadas as técnicas de perguntas 5W2H para uma maior variedade e abrangência de perguntas onde a ordem de apresentação delas foram estruturadas em forma de funil, sendo iniciado com perguntas
  abertas e a medida que é adentrado mais afundo na entrevista perguntas fechadas são apresentadas
 ## Abordagem
-- Foi mantido em mente durante a entrevista a necessidade de ser um bom ouvinte, a busca da opnião do e não interrupção do entrevistado
+- Foi mantido em mente durante a entrevista a necessidade de ser um bom ouvinte, a busca da opinião do e não interrupção do entrevistado
 - As perguntas não foram seguidas de forma exata visando uma dinamicidade e liberdade maior para o entrevistado 
 - Foi questionado ao entrevistado a permissão para gravação da reunião e análise dos requisitos elicitados nela
 ## Requisitos Elicitados
@@ -43,12 +43,12 @@ Tabela 2 - Requisitos elicitados
 | 2 | Disponibilizar restrição sem erros | RF| Não Implementado
 | 3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
 | 4 | Banco de dados ser constantemente atualizado | RNF| 
-| 5 | Disponibilizar diversas opções de denuncia | RF| Implementado
+| 5 | Disponibilizar diversas opções de denúncia | RF| Implementado
 | 6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
 | 7 | Tutorial de uso do aplicativo | RF| Implementado
 | 8 | Disponibilização de fotos do desaparecido | RF| Não Implementado
 | 9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado
-| 10 | Falicidade de uso pelos cidadãos | RNF| Implementado
+| 10 | Facilidade de uso pelos cidadãos | RNF| Implementado
 | 11 | Ajudar o trabalho policial e a comunidade | RNF| Implementado
 | 12 | Usar funcionalidades sem o cadastro do Gov | RF| Não Implementado
 
