@@ -9,26 +9,26 @@ Este documento refere-se à Storytelling, documentação de umas das metologia a
 
 ## Processo
 Durante uma reunião realizada dia 10/04/2024, estabelecida entre os integrantes do grupo 5, [Marcos](https://github.com/Bittarx) e [Christian](https://github.com/crstyhs) com um ex-policial 
-onde foi compartilhado diversas expriências de uso do aplicativo Sinesp Cidadão. Foi requisitado a não divulgação do vídeo da reunião.
+onde foi compartilhado diversas experiências de uso do aplicativo Sinesp Cidadão. Foi pedido a não divulgação do vídeo da reunião.
 
-Abaixo a tabela 1 com um resumo das historias compartilhadas
+Abaixo a tabela 1 com um resumo das histórias compartilhadas
 
-Tabela 1 - Historias compartilhadas
+Tabela 1 - Histórias compartilhadas
 | Tema | Assunto  |
 | ---- | ---- |
-| Ocorrência de pertubação do sossêgo | - A nessecidade da parte incomodada dever ir para a delegacia contraposto com a funcionalidade participação cidadã  | 
+| Ocorrência de perturbação do sossego | - A necessidade da parte incomodada deve ir para a delegacia contraposto com a funcionalidade participação cidadã  | 
 |  |
 | Surgimento do Sinesp Cidadão | - A disponibilização de um aplicativo que pode substituir a necessidade do rádio  |
 |  |
-| Surgimento da placa Mercosul | - A dificuldade de identifdicação da origem do veículo na placa Mercosul|  
-| Desatualização dos dados do banco | - Como houve anteriormente a 2021 constrageminetos indevidos deviso a disparidade de informações reais e diponíveis no banco de dados 
+| Surgimento da placa Mercosul | - A dificuldade de identificação da origem do veículo na placa Mercosul|  
+| Desatualização dos dados do banco | - Como houve anteriormente a 2021 constrangimentos indevidos devido a disparidade de informações reais e disponíveis no banco de dados 
 | Alimentação do banco de dados | - Caso de apreensão que ajuda a contribuir para o banco de dados
 
 ## Requisitos Elicitados
 Tabela 2 - Requisitos elicitados
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| 1 | Falicidade de uso | RNF| Implementado
+| 1 | Facilidade de uso | RNF| Implementado
 | 2 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
 | 3 | Banco de dados ser constantemente atualizado | RNF| 
 | 4 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
