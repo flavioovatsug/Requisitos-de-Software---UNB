@@ -3,10 +3,12 @@
 ## Introdução
 
 No decorrer deste projeto, adotamos um conjunto estratégico de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a produção dos artefatos necessários. 
+## tabela
+cfff
 
-As ferramentas utilizadas podem ser vistas no seguinte documento: 
-
-[Ferramentas](https://drive.google.com/file/d/1lMn4TvvTcog5T5lxiUfeBmqnoWh_dhRR/view?usp=sharing)
+|Ferramentas|Descrição|
+-------|------|
+|olá   |oi    |
 
 
 ##  Histórico de versões
