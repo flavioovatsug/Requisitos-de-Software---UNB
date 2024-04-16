@@ -24,8 +24,8 @@ Tabela 01 - Requisitos elicitados
 | 10 | Fornecer informações sobre desaparecidos|RF
 | 11  | Vincular ao desaparecido | RF
 | 12  | Vincular ao carro | RF
-| 13  | Buscar por mandados | RF
-| 14  | Fornecer informações sobre mandados | RF
+| 13  | Buscar por mandados de prisão| RF
+| 14  | Fornecer informações sobre mandados de prisão| RF
 | 15  | Visualizar informações institucinias | RF
 | 16  | Buscar por procurados | RF
 | 17  | Fornecer informações sobre procurados | RF
