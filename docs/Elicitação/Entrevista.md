@@ -39,18 +39,18 @@ Foram utilizadas as técnicas de perguntas 5W2H para uma maior variedade e abran
 Tabela 2 - Requisitos elicitados
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| 1 | Retorno rápido de informação | RNF| Implementado
-| 2 | Disponibilizar restrição sem erros | RF| Não Implementado
-| 3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
-| 4 | Banco de dados ser constantemente atualizado | RNF| 
-| 5 | Disponibilizar diversas opções de denúncia | RF| Implementado
-| 6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
-| 7 | Tutorial de uso do aplicativo | RF| Implementado
-| 8 | Disponibilização de fotos do desaparecido | RF| Não Implementado
-| 9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado
-| 10 | Facilidade de uso pelos cidadãos | RNF| Implementado
-| 11 | Ajudar o trabalho policial e a comunidade | RNF| Implementado
-| 12 | Usar funcionalidades sem o cadastro do Gov | RF| Não Implementado
+| ENT1 | Retorno rápido de informação | RNF| Implementado
+| ENT2 | Disponibilizar restrição sem erros | RF| Não Implementado
+| ENT3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
+| ENT4 | Banco de dados ser constantemente atualizado | RNF| 
+| ENT5 | Disponibilizar diversas opções de denúncia | RF| Implementado
+| ENT6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
+| ENT7 | Tutorial de uso do aplicativo | RF| Implementado
+| ENT8 | Disponibilização de fotos do desaparecido | RF| Não Implementado
+| ENT9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado
+| ENT10 | Facilidade de uso pelos cidadãos | RNF| Implementado
+| ENT11 | Ajudar o trabalho policial e a comunidade | RNF| Implementado
+| ENT12 | Usar funcionalidades sem o cadastro do Gov | RF| Não Implementado
 
 
 
@@ -65,3 +65,4 @@ Tabela 2 - Requisitos elicitados
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 14/04/2024 | Criação do documento da entrevista | [Christian](https://github.com/crstyhs)|  |
+| 1.1 | 17/04/2024 | Atualização das identificações | [Christian](https://github.com/crstyhs)|  |
