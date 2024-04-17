@@ -61,11 +61,11 @@ Como os dados de idade foram coletados como uma pergunta aberta, a média de ida
 
 Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
 
-- **Gênero:** .
-- **Idade:** .
-- **Experiência:** .
-- **Atitudes:** .
-- **Tarefas primárias:** .
+- **Gênero:** Masculino .
+- **Idade:** 38 anos.
+- **Nível de experiencia tecnologica** Média experiência.
+- **Atitudes perante tecnologias:** Intermédiario.
+- **Tarefas primárias:** Consultas e denúncias.
 
 
 ## Referências Bibliográficas
