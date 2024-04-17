@@ -27,15 +27,15 @@ Tabela 1 - Questões levantadas
 Tabela 2 - Requisitos elicitados
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| 1 | Retorno rápido de informação | RNF| Implementado
-| 2 | Disponibilizar restrição sem erros | RF| Não Implementado
-| 3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
-| 4 | Banco de dados ser constantemente atualizado | RNF| 
-| 5 | Disponibilizar diversas opções de denuncia | RF| Implementado
-| 6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
-| 7 | Tutorial de uso do aplicativo | RF| Implementado
-| 8 | Disponibilização de fotos do desaparecido | RF| Não Implementado
-| 9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado
+| AP1 | Retorno rápido de informação | RNF| Implementado
+| AP2 | Disponibilizar restrição sem erros | RF| Não Implementado
+| AP3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
+| AP4 | Banco de dados ser constantemente atualizado | RNF| 
+| AP5 | Disponibilizar diversas opções de denuncia | RF| Implementado
+| AP6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
+| AP7 | Tutorial de uso do aplicativo | RF| Implementado
+| AP8 | Disponibilização de fotos do desaparecido | RF| Não Implementado
+| AP9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado
 
 
 
@@ -51,3 +51,4 @@ Tabela 2 - Requisitos elicitados
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 13/04/2024 | Criação do documento da Análise de Protocolo | [Christian](https://github.com/crstyhs)|  |
 | 1.1 | 14/04/2024 | Adição dos requisitos elicitados  | [Christian](https://github.com/crstyhs)|  |
+| 1.2 | 17/04/2024 | Atualização das identificações  | [Christian](https://github.com/crstyhs)|  |
