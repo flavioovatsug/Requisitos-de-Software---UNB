@@ -36,21 +36,23 @@ Foram utilizadas as técnicas de perguntas 5W2H para uma maior variedade e abran
 - As perguntas não foram seguidas de forma exata visando uma dinamicidade e liberdade maior para o entrevistado 
 - Foi questionado ao entrevistado a permissão para gravação da reunião e análise dos requisitos elicitados nela
 ## Requisitos Elicitados
+
 Tabela 2 - Requisitos elicitados
+
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| 1 | Retorno rápido de informação | RNF| Implementado
-| 2 | Disponibilizar restrição sem erros | RF| Não Implementado
-| 3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
+| 1 | Retorno rápido de informação | RNF| Implementado|
+| 2 | Disponibilizar restrição sem erros | RF| Não Implementado|
+| 3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado|
 | 4 | Banco de dados ser constantemente atualizado | RNF| 
-| 5 | Disponibilizar diversas opções de denúncia | RF| Implementado
-| 6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
-| 7 | Tutorial de uso do aplicativo | RF| Implementado
-| 8 | Disponibilização de fotos do desaparecido | RF| Não Implementado
-| 9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado
-| 10 | Facilidade de uso pelos cidadãos | RNF| Implementado
-| 11 | Ajudar o trabalho policial e a comunidade | RNF| Implementado
-| 12 | Usar funcionalidades sem o cadastro do Gov | RF| Não Implementado
+| 5 | Disponibilizar diversas opções de denúncia | RF| Implementado|
+| 6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado|
+| 7 | Tutorial de uso do aplicativo | RF| Implementado|
+| 8 | Disponibilização de fotos do desaparecido | RF| Não Implementado|
+| 9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado|
+| 10 | Facilidade de uso pelos cidadãos | RNF| Implementado|
+| 11 | Ajudar o trabalho policial e a comunidade | RNF| Implementado|
+| 12 | Usar funcionalidades sem o cadastro do Gov | RF| Não Implementado|
 
 
 
