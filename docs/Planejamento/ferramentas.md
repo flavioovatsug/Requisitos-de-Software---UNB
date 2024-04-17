@@ -15,9 +15,9 @@ cfff
 |<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-128.png"/>|youtube: Para compartilhar as gravações das reunições |
 |<img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-128.png"/>|Teams: Para realizar as reuniões|
 |<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-8/32/vs_code-visual_studio_code-logo-microsoft-code-128.png" style="width:100px; height:100px"/>|Vs Code: Para editar código fonte|
-|<img src="" style="width:100px; height:100px"/>|Whatsapp: Para a comunicação dos membros do grupo|
-|<img src="" style="width:100px; height:100px"/>|Google Forms: Para realizar questionários, caso seja necessário|
-|<img src="" style="width:100px; height:100px"/>|Excel: Para montar o HeatMap do Grupo|
+|<img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_23-whatsapp-128.png" style="width:100px; height:100px"/>|Whatsapp: Para a comunicação dos membros do grupo|
+|<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_google-128.png" style="width:100px; height:100px"/>|Google Forms: Para realizar questionários, caso seja necessário|
+|<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/79-excel-256.png" style="width:100px; height:100px"/>|Excel: Para montar o HeatMap do Grupo|
 
 
 ##  Histórico de versões
@@ -25,5 +25,6 @@ cfff
 | Versão | Data   | Descrição | Autor(es) | Revisor(es)     |
 | ------ | ---------- | ---------------- | ------------------ | ----------- |
 | 1.0    | 30/04 |Construção e adição de imagens no documento |[Harryson C. Martins](https://github.com/harry-cmartin)| [Christian](https://github.com/crstyhs) |
+| 2.0    | 30/04 |Correção da página de ferramentas |[M.S.Bittar](https://github.com/Bittarx)| [Christian](https://github.com/Bittarx) |
 
 
