@@ -2,9 +2,9 @@
 
 ## Introdução
 
-No decorrer deste projeto, adotamos um conjunto estratégico de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a produção dos artefatos necessários. 
+A Tabela abaixo mostra as ferramentas que serão utilizadas pelo grupo.
+
 ## tabela
-cfff
 
 |Ferramentas|Descrição|
 -------|------|
@@ -19,6 +19,18 @@ cfff
 |<img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_google-128.png" style="width:100px; height:100px"/>|Google Forms: Para realizar questionários, caso seja necessário|
 |<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/79-excel-256.png" style="width:100px; height:100px"/>|Excel: Para montar o HeatMap do Grupo|
 
+## Referências bibliográficas
+
+https://www.mkdocs.org/
+https://trello.com/pt-BR
+https://github.com/
+https://www.figma.com/
+https://www.youtube.com/
+https://www.microsoft.com/pt-br/microsoft-teams/download-app
+https://code.visualstudio.com/
+https://www.whatsapp.com/?lang=pt_br
+https://www.google.com/forms/about/
+https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web
 
 ##  Histórico de versões
 
