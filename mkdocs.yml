@@ -14,7 +14,7 @@ theme:
   name: material
   language: pt-BR
   favicon: assets/logo.png
-  logo: assets/logo.png
+  logo: ../assets/Logos/Logo_sinesp.png
   icon: 
    repo: fontawesome/brands/github
   font: 
@@ -48,7 +48,12 @@ nav:
   - Planejamento:
       - Lista de Aplicativos: Planejamento/Lista_de_aplicativos.md
       - Aplicativo Escolhido: Planejamento/App_selecionado.md
+      - Priotização: Planejamento/Priotizacao.md
       - Cronograma: Planejamento/cronograma.md
       - Heatmap: Planejamento/heatmap.md
       - Rich Pictures: Planejamento/Rich_pictures.md
       - Ferramentas: Planejamento/ferramentas.md
+  - Elicitação: 
+      - Perfil de usuário: elicitacao/Perfil_de_usuario.md
+      - Técnicas:
+          - Questionario: elicitacao/tecnicas/questionario.md
