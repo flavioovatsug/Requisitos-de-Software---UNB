@@ -22,14 +22,23 @@ A Tabela abaixo mostra as ferramentas que serão utilizadas pelo grupo.
 ## Referências bibliográficas
 
 https://www.mkdocs.org/
+
 https://trello.com/pt-BR
+
 https://github.com/
+
 https://www.figma.com/
+
 https://www.youtube.com/
+
 https://www.microsoft.com/pt-br/microsoft-teams/download-app
+
 https://code.visualstudio.com/
+
 https://www.whatsapp.com/?lang=pt_br
+
 https://www.google.com/forms/about/
+
 https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web
 
 ##  Histórico de versões
