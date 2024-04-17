@@ -8,17 +8,17 @@ cfff
 
 |Ferramentas|Descrição|
 -------|------|
-|<img src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-github-128.png" style="width:100px; height:100px"/> |MK Docs: Para documentar a produção   |
-|olá   |Trello: Para organizar o tempo da Equipe    |
-|olá   |Github: Para hospedar o site, no Github Pages, e para compartilhar a produção entre os membros de grupo e o professor    |
-|olá   |  Figma: Para, caso seja necessário, produzir protótipos  |
-|olá   |LatEx e overleaf: Para, caso seja necessário, produzir PDFs   |
-|olá   |youtube: Para compartilhar as gravações das reunições    |
-|olá   |Teams: Para realizar as reuniões    |
-|olá   |Vs Code: Para editar código fonte    |
-|olá   |Whatsapp: Para a comunicação dos membros do grupo    |
-|olá   |Google Forms: Para realizar questionários, caso seja necessário    |
-|olá   |Excel: Para montar o HeatMap do Grupo   |
+|<img src="https://user-images.githubusercontent.com/16578570/61556938-3c337400-aa63-11e9-9ec1-a3ba5643a1a6.png" style="width:100px; height:100px"/>|MK Docs: Para documentar a produção|
+|<img src="" style="width:100px; height:100px"/>|Trello: Para organizar o tempo da Equipe|
+|<img src="" style="width:100px; height:100px"/>|Github: Para hospedar o site, no Github Pages, e para compartilhar a produção entre os membros de grupo e o professor|
+|<img src="" style="width:100px; height:100px"/>|  Figma: Para, caso seja necessário, produzir protótipos|
+|<img src="" style="width:100px; height:100px"/>|LatEx e overleaf: Para, caso seja necessário, produzir PDFs|
+|<img src="" style="width:100px; height:100px"/>|youtube: Para compartilhar as gravações das reunições |
+|<img src="" style="width:100px; height:100px"/>|Teams: Para realizar as reuniões|
+|<img src="" style="width:100px; height:100px"/>|Vs Code: Para editar código fonte|
+|<img src="" style="width:100px; height:100px"/>|Whatsapp: Para a comunicação dos membros do grupo|
+|<img src="" style="width:100px; height:100px"/>|Google Forms: Para realizar questionários, caso seja necessário|
+|<img src="" style="width:100px; height:100px"/>|Excel: Para montar o HeatMap do Grupo|
 
 
 ##  Histórico de versões
