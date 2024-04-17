@@ -37,7 +37,7 @@ Método $100
 Fonte: [Harryson](https://github.com/harry-cmartin), 2024
 
 ## Gravação da reunião
-[Video]()
+[Video](https://www.youtube.com/watch?v=pLfmGsFbdCA)
 
 ## Referências
 
