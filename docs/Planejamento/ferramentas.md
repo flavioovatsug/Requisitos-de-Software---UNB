@@ -46,6 +46,6 @@ https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web
 | Versão | Data   | Descrição | Autor(es) | Revisor(es)     |
 | ------ | ---------- | ---------------- | ------------------ | ----------- |
 | 1.0    | 30/04 |Construção e adição de imagens no documento |[Harryson C. Martins](https://github.com/harry-cmartin)| [Christian](https://github.com/crstyhs) |
-| 2.0    | 30/04 |Correção da página de ferramentas |[M.S.Bittar](https://github.com/Bittarx)| [Christian](https://github.com/Bittarx) |
+| 2.0    | 30/04 |Correção da página de ferramentas |[M.S.Bittar](https://github.com/Bittarx)| [Bittar](https://github.com/Bittarx) |
 
 
