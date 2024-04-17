@@ -15,7 +15,7 @@ O respostas obtidas foram todas concordantes ao [Termo de COnsentimento](../elic
 <center>
 
 <font size="3"><p style="text-align: center">Figura 1- Gênero.</p></font>
-
+<iframe width="606" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqUV9lnhmvOQuF8w-JObzT3tKcqvHVNYcsuPLZz4OYQiuzCtwDRsFy7cs49S4ne3OSYlNxrZUPbCST/pubchart?oid=401567488&amp;format=image"></iframe>
 <font size="2"><p style="text-align: center">Fonte: [Harryson C. Martins](https://github.com/harry-cmartin), 2024</p></font>
 
 </center>
@@ -23,15 +23,17 @@ O respostas obtidas foram todas concordantes ao [Termo de COnsentimento](../elic
 <center>
 
 <font size="3"><p style="text-align: center">Figura 2- Idade .</p></font>
-
+<iframe width="619" height="382" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqUV9lnhmvOQuF8w-JObzT3tKcqvHVNYcsuPLZz4OYQiuzCtwDRsFy7cs49S4ne3OSYlNxrZUPbCST/pubchart?oid=163440563&amp;format=image"></iframe>
 <font size="2"><p style="text-align: center">Fonte: [Harryson C. Martins](https://github.com/harry-cmartin), 2024</p></font>
 
 </center>
 
+Como os dados de idade foram coletados como uma pergunta aberta, a média de idade observada foi de 38 anos.
+
 <center>
 
 <font size="3"><p style="text-align: center">Figura 3- Escolaridade .</p></font>
-
+<iframe width="746" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqUV9lnhmvOQuF8w-JObzT3tKcqvHVNYcsuPLZz4OYQiuzCtwDRsFy7cs49S4ne3OSYlNxrZUPbCST/pubchart?oid=2124519026&amp;format=image"></iframe>
 <font size="2"><p style="text-align: center">Fonte: [Harryson C. Martins](https://github.com/harry-cmartin), 2024</p></font>
 
 </center>
@@ -39,7 +41,7 @@ O respostas obtidas foram todas concordantes ao [Termo de COnsentimento](../elic
 <center>
 
 <font size="3"><p style="text-align: center">Figura 4- Frequência.</p></font>
-
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqUV9lnhmvOQuF8w-JObzT3tKcqvHVNYcsuPLZz4OYQiuzCtwDRsFy7cs49S4ne3OSYlNxrZUPbCST/pubchart?oid=1423880471&amp;format=image"></iframe>
 <font size="2"><p style="text-align: center">Fonte: [Harryson C. Martins](https://github.com/harry-cmartin), 2024</p></font>
 
 </center>
@@ -47,7 +49,7 @@ O respostas obtidas foram todas concordantes ao [Termo de COnsentimento](../elic
 <center>
 
 <font size="3"><p style="text-align: center">Figura 5- Afinidade tecnologica.</p></font>
-
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqUV9lnhmvOQuF8w-JObzT3tKcqvHVNYcsuPLZz4OYQiuzCtwDRsFy7cs49S4ne3OSYlNxrZUPbCST/pubchart?oid=916635872&amp;format=interactive"></iframe>
 <font size="2"><p style="text-align: center">Fonte: [Harryson C. Martins](https://github.com/harry-cmartin), 2024</p></font>
 
 </center>
