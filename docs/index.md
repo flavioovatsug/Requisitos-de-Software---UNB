@@ -1,7 +1,7 @@
 <h1 align="center"> Sinesp Cidadão</h1>
 <p align="center">
 
-  <img width="400" alt="b26fab25f90d161d81b679edbd5abd24-Full" src="./docs/assets/Logos/Logo_sinesp.png">
+  <img width="400" alt="b26fab25f90d161d81b679edbd5abd24-Full" src="../assets/Logos/Logo_sinesp.png">
 
 </p>
 <h3 align="center"> 2024.1 </h3>
