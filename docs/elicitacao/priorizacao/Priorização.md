@@ -1,4 +1,4 @@
-# Priotização
+# Priorização
 
 ## Introdução
 
