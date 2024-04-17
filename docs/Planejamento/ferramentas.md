@@ -10,7 +10,7 @@ cfff
 -------|------|
 |<img src="https://user-images.githubusercontent.com/16578570/61556938-3c337400-aa63-11e9-9ec1-a3ba5643a1a6.png" style="width:100px; height:100px"/>|MK Docs: Para documentar a produção|
 |<img src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo-650x366.png" style="width:100px; height:100px"/>|Trello: Para organizar o tempo da Equipe|
-|<img src="https://images.app.goo.gl/FL253UDfprna7jws6" style="width:100px; height:100px"/>|Github: Para hospedar o site, no Github Pages, e para compartilhar a produção entre os membros de grupo e o professor|
+|<img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-512.png"/>|Github: Para hospedar o site, no Github Pages, e para compartilhar a produção entre os membros de grupo e o professor|
 |<img src="https://images.app.goo.gl/rPp55sVPXaVHmoF28" style="width:100px; height:100px"/>|  Figma: Para, caso seja necessário, produzir protótipos|
 |<img src="https://images.app.goo.gl/fXxvw9KWjfZmr4J69" style="width:100px; height:100px"/>|youtube: Para compartilhar as gravações das reunições |
 |<img src="https://images.app.goo.gl/F1YRsU5Qhvh74dbC8" style="width:100px; height:100px"/>|Teams: Para realizar as reuniões|
