@@ -50,6 +50,7 @@ Abaixo está presente todos os dados que obtivemos após a priotização
 
 - Editar perfil Gov (RF)
 
+<font size="2"><p style="text-align: center">Priorização - Grupo 5 </p></font>
 
 ##  Histórico de versões
 
