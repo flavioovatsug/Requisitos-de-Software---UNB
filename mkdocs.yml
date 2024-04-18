@@ -45,10 +45,11 @@ nav:
   - Atas:
       - Ata 1: atas/Ata_Reuniao1_25_03_2024.md
       - Ata 2: atas/Ata_Reuniao2_31_03_2024.md
+      - Ata 3: atas/Ata_Reuniao3__07_04_2024.md
+      - Ata 4: atas/Ata_Reuniao4_14_04_2024.md
   - Planejamento:
       - Lista de Aplicativos: Planejamento/Lista_de_aplicativos.md
       - Aplicativo Escolhido: Planejamento/App_selecionado.md
-      - Priotização: Planejamento/Priotizacao.md
       - Cronograma: Planejamento/cronograma.md
       - Heatmap: Planejamento/heatmap.md
       - Rich Pictures: Planejamento/Rich_pictures.md
@@ -57,3 +58,11 @@ nav:
       - Perfil de usuário: elicitacao/Perfil_de_usuario.md
       - Técnicas:
           - Questionario: elicitacao/tecnicas/questionario.md
+          - Analise de Interface: elicitacao/tecnicas/AnaliseDaInterface.md
+          - Analise de Protocolo: elicitacao/tecnicas/AnaliseDeProtocolo.md
+          - Entrevista: elicitacao/tecnicas/Entrevista.md
+          - Introspecção: elicitacao/tecnicas/Introspeccao.md
+          - Storytelling: elicitacao/tecnicas/storytelling.md
+      - Priorização: 
+          - MOSCOW: elicitacao/priorizacao/Moscow.md
+          - 100$: elicitacao/priorizacao/100$.md

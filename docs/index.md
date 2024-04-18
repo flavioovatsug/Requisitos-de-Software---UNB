@@ -1,10 +1,4 @@
 <h1 align="center"> Sinesp Cidadão</h1>
-<p align="center">
-
-  <img width="400" alt="b26fab25f90d161d81b679edbd5abd24-Full" src="./docs/assets/Logos/Logo_sinesp.png">
-
-</p>
-<h3 align="center"> 2024.1 </h3>
 
 ## Sobre
 
@@ -38,13 +32,13 @@ Sinesp Cidadão é um aplicativo do Sistema Nacional de informações de Seguran
     </div>
     <div>
         <a href="https://github.com/IanLucca12">
-                <img style="border-radius: 50%;"         src="https://github.com/IanLucca12.png" width="100px;"/>
+                <img style="border-radius: 50%;"         src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao/gh-pages/assets/ianFoto.png" width="100px;"/>
                 <h5 class="text-center">Ian Lucca</h5>
         </a>
     </div>
     <div>
         <a href="https://github.com/crstyhs">
-                <img style="border-radius: 50%;"         src="https://cdn.discordapp.com/attachments/532752424947941387/1224134716316323910/Imagem_do_WhatsApp_de_2024-03-31_as_20.11.47_cfee0ee2.jpg?ex=661c634b&is=6609ee4b&hm=052455c755d0c9622bef34f5b058436c78931ed895a692f292f53d95b77a8684&" width="100px;"/>
+                <img style="border-radius: 50%;"         src="https://raw.githubusercontent.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao/gh-pages/assets/christyanFoto.jpg" width="100px;"/>
                 <h5 class="text-center">Christian Santos</h5>
         </a>
     </div>

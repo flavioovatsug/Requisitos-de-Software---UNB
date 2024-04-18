@@ -26,7 +26,7 @@ Essa página apresenta os resultados da análise dos dados que o grupo coletou p
 <center>
 
 <font size="3"><p style="text-align: center">Figura 2- Questão 2.</p></font>
-<iframe width="447" height="276" seamless frameborder="0" scrolling="no" src=""></iframe>
+![Questao2](../Questao2.jpeg)
 <font size="2"><p style="text-align: center">Fonte: [Harryson C. MArtins](https://github.com/harry-cmartin), 2024</p></font>
 
 </center>

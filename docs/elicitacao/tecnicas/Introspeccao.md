@@ -44,6 +44,7 @@ Tabela 01 - Requisitos elicitados
 Fonte:  [Christian](https://github.com/crstyhs)
 
 
+
 ## Referências
 [1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 13 de abril de 2024.</br>
 [2] VAZQUEZ, Carlos Eduardo ; SIMOES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negocio. Brasport, 2016.</br>
@@ -53,4 +54,5 @@ Fonte:  [Christian](https://github.com/crstyhs)
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 13/04/2024 | Criação do documento da introspecção | [Christian](https://github.com/crstyhs)|  |
-| 1.0 | 13/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)|  |
+| 1.1 | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)|  |
+
