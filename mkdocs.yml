@@ -63,3 +63,6 @@ nav:
           - Entrevista: elicitacao/tecnicas/Entrevista.md
           - Introspecção: elicitacao/tecnicas/Introspeccao.md
           - Storytelling: elicitacao/tecnicas/storytelling.md
+      - Priorização: 
+          - MOSCOW: elicitacao/priorizacao/Moscow.md
+          - 100$: elicitacao/priorizacao/100$.md
