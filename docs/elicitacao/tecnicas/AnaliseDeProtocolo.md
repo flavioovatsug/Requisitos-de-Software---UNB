@@ -13,30 +13,41 @@ requisitado que o usuário seguisse alguns comando e expressasse sua opinião so
 
 Abaixo a tabela 1 com um resumo das questões levantadas
 
+<center>
+
 Tabela 1 - Questões levantadas
+
 | Comando | Questões  |
 | ---- | ---- |
 | Faça uma busca de um veículo de dada placa | - O imediatismo de informação entre a placa Mercosul e a versão antiga </br> - O uso do rádio comparado a velocidade do aplicativo e sua necessidade de internet </br> - A falta de informação e a presença de erro ao não conseguir fornecer informações quanto ao restrição | 
-|  |
+||
 | Faça uma busca de um mandato de dada pessoa | - A Necessidade de atualização e alimentação do banco de dados para evitar falhas no sistema público </br> - A utilidade desta função para colaboração na apreensão de suspeitos no exercício do trabalho policial|
-|  |
-| Acesse a aba de participação cidadã | - A presença de uma diversa gama de assuntos a serem denunciados através do aplicativo </br> - A necessidade de maior divulgação do aplicativo e explicitação de suas funcionalidades
-|  |
-| Acesse a aba de desaparecidos | - Carência de dados sobre o desaparecido
+||
+| Acesse a aba de participação cidadã | - A presença de uma diversa gama de assuntos a serem denunciados através do aplicativo </br> - A necessidade de maior divulgação do aplicativo e explicitação de suas funcionalidades|
+||
+| Acesse a aba de desaparecidos | - Carência de dados sobre o desaparecido|
+
+</center>
+
 ## Requisitos Elicitados
+
+<center>
+
 Tabela 2 - Requisitos elicitados
+
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| AP1 | Retorno rápido de informação | RNF| Implementado
-| AP2 | Disponibilizar restrição sem erros | RF| Não Implementado
-| AP3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
-| AP4 | Banco de dados ser constantemente atualizado | RNF| 
-| AP5 | Disponibilizar diversas opções de denuncia | RF| Implementado
-| AP6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
-| AP7 | Tutorial de uso do aplicativo | RF| Implementado
-| AP8 | Disponibilização de fotos do desaparecido | RF| Não Implementado
-| AP9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado
+| AP1 | Retorno rápido de informação | RNF| Implementado |
+| AP2 | Disponibilizar restrição sem erros | RF| Não Implementado|
+| AP3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado|
+| AP4 | Banco de dados ser constantemente atualizado | RNF| |
+| AP5 | Disponibilizar diversas opções de denuncia | RF| Implementado|
+| AP6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado |
+| AP7 | Tutorial de uso do aplicativo | RF| Implementado|
+| AP8 | Disponibilização de fotos do desaparecido | RF| Não Implementado|
+| AP9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado|
 
+</center>
 
 ## Referências
 [1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 13 de abril de 2024.</br>
