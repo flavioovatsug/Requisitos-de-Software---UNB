@@ -12,34 +12,37 @@ abrangente e empática do processo de desenvolvimento, garantindo que as soluç�
 Tabela 01 - Requisitos elicitados
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| 1 | Ler texto para deficiêntes visuais | RF| Não Implementado
-| 2 | Logar pelo Gov |  RF| Implementado
-| 3 | Interface simples  |RNF| Implementado
-| 4 | Buscar por veículo | RF| Implementado
-| 5 | Informar dados do veículo |  RF| Implementado
-| 6 | Adicionar carro como roubado |  RF| Implementado
-|  7 | Ligar para a polícia| RF| Implementado
-| 8  |Notificar sobre atualizações sobre vinculo|  RF| Não Implementado
-| 9 | Listar pessoas desaparecidas|  RF| Implementado
-| 10 | Fornecer informações sobre desaparecidos|RF| Implementado
-| 11  | Vincular ao desaparecido | RF| Implementado
-| 12  | Vincular ao carro | RF| Implementado
-| 13  | Buscar por mandados de prisão| RF| Implementado
-| 14  | Fornecer informações sobre mandados de prisão| RF| Implementado
-| 15  | Salvar historico de busca | RF| Implementado
-| 16  | Buscar por procurados | RF| Não Implementado
-| 17  | Fornecer informações sobre procurados | RF| Implementado
-| 18  | Tirar foto | RF| Não Implementado
-| 19  | Comparar foto com desaparecido, procurado ou mandado | RF| Não Implementado
-| 20  | Anunciar pertubação da vizinhaça | RF| Implementado
-| 21  | Adicionar novas informações sobre pertubação da vizinhaça | RF| Não Implementado
-| 22  | Acesso a mapa da região | RF| Não Implementado
-| 23  | Fornecer feedback de periculosidade de aréas no mapa | RF| Não Implementado
-| 24  | Rápida disponibilização de informações | RNF| Implementado
-| 25  | Constante atualização de informações | RNF| Não Implementado
-| 26  | Sigilo relativo de informações | RNF| Implementado
-| 27  | Rápida disponibilização de informações | RNF| Implementado
-| 28  | Instalação do aplicativo em diferentes sistemas | RNF| Implementado
+| INT1 | Ler texto para deficiêntes visuais | RF| Não Implementado
+| INT2 | Logar pelo Gov |  RF| Implementado
+| INT3 | Interface simples  |RNF| Implementado
+| INT4 | Buscar por veículo | RF| Implementado
+| INT5 | Informar dados do veículo |  RF| Implementado
+| INT6 | Adicionar carro como roubado |  RF| Implementado
+|  INT7 | Ligar para a polícia| RF| Implementado
+| INT8  |Notificar sobre atualizações sobre vinculo|  RF| Não Implementado
+| INT9 | Listar pessoas desaparecidas|  RF| Implementado
+| INT10 | Fornecer informações sobre desaparecidos|RF| Implementado
+| INT11  | Vincular ao desaparecido | RF| Implementado
+| INT12  | Vincular ao carro | RF| Implementado
+| INT13  | Buscar por mandados de prisão| RF| Implementado
+| INT14  | Fornecer informações sobre mandados de prisão| RF| Implementado
+| INT15  | Salvar historico de busca | RF| Implementado
+| INT16  | Buscar por procurados | RF| Não Implementado
+| INT17  | Fornecer informações sobre procurados | RF| Implementado
+| INT18  | Tirar foto | RF| Não Implementado
+| INT19  | Comparar foto com desaparecido, procurado ou mandado | RF| Não Implementado
+| INT20  | Anunciar pertubação da vizinhaça | RF| Implementado
+| INT21  | Adicionar novas informações sobre pertubação da vizinhaça | RF| Não Implementado
+| INT22  | Acesso a mapa da região | RF| Não Implementado
+| INT23  | Fornecer feedback de periculosidade de aréas no mapa | RF| Não Implementado
+| INT24  | Rápida disponibilização de informações | RNF| Implementado
+| INT25  | Constante atualização de informações | RNF| Não Implementado
+| INT26  | Sigilo relativo de informações | RNF| Implementado
+| INT27  | Rápida disponibilização de informações | RNF| Implementado
+| INT28  | Instalação do aplicativo em diferentes sistemas | RNF| Implementado
+
+Fonte:  [Christian](https://github.com/crstyhs)
+
 
 
 ## Referências
@@ -51,3 +54,5 @@ Tabela 01 - Requisitos elicitados
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 13/04/2024 | Criação do documento da introspecção | [Christian](https://github.com/crstyhs)|  |
+| 1.1 | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)|  |
+

@@ -28,10 +28,11 @@ Tabela 1 - Histórias compartilhadas
 Tabela 2 - Requisitos elicitados
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| 1 | Facilidade de uso | RNF| Implementado
-| 2 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
-| 3 | Banco de dados ser constantemente atualizado | RNF| 
-| 4 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
+| STO1 | Facilidade de uso | RNF| Implementado
+| STO2 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
+| STO3 | Banco de dados ser constantemente atualizado | RNF| 
+| STO4 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
+
 
 
 ## Referências
@@ -45,3 +46,5 @@ Tabela 2 - Requisitos elicitados
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 15/04/2024 | Criação do documento do Storytelling | [Christian](https://github.com/crstyhs)|  |
+| 1.1 | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)|  |
+
