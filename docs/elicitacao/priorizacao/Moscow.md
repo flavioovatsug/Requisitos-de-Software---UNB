@@ -4,7 +4,7 @@
 
 A priorização em requisitos de software é crucial para focarmos nos aspectos mais importantes do projeto. Envolve identificar e classificar os requisitos com base em valor para o negócio, impacto nos objetivos e viabilidade técnica. 
  
-Esse documento vai armazenar as priotizações do aplicativo Sinest Cindadão. E para tanto, optamos por utilizar a metodologia **MOSCOW** (Must Have, Should Have, Could Have, Won't Have), onde **Must Have** (deve ter) são requisitos essenciais e indispensáveis para o projeto, **Should Have** (deveria ter) são importantes, mas podem ser adiados, **Could Have** (pode ter) são desejáveis mas não tão essesnciais, e **Won't Have** são requisitos que não devem ser considerados no escopo do projeto.
+Esse documento vai armazenar as priorizações do aplicativo Sinest Cindadão. E para tanto, optamos por utilizar a metodologia **MOSCOW** (Must Have, Should Have, Could Have, Won't Have), onde **Must Have** (deve ter) são requisitos essenciais e indispensáveis para o projeto, **Should Have** (deveria ter) são importantes, mas podem ser adiados, **Could Have** (pode ter) são desejáveis mas não tão essesnciais, e **Won't Have** são requisitos que não devem ser considerados no escopo do projeto.
 
 Abaixo está presente todos os dados que obtivemos após a priotização
 
@@ -56,4 +56,5 @@ Abaixo está presente todos os dados que obtivemos após a priotização
 
 | Versão | Data   | Descrição | Autor(es) | Revisor(es)     |
 | ------ | ---------- | ---------------- | ------------------ | ----------- |
-| 1.0    | 16/05 |Adicionando o Moscow$ |[Flávio Melo](https://github.com/flavioovatsug)| | 
+| 1.0    | 16/05 |Adicionando o Moscow |[Flávio Melo](https://github.com/flavioovatsug)| | 
+| 1.1    | 16/05 |Corrige bugs |[Flávio Melo](https://github.com/flavioovatsug)| | 
