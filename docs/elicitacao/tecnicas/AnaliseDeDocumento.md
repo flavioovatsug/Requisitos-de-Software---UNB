@@ -27,6 +27,13 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | ENT14 | Informar localização de pessoa desaparecida | RF| Implementado|
 | ENT15 | Registrar Denúncia | RF|  Implementado|
 
-
+## Referências
+[1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 13 de abril de 2024.</br>
+[2] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/40/Plano_de_Ensino%20RE%20012024%20Turma%201.pdf>. Acesso em 13 de abril de 2024.</br>
+[3] BEATTY, Joy; WIEGERS, Karl. Software Requirements (Developer Best Practices). Edição 3. Microsoft Press , 2013.</br>
+## Histórico de Versões
+| Versão | Data | Descrição | Autor | Revisor |
+| :----: | :--: | :-------: | :---: | :-----: |
+| 1.0 | 22/04/2024 | Criação do documento da análise de documento | [Bittar](https://github.com/Bittarx)|  |
 
 
