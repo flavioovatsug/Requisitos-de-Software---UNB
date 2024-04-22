@@ -17,7 +17,7 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | ENT6 | Realizar denúncias envolvendo saúde pública | RF|Implementado|
 | ENT7 | Realizar denúncias envolvendo educação pública| RF|Implementado|
 | ENT8 | Realizar denúncias envolvendo meio ambiente | RF|Implementado|
-| ENT9 | Realizar denúncias envolvendo trânsito | RF||Implementado|
+| ENT9 | Realizar denúncias envolvendo trânsito | RF|Implementado|
 | ENT10 | Realizar Login pelo Gov.br| RF| Implementado|
 | ENT11 | Cadastrar o próprio veículo | RF| Implementado|
 | ENT12 | Registrar o furto ou Roubo do próprio veículo | RF|  Implementado|
