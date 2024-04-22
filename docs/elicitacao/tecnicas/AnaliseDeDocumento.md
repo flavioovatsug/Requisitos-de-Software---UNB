@@ -25,7 +25,7 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | ENT12 | Registrar o furto ou Roubo do próprio veículo | RF|  Implementado|
 | ENT13 | Incluir fotos de pessoa desaparecida | RF|  Implementado|
 | ENT14 | Informar localização de pessoa desaparecida | RF| Implementado|
-| ENT15 | Registrar Denúncia | RF| Parcialmente Implementado|
+| ENT15 | Registrar Denúncia | RF|  Implementado|
 
 
 Vale ressaltar que os requisitos que foram
