@@ -10,7 +10,7 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
 | ENT1 | identificar situação de furto ou roubo de qualquer veículo | RF| Implementado|
-| ENT2 | consultar mandatos de prisão que ainda não foram cumpridos| RF||Implementado
+| ENT2 | consultar mandatos de prisão que ainda não foram cumpridos| RF|Implementado
 | ENT3 | pesquisar por pessoa desaparecida | RF|Implementado|
 | ENT4 | consultar lista de procurados pela polícia | RF|Implementado|
 | ENT5 | Realizar denúncias envolvendo segurança pública | RF|Implementado|
