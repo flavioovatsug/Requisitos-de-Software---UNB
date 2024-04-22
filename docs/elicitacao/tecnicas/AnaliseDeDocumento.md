@@ -28,5 +28,5 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | ENT15 | Registrar Denúncia | RF|  Implementado|
 
 
-Vale ressaltar que os requisitos que foram
+
 
