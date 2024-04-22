@@ -6,6 +6,8 @@ Este documento refere-se à análise do documento presente no prórprio aplicati
 ## Processo
 O processo utilizada para a análise foi, a partir da leitura e interpretação do texto acima referido, a produção de uma tabela com todos os requisitos lá citados.
 
+##Tabela de requisitos elicitados
+
 
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
@@ -13,11 +15,11 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | ENT2 | consultar mandatos de prisão que ainda não foram cumpridos| RF|Implementado
 | ENT3 | pesquisar por pessoa desaparecida | RF|Implementado|
 | ENT4 | consultar lista de procurados pela polícia | RF|Implementado|
-| ENT5 | Realizar denúncias envolvendo segurança pública | RF|Parcialmente Implementado|
-| ENT6 | Realizar denúncias envolvendo saúde pública | RF|Parcialmente Implementado|
-| ENT7 | Realizar denúncias envolvendo educação pública| RF|Parcialmente Implementado|
-| ENT8 | Realizar denúncias envolvendo meio ambiente | RF|Parcialmente Implementado|
-| ENT9 | Realizar denúncias envolvendo trânsito | RF|Parcialmente Implementado|
+| ENT5 | Realizar denúncias envolvendo segurança pública | RF| Implementado|
+| ENT6 | Realizar denúncias envolvendo saúde pública | RF| Implementado|
+| ENT7 | Realizar denúncias envolvendo educação pública| RF| Implementado|
+| ENT8 | Realizar denúncias envolvendo meio ambiente | RF| Implementado|
+| ENT9 | Realizar denúncias envolvendo trânsito | RF| Implementado|
 | ENT10 | Realizar Login pelo Gov.br| RF| Implementado|
 | ENT11 | Cadastrar o próprio veículo | RF| Implementado|
 | ENT12 | Registrar o furto ou Roubo do próprio veículo | RF|  Implementado|
@@ -25,4 +27,6 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | ENT14 | Informar localização de pessoa desaparecida | RF| Implementado|
 | ENT15 | Registrar Denúncia | RF| Parcialmente Implementado|
 
+
+Vale ressaltar que os requisitos que foram
 
