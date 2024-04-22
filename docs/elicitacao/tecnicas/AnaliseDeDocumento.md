@@ -24,6 +24,5 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | ENT13 | Incluir fotos de pessoa desaparecida | RF|  Implementado|
 | ENT14 | Informar localização de pessoa desaparecida | RF| Implementado|
 | ENT15 | Registrar Denúncia | RF| Parcialmente Implementado|
-| ENT16 |  | RF|  Implementado|
 
 
