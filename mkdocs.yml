@@ -59,6 +59,7 @@ nav:
       - Técnicas:
           - Questionario: elicitacao/tecnicas/questionario.md
           - Analise de Interface: elicitacao/tecnicas/AnaliseDaInterface.md
+          - Analise de Documento: elicitacao/tecnicas/AnaliseDeDocumento.md
           - Analise de Protocolo: elicitacao/tecnicas/AnaliseDeProtocolo.md
           - Entrevista: elicitacao/tecnicas/Entrevista.md
           - Introspecção: elicitacao/tecnicas/Introspeccao.md
