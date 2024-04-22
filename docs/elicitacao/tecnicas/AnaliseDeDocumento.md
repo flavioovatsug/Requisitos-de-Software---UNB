@@ -13,17 +13,17 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | ENT2 | consultar mandatos de prisão que ainda não foram cumpridos| RF|Implementado
 | ENT3 | pesquisar por pessoa desaparecida | RF|Implementado|
 | ENT4 | consultar lista de procurados pela polícia | RF|Implementado|
-| ENT5 | Realizar denúncias envolvendo segurança pública | RF|Implementado|
-| ENT6 | Realizar denúncias envolvendo saúde pública | RF|Implementado|
-| ENT7 | Realizar denúncias envolvendo educação pública| RF|Implementado|
-| ENT8 | Realizar denúncias envolvendo meio ambiente | RF|Implementado|
-| ENT9 | Realizar denúncias envolvendo trânsito | RF|Implementado|
+| ENT5 | Realizar denúncias envolvendo segurança pública | RF|Parcialmente Implementado|
+| ENT6 | Realizar denúncias envolvendo saúde pública | RF|Parcialmente Implementado|
+| ENT7 | Realizar denúncias envolvendo educação pública| RF|Parcialmente Implementado|
+| ENT8 | Realizar denúncias envolvendo meio ambiente | RF|Parcialmente Implementado|
+| ENT9 | Realizar denúncias envolvendo trânsito | RF|Parcialmente Implementado|
 | ENT10 | Realizar Login pelo Gov.br| RF| Implementado|
 | ENT11 | Cadastrar o próprio veículo | RF| Implementado|
 | ENT12 | Registrar o furto ou Roubo do próprio veículo | RF|  Implementado|
-| ENT13 | Incluir fotos de pessoa desaparecida | RF| Não Implementado|
+| ENT13 | Incluir fotos de pessoa desaparecida | RF|  Implementado|
 | ENT14 | Informar localização de pessoa desaparecida | RF| Implementado|
-| ENT15 | Registrar Denúncia | RF| Implementado|
+| ENT15 | Registrar Denúncia | RF| Parcialmente Implementado|
 | ENT16 |  | RF|  Implementado|
 
 
