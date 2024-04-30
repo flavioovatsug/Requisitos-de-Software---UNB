@@ -57,7 +57,6 @@ nav:
       - Ferramentas: Planejamento/ferramentas.md
   - Elicitação: 
       - Perfil de usuário: elicitacao/Perfil_de_usuario.md
-      - Requisitos Elicitados: elicitacao/Requisitos_elicitados.md
       - Técnicas:
           - Questionario: elicitacao/tecnicas/questionario.md
           - Analise de Interface: elicitacao/tecnicas/AnaliseDaInterface.md
@@ -67,6 +66,7 @@ nav:
           - Requisitos Elicitados: elicitacao/tecnicas/Requisitos_elicitados.md
           - Introspecção: elicitacao/tecnicas/Introspeccao.md
           - Storytelling: elicitacao/tecnicas/storytelling.md
+      - Requisitos Elicitados: elicitacao/Requisitos_elicitados.md
       - Priorização: 
           - MOSCOW: elicitacao/priorizacao/Moscow.md
           - 100$: elicitacao/priorizacao/100$.md
