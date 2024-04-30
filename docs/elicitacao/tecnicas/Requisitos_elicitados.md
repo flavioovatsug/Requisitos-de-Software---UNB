@@ -14,60 +14,63 @@ Este documento foi baseados nas seguintes tecnicas documentadas:
 - Storytelling
 
 ## Requisitos Elicitados
+
 Tabela 1 - Requisitos funcionais elicitados
+
 | ID | Elicitação | Origem | Status |
 | ---- | ---- |---- |---- |
-| RF01 | Logar pelo Gov | AIU2 , INT2| Implementado
-| RF02 | Buscar por veículo | AIU4, INT4| Implementado
-| RF03 | Informar dados do veículo | AIU5, INT5| Implementado
-| RF04 | Adicionar carro como roubado | AIU6, INT6 | Implementado
-| RF05 | Listar pessoas desaparecidas| AIU9, INT9| Implementado
-| RF06 | Vincular ao desaparecido | AIU11, INT11| Implementado
-| RF07 | Vincular ao carro | AIU12, INT12| Implementado
-| RF08 | Buscar por mandados de prisão | AIU13, INT13| Implementado
-| RF09 | Fornecer informações sobre mandados de prisão | AIU14, INT14| Implementado
-| RF10 | Buscar por procurados | AIU16,  INT16| Implementado
-| RF11 | Fornecer informações sobre procurados |AIU17, INT17| Implementado
-| RF12 | Sair do aplicativo | AIU19| Implementado
-| RF13 | Anunciar perturbação da vizinhança | AIU20, INT20| Implementado
-| RF14 | Ler texto para deficiêntes visuais | INT1| Não Implementado
-| RF15 | Disponibilizar restrição |AP2, ENT2| Implementado
-| RF16 | Disponibilizar informação das características do veículo | RF| Implementado
-| RF17 | Disponibilizar informação do tipo de veículo | AP3, ENT3, STO2| Não Implementado
-| RF18 | Disponibilizar diversas opções de denúncia | AP5, ENT5| Implementado
-| RF19 | Tutorial de uso do aplicativo | AP7, ENT7| Não Implementado
-| RF20 | Disponibilização de fotos do desaparecido | AP8, ENT8| Não Implementado
-| RF21 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado
-| RF22 | Ligar para a polícia | AIU7, INT7| Implementado
-| RF23 | visualizar vínculos |AIU8| Implementado
-| RF24 | Requisitar ajuda | AIU18, | Implementado
-| RF25 | Retornar ao início | AIU21, | Implementado
-| RF26 | Salvar histórico de busca | AIU22, INT15| Implementado
-| RF27 | Disponibilizar filtro de pesquisa | AIU23| Implementado
-| RF28 | Possibilitar compartilhamento das informações de placa | AIU25 | Implementado
-| RF29 | Notificar sobre atualizações sobre vínculo | INT8| Não Implementado
-| RF30 | Adicionar novas informações sobre perturbação da vizinhança | INT21| Não Implementado
-| RF31 | Acesso a mapa da região | INT22| Não Implementado
-| RF32 | Fornecer feedback de periculosidade de áreas no mapa | INT23| Não Implementado
-| RF33 | visualizar perfil  |AIU1| Implementado
-| RF31 | Visualizar informações institucionais |AIU15| Implementado
-| RF32 | Tirar foto | INT18| Não Implementado
-| RF33 | Comparar foto com desaparecido, procurado ou mandado | INT19| Não Implementado
-| RF34 | Usar funcionalidades sem o cadastro do Gov | ENT12| Não Implementado
-| RF35 | Editar perfil Gov |AIU29|Implementado
+| RF01 | Logar pelo Gov | AIU2 , INT2| Implementado|
+| RF02 | Buscar por veículo | AIU4, INT4| Implementado|
+| RF03 | Informar dados do veículo | AIU5, INT5| Implementado|
+| RF04 | Adicionar carro como roubado | AIU6, INT6 | Implementado|
+| RF05 | Listar pessoas desaparecidas| AIU9, INT9| Implementado|
+| RF06 | Vincular ao desaparecido | AIU11, INT11| Implementado|
+| RF07 | Vincular ao carro | AIU12, INT12| Implementado|
+| RF08 | Buscar por mandados de prisão | AIU13, INT13| Implementado|
+| RF09 | Fornecer informações sobre mandados de prisão | AIU14, INT14| Implementado|
+| RF10 | Buscar por procurados | AIU16,  INT16| Implementado|
+| RF11 | Fornecer informações sobre procurados |AIU17, INT17| Implementado|
+| RF12 | Sair do aplicativo | AIU19| Implementado|
+| RF13 | Anunciar perturbação da vizinhança | AIU20, INT20| Implementado|
+| RF14 | Ler texto para deficiêntes visuais | INT1| Não Implementado|
+| RF15 | Disponibilizar restrição |AP2, ENT2| Implementado|
+| RF16 | Disponibilizar informação das características do veículo | RF| Implementado|
+| RF17 | Disponibilizar informação do tipo de veículo | AP3, ENT3, STO2| Não Implementado|
+| RF18 | Disponibilizar diversas opções de denúncia | AP5, ENT5| Implementado|
+| RF19 | Tutorial de uso do aplicativo | AP7, ENT7| Não Implementado|
+| RF20 | Disponibilização de fotos do desaparecido | AP8, ENT8| Não Implementado|
+| RF21 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado|
+| RF22 | Ligar para a polícia | AIU7, INT7| Implementado|
+| RF23 | visualizar vínculos |AIU8| Implementado|
+| RF24 | Requisitar ajuda | AIU18, | Implementado|
+| RF25 | Retornar ao início | AIU21, | Implementado|
+| RF26 | Salvar histórico de busca | AIU22, INT15| Implementado|
+| RF27 | Disponibilizar filtro de pesquisa | AIU23| Implementado|
+| RF28 | Possibilitar compartilhamento das informações de placa | AIU25 | Implementado|
+| RF29 | Notificar sobre atualizações sobre vínculo | INT8| Não Implementado|
+| RF30 | Adicionar novas informações sobre perturbação da vizinhança | INT21| Não Implementado|
+| RF31 | Acesso a mapa da região | INT22| Não Implementado|
+| RF32 | Fornecer feedback de periculosidade de áreas no mapa | INT23| Não Implementado|
+| RF33 | visualizar perfil  |AIU1| Implementado|
+| RF31 | Visualizar informações institucionais |AIU15| Implementado|
+| RF32 | Tirar foto | INT18| Não Implementado|
+| RF33 | Comparar foto com desaparecido, procurado ou mandado | INT19| Não Implementado|
+| RF34 | Usar funcionalidades sem o cadastro do Gov | ENT12| Não Implementado|
+| RF35 | Editar perfil Gov |AIU29|Implementado|
 
 Fonte:[Christian](https://github.com/crstyhs)
 
 Tabela 2 - Requisitos não funcionais elicitados
+
 | ID | Elicitação | Origem | Status |
 | ---- | ---- |---- |---- |
-| RNF01 | Rápida disponibilização de informações | AIU27	, AP1, ENT1, INT27| Implementado
-| RNF02 | Sigilo relativo de informações | AIU26 , INT26| Implementado
-| RNF03 | Banco de dados ser constantemente atualizado | AP4, INT25, STO3| Não Implementado
-| RNF04 |  Ajudar o trabalho policial e a comunidade | ENT11| Implementado
-| RNF05 | Interface simples | AIU3, INT3, STO1| Implementado
-| RNF06 | Instalação do aplicativo em diferentes sistemas | AIU28, INT28| Implementado
-| RNF07 | Aplicativo deve ser constantemente divulgado | AP6,STO4| Não Implementado
+| RNF01 | Rápida disponibilização de informações | AIU27	, AP1, ENT1, INT27| Implementado|
+| RNF02 | Sigilo relativo de informações | AIU26 , INT26| Implementado|
+| RNF03 | Banco de dados ser constantemente atualizado | AP4, INT25, STO3| Não Implementado|
+| RNF04 |  Ajudar o trabalho policial e a comunidade | ENT11| Implementado|
+| RNF05 | Interface simples | AIU3, INT3, STO1| Implementado|
+| RNF06 | Instalação do aplicativo em diferentes sistemas | AIU28, INT28| Implementado|
+| RNF07 | Aplicativo deve ser constantemente divulgado | AP6,STO4| Não Implementado|
 
 Fonte:[Christian](https://github.com/crstyhs)
 
