@@ -10,7 +10,7 @@ As técnicas usadas para a aquisição de dados foram o questionário e a entrev
 
 ## Resultado do Questionário
 
-O respostas obtidas foram todas concordantes ao [Termo de COnsentimento](../elicitacao/termo_consentimento.pdf), e abaixo nas figuras de 1 a 5 pode ser visto o resultado das perguntas direcionadas ao perfil dos usuários.
+O respostas obtidas foram todas concordantes ao [Termo de Consentimento](../elicitacao/termo_consentimento.pdf), e abaixo nas figuras de 1 a 5 pode ser visto o resultado das perguntas direcionadas ao perfil dos usuários.
 
 <center>
 

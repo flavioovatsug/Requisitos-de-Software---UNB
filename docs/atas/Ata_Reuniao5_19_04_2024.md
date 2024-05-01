@@ -22,6 +22,7 @@ Elaborar a apresentação e colocar no youtube.
 ## Assuntos Tratados
 - Foi definida a ordem de apresentação
 - Foi gravada a apresentação para ser disponibilizada no youtube
+- Devido a problemas na disciplina e o adiamento das apresentações o video foi regravado no dia 30/04
 
 ## Tarefas
 <font size="2"><p style="text-align: center">Tabela 1: Tarefas distribuídas </p></font>
@@ -34,12 +35,13 @@ Elaborar a apresentação e colocar no youtube.
 Fonte: [Italo Bruno](https://github.com/ItaloBrunoM), 2024
 
 ## Gravação da reunião
-[Video](https://youtu.be/NPLQNpZzMlk)
-
+[Video Antigo](https://youtu.be/NPLQNpZzMlk)
+[Video Novo](https://youtu.be/2S2Yr7c_a5o)
 ## Referências
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 30/04/2024 | Criação da ata de reunião e  adição do video | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
+| 1.0 | 30/04/2024 | Adição do novo video | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
 
