@@ -51,7 +51,8 @@ nav:
   - Planejamento:
       - Lista de Aplicativos: Planejamento/Lista_de_aplicativos.md
       - Aplicativo Escolhido: Planejamento/App_selecionado.md
-      - Cronograma: Planejamento/cronograma.md
+      - Cronograma Planejado: Planejamento/cronograma.md
+      - Cronograma executado: Planejamento/Cronograma_Executados.md
       - Heatmap: Planejamento/heatmap.md
       - Rich Pictures: Planejamento/Rich_pictures.md
       - Ferramentas: Planejamento/ferramentas.md
