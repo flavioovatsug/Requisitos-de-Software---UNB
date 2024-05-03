@@ -69,10 +69,28 @@ A seguir são o elenco de personas do projeto
 
 <font size="3"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin).</p></font>
 
+<p style="text-align: center"><b>Tabela 4</b> - Persona Secundária Camila Rodrigues.</p>
+ 
+| <font size="3"><p style="text-align: center">Figura 4 Persona Secundária Camila Rodrigues.</p></font><figure markdown>![Persona Rogério MAtos](../assets/personas/persona_roberta.png){:style="height:500px;width:500px"}<figcaption>Fonte: Elaborada por [Flávio Melo](https://github.com/flavioovatsug).</p></font> (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nome: Camila Rodrigues.                                                                                                                                                                                                                                                                                                                                                              |
+| Status: Persona Secundária.                                                                                                                                                                                                                                                                                                                                                             |
+| Gênero: Feminino.                                                                                                                                                                                                                                                                                                                                                                     |
+| Idade: 40 anos.                                                                                                                                                                                                                                                                                                                                                                       |
+| Profissão: Advogada.                                                                                                                                                                                                                                                                                                                               |
+| Escolaridade: Graduada em Direito pela Universidade Federal do Rio de Janeiro (UFRJ).                                                                                                                                                                                                                                                                                                                                 |
+| Habilidades e Experiências: Camila é uma advogada especializada em direito penal e direitos humanos. Ela possui uma sólida experiência em lidar com casos delicados, como desaparecimentos de pessoas e violência doméstica.                                                                                                                                                                                                                                                                                              |
+| Relacionamento: Camila é solteira e tem uma vida social ativa, mas sua paixão pelo trabalho muitas vezes a mantém ocupada fora do horário comercial. Ela tem uma relação próxima com sua família e dedica parte de seu tempo livre para atividades voluntárias em organizações que lutam pelos direitos humanos.                                        |
+| Objetivo: Camila busca proporcionar justiça e proteção legal para os mais vulneráveis da sociedade.                                        |
+| Expectativa: Obter todas as informações de pessoas desaparecidas para facilitar a localização.                                           |
+| Requisitos: Acesso ao aplicativo SINESP Cidadão para consultar informações sobre pessoas desaparecidas e realizar buscas quando necessário.                                                                                                                                                                                                                                                  |
+| Tarefas: Camila utiliza o aplicativo SINESP Cidadão de forma esporádica para auxiliar na localização de pessoas desaparecidas entre seus clientes. Ela verifica informações sobre registros de ocorrências policiais, antecedentes criminais e outras informações relevantes para ajudar em suas investigações e fornecer apoio legal adequado aos seus clientes.                                                                                                                                                                                                                                   |
+ 
+<font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
 
-<p style="text-align: center"><b>Tabela 3</b> - Persona Secundária Rogério Matos.</p>
 
-| <font size="3"><p style="text-align: center">Figura 4- Anti-Persona Marina Silva.</p></font><figure markdown>![Marina Silva](../assets/Personas/anti-persona.jpg.png)<figcaption>Fonte: [Italo Bruno](https://github.com/italobrunom) (2024).<a id="TEC2" href="#QT2"> 2</a></figcaption></figure> |
+<p style="text-align: center"><b>Tabela 5</b> - Anti-Persona Marina Silva.</p>
+| <font size="3"><p style="text-align: center">Figura 5- Anti-Persona Marina Silva.</p></font><figure markdown>![Marina Silva](../assets/Personas/anti-persona.jpg.png)<figcaption>Fonte: [Italo Bruno](https://github.com/italobrunom) (2024).<a id="TEC2" href="#QT2"> 2</a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Marina Silva |
 | **Status**: Anti-Persona. |
@@ -91,5 +109,9 @@ A seguir são o elenco de personas do projeto
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1.0  | 03/05 |   Criação do arquivo    |  |  |
-|1.1| 03/05 | Persona secundaria | [Harryson Campos](https://github.com/harry-cmartin), [Ian Lucca](https://github.com/IanLucca12), [Italo Bruno](https://github.com/ItalobrunoM), [Christian](https://github.com/crstyhs) | |
+|1.0| 03/05 |   Criação do arquivo    | [Italo Bruno](https://github.com/ItalobrunoM) |  |
+|1.1| 03/05 | Persona secundaria | [Harryson Campos](https://github.com/harry-cmartin) | |
+|1.2| 03/05 |   Anti-Persona    | [Italo Bruno](https://github.com/ItalobrunoM) |  |
+|1.3| 03/05 | Persona primaria | [Christian](https://github.com/crstyhs) | |
+|1.4| 03/05 | Persona secundaria |[Ian Lucca](https://github.com/IanLucca12) | |
+|1.5| 03/05 | Persona secundaria |[Flávio Melo](https://github.com/flavioovatsug) | |
