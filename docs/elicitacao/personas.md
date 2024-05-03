@@ -43,6 +43,30 @@ A seguir são o elenco de personas do projeto
 
 <font size="3"><p style="text-align: center">Fonte: [Christian](https://github.com/crstyhs).</p></font>
 
+
+| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Valério Silva.</p></font><figure markdown>![Rafael Valério Silva]()<figcaption>Fonte: Elaborada por [Ian Lucca](https://github.com/IanLucca12) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Nome*: Rafael Valério Silva|
+| *Status*: Persona Primária. |
+| *Gênero*: Masculino. 
+| *Idade*: 35 anos |
+| *Profissão*: Agente de polícia civil|
+| *Escolaridade*: Formado em direito pela Universidade de São Carlos (UFSCAR) |
+| *Habilidades e Experiências*:  Rafael trabalha liderando as investigações e conduzindo o inquérito policial, além de decidir sobre prisões em flagrante, pedidos de mandados de busca e apreensão, e outras medidas judiciais essenciais à investigação criminal. |
+| *Relacionamento*: Rafael é casado, possui dois gatos e gosta de jogar Magic the Gathering com os amigos nos fins de semana.  |
+| *Objetivo*: Após diversos relatos sobre o crescente número de furto de veículos em sua cidade, o agente decidiu baixar o aplicativo para poder ter mais informações sobre os carros que ele pode encontrar em suas rondas e saber se eles são roubados.|
+| *Expectativa*:   Rafael deseja que sua experiência com o aplicativo seja rápida e direto ao ponto, informações sobre a placa, cor e modelo do carro.            |
+| *Requisitos*: Interface intuitiva e fácil de usar, acesso rápido a dados precisos e confiáveis, atualizações frequentes para garantir informações em tempo real.                                                                                                                             |
+| *Tarefas*:      Rafael passa o dia cumprindo com seus afazeres como policial civil, quando ele trabalha em áreas de alta criminalidade ele quer saber se pode avistar um carro roubado. Mantém o aplicativo para ter acesso aos dados dentro dele e costuma usar.                                                                                                                                                                                                          |
+
+<font size="3"><p style="text-align: center">Fonte: [Ian Lucca](https://github.com/IanLucca12).</p></font>
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
+| ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 1.0  | 03/05 |   Criação do arquivo    |  |  |
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
