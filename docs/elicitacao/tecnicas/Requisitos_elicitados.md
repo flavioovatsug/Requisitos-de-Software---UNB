@@ -89,4 +89,4 @@ Fonte:[Christian](https://github.com/crstyhs)
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 17/04/2024 | Criação do documento dos requisitos elicitados | [Christian](https://github.com/crstyhs)|  |
+| 1.0 | 17/04/2024 | Criação do documento dos requisitos elicitados | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |

@@ -59,6 +59,6 @@ Fonte:  [Christian](https://github.com/crstyhs)
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 13/04/2024 | Criação do documento da introspecção | [Christian](https://github.com/crstyhs)|  |
-| 1.1 | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)|  |
+| 1.0 | 13/04/2024 | Criação do documento da introspecção | [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
+| 1.1 | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
 

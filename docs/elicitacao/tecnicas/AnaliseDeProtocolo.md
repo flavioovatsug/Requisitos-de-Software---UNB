@@ -59,7 +59,7 @@ Tabela 2 - Requisitos elicitados
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 13/04/2024 | Criação do documento da Análise de Protocolo | [Christian](https://github.com/crstyhs)|  |
-| 1.1 | 14/04/2024 | Adição dos requisitos elicitados  | [Christian](https://github.com/crstyhs)|  |
-| 1.2 | 17/04/2024 | Atualização das identificações  | [Christian](https://github.com/crstyhs)|  |
+| 1.0 | 13/04/2024 | Criação do documento da Análise de Protocolo | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
+| 1.1 | 14/04/2024 | Adição dos requisitos elicitados  | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
+| 1.2 | 17/04/2024 | Atualização das identificações  | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
 

@@ -29,4 +29,4 @@ O "First Things First" (FTF) é uma abordagem fundamental na gestão de projetos
 
 | Versão | Data   | Descrição | Autor(es) | Revisor(es)     |
 | ------ | ---------- | ---------------- | ------------------ | ----------- |
-| 1.0    | 19/05 |Adicionando o FTF |[Italo Bruno](https://github.com/ItaloBrunoM)| | 
+| 1.0    | 19/05 |Adicionando o FTF |[Italo Bruno](https://github.com/ItaloBrunoM)| [Flávio Melo](https://github.com/flavioovatsug) | 
