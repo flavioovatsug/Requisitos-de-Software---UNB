@@ -34,6 +34,6 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 22/04/2024 | Criação do documento da análise de documento | [Bittar](https://github.com/Bittarx)|  |
+| 1.0 | 22/04/2024 | Criação do documento da análise de documento | [Bittar](https://github.com/Bittarx)| [Christian](https://github.com/crstyhs) |
 
 
