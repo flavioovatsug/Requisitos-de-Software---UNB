@@ -61,14 +61,30 @@ A seguir são o elenco de personas do projeto
 
 <font size="3"><p style="text-align: center">Fonte: [Ian Lucca](https://github.com/IanLucca12).</p></font>
 
+
+
+<p style="text-align: center"><b>Tabela 1</b> - Persona Secundária Rogério Matos.</p>
+
+| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/Persona_Sec_rogerio.png){:style="height:500px;width:500px"}<figcaption>Fonte: Elaborada por [Harryson Campos](https://github.com/harry-cmartin) (2023).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**: Rogério Matos.                                                                                                                                                                                                                                                                                                                                                              |
+| **Status**: Persona Secundária.                                                                                                                                                                                                                                                                                                                                                             |
+| **Gênero**: Masculino.                                                                                                                                                                                                                                                                                                                                                                     |
+| **Idade**: 40 anos.                                                                                                                                                                                                                                                                                                                                                                       |
+| **Profissão**: Procurador.                                                                                                                                                                                                                                                                                                                               |
+| **Escolaridade**: Pós-Graduação em Direito.                                                                                                                                                                                                                                                                                                                                 |
+| **Habilidades e Experiências**: Conhecimento em Direito civil, penal, constitucional, e administrativo.                                                                                                                                                                                              |
+| **Relacionamento**: Equipe de trabalho, familiares e amigos .                                                                                                                                                                                                                                                                                              |
+| **Objetivo**: COmo rogério trabalha como procurador, não tiliza frequentemente o app, procurando-o somente quando precisa fazer denúncias sobre irregularidades encontradas ou pesquisas de procurados.                                        |
+| **Expectativa**: Rogério geralnmente trabalha toda a semana e é muito dedicado a seu trabalho, não gosta de encontrar violações a leis e não denuncia-las, logo quando encontra tais ireegularidades em seu trabalho, abre o app e denuncia.                                            |
+| **Requisitos**: Após a descoberta de irregularidades a pessoa faz a denúncia.                                                                                                                                                                                                                                            |
+| **Tarefas**: Ir para o trabalho de manhã, trabalhar até de tarde, voltar para casa e curtir a sa família.                                                                                                                                                                                                                               |
+
+<font size="3"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin).</p></font>
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | 1.0  | 03/05 |   Criação do arquivo    |  |  |
-
-## Histórico de Versões
-
-| Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
-| ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1.0  | 03/05 |   Criação do arquivo    |  |  |
+|1.1| 03/05 | Persona secundaria | [Harryson Campos](https://github.com/harry-cmartin)|[Ian Lucca](https://github.com/IanLucca12)|
