@@ -44,7 +44,7 @@ A seguir são o elenco de personas do projeto
 <font size="3"><p style="text-align: center">Fonte: [Christian](https://github.com/crstyhs).</p></font>
 
 
-| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Valério Silva.</p></font><figure markdown>![Rafael Valério Silva]()<figcaption>Fonte: Elaborada por [Ian Lucca](https://github.com/IanLucca12) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Valério Silva.</p></font><figure markdown>![Rafael Valério Silva]()<figcaption>Fonte: Elaborada por [Ian Lucca](https://github.com/IanLucca12) (2024).</figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Nome*: Rafael Valério Silva|
 | *Status*: Persona Primária. |
@@ -65,7 +65,7 @@ A seguir são o elenco de personas do projeto
 
 <p style="text-align: center"><b>Tabela 1</b> - Persona Secundária Rogério Matos.</p>
 
-| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/Persona_Sec_rogerio.png){:style="height:500px;width:500px"}<figcaption>Fonte: Elaborada por [Harryson Campos](https://github.com/harry-cmartin) (2023).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/Persona_Sec_rogerio.png)<figcaption>Fonte: Elaborada por [Harryson Campos](https://github.com/harry-cmartin) (2023).</figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Rogério Matos.                                                                                                                                                                                                                                                                                                                                                              |
 | **Status**: Persona Secundária.                                                                                                                                                                                                                                                                                                                                                             |
