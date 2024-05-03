@@ -24,7 +24,24 @@ A seguir são o elenco de personas do projeto
 | **Expectativa**: Marina espera poder usar com facilidade o aplicativo e colocar os dados rapidamente.                |
 | **Requisitos**: Acompanhar os dados do sistema          |
 | **Tarefas**: Marina passa o dia na escola e de noite fica com o pai estudando e se divertindo.                                                                                                                                                                                                                           |
+<p style="text-align: center"><b>Tabela 1</b> - Persona Primária Rogerio Barreto.</p>
 
+| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Rogerio Barreto.</p></font><figure markdown>![Rogerio Barreto](personarogerio.jpg)<figcaption>Fonte: Elaborada por [Christian](https://github.com/crstyhs) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Nome*: Rogerio Barreto |
+| *Status*: Persona Primária. |
+| *Gênero*: Masculino. 
+| *Idade*: 40 anos |
+| *Profissão*: Aposentado (Ex-policial)|
+| *Escolaridade*: Ensino superior completo. |
+| *Habilidades e Experiências*:   Experiência em lidar com situações de segurança e aplicação da lei, habilidades em investigação e análise de informações. |
+| *Relacionamento*:  Casado, com filhos adultos. Mantém um círculo social amplo, incluindo ex-colegas policiais e vizinhos.  |
+| *Objetivo*: Utilizar o aplicativo SINESP Cidadão para acessar informações sobre veículos e ocorrências de trânsito, auxiliando na segurança pessoal e da comunidade.|
+| *Expectativa*:   Espera que o aplicativo forneça informações precisas e atualizadas sobre veículos, permitindo-lhe verificar a procedência e situação de carros suspeitos ou envolvidos em atividades criminosas. Também espera acessar dados sobre ocorrências de trânsito para evitar áreas problemáticas e garantir uma condução segura.             |
+| *Requisitos*: Interface intuitiva e fácil de usar, acesso rápido a dados precisos e confiáveis, atualizações frequentes para garantir informações em tempo real.                                                                                                                             |
+| *Tarefas*:       Verificar a situação de veículos suspeitos antes de abordá-los, auxiliar amigos e familiares na verificação de informações veiculares quando necessário e verificar a situação das pessoas que conduzem os veículos.                                                                                                                                                                                                              |
+
+<font size="3"><p style="text-align: center">Fonte: [Christian](https://github.com/crstyhs).</p></font>
 
 ## Histórico de Versões
 
