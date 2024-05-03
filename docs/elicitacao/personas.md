@@ -10,23 +10,10 @@ Pra criar uma persona fizemos uma analise dos perfis de usuarios e com isso foi 
 
 A seguir são o elenco de personas do projeto
 
-| <font size="3"><p style="text-align: center">Figura 4- Persona Primária Elisa Silva.</p></font><figure markdown>![Marina Silva](anti-persona.jpg.png)<figcaption>Fonte: [Italo Bruno](https://github.com/italobrunom) (2024).<a id="TEC2" href="#QT2"> 2</a></figcaption></figure> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**: Marina Silva |
-| **Status**: Anti-Persona. |
-| **Gênero**: Feminino. 
-| **Idade**: 9 anos |
-| **Profissão**: Estudante escola primária|
-| **Escolaridade**: Ensino Fundamental. |
-| **Habilidades e Experiências**:   Marina foi criada com acessos a tecnologia tendo facilidade com o uso. |
-| **Relacionamento**:  Vive com o pai e 1 irmão mais velho que trabalha já como desenvolvedor  |
-| **Objetivo**: Marina usa o aplicativo para ajudar ao pai a colocar os dados do carro que foi roubado e o filho mais velho sumiu. |
-| **Expectativa**: Marina espera poder usar com facilidade o aplicativo e colocar os dados rapidamente.                |
-| **Requisitos**: Acompanhar os dados do sistema          |
-| **Tarefas**: Marina passa o dia na escola e de noite fica com o pai estudando e se divertindo.                                                                                                                                                                                                                           |
+                                          
 <p style="text-align: center"><b>Tabela 1</b> - Persona Primária Rogerio Barreto.</p>
 
-| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Rogerio Barreto.</p></font><figure markdown>![Rogerio Barreto](personarogerio.jpg)<figcaption>Fonte: Elaborada por [Christian](https://github.com/crstyhs) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Rogerio Barreto.</p></font><figure markdown>![Rogerio Barreto](../assets/Personas/personarogerio.jpg)<figcaption>Fonte: Elaborada por [Christian](https://github.com/crstyhs) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Rogerio Barreto |
 | **Status**: Persona Primária. |
@@ -39,12 +26,12 @@ A seguir são o elenco de personas do projeto
 | **Objetivo**: Utilizar o aplicativo SINESP Cidadão para acessar informações sobre veículos e ocorrências de trânsito, auxiliando na segurança pessoal e da comunidade.|
 | **Expectativa**:   Espera que o aplicativo forneça informações precisas e atualizadas sobre veículos, permitindo-lhe verificar a procedência e situação de carros suspeitos ou envolvidos em atividades criminosas. Também espera acessar dados sobre ocorrências de trânsito para evitar áreas problemáticas e garantir uma condução segura.             |
 | **Requisitos**: Interface intuitiva e fácil de usar, acesso rápido a dados precisos e confiáveis, atualizações frequentes para garantir informações em tempo real.                                                                                                                             |
-| **Tarefas**:       Verificar a situação de veículos suspeitos antes de abordá-los, auxiliar amigos e familiares na verificação de informações veiculares quando necessário e verificar a situação das pessoas que conduzem os veículos.                                                                                                                                                                                                              |
+| **Tarefas**:       Verificar a situação de veículos suspeitos antes de abordá-los, auxiliar amigos e familiares na verificação de informações veiculares quando necessário e verificar a situação das pessoas que conduzem os veículos.                                                                                                                                                                                               <p style="text-align: center"><b>Tabela 2</b> - Persona Secundária Rogério Matos.</p>              |
 
 <font size="3"><p style="text-align: center">Fonte: [Christian](https://github.com/crstyhs).</p></font>
 
 
-| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Valério Silva.</p></font><figure markdown>![Rafael Valério Silva]()<figcaption>Fonte: Elaborada por [Ian Lucca](https://github.com/IanLucca12) (2024).</figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Valério Silva.</p></font><figure markdown>![Rafael Valério Silva](../assets/Personas/rafaelpersona.png)<figcaption>Fonte: Elaborada por [Ian Lucca](https://github.com/IanLucca12) (2024).</figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Rafael Valério Silva|
 | **Status**: Persona Primária. |
@@ -63,28 +50,46 @@ A seguir são o elenco de personas do projeto
 
 
 
-<p style="text-align: center"><b>Tabela 1</b> - Persona Secundária Rogério Matos.</p>
+<p style="text-align: center"><b>Tabela 3</b> - Persona Secundária Rogério Matos.</p>
 
-| <font size="3"><p style="text-align: center">Figura 1- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/Persona_Sec_rogerio.png)<figcaption>Fonte: Elaborada por [Harryson Campos](https://github.com/harry-cmartin) (2024).</figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 3- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/Persona_Sec_rogerio.png)<figcaption>Fonte: Elaborada por [Harryson Campos](https://github.com/harry-cmartin) (2024).</figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**: Rogério Matos.                                                                                                                                                                                                                                                                                                                                                              |
-| **Status**: Persona Secundária.                                                                                                                                                                                                                                                                                                                                                             |
-| **Gênero**: Masculino.                                                                                                                                                                                                                                                                                                                                                                     |
-| **Idade**: 40 anos.                                                                                                                                                                                                                                                                                                                                                                       |
-| **Profissão**: Procurador.                                                                                                                                                                                                                                                                                                                               |
-| **Escolaridade**: Pós-Graduação em Direito.                                                                                                                                                                                                                                                                                                                                 |
-| **Habilidades e Experiências**: Conhecimento em Direito civil, penal, constitucional, e administrativo.                                                                                                                                                                                              |
-| **Relacionamento**: Equipe de trabalho, familiares e amigos .                                                                                                                                                                                                                                                                                              |
+| **Nome**: Rogério Matos.                                                                                   |
+| **Status**: Persona Secundária.                                                   |
+| **Gênero**: Masculino.                                                                                                              |
+| **Idade**: 40 anos.                                                              |
+| **Profissão**: Procurador.                                                                          |
+| **Escolaridade**: Pós-Graduação em Direito.                                                                          |
+| **Habilidades e Experiências**: Conhecimento em Direito civil, penal, constitucional, e administrativo.                                                                                          |
+| **Relacionamento**: Equipe de trabalho, familiares e amigos.                                                                                        |
 | **Objetivo**: COmo rogério trabalha como procurador, não tiliza frequentemente o app, procurando-o somente quando precisa fazer denúncias sobre irregularidades encontradas ou pesquisas de procurados.                                        |
 | **Expectativa**: Rogério geralnmente trabalha toda a semana e é muito dedicado a seu trabalho, não gosta de encontrar violações a leis e não denuncia-las, logo quando encontra tais ireegularidades em seu trabalho, abre o app e denuncia.                                            |
-| **Requisitos**: Após a descoberta de irregularidades a pessoa faz a denúncia.                                                                                                                                                                                                                                            |
-| **Tarefas**: Ir para o trabalho de manhã, trabalhar até de tarde, voltar para casa e curtir a sa família.                                                                                                                                                                                                                               |
+| **Requisitos**: Após a descoberta de irregularidades a pessoa faz a denúncia.                                   |
+| **Tarefas**: Ir para o trabalho de manhã, trabalhar até de tarde, voltar para casa e curtir a sua família.                       |
 
 <font size="3"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin).</p></font>
+
+
+<p style="text-align: center"><b>Tabela 3</b> - Persona Secundária Rogério Matos.</p>
+
+| <font size="3"><p style="text-align: center">Figura 4- Anti-Persona Marina Silva.</p></font><figure markdown>![Marina Silva](../assets/Personas/anti-persona.jpg.png)<figcaption>Fonte: [Italo Bruno](https://github.com/italobrunom) (2024).<a id="TEC2" href="#QT2"> 2</a></figcaption></figure> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**: Marina Silva |
+| **Status**: Anti-Persona. |
+| **Gênero**: Feminino. 
+| **Idade**: 9 anos |
+| **Profissão**: Estudante escola primária|
+| **Escolaridade**: Ensino Fundamental. |
+| **Habilidades e Experiências**:   Marina foi criada com acessos a tecnologia tendo facilidade com o uso. |
+| **Relacionamento**:  Vive com o pai e 1 irmão mais velho que trabalha já como desenvolvedor  |
+| **Objetivo**: Marina usa o aplicativo para ajudar ao pai a colocar os dados do carro que foi roubado e o filho mais velho sumiu. |
+| **Expectativa**: Marina espera poder usar com facilidade o aplicativo e colocar os dados rapidamente.                |
+| **Requisitos**: Acompanhar os dados do sistema          |
+| **Tarefas**: Marina passa o dia na escola e de noite fica com o pai estudando e se divertindo.               
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | 1.0  | 03/05 |   Criação do arquivo    |  |  |
-|1.1| 03/05 | Persona secundaria | [Harryson Campos](https://github.com/harry-cmartin)|[Ian Lucca](https://github.com/IanLucca12)|
+|1.1| 03/05 | Persona secundaria | [Harryson Campos](https://github.com/harry-cmartin), [Ian Lucca](https://github.com/IanLucca12), [Italo Bruno](https://github.com/ItalobrunoM), [Christian](https://github.com/crstyhs) | |
