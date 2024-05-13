@@ -25,7 +25,6 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | DOC12 | Registrar o furto ou Roubo do próprio veículo | RF|  Implementado|
 | DOC13 | Incluir fotos de pessoa desaparecida | RF|  Implementado|
 | DOC14 | Informar localização de pessoa desaparecida | RF| Implementado|
-| DOC15 | Registrar Denúncia | RF|  Implementado|
 
 ## Referências
 [1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 13 de abril de 2024.</br>
