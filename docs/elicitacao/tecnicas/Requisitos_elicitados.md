@@ -19,16 +19,16 @@ Tabela 1 - Requisitos funcionais elicitados
 
 | ID | Elicitação | Origem | Status |
 | ---- | ---- |---- |---- |
-| RF01 | Logar pelo Gov | AIU2 , INT2| Implementado|
+| RF01 | Logar pelo Gov | AIU2 , INT2, DOC10| Implementado|
 | RF02 | Buscar por veículo | AIU4, INT4| Implementado|
-| RF03 | Informar dados do veículo | AIU5, INT5| Implementado|
+| RF03 | Informar dados do veículo | AIU5, INT5, DOC1| Implementado|
 | RF04 | Adicionar carro como roubado | AIU6, INT6 | Implementado|
 | RF05 | Listar pessoas desaparecidas| AIU9, INT9| Implementado|
 | RF06 | Vincular ao desaparecido | AIU11, INT11| Implementado|
 | RF07 | Vincular ao carro | AIU12, INT12| Implementado|
-| RF08 | Buscar por mandados de prisão | AIU13, INT13| Implementado|
-| RF09 | Fornecer informações sobre mandados de prisão | AIU14, INT14| Implementado|
-| RF10 | Buscar por procurados | AIU16,  INT16| Implementado|
+| RF08 | Buscar por mandados de prisão | AIU13, INT13, DOC2| Implementado|
+| RF09 | Fornecer informações sobre mandados de prisão | AIU14, INT14, DOC2| Implementado|
+| RF10 | Buscar por procurados | AIU16,  INT16, DOC4| Implementado|
 | RF11 | Fornecer informações sobre procurados |AIU17, INT17| Implementado|
 | RF12 | Sair do aplicativo | AIU19| Implementado|
 | RF13 | Anunciar perturbação da vizinhança | AIU20, INT20| Implementado|
@@ -36,7 +36,7 @@ Tabela 1 - Requisitos funcionais elicitados
 | RF15 | Disponibilizar restrição |AP2, ENT2| Implementado|
 | RF16 | Disponibilizar informação das características do veículo | RF| Implementado|
 | RF17 | Disponibilizar informação do tipo de veículo | AP3, ENT3, STO2| Não Implementado|
-| RF18 | Disponibilizar diversas opções de denúncia | AP5, ENT5| Implementado|
+| RF18 | Disponibilizar diversas opções de denúncia | AP5, ENT5, DOC5, DOC6, DOC7, DOC8, DOC9| Implementado|
 | RF19 | Tutorial de uso do aplicativo | AP7, ENT7| Não Implementado|
 | RF20 | Disponibilização de fotos do desaparecido | AP8, ENT8| Não Implementado|
 | RF21 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado|
@@ -57,6 +57,11 @@ Tabela 1 - Requisitos funcionais elicitados
 | RF33 | Comparar foto com desaparecido, procurado ou mandado | INT19| Não Implementado|
 | RF34 | Usar funcionalidades sem o cadastro do Gov | ENT12| Não Implementado|
 | RF35 | Editar perfil Gov |AIU29|Implementado|
+| RF36 | Buscar Por Pessoa Desaparecida |DOC3|Implementado|
+| RF37 | Cadastrar o próprio veículo |DOC11|Implementado|
+| RF38 | Registrar Furto ou Roubo de veículo |DOC12|Implementado|
+| RF39 | Inserir foto do desaparecido | DOC13|Implementado|
+| RF39 | Inserir localização do desaparecido | DOC14|Implementado|
 
 Fonte:[Christian](https://github.com/crstyhs)
 
@@ -90,3 +95,4 @@ Fonte:[Christian](https://github.com/crstyhs)
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 17/04/2024 | Criação do documento dos requisitos elicitados | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
+| 2.0 | 17/04/2024 | Atualização do documento dos requisitos elicitado | [Bittar](https://github.com/Bittarx)| |
