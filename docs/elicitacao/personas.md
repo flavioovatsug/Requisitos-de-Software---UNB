@@ -30,6 +30,7 @@ A seguir são o elenco de personas do projeto
 
 <font size="3"><p style="text-align: center">Fonte: [Christian](https://github.com/crstyhs).</p></font>
 
+<p style="text-align: center"><b>Tabela 2</b> - Persona Primária  Rafael Valério Silva.</p>
 
 | <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Valério Silva.</p></font><figure markdown>![Rafael Valério Silva](../assets/Personas/rafaelpersona.png)<figcaption>Fonte: Elaborada por [Ian Lucca](https://github.com/IanLucca12) (2024).</figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,7 +91,7 @@ A seguir são o elenco de personas do projeto
 
 
 <p style="text-align: center"><b>Tabela 5</b> - Anti-Persona Marina Silva.</p>
-| <font size="3"><p style="text-align: center">Figura 5- Anti-Persona Marina Silva.</p></font><figure markdown>![Marina Silva](../assets/Personas/anti-persona.jpg.png)<figcaption>Fonte: [Italo Bruno](https://github.com/italobrunom) (2024).<a id="TEC2" href="#QT2"> 2</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 5- Anti-Persona Marina Silva.</p></font><figure markdown>![Marina Silva](../assets/Personas/anti-persona.jpg.png)<figcaption>Fonte: Elaborada por [Italo Bruno](https://github.com/italobrunom) (2024).<a id="TEC2" href="#QT2"> 2</a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Marina Silva |
 | **Status**: Anti-Persona. |
