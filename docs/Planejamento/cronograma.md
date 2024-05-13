@@ -8,7 +8,7 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 
 ## Entregas
 
-### Cronograma Geral
+###  Tabela 1: Cronograma Geral
 
 | Etapa | Título                         | Descrição                                                    | Data Limite de Entrega | Apresentação  |
 | ----- | ------------------------------ | ------------------------------------------------------------ | ------- | ------------- |
@@ -22,7 +22,7 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 | 7     | Entrega final                  | Projeto finalizado                                           | 24/06   | 25/06 - 11/07 |
 
 Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
-### Planejamento Entrega 1: Planejamento do Projeto
+### Tabela 2: Planejamento Entrega 1: Planejamento do Projeto
 
 |            Atividade             | Início | Fim |                   Responsáveis                    | Revisores | Data de Revisão |
 | :------------------------------: | :-----: | :-----: | :--------------------------------------------: | :--------: | :--------------: |
@@ -39,7 +39,7 @@ Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
-## Planejamento de entrega 2: Elicitação: Técnicas e Priorização
+## tabela 3: Planejamento de entrega 2: Elicitação: Técnicas e Priorização
 
 | Atividade | Início | Fim  | Responsáveis | Revisores | Data da Revisão |
 | --- | --- | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
-## Planejamento Entrega 3: Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar 
+## Tabela 4: Planejamento Entrega 3: Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar 
 
 | Atividade | Início | Fim | Responsáveis | Data da Revisão | Revisores |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -71,7 +71,7 @@ Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
-## Planejamento Entrega 4: Modelagem de requisitos: Ágil (Histórias de Usuário, Backlogs, NFR Framework)
+## Tabela 5: Planejamento Entrega 4: Modelagem de requisitos: Ágil (Histórias de Usuário, Backlogs, NFR Framework)
 
 | Atividade | Início | Fim | Responsáveis | Data da Revisão | Revisores |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -86,7 +86,7 @@ Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
-## Planejamento Entrega 5.1: Análise de Requisitos: Verificação e Validação
+## Tabela 6: Planejamento Entrega 5.1: Análise de Requisitos: Verificação e Validação
 
 | Atividade | Início | Fim | Responsáveis | Data da Revisão | Revisores |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -98,7 +98,7 @@ Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
-## Planejamento Entrega 5.2: Análise de Requisitos: Verificação e Validação II
+## Tabela 7: Planejamento Entrega 5.2: Análise de Requisitos: Verificação e Validação II
 
 
 | Atividade | Início | Fim | Responsáveis | Data da Revisão | Revisores |
@@ -112,7 +112,7 @@ Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
-## Planejamento Entrega 6: Pós-Rastreabilidade - Gerência II
+## Tabela 8: Planejamento Entrega 6: Pós-Rastreabilidade - Gerência II
 
 | Atividade | Início | Fim | Responsáveis | Data da Revisão | Revisores |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -125,7 +125,7 @@ Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
-## Planejamento Entrega Final
+## Tabela 9: Planejamento Entrega Final
 
 | Atividade | Início | Fim | Responsáveis | Data da Revisão | Revisores |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -136,7 +136,7 @@ Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 
-## Histórico de Versão
+## Tabela 10: Histórico de Versão
 
 | Versão | Data de execução | Data prevista de revisão | Descrição  |   Autor(es)    |  Revisado  |
 | :----: | :--------------: | :----------------------: | :--------: | :------------: | :---------:|
