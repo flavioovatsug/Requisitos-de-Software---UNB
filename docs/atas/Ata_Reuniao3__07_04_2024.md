@@ -30,7 +30,7 @@ termino: 21:00
 
 | Tarefa                               | Responsável                                      |
 | ------------------------------------ | ------------------------------------------------ |
-| Alterações no mkdocs                | [Flávio Gustavo](https://github.com/flavioovatsug)  |  
+| Alterações no mkdocs                | [Flávio Melo](https://github.com/flavioovatsug)  |  
 | Criação da terceira Ata              | [Ian Lucca](https://github.com/IanLucca12) |
 | Correção dos Cronogramas              | [Ian Lucca](https://github.com/IanLucca12) |
 | Entrar em contato com mais um entrevistado  | [Christian](https://github.com/crstyhs)          |
@@ -47,4 +47,5 @@ Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 ## Histórico de versão
 | Versão | Data | Descrição | Autor |
 | :----: | :--: | :-------: | :---: | 
-| 1.0 | 07/04/2024 | Criação da ata de reunião | [Ian Lucca](https://github.com/IanLucca12) |
+| 1.0 | 07/04/2024 | Criação da ata de reunião | [Ian Lucca](https://github.com/IanLucca12) |[Marcos](https://github.com/Bittarx)|
+

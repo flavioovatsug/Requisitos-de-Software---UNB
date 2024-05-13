@@ -56,5 +56,5 @@ Abaixo está presente todos os dados que obtivemos após a priotização
 
 | Versão | Data   | Descrição | Autor(es) | Revisor(es)     |
 | ------ | ---------- | ---------------- | ------------------ | ----------- |
-| 1.0    | 16/05 |Adicionando o Moscow |[Flávio Melo](https://github.com/flavioovatsug)| | 
-| 1.1    | 16/05 |Corrige bugs |[Flávio Melo](https://github.com/flavioovatsug)| | 
+| 1.0    | 16/05 |Adicionando o Moscow |[Flávio Melo](https://github.com/flavioovatsug)| [Harryson Campos](https://github.com/harry-cmartin) | 
+| 1.1    | 16/05 |Corrige bugs |[Flávio Melo](https://github.com/flavioovatsug)| [Harryson Campos](https://github.com/harry-cmartin) | 

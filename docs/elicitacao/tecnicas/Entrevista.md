@@ -75,6 +75,6 @@ Tabela 2 - Requisitos elicitados
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 14/04/2024 | Criação do documento da entrevista | [Christian](https://github.com/crstyhs)|  |
-| 1.1 | 17/04/2024 | Atualização das identificações | [Christian](https://github.com/crstyhs)|  |
+| 1.0 | 14/04/2024 | Criação do documento da entrevista | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
+| 1.1 | 17/04/2024 | Atualização das identificações | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
 

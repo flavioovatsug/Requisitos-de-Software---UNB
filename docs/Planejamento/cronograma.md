@@ -21,7 +21,7 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 | 6     | Pós-Rastreabilidade            | Gerência II                                                  | 03/06   | 04/06         |
 | 7     | Entrega final                  | Projeto finalizado                                           | 24/06   | 25/06 - 11/07 |
 
-
+Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 ### Planejamento Entrega 1: Planejamento do Projeto
 
 |            Atividade             | Início | Fim |                   Responsáveis                    | Revisores | Data de Revisão |
@@ -36,6 +36,8 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 |             Heatmap              |  25/03  | 31/03  | Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo | Christian, Marcos Bittar | 01/04|
 |  Rich Pictures dos Integrantes   |  28/03  |  29/03  |Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo|Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo | 01/04|
 |      Vídeo de apresentação       |  25/03  |  31/03  | Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo | Christian | 01/04|
+
+Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 ## Planejamento de entrega 2: Elicitação: Técnicas e Priorização
 
@@ -53,6 +55,8 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 | Gravação da apresentação | 16/04 | 17/04 | Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo | Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo | 17/04 |
 | Correções pós apresentação | 18/04 | 19/04 | Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo | Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo | 19/04 |
 
+Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
+
 ## Planejamento Entrega 3: Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar 
 
 | Atividade | Início | Fim | Responsáveis | Data da Revisão | Revisores |
@@ -64,6 +68,8 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 | Modelagem de Requisitos: Especificação Suplementar |  26/04 |29/04 | Christian e Marcos Bittar  |  29/04  | Italo Bruno  |
 | Gravação da Apresentação e  Entrega |  03/05|  04/05  | Flávio Gustavo, Christian, Italo Bruno, Harryson, Marcos Bittar, Ian Lucca, |  04/05   | Flávio Gustavo, Christian, Italo Bruno, Marcos Bittar, Ian Lucca, Harryson |
 | Corrreção pós apresentação |  07/05 | 08/05 | Flávio Gustavo, Christian, Italo Bruno, Ian Lucca, Harryson,  Marcos Bittar |  08/05  | Flávio Gustavo, Christian, Italo Bruno, Ian Lucca, Harryson, Marcos Bittar |
+
+Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 ## Planejamento Entrega 4: Modelagem de requisitos: Ágil (Histórias de Usuário, Backlogs, NFR Framework)
 
@@ -78,6 +84,8 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 | Gravação de apresentação | 12/05 | 13/05 | Marcos Bittar, Italo Bruno, Harryson, Christian, Flávio Gustavo< Ian Lucca | 13/05 |  Marcos Bittar, Italo Bruno, Harryson, Christian, Flávio Gustavo, Ian Lucca | 
 | Corrreção pós apresentação | 14/05 | 17/05 | Marcos Bittar, Italo Bruno, Harryson, Christian, Flávio Gustavo, Ian Lucca | 17/05 |  Marcos Bittar, Italo Bruno, Harryson, Christian, Flávio Gustavo, Ian Lucca |
 
+Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
+
 ## Planejamento Entrega 5.1: Análise de Requisitos: Verificação e Validação
 
 | Atividade | Início | Fim | Responsáveis | Data da Revisão | Revisores |
@@ -87,6 +95,8 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 | Validação de requisitos | 18/05 | 19/05 | Italo Bruno e Ian Lucca | 19/05 | Marcos Bittar e Flávio Gustavo |
 | Gravação da entrega | 20/05 | 21/05 | Christian, Italo Bruno, Harryson, Marcos Bittar, Flávio Gustavo, Ian Lucca | 21/05 | Christian, Italo Bruno, Harryson, Marcos Bittar, Flávio Gustavo, Ian Lucca |
 | Revisão pós avaliação | 23/05 | 28/05 | Christian, Italo Bruno, Harryson, Marcos Bittar, Flávio Gustavo, Ian Lucca | 28/05 | Christian, Italo Bruno, Harryson, Marcos Bittar, Flávio Gustavo, Ian Lucca |
+
+Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 
 ## Planejamento Entrega 5.2: Análise de Requisitos: Verificação e Validação II
 
@@ -100,6 +110,8 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 | Gravação da apresentação | 15/06 | 16/06 | Italo Bruno, Christian, Flávio Gustavo, Ian Lucca, Marcos Bittar, Harryson,  | 17/06 | Italo Bruno, Christian, Flávio Gustavo, Ian Lucca, Marcos Bittar, Harryson |
 | Correções pós apresentação | 19/06 | 19/06 | Harryson, Christian, Flávio Gustavo, Ian Lucca, Marcos Bittar, Italo Bruno,  | 19/06 | Harryson, Christian, Flávio Gustavo, Ian Lucca, Marcos Bittar, Italo Bruno |
 
+Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
+
 ## Planejamento Entrega 6: Pós-Rastreabilidade - Gerência II
 
 | Atividade | Início | Fim | Responsáveis | Data da Revisão | Revisores |
@@ -111,6 +123,8 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 | Gravação da apresentação | 15/06 | 16/06 | Italo Bruno, Christian, Flávio Gustavo, Ian Lucca, Marcos Bittar, Harryson | 17/06 | Italo Bruno, Christian, Flávio Gustavo, Ian Lucca, Marcos Bittar, Harryson |
 | Correções pós apresentação | 19/06 | 19/06 | Harryson, Christian, Flávio Gustavo, Ian Lucca, Marcos Bittar, Italo Bruno | 19/06 | Harryson, Christian, Flávio Gustavo, Ian Lucca, Marcos Bittar, Italo Bruno |
 
+Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
+
 ## Planejamento Entrega Final
 
 | Atividade | Início | Fim | Responsáveis | Data da Revisão | Revisores |
@@ -119,6 +133,8 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 | Gravação da Apresentação e Entrega | 21/06 | 24/06 | Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian | 24/06 | Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
 | Correção pós apresentação | 25/06 | 10/07 | Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian | 10/07 | Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
 
+Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
+
 
 ## Histórico de Versão
 
@@ -126,3 +142,6 @@ O cumprimento do fluxo deste cronograma é de vital importância para garantir o
 | :----: | :--------------: | :----------------------: | :--------: | :------------: | :---------:|
 | `1.0`  |    31/03/2024    |   31/03/2024    |                  Criação do artefato                 | [Ian Lucca](https://github.com/IanLucca12) | Christian     |
 | `2.0`  |    01/04/2024    |   14/04/2024    |  Correção e Melhoria do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
+| `3.0`  |    13/05/2024    |   20/05/2024    |  Correção e Melhoria do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Italo Bruno, Harryson,  Christian |
+
+Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024

@@ -59,5 +59,5 @@ Tabela 01 - Requisitos elicitados
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 13/04/2024 | Criação do documento da análise da interface do usuário | [Christian](https://github.com/crstyhs)|  |
-| 1.1 | 17/04/2024 | Atualização das identificações | [Christian](https://github.com/crstyhs)|  |
+| 1.1 | 17/04/2024 | Atualização das identificações | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
 
