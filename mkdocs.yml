@@ -61,6 +61,7 @@ nav:
       - Ferramentas: Planejamento/ferramentas.md
   - Elicitação: 
       - Perfil de usuário: elicitacao/Perfil_de_usuario.md
+      - Personas: elicitacao/personas.md
       - Cenários: elicitacao/Cenarios.md
       - Técnicas:
           - Questionario: elicitacao/tecnicas/questionario.md
