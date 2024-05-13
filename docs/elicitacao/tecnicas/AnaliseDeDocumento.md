@@ -34,6 +34,6 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 22/04/2024 | Criação do documento da análise de documento | [Bittar](https://github.com/Bittarx)| [Christian](https://github.com/crstyhs) |
-| 2.0 | 17/04/2024 | Atualização do documento dos requisitos elicitado | [Bittar](https://github.com/Bittarx)| |
+| 2.0 | 17/04/2024 | Atualização do documento de análise de documento | [Bittar](https://github.com/Bittarx)| |
 
 
