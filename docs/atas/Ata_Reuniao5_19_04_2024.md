@@ -43,5 +43,5 @@ Fonte: [Italo Bruno](https://github.com/ItaloBrunoM), 2024
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 30/04/2024 | Criação da ata de reunião e  adição do video | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
-| 1.0 | 30/04/2024 | Adição do novo video | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
+| 1.1 | 30/04/2024 | Adição do novo video | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
 
