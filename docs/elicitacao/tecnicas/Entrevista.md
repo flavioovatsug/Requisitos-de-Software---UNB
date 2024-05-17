@@ -13,7 +13,10 @@ feitas algumas perguntas relacionadas ao aplicativo Sinesp cidadão sobre aspect
 
 Abaixo a tabela 1 com a lista de perguntas elaboradas
 
+<center>
+
 Tabela 1 - Questões levantadas
+
 | Pergunta|  Tipo | 5W2H  | 
 | ---- | ---- |---- | 
 | Qual é a sua função dentro da polícia e como o Sinesp Cidadão se encaixa nas suas responsabilidades diárias? |   Aberta|What |
@@ -28,6 +31,8 @@ Tabela 1 - Questões levantadas
 | Com qual frequência você usa o Sinesp Cidadão | Fechada| WHat |
 | Como você descreve sua experiência geral com o aplicativo|Fechada |How |
 
+</center>
+
 ##  Técnicas
 Foram utilizadas as técnicas de perguntas 5W2H para uma maior variedade e abrangência de perguntas onde a ordem de apresentação delas foram estruturadas em forma de funil, sendo iniciado com perguntas
  abertas e a medida que é adentrado mais afundo na entrevista perguntas fechadas são apresentadas
@@ -35,24 +40,29 @@ Foram utilizadas as técnicas de perguntas 5W2H para uma maior variedade e abran
 - Foi mantido em mente durante a entrevista a necessidade de ser um bom ouvinte, a busca da opinião do e não interrupção do entrevistado
 - As perguntas não foram seguidas de forma exata visando uma dinamicidade e liberdade maior para o entrevistado 
 - Foi questionado ao entrevistado a permissão para gravação da reunião e análise dos requisitos elicitados nela
+
 ## Requisitos Elicitados
+
+<center>
+
 Tabela 2 - Requisitos elicitados
+
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| ENT1 | Retorno rápido de informação | RNF| Implementado
-| ENT2 | Disponibilizar restrição sem erros | RF| Não Implementado
-| ENT3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
+| ENT1 | Retorno rápido de informação | RNF| Implementado|
+| ENT2 | Disponibilizar restrição sem erros | RF| Não Implementado|
+| ENT3 | Disponibilizar informação do tipo de veículo | RF| Não Implementado|
 | ENT4 | Banco de dados ser constantemente atualizado | RNF| 
-| ENT5 | Disponibilizar diversas opções de denúncia | RF| Implementado
-| ENT6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
-| ENT7 | Tutorial de uso do aplicativo | RF| Implementado
-| ENT8 | Disponibilização de fotos do desaparecido | RF| Não Implementado
-| ENT9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado
-| ENT10 | Facilidade de uso pelos cidadãos | RNF| Implementado
-| ENT11 | Ajudar o trabalho policial e a comunidade | RNF| Implementado
-| ENT12 | Usar funcionalidades sem o cadastro do Gov | RF| Não Implementado
+| ENT5 | Disponibilizar diversas opções de denúncia | RF| Implementado|
+| ENT6 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado|
+| ENT7 | Tutorial de uso do aplicativo | RF| Implementado|
+| ENT8 | Disponibilização de fotos do desaparecido | RF| Não Implementado|
+| ENT9 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado|
+| ENT10 | Facilidade de uso pelos cidadãos | RNF| Implementado|
+| ENT11 | Ajudar o trabalho policial e a comunidade | RNF| Implementado|
+| ENT12 | Usar funcionalidades sem o cadastro do Gov | RF| Não Implementado|
 
-
+</center>
 
 
 ## Referências
@@ -65,6 +75,6 @@ Tabela 2 - Requisitos elicitados
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 14/04/2024 | Criação do documento da entrevista | [Christian](https://github.com/crstyhs)|  |
-| 1.1 | 17/04/2024 | Atualização das identificações | [Christian](https://github.com/crstyhs)|  |
+| 1.0 | 14/04/2024 | Criação do documento da entrevista | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
+| 1.1 | 17/04/2024 | Atualização das identificações | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
 

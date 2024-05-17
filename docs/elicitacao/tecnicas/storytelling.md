@@ -14,24 +14,25 @@ onde foi compartilhado diversas experiências de uso do aplicativo Sinesp Cidad�
 Abaixo a tabela 1 com um resumo das histórias compartilhadas
 
 Tabela 1 - Histórias compartilhadas
+
 | Tema | Assunto  |
 | ---- | ---- |
 | Ocorrência de perturbação do sossego | - A necessidade da parte incomodada deve ir para a delegacia contraposto com a funcionalidade participação cidadã  | 
-|  |
 | Surgimento do Sinesp Cidadão | - A disponibilização de um aplicativo que pode substituir a necessidade do rádio  |
-|  |
 | Surgimento da placa Mercosul | - A dificuldade de identificação da origem do veículo na placa Mercosul|  
-| Desatualização dos dados do banco | - Como houve anteriormente a 2021 constrangimentos indevidos devido a disparidade de informações reais e disponíveis no banco de dados 
-| Alimentação do banco de dados | - Caso de apreensão que ajuda a contribuir para o banco de dados
+| Desatualização dos dados do banco | - Como houve anteriormente a 2021 constrangimentos indevidos devido a disparidade de informações reais e disponíveis no banco de dados |
+| Alimentação do banco de dados | - Caso de apreensão que ajuda a contribuir para o banco de dados|
 
 ## Requisitos Elicitados
+
 Tabela 2 - Requisitos elicitados
+
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| STO1 | Facilidade de uso | RNF| Implementado
-| STO2 | Disponibilizar informação do tipo de veículo | RF| Não Implementado
-| STO3 | Banco de dados ser constantemente atualizado | RNF| 
-| STO4 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado
+| STO1 | Facilidade de uso | RNF| Implementado|
+| STO2 | Disponibilizar informação do tipo de veículo | RF| Não Implementado|
+| STO3 | Banco de dados ser constantemente atualizado | RNF| |
+| STO4 | Aplicativo deve ser constantemente divulgado | RNF| Não Implementado|
 
 
 
@@ -45,6 +46,6 @@ Tabela 2 - Requisitos elicitados
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 15/04/2024 | Criação do documento do Storytelling | [Christian](https://github.com/crstyhs)|  |
-| 1.1 | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)|  |
+| 1.0 | 15/04/2024 | Criação do documento do Storytelling | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
+| 1.1 | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
 

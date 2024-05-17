@@ -8,7 +8,7 @@ Um questiónario é uma forma eficiente e rápida de coletar dados qualitativos 
 
 ## Metodologia
 
-O questionário foi divulgado em grupos de WhatsApp e Telegram nos grupos da Universidade de Brasília, além de grupos de servidores públicos. Essa metodologia ajudará a coletar dados dos usuários mais comuns do aplicativo em estudo, facilitando o desenvolvimento do perfil de usuário e elicitação de novos requisitos.
+O questionário foi divulgado em grupos de WhatsApp e Telegram nos grupos da Universidade de Brasília, além de grupos de servidores públicos, durante o períod de 24/04 à 28/04, onde foram coletadas 16 respostas no total. Essa metodologia ajudará a coletar dados dos usuários mais comuns do aplicativo em estudo, facilitando o desenvolvimento do perfil de usuário e elicitação de novos requisitos.
 
 
 ## Resultados

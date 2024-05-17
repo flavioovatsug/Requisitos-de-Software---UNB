@@ -47,22 +47,36 @@ nav:
       - Ata 2: atas/Ata_Reuniao2_31_03_2024.md
       - Ata 3: atas/Ata_Reuniao3__07_04_2024.md
       - Ata 4: atas/Ata_Reuniao4_14_04_2024.md
+      - Ata 5: atas/Ata_Reuniao5_19_04_2024.md
+  - Apresentações: 
+      - Apresentação 1: Apresentacoes/apresentacao_1.md
+      - Apresentação 2: Apresentacoes/apresentacao_2.md
   - Planejamento:
       - Lista de Aplicativos: Planejamento/Lista_de_aplicativos.md
       - Aplicativo Escolhido: Planejamento/App_selecionado.md
-      - Cronograma: Planejamento/cronograma.md
+      - Cronograma Planejado: Planejamento/cronograma.md
+      - Cronograma executado: Planejamento/Cronograma_Executados.md
       - Heatmap: Planejamento/heatmap.md
       - Rich Pictures: Planejamento/Rich_pictures.md
       - Ferramentas: Planejamento/ferramentas.md
   - Elicitação: 
       - Perfil de usuário: elicitacao/Perfil_de_usuario.md
+      - Personas: elicitacao/personas.md
+      - Cenários: elicitacao/Cenarios.md
       - Técnicas:
           - Questionario: elicitacao/tecnicas/questionario.md
           - Analise de Interface: elicitacao/tecnicas/AnaliseDaInterface.md
+          - Analise de Documento: elicitacao/tecnicas/AnaliseDeDocumento.md
           - Analise de Protocolo: elicitacao/tecnicas/AnaliseDeProtocolo.md
           - Entrevista: elicitacao/tecnicas/Entrevista.md
           - Introspecção: elicitacao/tecnicas/Introspeccao.md
           - Storytelling: elicitacao/tecnicas/storytelling.md
+      - Requisitos Elicitados: elicitacao/tecnicas/Requisitos_elicitados.md
       - Priorização: 
           - MOSCOW: elicitacao/priorizacao/Moscow.md
           - 100$: elicitacao/priorizacao/100$.md
+          - FTF: elicitacao/priorizacao/FTF.md
+          - Three Scales: elicitacao/priorizacao/three_scales.md
+  - Modelagem:
+      - Casos de uso: Modelagem/Casos_de_uso.md
+
