@@ -77,4 +77,6 @@ nav:
           - 100$: elicitacao/priorizacao/100$.md
           - FTF: elicitacao/priorizacao/FTF.md
           - Three Scales: elicitacao/priorizacao/three_scales.md
+  - Modelagem:
+      - Casos de uso: Modelagem/Casos_de_uso.md
 
