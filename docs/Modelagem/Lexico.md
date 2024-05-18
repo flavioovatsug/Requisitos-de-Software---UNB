@@ -16,7 +16,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
 
-![Figura 1]()
+![Figura 1](../assets/lexicos/tabale_lexico.jpg)
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: SERRANO M.; SERRANO M. Requisitos - Aula 10.</p></font>
@@ -277,7 +277,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/"></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
 
 <p style="text-align: center">Tabela 16 - Estrutura do dicionário</p>
 
