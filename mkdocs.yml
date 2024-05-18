@@ -78,5 +78,6 @@ nav:
           - FTF: elicitacao/priorizacao/FTF.md
           - Three Scales: elicitacao/priorizacao/three_scales.md
   - Modelagem:
-      - Casos de uso: Modelagem/Casos_de_uso.md
+      - Casos de uso: Modelagem/Casos_De_uso.md
+      
 
