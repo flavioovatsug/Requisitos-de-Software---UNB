@@ -110,9 +110,9 @@ A seguir são o elenco de personas do projeto
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-|1.0| 03/05 |   Criação do arquivo    | [Italo Bruno](https://github.com/ItalobrunoM) |  |
-|1.1| 03/05 | Persona secundaria | [Harryson Campos](https://github.com/harry-cmartin) | |
-|1.2| 03/05 |   Anti-Persona    | [Italo Bruno](https://github.com/ItalobrunoM) |  |
-|1.3| 03/05 | Persona primaria | [Christian](https://github.com/crstyhs) | |
-|1.4| 03/05 | Persona secundaria |[Ian Lucca](https://github.com/IanLucca12) | |
-|1.5| 03/05 | Persona secundaria |[Flávio Melo](https://github.com/flavioovatsug) | |
+|1.0| 03/05 |   Criação do arquivo    | [Italo Bruno](https://github.com/ItalobrunoM) | [Christian](https://github.com/crstyhs)  |
+|1.1| 03/05 | Persona secundaria | [Harryson Campos](https://github.com/harry-cmartin) |[Italo Bruno](https://github.com/ItalobrunoM) |
+|1.2| 03/05 |   Anti-Persona    | [Italo Bruno](https://github.com/ItalobrunoM) | [Italo Bruno](https://github.com/ItalobrunoM) |
+|1.3| 03/05 | Persona primaria | [Christian](https://github.com/crstyhs) |[Italo Bruno](https://github.com/ItalobrunoM) |
+|1.4| 03/05 | Persona secundaria |[Ian Lucca](https://github.com/IanLucca12) | [Italo Bruno](https://github.com/ItalobrunoM)|
+|1.5| 03/05 | Persona secundaria |[Flávio Melo](https://github.com/flavioovatsug) | [Italo Bruno](https://github.com/ItalobrunoM)|
