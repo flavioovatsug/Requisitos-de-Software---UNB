@@ -40,8 +40,8 @@ Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 | Versão | Data de execução | Data prevista de revisão | Descrição  |   Autor(es)    |  Revisado  |
 | :----: | :--------------: | :----------------------: | :--------: | :------------: | :---------:|
 | `1.0`  |    01/04/2024    |   14/04/2024    |  Correção e Melhoria do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
-| `2.0`  |    23/04/2024    |   24/04/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
-| `3.0`  |    13/05/2024    |   20/05/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson |
+| `1.1`  |    23/04/2024    |   24/04/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
+| `1.2`  |    13/05/2024    |   20/05/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson |
 
 Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 
