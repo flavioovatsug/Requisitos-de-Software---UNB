@@ -141,7 +141,7 @@ Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
 | Versão | Data de execução | Data prevista de revisão | Descrição  |   Autor(es)    |  Revisado  |
 | :----: | :--------------: | :----------------------: | :--------: | :------------: | :---------:|
 | `1.0`  |    31/03/2024    |   31/03/2024    |                  Criação do artefato                 | [Ian Lucca](https://github.com/IanLucca12) | Christian     |
-| `2.0`  |    01/04/2024    |   14/04/2024    |  Correção e Melhoria do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
-| `3.0`  |    13/05/2024    |   20/05/2024    |  Correção e Melhoria do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Italo Bruno, Harryson,  Christian |
+| `1.1`  |    01/04/2024    |   14/04/2024    |  Correção e Melhoria do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
+| `1.2`  |    13/05/2024    |   20/05/2024    |  Correção e Melhoria do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Italo Bruno, Harryson,  Christian |
 
 Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
