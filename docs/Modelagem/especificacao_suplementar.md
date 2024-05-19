@@ -9,7 +9,7 @@ A Especificação Suplementar é um documento em linguagem natural que descreve 
 Iremos utilizar o FURPS+, que é uma metodologia para categorizar os requisitos de um sistema de software, garantindo uma abordagem abrangente. O acrônimo representa Funcionalidade (as capacidades específicas do sistema), Usabilidade (facilidade de uso e experiência do usuário), Confiabilidade (disponibilidade e tolerância a falhas), Desempenho (eficiência e tempo de resposta), e Suportabilidade (facilidade de manutenção e suporte). Já o "+" abrange requisitos não-funcionais (Requisitos de design, Requisitos de implementação, Requisitos de interface e Requisitos físicos).
 
 ## Funcionalidade
-...
+Disponível no arquivo requisitos elicitados na pasta elicitacao
 
 ## Usabilidade
 
@@ -105,9 +105,43 @@ O aplicativo deve estar de acordo com as boas práticas de Design da engenharia 
 
 <font size="3"><p style="text-align: center">Fonte: [Bittar](https://github.com/Bittarx).</p></font>
 
+## Requisitos de Interface
+<font><p style="text-align: center">**Tabela 6** - Requisitos de Interface</p></font>
+
+<center>
+
+| ID    | Descrição                                                                                                                                            |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RI01 |  O aplicativo deve ser compatível com telas touchscreen para permitir a interação do usuário                                                               |
+| RI02 |  O aplicativo deve seguir as diretrizes de design da plataforma em que está sendo executado, como Material Design para Android e Human Interface Guidelines para iOS                                               |
+| RI03 |  O aplicativo deve fornecer feedback visual e auditivo para garantir uma experiência de usuário acessível para pessoas com deficiências visuais ou auditivas                                                       |
+| RI04 |  O aplicativo deve ser responsivo, adaptando-se a diferentes tamanhos de tela e orientações, para garantir uma experiência consistente em dispositivos móveis(tablets e celulares)                                 |
+
+
+
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Christian Hirsch Santos](https://github.com/crstyhs).</p></font>
+## Requisitos Físicos
+<font><p style="text-align: center">**Tabela 7** - Requisitos Físicos</p></font>
+
+<center>
+
+| ID    | Descrição                                                                                                                                            |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RFS01 |   O dispositivo móvel deve ter uma conexão de internet ativa para acessar e utilizar todas as funcionalidades do aplicativo.                                                              |
+| RFS02 |   O aplicativo deve ocupar até 59 mb de espaço para instalação                                                              |
+| RFS03 |   O aplicativo deve ser compatível com sistemas operacionais: Para iPhone requer o iOS 9.0 ou posterior <br> Para iPad requer o iPadOS 9.0 ou posterior.  <br> Para iPod touch requer o iOS 9.0 ou posterior.<br> Para Mac  requer o macOS 11.0 ou posterior e um Mac com o chip M1 da Apple ou posterior.<br> Para Android requer 6.0 ou posterior                                                         |
+
+
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Christian Hirsch Santos](https://github.com/crstyhs).</p></font>
 ## Requisitos de Sistema de Ajuda e de Documentação
 
-<font><p style="text-align: center">**Tabela 6** - requisitos de Sistema e Documentação</p></font>
+<font><p style="text-align: center">**Tabela 8** - requisitos de Sistema e Documentação</p></font>
 
 <center>
 
@@ -135,4 +169,5 @@ Todos os Dados acessados pelo app (que podem ser obtidos por acesso à câmera, 
 | Versão | Data   | Descrição | Autor(es) | Revisor(es)     |
 | ------ | ---------- | ---------------- | ------------------ | ----------- |
 | 1.0    | 17/05 | Adicionando o Moscow |[Flávio Melo](https://github.com/flavioovatsug)| [Harryson Campos](https://github.com/harry-cmartin) | 
-| 1.1    | 17/05 | adicionando tópicos: Observações de Dados, Requisitos de Sistema de Ajuda e de Documentação, Requisitos de Implementação, Restrições de Design |[Bittar](https://github.com/Bittarx)| | 
+| 1.1    | 17/05 | adicionando tópicos: Observações de Dados, Requisitos de Sistema de Ajuda e de Documentação, Requisitos de Implementação, Restrições de Design |[Bittar](https://github.com/Bittarx)| [Christian Hirsch Santos](https://github.com/crstyhs)| 
+| 1.2    | 19/05 | adicionando tópicos: Requisitos de interface e Requisitos físicos |[Christian Hirsch Santos](https://github.com/crstyhs)| | 
