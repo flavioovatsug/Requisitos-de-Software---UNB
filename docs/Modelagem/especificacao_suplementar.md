@@ -48,10 +48,12 @@ Na tabela 2, é possível os requisitos identificados para Confiabilidade.
 | CON02 | As atualizações de software e manutenções devem ser realizadas fora dos períodos de maior uso do aplicativo, como durante a noite, com notificação prévia aos usuários.                                          |
 | CON03 | O aplicativo deve possuir uma interface que permita aos usuários resolver problemas em até três interações simples, como cliques ou toques.                                   |
 | CON04 | O aplicativo deve ser distribuído entre múltiplos servidores.                                                                            |
+| CON05 | o Sistema deve sempre estar com os Dados atualizados                                          |
+| CON06 | O sistema deve ser desenvolvido conforme a Lei Geral de Proteção de Dados (LGPD).                                                                    |
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug) e [Bittar](https://github.com/Bittarx).</p></font>
 
 ## Desempenho
 
@@ -87,6 +89,43 @@ Na tabela 4, é possível os requisitos identificados para Suportabilidade.
 
 <font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
 
+## Restrições de Design
+
+O aplicativo deve estar de acordo com as boas práticas de Design da engenharia de software
+
+## Requisitos de Implementação
+
+<font><p style="text-align: center">**Tabela 5** - Implementação</p></font>
+
+| ID    | Descrição                                                                                                                         |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------- |
+| IMP01 | O sistema deve funcionar em dispositivos android versão 14                                                               |
+| IMP02 | O sistema deve funcionar em dispositivos IOS 9.0 ou posterior                                       |
+| IMP04 | O sistema deve funcionar com 100MB de memória disponível                                                                    |
+
+<font size="3"><p style="text-align: center">Fonte: [Bittar](https://github.com/Bittarx).</p></font>
+
+## Requisitos de Sistema de Ajuda e de Documentação
+
+<font><p style="text-align: center">**Tabela 6** - requisitos de Sistema e Documentação</p></font>
+
+<center>
+
+| ID    | Descrição                                                                                                                                            |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RAD01 | O sistema deve disponibilizar uma aba "ajuda", com perguntas frequentes e respostas para as mesmas                                                                |
+| RAD02 | O sistema deve avisar, na aba procurados, para que o usuário não aborde procurados e deve have um botão para que o usuário ligue diretamente para a polícia                                                                  |
+
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [Bittar](https://github.com/Bittarx).</p></font>
+
+## Observações de Dados
+
+Todos os Dados acessados pelo app (que podem ser obtidos por acesso à câmera, galeria de fotos e localização do aparelho ou por meio de dados oficiais disponibilizados pelo Gov.Br) devem ser armazenados em bancos de dados do Sinesp e, em nenhuma hipótese, devem ser comercializados ou redistribuídos. São coletados também dados de acesso, pesquisas e IMEI para a identificação do usuário somente em casos de auditoria, quando oficialmente solicitado por autoridade polícial ou judiciária, em procedimento de investigação ou processos criminais.
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/40/Plano_de_Ensino%20RE%20012024%20Turma%201.pdf>. Acesso em 17 de Maio de 2024
@@ -96,3 +135,4 @@ Na tabela 4, é possível os requisitos identificados para Suportabilidade.
 | Versão | Data   | Descrição | Autor(es) | Revisor(es)     |
 | ------ | ---------- | ---------------- | ------------------ | ----------- |
 | 1.0    | 17/05 | Adicionando o Moscow |[Flávio Melo](https://github.com/flavioovatsug)| [Harryson Campos](https://github.com/harry-cmartin) | 
+| 1.1    | 17/05 | adicionando tópicos: Observações de Dados, Requisitos de Sistema de Ajuda e de Documentação, Requisitos de Implementação, Restrições de Design |[Bittar](https://github.com/Bittarx)| | 
