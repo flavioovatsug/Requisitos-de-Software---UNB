@@ -11,7 +11,7 @@ aplicação sob estudo.[1]
 
 
 ## Estrutura do dicionário
-Abaixo os modelos seguidos para elaboração do dicionário
+Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos para elaboração do dicionário.
 <font size="2"><p style="text-align: center">Figura 1: Regras por tipo </p></font>
 
 <center>
@@ -41,7 +41,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 ## Léxicos identificados
 
-<p style="text-align: center">Tabela 2 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 2 - Léxico de Usuário</p>
 
 <center>
   
@@ -58,7 +58,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/Bittarx">Marcos Bittar</a></p>
 
-<p style="text-align: center">Tabela 3 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 3 - Léxico de Objeto </p>
 
 <center>
   
@@ -75,7 +75,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/crstyhs">Christian</a></p>
 
-<p style="text-align: center">Tabela 4 - Estrutura do dicionário</p>
+<p style="text-align: center"> Tabela 4 - Léxico de Mandado</p>
 
 <center>
   
@@ -92,7 +92,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/flavioovatsug"></a>Flávio Melo</p>
 
-<p style="text-align: center">Tabela 5 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 5 - Léxico de Mercosul </p>
 
 <center>
   
@@ -109,7 +109,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/crstyhs">Christian</a></p>
 
-<p style="text-align: center">Tabela 6 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 6 - Léxico de Vínculo </p>
 
 <center>
   
@@ -126,7 +126,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin"></a>Harryson Campos Martins</p>
 
-<p style="text-align: center">Tabela 7 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 7 - Léxico de Editar </p>
 
 <center>
   
@@ -143,7 +143,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/crstyhs"></a>Christian</p>
 
-<p style="text-align: center">Tabela 8 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 8 - Léxico de Login </p>
 
 <center>
   
@@ -160,7 +160,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/IanLucca12"></a>Ian Lucca</p>
 
-<p style="text-align: center">Tabela 9 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 9 - Léxico de Filtrar </p>
 
 <center>
   
@@ -177,7 +177,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
 
-<p style="text-align: center">Tabela 10 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 10 - Léxico de Marcar Localização </p>
 
 <center>
   
@@ -194,7 +194,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/Bittarx"></a>Marcos Bittar</p>
 
-<p style="text-align: center">Tabela 11 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 11 - Léxico de Consultar</p>
 
 <center>
   
@@ -211,7 +211,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Campos</a></p>
 
-<p style="text-align: center">Tabela 12 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 12 - Léxico de Logado </p>
 
 <center>
   
@@ -228,7 +228,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
 
-<p style="text-align: center">Tabela 13 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 13 - Léxico de Registrado</p>
 
 <center>
   
@@ -245,7 +245,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/IanLucca12"></a>Ian Lucca</p>
 
-<p style="text-align: center">Tabela 14 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 14 - Léxico de Desaparecido</p>
 
 <center>
   
@@ -262,7 +262,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/IanLucca12"></a>Ian Lucca</p>
 
-<p style="text-align: center">Tabela 15 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 15 - Léxico de Furtado </p>
 
 <center>
   
@@ -279,7 +279,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
   
 <p style="text-align: center">Fonte: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
 
-<p style="text-align: center">Tabela 16 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 16 - Léxico de Obrigatório </p>
 
 <center>
   
