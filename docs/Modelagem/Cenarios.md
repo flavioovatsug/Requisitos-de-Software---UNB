@@ -73,6 +73,7 @@ Abaixo o modelo seguido para elaboração dos cenários na tabela 1
 <p style="text-align: center">Fonte: <a href="https://github.com/crstyhs">Christian</a></p>
 
 <font size="2"><p style="text-align: center">Tabela 3: cenário </p></font>
+
 <center>
   
 | CN02   | Descrição |
@@ -87,6 +88,8 @@ Abaixo o modelo seguido para elaboração dos cenários na tabela 1
 | Exceção  |   Dados da pessoa desaparecida não encontrados ou incompletos no banco de dados   |
 
 <center>
+
+<p style="text-align: center">Fonte: <a href="https://github.com/Bittarx">Marcos Bittar</a></p>
   
 
 
@@ -107,9 +110,12 @@ Abaixo o modelo seguido para elaboração dos cenários na tabela 1
 
 <center>
   
+<p style="text-align: center">Fonte: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
+
 
 
 <font size="2"><p style="text-align: center">Tabela 5: cenário </p></font>
+
 <center>
   
 | CN04   | Descrição |
@@ -124,7 +130,8 @@ Abaixo o modelo seguido para elaboração dos cenários na tabela 1
 | Exceção  |   Informações sobre pessoas procuradas não encontradas ou dados desatualizados no banco de dados   |
 
 <center>
-  
+
+<p style="text-align: center">Fonte: <a href="https://github.com/ItaloBrunoM">Italo Bruno</a></p>
 
 
 <font size="2"><p style="text-align: center">Tabela 6: cenário </p></font>
