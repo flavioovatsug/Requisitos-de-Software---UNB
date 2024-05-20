@@ -48,6 +48,8 @@ Tabela 01 - Requisitos elicitados
 
 </center>
 
+## Vídeo
+[Aqui](https://www.youtube.com/watch?v=_VNYyFgZD9A)
 
 ## Referências
 [1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 13 de abril de 2024.</br>
@@ -60,4 +62,5 @@ Tabela 01 - Requisitos elicitados
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 13/04/2024 | Criação do documento da análise da interface do usuário | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
 | 1.1 | 17/04/2024 | Atualização das identificações | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
+| 1.2 | 20/05/2024 | Adição da gravação | [Christian](https://github.com/crstyhs)|  |
 

@@ -50,6 +50,8 @@ Fonte:  [Christian](https://github.com/crstyhs)
 
 </center>
 
+## Vídeo
+[Aqui](https://www.youtube.com/watch?v=xqAZWFAZL64)
 
 ## Referências
 [1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 13 de abril de 2024.</br>
@@ -61,4 +63,5 @@ Fonte:  [Christian](https://github.com/crstyhs)
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 13/04/2024 | Criação do documento da introspecção | [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
 | 1.1 | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
+| 1.2 | 20/05/2024 | Adição da gravação| [Christian](https://github.com/crstyhs)|  |
 
