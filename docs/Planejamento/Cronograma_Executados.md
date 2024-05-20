@@ -35,6 +35,19 @@ Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 
 Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 
+## Tabela 3: Executado Entrega 3: Modelagem de Requisitos: Cenários, Léxico, Use Case, Especificação Suplementar
+
+| Atividade | Início | Fim  | Responsáveis |
+| --- | --- | --- | --- |
+| Ata de Reunião | 19/04 | 19/04 | Christian |
+| Modelagem de Requisitos: Cenários | 20/04 | 22/04 | Flávio Gustavo, Christian, Italo Bruno, Harryson, Marcos Bittar, Ian Lucca  |
+| Modelagem de Requisitos: Léxico | 22/04 | 24/04 | Flávio Gustavo, Christian, Italo Bruno, Harryson, Marcos Bittar, Ian Lucca  |
+| Modelagem de Requisitos: Use Case | 24/04 | 26/04 |Italo Bruno, Harryson |
+| Modelagem de Requisitos: Especificação Suplementar | 26/04 | 29/04 | Flávio Gustavo, Christian, Italo Bruno, Harryson, Marcos Bittar, Ian Lucca  |
+| Gravação da Apresentação e Entrega | 03/05 | 04/05 | Flávio Gustavo, Christian, Italo Bruno, Harryson, Marcos Bittar, Ian Lucca |
+| Correção pós apresentação | 07/05 | 08/05 | Flávio Gustavo, Christian, Italo Bruno, Ian Lucca, Harryson, Marcos Bittar |
+
+Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 
 ## Tabela X: Histórico de Versões
 | Versão | Data de execução | Data prevista de revisão | Descrição  |   Autor(es)    |  Revisado  |
@@ -42,6 +55,8 @@ Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 | `1.0`  |    01/04/2024    |   14/04/2024    |  Correção e Melhoria do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
 | `1.1`  |    23/04/2024    |   24/04/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
 | `1.2`  |    13/05/2024    |   20/05/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson |
+| `1.3`  |    20/05/2024    |   20/05/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Cristian, Harryson |
+
 
 Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 
