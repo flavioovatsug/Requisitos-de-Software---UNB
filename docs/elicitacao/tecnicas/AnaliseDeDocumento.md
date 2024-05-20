@@ -26,6 +26,8 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | DOC13 | Incluir fotos de pessoa desaparecida | RF|  Implementado|
 | DOC14 | Informar localização de pessoa desaparecida | RF| Implementado|
 
+## Vídeo
+[Aqui](https://www.youtube.com/watch?v=Yn-fGhCfCU8)
 ## Referências
 [1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 13 de abril de 2024.</br>
 [2] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/40/Plano_de_Ensino%20RE%20012024%20Turma%201.pdf>. Acesso em 13 de abril de 2024.</br>
@@ -35,5 +37,6 @@ O processo utilizada para a análise foi, a partir da leitura e interpretação 
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 22/04/2024 | Criação do documento da análise de documento | [Bittar](https://github.com/Bittarx)| [Christian](https://github.com/crstyhs) |
 | 1.1 | 17/04/2024 | Atualização do documento de análise de documento | [Bittar](https://github.com/Bittarx)| [Christian](https://github.com/crstyhs) |
+| 1.2 | 20/05/2024 | Adição da gravação | [Christian](https://github.com/crstyhs)|  |
 
 
