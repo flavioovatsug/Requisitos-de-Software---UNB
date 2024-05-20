@@ -35,7 +35,7 @@ Gravação das elicitações com persona sendo eles :
 Fonte: [Christian Hirsch Santos](https://github.com/crstyhs), 2024
 
 ## Gravação da reunião
-[Video]()
+[Video](https://www.youtube.com/watch?v=huW7cJE9Ajk)
 ## Referências
 
 ## Histórico de versão
