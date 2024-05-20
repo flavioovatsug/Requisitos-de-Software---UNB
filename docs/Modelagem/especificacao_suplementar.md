@@ -170,4 +170,4 @@ Todos os Dados acessados pelo app (que podem ser obtidos por acesso à câmera, 
 | ------ | ---------- | ---------------- | ------------------ | ----------- |
 | 1.0    | 17/05 | Adicionando o Moscow |[Flávio Melo](https://github.com/flavioovatsug)| [Harryson Campos](https://github.com/harry-cmartin) | 
 | 1.1    | 17/05 | adicionando tópicos: Observações de Dados, Requisitos de Sistema de Ajuda e de Documentação, Requisitos de Implementação, Restrições de Design |[Bittar](https://github.com/Bittarx)| [Christian Hirsch Santos](https://github.com/crstyhs)| 
-| 1.2    | 19/05 | adicionando tópicos: Requisitos de interface e Requisitos físicos |[Christian Hirsch Santos](https://github.com/crstyhs)| | 
+| 1.2    | 19/05 | adicionando tópicos: Requisitos de interface e Requisitos físicos |[Christian Hirsch Santos](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) | 
