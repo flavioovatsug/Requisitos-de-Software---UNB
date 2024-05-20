@@ -71,6 +71,8 @@ Abaixo o modelo seguido para elaboração dos cenários na tabela 1
 <center>
   
 <p style="text-align: center">Fonte: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/IanLucca12">Ian Lucca</a></p>
+
 
 <font size="2"><p style="text-align: center">Tabela 3: cenário </p></font>
 
