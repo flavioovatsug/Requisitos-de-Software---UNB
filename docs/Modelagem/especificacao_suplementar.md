@@ -30,7 +30,7 @@ Na tabela 1, é possível os requisitos identificados para Usabilidade.
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug) e [Harryson Campos](https://github.com/harry-cmartin).</p></font>
 
 ## Confiabilidade
 
@@ -122,7 +122,7 @@ O aplicativo deve estar de acordo com as boas práticas de Design da engenharia 
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Christian Hirsch Santos](https://github.com/crstyhs).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Christian Hirsch Santos](https://github.com/crstyhs) e [Ian Lucca](https://github.com/IanLucca12).</p></font>
 ## Requisitos Físicos
 <font><p style="text-align: center">**Tabela 7** - Requisitos Físicos</p></font>
 
@@ -153,7 +153,7 @@ O aplicativo deve estar de acordo com as boas práticas de Design da engenharia 
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Bittar](https://github.com/Bittarx).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Bittar](https://github.com/Bittarx) e [Italo Bruno](https://github.com/ItaloBrunoM).</p></font>
 
 ## Observações de Dados
 
