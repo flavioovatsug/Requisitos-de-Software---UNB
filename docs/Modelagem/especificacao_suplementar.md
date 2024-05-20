@@ -23,10 +23,10 @@ Na tabela 1, é possível os requisitos identificados para Usabilidade.
 
 | ID    | Descrição                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| USA01 | O aplicativo deve apresentar todas as funcionalidades que o app fornece de maneira clara e objetiva.                          |                                                                 |
-| USA02 | O aplicativo deve possuir caminhos curtos para assim ser permitindo que os usuários realizem suas consultas com no máximo 6 cliques.                                  |
-| USA03 | O aplicativo deve possibilitar que os usuários desfaçam ações sempre que possível, oferecendo um botão de "voltar" sempre que possível.  |
-| USA04 | O aplicativo deve assegurar um design e comportamento uniformes, aplicando cores, fontes e ícones de forma consistente em todas as interfaces.                                                                          |
+| US01 | O aplicativo deve apresentar todas as funcionalidades que o app fornece de maneira clara e objetiva.                          |                                                                 |
+| US02 | O aplicativo deve possuir caminhos curtos para assim ser permitindo que os usuários realizem suas consultas com no máximo 6 cliques.                                  |
+| US03 | O aplicativo deve possibilitar que os usuários desfaçam ações sempre que possível, oferecendo um botão de "voltar" sempre que possível.  |
+| US04 | O aplicativo deve assegurar um design e comportamento uniformes, aplicando cores, fontes e ícones de forma consistente em todas as interfaces.                                                                          |
 
 </center>
 
@@ -44,12 +44,12 @@ Na tabela 2, é possível os requisitos identificados para Confiabilidade.
 
 | ID    | Descrição                                                                                                                         |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- |
-| CON01 | O aplicativo deve funcionar durante todos os dias da semana 24 horas por dia.                                                                 |
-| CON02 | As atualizações de software e manutenções devem ser realizadas fora dos períodos de maior uso do aplicativo, como durante a noite, com notificação prévia aos usuários.                                          |
-| CON03 | O aplicativo deve possuir uma interface que permita aos usuários resolver problemas em até três interações simples, como cliques ou toques.                                   |
-| CON04 | O aplicativo deve ser distribuído entre múltiplos servidores.                                                                            |
-| CON05 | o Sistema deve sempre estar com os Dados atualizados                                          |
-| CON06 | O sistema deve ser desenvolvido conforme a Lei Geral de Proteção de Dados (LGPD).                                                                    |
+| CN01 | O aplicativo deve funcionar durante todos os dias da semana 24 horas por dia.                                                                 |
+| CN02 | As atualizações de software e manutenções devem ser realizadas fora dos períodos de maior uso do aplicativo, como durante a noite, com notificação prévia aos usuários.                                          |
+| CN03 | O aplicativo deve possuir uma interface que permita aos usuários resolver problemas em até três interações simples, como cliques ou toques.                                   |
+| CN04 | O aplicativo deve ser distribuído entre múltiplos servidores.                                                                            |
+| CN05 | o Sistema deve sempre estar com os Dados atualizados                                          |
+| CN06 | O sistema deve ser desenvolvido conforme a Lei Geral de Proteção de Dados (LGPD).                                                                    |
 
 </center>
 
@@ -65,9 +65,9 @@ Na tabela 3, é possível os requisitos identificados para Desempenho.
 
 | ID    | Descrição                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------- |
-| DES03 | O aplicativo não deve demorar mais que 1 segundo para fazer uma consulta                                 |
-| DES02 | O aplicativo não deve ter um tempo de resposta maior que 300ms.                                      |
-| DES04 | O aplicativo deve oferecer uma experiência de usuário suave, com transições rápidas e uma organização intuitiva dos menus. |
+| DE03 | O aplicativo não deve demorar mais que 1 segundo para fazer uma consulta                                 |
+| DE02 | O aplicativo não deve ter um tempo de resposta maior que 300ms.                                      |
+| DE04 | O aplicativo deve oferecer uma experiência de usuário suave, com transições rápidas e uma organização intuitiva dos menus. |
 
 <font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
 
@@ -81,11 +81,11 @@ Na tabela 4, é possível os requisitos identificados para Suportabilidade.
 
 | ID    | Descrição                                                                                                                                                                                                                                                 |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SUP01 | O aplicativo deve ser construído de forma a simplificar a manutenção, utilizando um código limpo e organizado de.                                           |
-| SUP02 | O aplicativo deve garantir que a interface do usuário se adapte de forma responsiva a uma variedade de tamanhos de tela e orientações.                                           |
-| SUP03 | O aplicativo deve ser projetado com capacidade de expansão para incorporar novas funcionalidades e adaptar-se às mudanças.                                                                                   |
-| SUP04 | Deve-se executar testes de integração nos dispositivos das marcas Samsung, Apple, Motorola, Xiaomi, entre outras, assegurando assim que a experiência do usuário seja consistente e sem falhas em diferentes plataformas.                                                                   |
-| SUP05 | As atualizações do aplicativo devem ser enviadas e validadas de forma ágil nas lojas de aplicativos pertinentes, como a App Store da Apple e a Google Play Store. |
+| SP01 | O aplicativo deve ser construído de forma a simplificar a manutenção, utilizando um código limpo e organizado de.                                           |
+| SP02 | O aplicativo deve garantir que a interface do usuário se adapte de forma responsiva a uma variedade de tamanhos de tela e orientações.                                           |
+| SP03 | O aplicativo deve ser projetado com capacidade de expansão para incorporar novas funcionalidades e adaptar-se às mudanças.                                                                                   |
+| SP04 | Deve-se executar testes de integração nos dispositivos das marcas Samsung, Apple, Motorola, Xiaomi, entre outras, assegurando assim que a experiência do usuário seja consistente e sem falhas em diferentes plataformas.                                                                   |
+| SP05 | As atualizações do aplicativo devem ser enviadas e validadas de forma ágil nas lojas de aplicativos pertinentes, como a App Store da Apple e a Google Play Store. |
 
 <font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
 
@@ -171,3 +171,4 @@ Todos os Dados acessados pelo app (que podem ser obtidos por acesso à câmera, 
 | 1.0    | 17/05 | Adicionando o Moscow |[Flávio Melo](https://github.com/flavioovatsug)| [Harryson Campos](https://github.com/harry-cmartin) | 
 | 1.1    | 17/05 | adicionando tópicos: Observações de Dados, Requisitos de Sistema de Ajuda e de Documentação, Requisitos de Implementação, Restrições de Design |[Bittar](https://github.com/Bittarx)| [Christian Hirsch Santos](https://github.com/crstyhs)| 
 | 1.2    | 19/05 | adicionando tópicos: Requisitos de interface e Requisitos físicos |[Christian Hirsch Santos](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) | 
+| 1.3    | 20/05 | corrige nomes |[Christian Hirsch Santos](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) | 
