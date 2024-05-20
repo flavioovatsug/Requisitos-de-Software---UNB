@@ -167,4 +167,4 @@ Abaixo o modelo seguido para elaboração dos cenários na tabela 1
 | Versão | Data       | Descrição            | Autor(es)                                                                                              | Revisor(es)                                    |
 | ------ | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
 | 1.0   | 03/05/2024 | Correção de erros    | [Harryson Martins](https://github.com/harry-cmartin) |  [Christian Hirsch Santos](https://github.com/crstyhs)    |
-| 1.1   | 19/05/2024 | Correção de erros e modificação da estrutura    | [Christian Hirsch Santos](https://github.com/crstyhs) |      |
+| 1.1   | 19/05/2024 | Correção de erros e modificação da estrutura    | [Christian Hirsch Santos](https://github.com/crstyhs) | [Flávio Melo](https://github.com/flavioovatsug) |
