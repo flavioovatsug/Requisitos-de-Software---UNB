@@ -134,3 +134,4 @@ A seguir são o elenco de personas do projeto
 |1.3| 03/05 | Persona primaria | [Christian](https://github.com/crstyhs) |[Italo Bruno](https://github.com/ItalobrunoM) |
 |1.4| 03/05 | Persona secundaria |[Ian Lucca](https://github.com/IanLucca12) | [Italo Bruno](https://github.com/ItalobrunoM)|
 |1.5| 03/05 | Persona secundaria |[Flávio Melo](https://github.com/flavioovatsug) | [Italo Bruno](https://github.com/ItalobrunoM)|
+|1.6| 03/05 | Persona secundaria |[Bittar](https://github.com/Bittarx) | [Christian](https://github.com/crstyhs)|
