@@ -35,10 +35,11 @@ Especificação Suplementar:  Bittar, Flávio
 Fonte: [Bittar](https://github.com/Bittarx), 2024
 
 ## Gravação da reunião
-[Video Antigo](https://youtu.be/NPLQNpZzMlk)
+[Video](https://www.youtube.com/watch?v=pl_dRySrwTU)
 ## Referências
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 30/04/2024 | Criação da ata de reunião e  adição do video | [Bittarx](https://github.com/Bittar)  | |
+| 1.0 | 13/05/2024 | Criação da ata de reunião  | [Bittarx](https://github.com/Bittar)  | [Christian Hirsch Santos](https://github.com/crstyhs)|
+| 1.1 | 20/05/2024 | Correções e  adição do video | [Christian Hirsch Santos](https://github.com/crstyhs)  | |
