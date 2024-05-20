@@ -56,7 +56,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/"></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/Bittarx">Marcos Bittar</a></p>
 
 <p style="text-align: center">Tabela 3 - Estrutura do dicionário</p>
 
@@ -90,7 +90,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/"></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/flavioovatsug"></a>Flávio Melo</p>
 
 <p style="text-align: center">Tabela 5 - Estrutura do dicionário</p>
 
@@ -124,7 +124,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/"></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin"></a>Harryson Campos Martins</p>
 
 <p style="text-align: center">Tabela 7 - Estrutura do dicionário</p>
 
@@ -141,7 +141,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/crstyhs"></a>Christian</p>
 
 <p style="text-align: center">Tabela 8 - Estrutura do dicionário</p>
 
@@ -175,7 +175,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/"></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
 
 <p style="text-align: center">Tabela 10 - Estrutura do dicionário</p>
 
@@ -192,7 +192,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/"></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/Bittarx"></a>Marcos Bittar</p>
 
 <p style="text-align: center">Tabela 11 - Estrutura do dicionário</p>
 
@@ -209,7 +209,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/"></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Campos</a></p>
 
 <p style="text-align: center">Tabela 12 - Estrutura do dicionário</p>
 
@@ -226,7 +226,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/"></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
 
 <p style="text-align: center">Tabela 13 - Estrutura do dicionário</p>
 
@@ -294,7 +294,7 @@ Abaixo os modelos seguidos para elaboração do dicionário
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/"></a></p>
+<p style="text-align: center">Fonte: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
 
 ## Referências
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/40/Plano_de_Ensino%20RE%20012024%20Turma%201.pdf>. Acesso em 17 de Maio de 2024.</br>
@@ -303,4 +303,4 @@ Abaixo os modelos seguidos para elaboração do dicionário
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 17/05/2024 | Criação do documento do Lexico | [Christian](https://github.com/crstyhs)| |
+| 1.0 | 17/05/2024 | Criação do documento do Lexico | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
