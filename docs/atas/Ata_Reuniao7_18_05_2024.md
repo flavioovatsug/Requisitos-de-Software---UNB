@@ -41,4 +41,4 @@ Fonte: [Christian Hirsch Santos](https://github.com/crstyhs), 2024
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 20/05/2024 | Criação da ata de reunião  | [Christian Hirsch Santos](https://github.com/crstyhs) ||
+| 1.0 | 20/05/2024 | Criação da ata de reunião  | [Christian Hirsch Santos](https://github.com/crstyhs) | [Flávio Melo](https://github.com/flavioovatsug) |

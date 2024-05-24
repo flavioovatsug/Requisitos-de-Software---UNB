@@ -19,7 +19,7 @@ O diagrama de caso de uso é uma representação visual que resume as interaçõ
 |Seta| Representações das interações entre atores e usos no sistema|![ASetas](../assets/Casos_De_uso/setas.jpeg)|
 |Elipse|Representação dos casos de uso. Um caso de uso mostra u,ma funcionalidade ou ação a ser realizada dentro do sistema.|![Elipse](../assets/Casos_De_uso/elipse.jpeg)|
 
-<font size="2"><p style="text-align: center">Fonte: [Italo Bruno](https://github.com/ItaloBrunoM) e [Harryson Campos Martins](https://github.com/harry-cmartin)  .</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Italo Bruno](https://github.com/ItaloBrunoM) e [Harryson Campos Martins](https://github.com/harry-cmartin) </p></font>
 
 </center>
 
@@ -33,7 +33,7 @@ Na figura 1 pode ser visto o diagrama de casos de uso desenvolvido.
 
 <center>
 
-![Diagram](../assets/Casos_De_uso/Diagrama_casos_De_uso.png)
+![fidasd](../assets/Casos_De_uso/Diagrama_de_casos_de_uso.jpeg)
 
 </center>
 

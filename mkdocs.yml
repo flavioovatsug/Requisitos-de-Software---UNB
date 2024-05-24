@@ -49,9 +49,12 @@ nav:
       - Ata 4: atas/Ata_Reuniao4_14_04_2024.md
       - Ata 5: atas/Ata_Reuniao5_19_04_2024.md
       - Ata 6: atas/Ata_Reuniao6_13_05_2024.md
+      - Ata 7: atas/Ata_Reuniao7_18_05_2024.md
+      - Ata 8: atas/Ata_Reuniao8_20_05_2024.md
   - Apresentações: 
       - Apresentação 1: Apresentacoes/apresentacao_1.md
       - Apresentação 2: Apresentacoes/apresentacao_2.md
+      - Apresentação 3: Apresentacoes/apresentacao_3.md
   - Planejamento:
       - Lista de Aplicativos: Planejamento/Lista_de_aplicativos.md
       - Aplicativo Escolhido: Planejamento/App_selecionado.md
@@ -63,7 +66,6 @@ nav:
   - Elicitação: 
       - Perfil de usuário: elicitacao/Perfil_de_usuario.md
       - Personas: elicitacao/personas.md
-      - Cenários: elicitacao/Cenarios.md
       - Técnicas:
           - Questionario: elicitacao/tecnicas/questionario.md
           - Analise de Interface: elicitacao/tecnicas/AnaliseDaInterface.md
@@ -82,3 +84,4 @@ nav:
       - Casos de uso: Modelagem/Casos_De_uso.md
       - Lexicos: Modelagem/Lexico.md
       - Especificação Suplementar: Modelagem/especificacao_suplementar.md
+      - Cenários: Modelagem/Cenarios.md

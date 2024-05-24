@@ -49,11 +49,29 @@ A seguir são o elenco de personas do projeto
 
 <font size="3"><p style="text-align: center">Fonte: [Ian Lucca](https://github.com/IanLucca12).</p></font>
 
+<p style="text-align: center"><b>Tabela 3</b> - Mahmoud Khaled Mustafa.</p>
+
+| <font size="3"><p style="text-align: center">Figura 3- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Mahmoud Khaled Mustafa](../assets/Personas/Mahmoud.png)<figcaption>Fonte: Elaborada por [Bittar](https://github.com/Bittarx) (2024).</figcaption></figure> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nome**: Mahmoud Ali Mustafa|
+| **Status**: Persona Primária. |
+| **Gênero**: Masculino. 
+| **Idade**: 33 anos |
+| **Profissão**: Vigilante|
+| **Escolaridade**: Ensino Médio |
+| **Habilidades e Experiências**:  Mahmoud é vigilante, trabalhando na segurança de um shopping.|
+| **Relacionamento**: Mahmoud possúi duas esposas e um filho, vai à mesquita para orar e estudar as ciências Quranicas nas sextas feiras.|
+| **Objetivo**: Mahmoud trabalha, enquanto segurança, geralmente no estacionamento do shopping. Assim, resolveu baixar o aplicativo para identificar possíveis carros roubados|
+| **Expectativa**:   Mahmoud deseja que o aplicativo seja objetivo, informando-o que um criminoso em flagrante estacionou o veículo roubado no shopping.            |
+| **Requisitos**: Interface intuitiva e fácil de usar, acesso rápido a dados precisos e confiáveis, atualizações frequentes para garantir informações em tempo real.                                                                                                                             |
+| **Tarefas**:      Mahmoud é vigilante no estacionamento de um shopping, precisa garantir que os carros estejam seguros e, caso algum seja fruto de roubo, informar a polícia. Mantém o aplicativo para ter acesso aos dados dos veículos.                                                                                                                                                             |
+
+<font size="3"><p style="text-align: center">Fonte: [Bittar](https://github.com/Bittarx).</p></font>
 
 
-<p style="text-align: center"><b>Tabela 3</b> - Persona Secundária Rogério Matos.</p>
+<p style="text-align: center"><b>Tabela 4</b> - Persona Secundária Rogério Matos.</p>
 
-| <font size="3"><p style="text-align: center">Figura 3- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/Persona_Sec_rogerio.png)<figcaption>Fonte: Elaborada por [Harryson Campos](https://github.com/harry-cmartin) (2024).</figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 4- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/Persona_Sec_rogerio.png)<figcaption>Fonte: Elaborada por [Harryson Campos](https://github.com/harry-cmartin) (2024).</figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Rogério Matos.                                                                                   |
 | **Status**: Persona Secundária.                                                   |
@@ -70,9 +88,9 @@ A seguir são o elenco de personas do projeto
 
 <font size="3"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin).</p></font>
 
-<p style="text-align: center"><b>Tabela 4</b> - Persona Secundária Camila Rodrigues.</p>
+<p style="text-align: center"><b>Tabela 5</b> - Persona Secundária Camila Rodrigues.</p>
  
-| <font size="3"><p style="text-align: center">Figura 4 Persona Secundária Camila Rodrigues.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/camilapersona.jpg)<figcaption>Fonte: Elaborada por [Flávio Melo](https://github.com/flavioovatsug).</p></font> (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 5 Persona Secundária Camila Rodrigues.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/camilapersona.jpg)<figcaption>Fonte: Elaborada por [Flávio Melo](https://github.com/flavioovatsug).</p></font> (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nome: Camila Rodrigues.                                                                                                                                                                                                                                                                                                                                                              |
 | Status: Persona Secundária.                                                                                                                                                                                                                                                                                                                                                             |
@@ -90,8 +108,8 @@ A seguir são o elenco de personas do projeto
 <font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
 
 
-<p style="text-align: center"><b>Tabela 5</b> - Anti-Persona Marina Silva.</p>
-| <font size="3"><p style="text-align: center">Figura 5- Anti-Persona Marina Silva.</p></font><figure markdown>![Marina Silva](../assets/Personas/anti-persona.jpg.png)<figcaption>Fonte: Elaborada por [Italo Bruno](https://github.com/italobrunom) (2024).<a id="TEC2" href="#QT2"> 2</a></figcaption></figure> |
+<p style="text-align: center"><b>Tabela 6</b> - Anti-Persona Marina Silva.</p>
+| <font size="3"><p style="text-align: center">Figura 6- Anti-Persona Marina Silva.</p></font><figure markdown>![Marina Silva](../assets/Personas/anti-persona.jpg.png)<figcaption>Fonte: Elaborada por [Italo Bruno](https://github.com/italobrunom) (2024).<a id="TEC2" href="#QT2"> 2</a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Marina Silva |
 | **Status**: Anti-Persona. |
@@ -116,3 +134,4 @@ A seguir são o elenco de personas do projeto
 |1.3| 03/05 | Persona primaria | [Christian](https://github.com/crstyhs) |[Italo Bruno](https://github.com/ItalobrunoM) |
 |1.4| 03/05 | Persona secundaria |[Ian Lucca](https://github.com/IanLucca12) | [Italo Bruno](https://github.com/ItalobrunoM)|
 |1.5| 03/05 | Persona secundaria |[Flávio Melo](https://github.com/flavioovatsug) | [Italo Bruno](https://github.com/ItalobrunoM)|
+|1.6| 03/05 | Persona secundaria |[Bittar](https://github.com/Bittarx) | [Christian](https://github.com/crstyhs)|
