@@ -16,7 +16,7 @@ Tabela 01 - Requisitos elicitados
 
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| INT1 | Ler texto para deficiêntes visuais | RF| Não Implementado|
+| INT1 | Ler texto para deficientes visuais | RF| Não Implementado|
 | INT2 | Logar pelo Gov |  RF| Implementado|
 | INT3 | Interface simples  |RNF| Implementado|
 | INT4 | Buscar por veículo | RF| Implementado|
@@ -30,15 +30,15 @@ Tabela 01 - Requisitos elicitados
 | INT12  | Vincular ao carro | RF| Implementado|
 | INT13  | Buscar por mandados de prisão| RF| Implementado|
 | INT14  | Fornecer informações sobre mandados de prisão| RF| Implementado|
-| INT15  | Salvar historico de busca | RF| Implementado|
+| INT15  | Salvar histórico de busca | RF| Implementado|
 | INT16  | Buscar por procurados | RF| Não Implementado|
 | INT17  | Fornecer informações sobre procurados | RF| Implementado|
 | INT18  | Tirar foto | RF| Não Implementado|
 | INT19  | Comparar foto com desaparecido, procurado ou mandado | RF| Não Implementado|
-| INT20  | Anunciar pertubação da vizinhaça | RF| Implementado|
-| INT21  | Adicionar novas informações sobre pertubação da vizinhaça | RF| Não Implementado|
+| INT20  | Anunciar pertubação da vizinhança | RF| Implementado|
+| INT21  | Adicionar novas informações sobre pertubação da vizinhança | RF| Não Implementado|
 | INT22  | Acesso a mapa da região | RF| Não Implementado|
-| INT23  | Fornecer feedback de periculosidade de aréas no mapa | RF| Não Implementado|
+| INT23  | Fornecer feedback de periculosidade de áreas no mapa | RF| Não Implementado|
 | INT24  | Rápida disponibilização de informações | RNF| Implementado|
 | INT25  | Constante atualização de informações | RNF| Não Implementado|
 | INT26  | Sigilo relativo de informações | RNF| Implementado|
@@ -46,7 +46,7 @@ Tabela 01 - Requisitos elicitados
 | INT28  | Instalação do aplicativo em diferentes sistemas | RNF| Implementado|
 
 
-Fonte:  [Christian](https://github.com/crstyhs)
+Autor:  [Christian](https://github.com/crstyhs)
 
 </center>
 

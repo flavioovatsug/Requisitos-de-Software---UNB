@@ -1,7 +1,7 @@
 site_name: Sinesp
 site_author: Grupo 5
 site_description: >-
-  Documentação para o rojeto de avaliação da disciplina de requisitos de software 
+  Documentação para o projeto de avaliação da disciplina de requisitos de software 
  
 # Repository
 repo_url: https://github.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao
@@ -82,6 +82,8 @@ nav:
           - Three Scales: elicitacao/priorizacao/three_scales.md
   - Modelagem:
       - Casos de uso: Modelagem/Casos_De_uso.md
-      - Lexicos: Modelagem/Lexico.md
+      - Léxicos: Modelagem/Lexico.md
       - Especificação Suplementar: Modelagem/especificacao_suplementar.md
       - Cenários: Modelagem/Cenarios.md
+      - Ágil:
+          - Histórias de Usuário: Modelagem/Agil/Historias_de_Usuario.md

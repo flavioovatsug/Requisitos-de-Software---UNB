@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Esta página é destinada à apresentação da etapa  do projeto de Requistos de Software. Focada na construção da parte de elicitação com as tecnicas e a priorização. A apresentação foi gravada no dia 19 de abril de 2024.
+Esta página é destinada à apresentação da etapa  do projeto de Requisitos de Software. Focada na construção da parte de elicitação com as técnicas e a priorização. A apresentação foi gravada no dia 19 de abril de 2024.
 
 
 
@@ -27,7 +27,7 @@ Esta página é destinada à apresentação da etapa  do projeto de Requistos de
 
 </center>
 
-Na apresentação é possível a visualização de todos os artefatos da entrega, assim como, os itens de avaliação presentes no Plano de Ensino da Disciplina e explicitos na Tabela 1:
+Na apresentação é possível a visualização de todos os artefatos da entrega, assim como, os itens de avaliação presentes no Plano de Ensino da Disciplina e explícitos na Tabela 1:
 
 <center>
 
@@ -38,7 +38,7 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 |---------|----------|----------|
 | 1       | O histórico de versão padronizado? |   Sim       |
 | 2       | O(s) autor(es) e o(s) revisor(es) para cada artefato? |  Sim        |
-| 3       | Vídeo de apresentação na categoria “não listado” no youtube? |    Sim      |
+| 3       | Vídeo de apresentação na categoria “não listado” no YouTube? |    Sim      |
 | 4       | Referências bibliográficas e/ou bibliografia em todos os artefatos? |          |
 | 5       | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? |   Sim       |
 | 6       | Um texto fazendo uma introdução dos artefatos? |     Sim     |
@@ -56,7 +56,7 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 | 18      | A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | Sim         |
 
 
-<font size="2"><p style="text-align: center">Fonte: Plano de Ensino da disciplina Requistos de Software UNB-FGA Prof. André Barros</p></font>
+<font size="2"><p style="text-align: center">Fonte: Plano de Ensino da disciplina Requisitos de Software UNB-FGA Prof. André Barros</p></font>
 
 </center>
 
