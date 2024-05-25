@@ -5,8 +5,8 @@ Este documento refere-se aos requisitos elicitados disponibilizados nas tabela 1
 
 ## Metodologia
 
-Este documento foi baseados nas seguintes tecnicas documentadas: 
-- questionario
+Este documento foi baseados nas seguintes técnicas documentadas: 
+- questionário
 - Análise de interface
 - Análise de protocolo
 - Entrevista
@@ -32,7 +32,7 @@ Tabela 1 - Requisitos funcionais elicitados
 | RF11 | Fornecer informações sobre procurados |AIU17, INT17| Implementado|
 | RF12 | Sair do aplicativo | AIU19| Implementado|
 | RF13 | Anunciar perturbação da vizinhança | AIU20, INT20| Implementado|
-| RF14 | Ler texto para deficiêntes visuais | INT1| Não Implementado|
+| RF14 | Ler texto para deficientes visuais | INT1| Não Implementado|
 | RF15 | Disponibilizar restrição |AP2, ENT2| Implementado|
 | RF16 | Disponibilizar informação das características do veículo | RF| Implementado|
 | RF17 | Disponibilizar informação do tipo de veículo | AP3, ENT3, STO2| Não Implementado|
@@ -63,7 +63,7 @@ Tabela 1 - Requisitos funcionais elicitados
 | RF39 | Inserir foto do desaparecido | DOC13|Implementado|
 | RF39 | Inserir localização do desaparecido | DOC14|Implementado|
 
-Fonte:[Christian](https://github.com/crstyhs)
+Autor:[Christian](https://github.com/crstyhs)
 
 Tabela 2 - Requisitos não funcionais elicitados
 
@@ -77,7 +77,7 @@ Tabela 2 - Requisitos não funcionais elicitados
 | RNF06 | Instalação do aplicativo em diferentes sistemas | AIU28, INT28| Implementado|
 | RNF07 | Aplicativo deve ser constantemente divulgado | AP6,STO4| Não Implementado|
 
-Fonte:[Christian](https://github.com/crstyhs)
+Autor:[Christian](https://github.com/crstyhs)
 
 
 

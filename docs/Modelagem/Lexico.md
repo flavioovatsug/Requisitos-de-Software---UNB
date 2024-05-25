@@ -5,23 +5,28 @@ Este documento refere-se ao Léxico, documentação exigida sobre Modelagem no p
 
 ## Metodologia
 A metodologia usada foi a LAL - Léxico Ampliado da Linguagem , trata-se de uma técnica que procura descrever os símbolos de uma
-linguagem com o objetivo de identificar palavras ou frases pecuííares do meio social da
+linguagem com o objetivo de identificar palavras ou frases peculiares do meio social da
 aplicação sob estudo.[1] 
 
 
 
 ## Estrutura do dicionário
-Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos para elaboração do dicionário.
-<font size="2"><p style="text-align: center">Figura 1: Regras por tipo </p></font>
+Abaixo nas tabelas de 2 a 17 podem ser visto os léxicos e os modelos seguidos para elaboração do dicionário.
+<font size="2"><p style="text-align: center">Tabela 1: Regras por tipo </p></font>
 
 <center>
 
-![Figura 1](../assets/lexicos/tabale_lexico.jpg)
-</center>
+  
+| Tipo (sujeito)   | Noção (Quem é o sujeito?) | Impacto (Quais ações executa?) |
+| -------- | ----------- | ------ |
+| VERBO     | Quem realiza, quando acontece e quais procedimentos envolvidos.     | Quais os reflexos da ação no ambiente (outras ações que devem ocorrer) |
+| OBJETO    |  Definir o objeto e identificar outros objetos com os quais se destaca    | Ações que podem ser aplicadas ao objeto |
+| ESTADO    |   O que significa e quais ações levaram a esse estado   | Identificar outros estados e ações que podem ocorrer a partir do estado que se descreve |
+
 
 <font size="2"><p style="text-align: center">Fonte: SERRANO M.; SERRANO M. Requisitos - Aula 10.</p></font>
 
-<p style="text-align: center">Tabela 1 - Estrutura do dicionário</p>
+<p style="text-align: center">Tabela 2 - Estrutura do dicionário</p>
 
 <center>
   
@@ -36,12 +41,12 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
 
 
 ## Léxicos identificados
 
-<p style="text-align: center">Tabela 2 - Léxico de Usuário</p>
+<p style="text-align: center">Tabela 3 - Léxico de Usuário</p>
 
 <center>
   
@@ -56,9 +61,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/Bittarx">Marcos Bittar</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/Bittarx">Marcos Bittar</a></p>
 
-<p style="text-align: center">Tabela 3 - Léxico de Objeto </p>
+<p style="text-align: center">Tabela 4 - Léxico de Objeto </p>
 
 <center>
   
@@ -73,9 +78,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
 
-<p style="text-align: center"> Tabela 4 - Léxico de Mandado</p>
+<p style="text-align: center"> Tabela 5 - Léxico de Mandado</p>
 
 <center>
   
@@ -90,9 +95,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/flavioovatsug"></a>Flávio Melo</p>
+<p style="text-align: center">Autor: <a href="https://github.com/flavioovatsug"></a>Flávio Melo</p>
 
-<p style="text-align: center">Tabela 5 - Léxico de Mercosul </p>
+<p style="text-align: center">Tabela 6 - Léxico de Mercosul </p>
 
 <center>
   
@@ -107,9 +112,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
 
-<p style="text-align: center">Tabela 6 - Léxico de Vínculo </p>
+<p style="text-align: center">Tabela 7 - Léxico de Vínculo </p>
 
 <center>
   
@@ -124,9 +129,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin"></a>Harryson Campos Martins</p>
+<p style="text-align: center">Autor: <a href="https://github.com/harry-cmartin"></a>Harryson Campos Martins</p>
 
-<p style="text-align: center">Tabela 7 - Léxico de Editar </p>
+<p style="text-align: center">Tabela 8 - Léxico de Editar </p>
 
 <center>
   
@@ -141,9 +146,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/crstyhs"></a>Christian</p>
+<p style="text-align: center">Autor: <a href="https://github.com/crstyhs"></a>Christian</p>
 
-<p style="text-align: center">Tabela 8 - Léxico de Login </p>
+<p style="text-align: center">Tabela 9 - Léxico de Login </p>
 
 <center>
   
@@ -158,9 +163,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/IanLucca12"></a>Ian Lucca</p>
+<p style="text-align: center">Autor: <a href="https://github.com/IanLucca12"></a>Ian Lucca</p>
 
-<p style="text-align: center">Tabela 9 - Léxico de Filtrar </p>
+<p style="text-align: center">Tabela 10 - Léxico de Filtrar </p>
 
 <center>
   
@@ -175,9 +180,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
+<p style="text-align: center">Autor: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
 
-<p style="text-align: center">Tabela 10 - Léxico de Marcar Localização </p>
+<p style="text-align: center">Tabela 11 - Léxico de Marcar Localização </p>
 
 <center>
   
@@ -187,14 +192,14 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 | Tipo     | VERBO    |
 | Noção    | O sujeito é o usuário do app, que utiliza a função de marcar localização para registrar um ponto específico no mapa, como a localização de um veículo suspeito ou o avistamento de uma pessoa desaparecida.     |
 | Impacto  | A ação de marcar a localização permite ao usuário <a href = "#registrar"> Registrado </a> e compartilhar a posição geográfica de eventos ou observações relevantes, contribuindo para a eficácia das operações de segurança e busca       |
-| Sinônimo | Registrar posição, geolocalizar, apontar local, mapear    |
+| Sinônimo | Registrar posição, geolocalização, apontar local, mapear    |
 | Ligação  |<a href = "#registrar"> Registrado </a>     |
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/Bittarx"></a>Marcos Bittar</p>
+<p style="text-align: center">Autor: <a href="https://github.com/Bittarx"></a>Marcos Bittar</p>
 
-<p style="text-align: center">Tabela 11 - Léxico de Consultar</p>
+<p style="text-align: center">Tabela 12 - Léxico de Consultar</p>
 
 <center>
   
@@ -209,9 +214,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Campos</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/harry-cmartin">Harryson Campos</a></p>
 
-<p style="text-align: center">Tabela 12 - Léxico de Logado </p>
+<p style="text-align: center">Tabela 13 - Léxico de Logado </p>
 
 <center>
   
@@ -226,9 +231,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
 
-<p style="text-align: center">Tabela 13 - Léxico de Registrado</p>
+<p style="text-align: center">Tabela 14 - Léxico de Registrado</p>
 
 <center>
   
@@ -243,9 +248,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/IanLucca12"></a>Ian Lucca</p>
+<p style="text-align: center">Autor: <a href="https://github.com/IanLucca12"></a>Ian Lucca</p>
 
-<p style="text-align: center">Tabela 14 - Léxico de Desaparecido</p>
+<p style="text-align: center">Tabela 15 - Léxico de Desaparecido</p>
 
 <center>
   
@@ -260,9 +265,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/IanLucca12"></a>Ian Lucca</p>
+<p style="text-align: center">Autor: <a href="https://github.com/IanLucca12"></a>Ian Lucca</p>
 
-<p style="text-align: center">Tabela 15 - Léxico de Furtado </p>
+<p style="text-align: center">Tabela 16 - Léxico de Furtado </p>
 
 <center>
   
@@ -277,9 +282,9 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
+<p style="text-align: center">Autor: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
 
-<p style="text-align: center">Tabela 16 - Léxico de Obrigatório </p>
+<p style="text-align: center">Tabela 17 - Léxico de Obrigatório </p>
 
 <center>
   
@@ -294,7 +299,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 
 <center>
   
-<p style="text-align: center">Fonte: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
+<p style="text-align: center">Autor: <a href="https://github.com/ItaloBrunoM"></a>Italo Bruno</p>
 
 ## Referências
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/40/Plano_de_Ensino%20RE%20012024%20Turma%201.pdf>. Acesso em 17 de Maio de 2024.</br>
@@ -303,4 +308,6 @@ Abaixo nas tabelas de 1 a 16 podem ser visto os léxicos e os modelos seguidos p
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 17/05/2024 | Criação do documento do Lexico | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
+| 1.0 | 17/05/2024 | Criação do documento do Léxico | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
+| 1.1 | 24/05/2024 | Correção tabelas por tipo | [Italo Bruno](https://github.com/ItaloBrunoM)|  |
+

@@ -17,11 +17,11 @@ início: 18:00 \
 termino: 18:30
 
 ## Objetivos
-Elaborar a apresentação e colocar no youtube.
+Elaborar a apresentação e colocar no YouTube.
 
 ## Assuntos Tratados
 - Foi definida a ordem de apresentação
-- Foi gravada a apresentação para ser disponibilizada no youtube
+- Foi gravada a apresentação para ser disponibilizada no YouTube
 - Devido a problemas na disciplina e o adiamento das apresentações o video foi regravado no dia 30/04
 
 ## Tarefas
@@ -32,7 +32,7 @@ Elaborar a apresentação e colocar no youtube.
 | Criação da quinta Ata              | [Italo Bruno](https://github.com/ItaloBrunoM) |
 | Upload das gravações das reuniões   | [Italo Bruno](https://github.com/ItaloBrunoM)          |
 
-Fonte: [Italo Bruno](https://github.com/ItaloBrunoM), 2024
+Autor: [Italo Bruno](https://github.com/ItaloBrunoM), 2024
 
 ## Gravação da reunião
 [Video Antigo](https://youtu.be/NPLQNpZzMlk)

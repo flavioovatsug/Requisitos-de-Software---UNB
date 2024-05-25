@@ -4,7 +4,7 @@
 Este documento refere-se as Histórias de Usuários, documentação exigida sobre Modelagem no projeto de requisitos de software pelo grupo 5 para explicar de forma clara e concisa as funcionalidades e os requisitos necessários do envolvidos no aplicativo Sinesp Cidadão 
 
 ## Metodologia
-Este documento foi produzido com base nos requisitos elicitados com persona presentes no [Three Level Scale](https://github.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao/blob/main/docs/elicitacao/priorizacao/three_scales.md) para o levantamento das histórias de usuário que sequem a seguinte entrutura da tabela 1 e figura 1 [1] 
+Este documento foi produzido com base nos requisitos elicitados com persona presentes no [Three Level Scale](https://github.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao/blob/main/docs/elicitacao/priorizacao/three_scales.md) para o levantamento das histórias de usuário que sequem a seguinte estrutura da tabela 1 e figura 1 [1].
 
 <font size="2"><p style="text-align: center">Figura 1: Estrutura da descrição </p></font>
 
@@ -19,7 +19,7 @@ Este documento foi produzido com base nos requisitos elicitados com persona pres
 
 <center>
   
-| identificador do léxico   | carcterísticas |
+| identificador do léxico   | caraterísticas |
 | -------- | ----------- |
 | Título     | Nome da História de Usuário auto-explicativo  |
 | Descrição     |  Descreve "quem", "o que" e o "por que" da funcionalidade   |
@@ -36,7 +36,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU01   | carcterísticas |
+| HU01   | características |
 | -------- | ----------- |
 | Título     | Autenticação de Usuário  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero poder fazer login utilizando o Governo Federal (Gov) como método de autenticação, para acessar de forma segura as funcionalidades exclusivas do aplicativo.   |
@@ -50,7 +50,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU02   | carcterísticas |
+| HU02   | características |
 | -------- | ----------- |
 | Título     | Busca por Veículo  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero poder buscar informações sobre um veículo utilizando a placa, para obter detalhes sobre o mesmo.   |
@@ -64,7 +64,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU03   | carcterísticas |
+| HU03   | características |
 | -------- | ----------- |
 | Título     | Adicionar carro como roubado  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de informar dados sobre um veículo roubado , para contribuir com o banco de dados e auxiliar na identificação de veículos roubados ou furtados.   |
@@ -78,7 +78,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU04   | carcterísticas |
+| HU04   | características |
 | -------- | ----------- |
 | Título     | 	Listar Pessoas Desaparecidas  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de visualizar uma lista de pessoas desaparecidas, para auxiliar na busca e localização de indivíduos desaparecidos.   |
@@ -92,7 +92,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU05   | carcterísticas |
+| HU05   | características |
 | -------- | ----------- |
 | Título     | Fornecer Informações Gerais sobre Desaparecidos  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a informações gerais sobre desaparecidos, como idade, tamanho, foto para a identificação do desaparecido   |
@@ -106,7 +106,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU06   | carcterísticas |
+| HU06   | características |
 | -------- | ----------- |
 | Título     | Vincular ao Desaparecido  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de vincular ao perfil uma pessoa desaparecida, para ajudar na centralização e organização das informações relacionadas ao cada caso e receber notificações de atualizações sobre ele.   |
@@ -120,7 +120,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU07   | carcterísticas |
+| HU07   | características |
 | -------- | ----------- |
 | Título     | Vincular ao Carro  |
 | Descrição     |  	Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de vincular ao perfil um veículo , para ajudar na identificação e localização do veículo e receber notificações de atualizações sobre ele.   |
@@ -134,7 +134,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU08   | carcterísticas |
+| HU08   | características |
 | -------- | ----------- |
 | Título     | Buscar por Mandados  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de buscar informações sobre mandados de prisão, para auxiliar na identificação e captura de indivíduos julgados pela justiça.   |
@@ -148,7 +148,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU09   | carcterísticas |
+| HU09   | características |
 | -------- | ----------- |
 | Título     | Fornecer Informações sobre Mandados  |
 | Descrição     |  	Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a informações detalhadas sobre mandados de prisão, para entender os motivos pelos quais os indivíduos estão sendo julgado pela justiça.   |
@@ -162,7 +162,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU10   | carcterísticas |
+| HU10   | características |
 | -------- | ----------- |
 | Título     | 	Buscar por Procurados  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de buscar informações sobre indivíduos procurados pela justiça, para contribuir com a identificação e captura dessas pessoas.   |
@@ -176,7 +176,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU11   | carcterísticas |
+| HU11   | características |
 | -------- | ----------- |
 | Título     | Fornecer Informações sobre Procurados  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a informações detalhadas sobre indivíduos procurados pela justiça, para entender os motivos pelos quais eles estão sendo procurados e contribuir com o processo de captura.   |
@@ -190,7 +190,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU12   | carcterísticas |
+| HU12   | características |
 | -------- | ----------- |
 | Título     | Sair do Aplicativo  |
 | Descrição     |  	Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de sair do aplicativo , para encerrar a sessão e proteger meus dados pessoais.   |
@@ -204,7 +204,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU13   | carcterísticas |
+| HU13   | características |
 | -------- | ----------- |
 | Título     | 	Anunciar Perturbação da Vizinhança  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de relatar ocorrências de perturbação da vizinhança, como barulhos excessivos ou atividades suspeitas, para alertar as autoridades e promover a segurança local.   |
@@ -218,7 +218,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU14   | carcterísticas |
+| HU14   | características |
 | -------- | ----------- |
 | Título     | Rápida Disponibilização de Informações  |
 | Descrição     |  	Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso rápido a informações , para me manter informado em situações de urgência sobre desaparecidos , mandados e procurados.   |
@@ -232,7 +232,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU15   | carcterísticas |
+| HU15   | características |
 | -------- | ----------- |
 | Título     | Sigilo Relativo de Informações  |
 | Descrição     |  	Como um usuário do aplicativo Sinesp Cidadão, eu quero que minhas informações pessoais sejam protegidas e mantidas em sigilo, para garantir minha privacidade e segurança ao utilizar o aplicativo.   |
@@ -246,7 +246,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU16   | carcterísticas |
+| HU16   | características |
 | -------- | ----------- |
 | Título     | Disponibilizar Diversas Opções de Denúncia  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a diversas opções de denúncia, como crimes, violência doméstica e abuso infantil, para relatar incidentes e colaborar com as autoridades na manutenção da ordem pública.   |
@@ -260,7 +260,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU17   | carcterísticas |
+| HU17   | características |
 | -------- | ----------- |
 | Título     | Tutorial de Uso do Aplicativo  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a um tutorial completo sobre o uso do aplicativo, para aprender como utilizar todas as funcionalidades disponíveis e aproveitar ao máximo a experiência do usuário.   |
@@ -274,7 +274,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU18   | carcterísticas |
+| HU18   | características |
 | -------- | ----------- |
 | Título     | 	Disponibilização de Fotos do Desaparecido  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a fotos das pessoas desaparecidas, para ajudar na identificação e localização dos indivíduos desaparecidos.   |
@@ -288,10 +288,10 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU19   | carcterísticas |
+| HU19   | características |
 | -------- | ----------- |
 | Título     | Disponibilização de Informações Detalhadas do Desaparecido  |
-| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a informações detalhadas sobre cada pessoa desaparecida, como tatuagem, comportamento e caracteristicas destacaveis, para ajudar na busca e localização dos indivíduos desaparecidos.   |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a informações detalhadas sobre cada pessoa desaparecida, como tatuagem, comportamento e características destacáveis, para ajudar na busca e localização dos indivíduos desaparecidos.   |
 | Critérios de aceitação    |   - O sistema deve apresentar informações detalhadas sobre cada pessoa desaparecida em seus respectivos perfis, acessíveis através da lista de pessoas desaparecidas. <br> As informações detalhadas devem incluir características físicas, como altura, peso, cor dos olhos e cabelos, além de características distintivas, como tatuagens ou cicatrizes. <br> - O sistema deve fornecer informações sobre o último local visto da pessoa desaparecida, incluindo data, hora e circunstâncias do desaparecimento.    |
 
 <center>
@@ -302,7 +302,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU20   | carcterísticas |
+| HU20   | características |
 | -------- | ----------- |
 | Título     | 	Interface Simples  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero uma interface simples e intuitiva, para que eu possa navegar pelo aplicativo sem dificuldades e encontrar o que preciso com facilidade.   |
@@ -316,7 +316,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU21   | carcterísticas |
+| HU21   | características |
 | -------- | ----------- |
 | Título     | Ligar para a Polícia  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de ligar para a polícia diretamente do aplicativo, em caso de emergência ou necessidade de assistência imediata.   |
@@ -330,7 +330,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU22   | carcterísticas |
+| HU22   | características |
 | -------- | ----------- |
 | Título     | Visualizar Vínculos  |
 | Descrição     |  	Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de visualizar vínculos entre ocorrências, pessoas desaparecidas, veículos e outras informações relevantes, para acessar mais facilmente diferentes casos.   |
@@ -344,11 +344,11 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU23   | carcterísticas |
+| HU23   | características |
 | -------- | ----------- |
 | Título     | Requisitar Ajuda   |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de solicitar ajuda , para receber assistência rápida e eficaz .   |
-| Critérios de aceitação    |   - O sistema deve possibilitar uma aba de ajuda onde está presente a respasta para perguntas mais frequentes sobre o aplicativo    |
+| Critérios de aceitação    |   - O sistema deve possibilitar uma aba de ajuda onde está presente a resposta para as perguntas mais frequentes sobre o aplicativo    |
 
 <center>
   
@@ -358,7 +358,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU24   | carcterísticas |
+| HU24   | características |
 | -------- | ----------- |
 | Título     | Retornar ao Início  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de retornar rapidamente à tela inicial do aplicativo, para reiniciar a navegação ou acessar outras funcionalidades de forma conveniente.   |
@@ -372,7 +372,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU25   | carcterísticas |
+| HU25   | características |
 | -------- | ----------- |
 | Título     | Salvar Histórico de Busca  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero que o histórico de minhas buscas seja salvo no aplicativo, para que eu possa acessar facilmente buscas anteriores e retomar o trabalho onde parei.   |
@@ -386,7 +386,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU26   | carcterísticas |
+| HU26   | características |
 | -------- | ----------- |
 | Título     | 	Disponibilizar Filtro de Pesquisa  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de filtrar os resultados da minha pesquisa, para encontrar informações específicas ou refinar os resultados de acordo com meus critérios de interesse.   |
@@ -400,7 +400,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU27   | carcterísticas |
+| HU27   | características |
 | -------- | ----------- |
 | Título     | 		Possibilitar Compartilhamento das Informações de Placa  |
 | Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de compartilhar informações sobre um veículo utilizando a placa, para alertar outras pessoas sobre veículos roubados ou suspeitos.  |
@@ -414,7 +414,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-| HU28   | carcterísticas |
+| HU28   | características |
 | -------- | ----------- |
 | Título     | 	Instalação do Aplicativo em Diferentes Sistemas  |
 | Descrição     |  Como um usuário potencial do aplicativo Sinesp Cidadão, eu quero ter a opção de instalar o aplicativo em diferentes sistemas operacionais, como iOS, Android , para que eu possa acessar suas funcionalidades independentemente do dispositivo que estou usando.   |
@@ -431,4 +431,4 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 24/05/2024 | Criação do documento das Histórias de Usuários | [Christian](https://github.com/crstyhs)|  |
+| 1.0 | 24/05/2024 | Criação do documento das Histórias de Usuários | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
