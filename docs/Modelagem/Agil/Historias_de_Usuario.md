@@ -19,7 +19,7 @@ Este documento foi produzido com base nos requisitos elicitados com persona pres
 
 <center>
   
-| identificador do léxico   | caraterísticas |
+| identificador da histório   | caraterísticas |
 | -------- | ----------- |
 | Título     | Nome da História de Usuário auto-explicativo  |
 | Descrição     |  Descreve "quem", "o que" e o "por que" da funcionalidade   |
@@ -226,7 +226,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/harry-cmartin">Harryson C Martins</a></p>
 
 <p style="text-align: center">Tabela 16 - História de Usuário Sigilo Relativo de Informações</p>
 
@@ -240,7 +240,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/harry-cmartin">Harryson C Martins</a></p>
 
 <p style="text-align: center">Tabela 17 - História de Usuário Disponibilizar Diversas Opções de Denúncia</p>
 
@@ -254,7 +254,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/harry-cmartin">Harryson C Martins</a></p>
 
 <p style="text-align: center">Tabela 18 - História de Usuário Tutorial de Uso do Aplicativo</p>
 
@@ -380,7 +380,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
 
 <p style="text-align: center">Tabela 27 - História de Usuário 	Disponibilizar Filtro de Pesquisa</p>
 
@@ -394,7 +394,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
 
 <p style="text-align: center">Tabela 28 - História de Usuário Possibilitar Compartilhamento das Informações de Placa</p>
 
@@ -408,7 +408,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
 
 <p style="text-align: center">Tabela 29 - História de Usuário Instalação do Aplicativo em Diferentes Sistemas</p>
 
