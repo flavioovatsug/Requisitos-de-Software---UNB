@@ -8,6 +8,14 @@ Backlog é uma lista organizada de tarefas, funcionalidades ou requisitos que ai
 
 Para a produção desse artefato ,foi utilizado o documento de [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/) e houve a participação de uma Persona fazendo o papel de PO do projeto, a gravação da encenação de priorização foi feita via Teamns com a Persona Primária Rafeal valério as 13h do dia 26/05/2024 e podem ser vistos detalhes na Tabela 1. Nesse sentido,a persona priorizou as [Histórias de Usuário](Sinesp_Cidadao) elicitadas no outro documento.Comcomitantemente, foi feito a divisão em Temas e épicos, que é melhor explicado a seguir.
 
+No vídeo a seguir também pode ser visto o vídeo de priorização dos épicos e histórias de usuário:
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cvb86eASWiI?si=_fY94IBdPUp1pP2R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Temas
 
 - **Funcionalidade** : Funcionalidades que o sistema oferece ao usuário para completar um objetivo no app.
