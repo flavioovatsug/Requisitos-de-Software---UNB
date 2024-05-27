@@ -10,7 +10,7 @@ Este documento foi produzido com base nos requisitos elicitados com persona pres
 
 <center>
 
-![Figura 1](../assets/lexicos/)
+![Figura 1](../../assets/UserStories/descricaoModelo.jpg)
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: SERRANO M.; SERRANO M. Requisitos - Aula 15.</p></font>
@@ -31,7 +31,7 @@ Este documento foi produzido com base nos requisitos elicitados com persona pres
 
 
 ## Histórias de Usuários identificados
-Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
+Abaixo nas tabelas de 1 a 41 podem ser visto as Histórias de Usuários .
 <p style="text-align: center">Tabela 2 - História de Usuário Autenticação de Usuário</p>
 
 <center>
@@ -436,7 +436,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/italobrunom">Italo Bruno</a></p>
 
 <p style="text-align: center">Tabela 31 - História de Usuário Adicionar Novas Informações Sobre Perturbação da Vizinhança</p>
 
@@ -478,7 +478,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/italobrunom">Italo Bruno</a></p>
 
 <p style="text-align: center">Tabela 34 - História de Usuário Aplicativo Deve Ser Constantemente Divulgado</p>
 
@@ -614,5 +614,5 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 24/05/2024 | Criação do documento das Histórias de Usuários | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
-| 1.1 | 27/05/2024 | Adição de Histórias de Usuários | [Christian](https://github.com/crstyhs)|  |
+| 1.1 | 27/05/2024 | Adição de Histórias de Usuários | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
 
