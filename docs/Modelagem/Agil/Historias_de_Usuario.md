@@ -424,6 +424,188 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
   
 <p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
 
+<p style="text-align: center">Tabela 30 - História de Usuário Notificar Sobre Atualizações de Vínculo</p>
+
+<center>
+  
+| HU29   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Notificar Sobre Atualizações de Vínculo  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ser notificado sobre atualizações em vínculos de casos que acompanho, para ficar informado sobre novos desenvolvimentos e colaborar de maneira mais eficaz.   |
+| Critérios de aceitação    |  - O sistema deve enviar notificações automáticas ao usuário sempre que houver uma atualização relevante em um vínculo que ele acompanha. <br> - O usuário deve poder configurar quais tipos de atualizações deseja receber, como novas informações sobre veículos, pessoas desaparecidas ou mandados. <br> - As notificações devem incluir informações resumidas sobre a atualização, com um link para visualizar os detalhes completos no aplicativo.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 31 - História de Usuário Adicionar Novas Informações Sobre Perturbação da Vizinhança</p>
+
+<center>
+  
+| HU30   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Adicionar Novas Informações Sobre Perturbação da Vizinhança  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero poder adicionar novas informações sobre perturbações na vizinhança, para ajudar a comunidade e as autoridades a monitorarem e resolverem esses problemas.   |
+| Critérios de aceitação    | - O sistema deve fornecer um formulário intuitivo para que o usuário adicione informações sobre perturbações da vizinhança, como barulhos excessivos ou atividades suspeitas. <br> - O usuário deve poder anexar fotos, vídeos ou áudios como evidência adicional ao relato. <br> - As informações enviadas pelo usuário devem ser revisadas e validadas antes de serem publicadas no aplicativo. <br> - O usuário deve receber uma confirmação de que sua contribuição foi recebida e será analisada pelas autoridades competentes.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 32 - História de Usuário Acesso a Mapa da Região</p>
+
+<center>
+  
+| HU31   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Acesso a Mapa da Região  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a um mapa interativo da região, para visualizar ocorrências, pontos de interesse e outras informações relevantes.   |
+| Critérios de aceitação    | - O sistema deve integrar um mapa interativo acessível a partir do menu principal do aplicativo. <br> - O mapa deve exibir diferentes camadas de informação, como ocorrências policiais, pontos de interesse e zonas de alerta. <br> - O usuário deve poder aplicar filtros no mapa para visualizar informações específicas de acordo com seus interesses. <br> - O mapa deve ser atualizado regularmente para refletir as informações mais recentes e garantir a precisão dos dados apresentados.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 33 - História de Usuário Fornecer Feedback de Periculosidade de Áreas no Mapa</p>
+
+<center>
+  
+| HU32   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Fornecer Feedback de Periculosidade de Áreas no Mapa  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero receber feedback sobre a periculosidade das áreas no mapa, para planejar minhas atividades com segurança e evitar zonas de risco.   |
+| Critérios de aceitação    | - O sistema deve utilizar dados de ocorrências e estatísticas de criminalidade para gerar feedback sobre a periculosidade das áreas. <br> - O mapa deve destacar áreas de risco com diferentes níveis de alerta, utilizando cores ou ícones específicos. <br> - O usuário deve poder visualizar informações detalhadas sobre o motivo da periculosidade de uma área ao clicar em um ponto específico no mapa. <br> - O sistema deve garantir que as informações sobre periculosidade sejam precisas e atualizadas regularmente.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 34 - História de Usuário Aplicativo Deve Ser Constantemente Divulgado</p>
+
+<center>
+  
+| HU33   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Aplicativo Deve Ser Constantemente Divulgado  |
+| Descrição     |  Como desenvolvedor do aplicativo Sinesp Cidadão, eu quero garantir que o aplicativo seja constantemente divulgado, para aumentar sua visibilidade e alcançar mais usuários que possam se beneficiar de suas funcionalidades.   |
+| Critérios de aceitação    | - O sistema deve encorajar os usuários existentes a compartilharem o aplicativo com amigos e familiares    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 35 - História de Usuário Visualizar Perfil</p>
+
+<center>
+  
+| HU34   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Visualizar Perfil  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero poder visualizar meu perfil, para acessar minhas informações pessoais, histórico de atividades e configurações de conta. |
+| Critérios de aceitação    | - O sistema deve fornecer uma seção de perfil acessível a partir do menu principal do aplicativo. <br> - O perfil do usuário deve incluir informações básicas, como nome, e-mail, foto de perfil e histórico de atividades no aplicativo.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 36 - História de Usuário Visualizar Informações Institucionais</p>
+
+<center>
+  
+| HU35   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Visualizar Informações Institucionais  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a informações institucionais sobre o aplicativo, suas funções, políticas de privacidade e termos de uso, para entender melhor como ele opera e quais são meus direitos e responsabilidades. |
+| Critérios de aceitação    | - O sistema deve fornecer uma seção dedicada a informações institucionais, acessível a partir do menu principal do aplicativo. <br> - A seção deve incluir detalhes sobre a missão e visão do aplicativo, políticas de privacidade, termos de uso e informações de contato.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 37 - História de Usuário Tirar Foto</p>
+
+<center>
+  
+| HU36   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Tirar Foto  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter a opção de tirar fotos diretamente pelo aplicativo, para anexar evidências visuais ao relatar ocorrências ou buscar pessoas desaparecidas. |
+| Critérios de aceitação    | - O sistema deve integrar a câmera do dispositivo para permitir que o usuário tire fotos diretamente pelo aplicativo.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 38 - História de Usuário Comparar Foto com Desaparecido, Procurado ou Mandado</p>
+
+<center>
+  
+| HU37   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Comparar Foto com Desaparecido, Procurado ou Mandado  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero poder comparar fotos tiradas ou enviadas com imagens de pessoas desaparecidas, procuradas ou com mandado de prisão, para ajudar na identificação e localização dessas pessoas. |
+| Critérios de aceitação    | - O sistema deve permitir que o usuário faça upload de uma foto ou tire uma nova foto para comparação. <br> - O sistema deve utilizar tecnologia de reconhecimento facial para comparar a foto fornecida com imagens no banco de dados de pessoas desaparecidas, procuradas ou com mandado. <br> - O usuário deve receber um relatório de correspondência indicando o grau de semelhança e informações adicionais sobre a pessoa, se houver uma correspondência.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 39 - História de Usuário Usar Funcionalidades Sem o Cadastro do Gov</p>
+
+<center>
+  
+| HU38   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Usar Funcionalidades Sem o Cadastro do Gov  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a certas funcionalidades do aplicativo sem precisar me cadastrar no Gov, para facilitar o uso inicial e incentivar a adoção do aplicativo. |
+| Critérios de aceitação    | - O usuário deve ser informado sobre as limitações de uso sem cadastro e os benefícios de se registrar no Gov para acesso completo às funcionalidades. <br> - As funcionalidades acessíveis sem cadastro devem incluir busca de informações, visualização do mapa , entre outras.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>]
+
+<p style="text-align: center">Tabela 40 - História de Usuário Editar Perfil Gov</p>
+
+<center>
+  
+| HU39   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Editar Perfil Gov  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero poder editar meu perfil Gov diretamente pelo aplicativo, para manter minhas informações atualizadas e corretas. |
+| Critérios de aceitação    | - O sistema deve permitir que o usuário acesse e edite suas informações de perfil Gov diretamente pelo aplicativo.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 41 - História de Usuário Banco de Dados Ser Constantemente Atualizado Gov</p>
+
+<center>
+  
+| HU40   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Banco de Dados Ser Constantemente Atualizado  |
+| Descrição     |  Como um desenvolvedor ou administrador do aplicativo Sinesp Cidadão, eu quero garantir que o banco de dados do aplicativo seja constantemente atualizado, para fornecer informações precisas e relevantes aos usuários. |
+| Critérios de aceitação    | - O sistema deve implementar processos automáticos de atualização do banco de dados, integrando dados de fontes confiáveis e oficiais. <br> - O sistema deve realizar verificações regulares para garantir a integridade e a precisão dos dados armazenados.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 42 - História de Usuário Ler Texto para Deficientes Visuais</p>
+
+<center>
+  
+| HU41   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Ler Texto para Deficientes Visuais  |
+| Descrição     |  Como um usuário deficiente visual do aplicativo Sinesp Cidadão, eu quero ter a opção de ouvir a leitura dos textos exibidos no aplicativo, para acessar todas as informações e funcionalidades de forma inclusiva e acessível. |
+| Critérios de aceitação    | - O usuário deve poder ativar ou desativar a leitura de texto de acordo com suas preferências, com controles intuitivos e de fácil acesso.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
 ## Referências
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/40/Plano_de_Ensino%20RE%20012024%20Turma%201.pdf>. Acesso em 24 de Maio de 2024.</br>
 [2] SERRANO, Milene; SERRANO, Maurício. Slides de Requisitos. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>. Acesso em 24 de Maio de 2024.
@@ -432,3 +614,5 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 24/05/2024 | Criação do documento das Histórias de Usuários | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
+| 1.1 | 27/05/2024 | Adição de Histórias de Usuários | [Christian](https://github.com/crstyhs)|  |
+
