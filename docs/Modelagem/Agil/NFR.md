@@ -146,7 +146,7 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 
 <center>
 
-![SIG Segurança](../../assets/NRF/SIG_usab.png)
+![SIG Confiabilidade](../../assets/NRF/SIG_confiab.png)
 
 </center>
 
@@ -157,7 +157,7 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 
 <center>
 
-![Propagação Segurança]()
+![Propagação Confiabilidade](../../assets/NRF/impactos_conf.png)
 
 </center>
 
@@ -186,7 +186,7 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 
 <center>
 
-![SIG Portabilidade]()
+![SIG Portabilidade](../../assets/NRF/SIG_porta.png)
 
 </center>
 
@@ -196,7 +196,7 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 
 <center>
 
-![Propagação Portabilidade]()
+![Propagação Portabilidade](../../assets/NRF/impactos_porta.png)
 
 </center>
 
@@ -216,3 +216,4 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 25/05/2024 | Criação do documento NFR | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
 | 1.1 | 26/05/2024 | Atualização com os cartões de especificação | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
+| 1.2 | 27/05/2024 | Atualização com os SIG e Propagação | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
