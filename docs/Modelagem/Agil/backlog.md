@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Backlog é uma lista organizada de tarefas, funcionalidades ou requisitos que ainda precisam ser realizados em um projeto, comumente usada em metodologias ágeis como Scrum. Essa lista é dividida em Product Backlog, que contém todas as funcionalidades e melhorias desejadas para o produto, e Sprint Backlog, que abrange as tarefas escolhidas para serem concluídas em um ciclo de desenvolvimento específico (sprint). A gestão do backlog é essencial para priorizar e planejar o trabalho da equipe, garantindo que os itens mais importantes sejam tratados primeiro, promovendo uma progressão eficiente e organizada do projeto.
+O backlog é uma lista estruturada de tarefas, funcionalidades ou requisitos que ainda precisam ser completados em um projeto, geralmente utilizada em metodologias ágeis como Scrum. Essa lista se divide em Product Backlog, que contém todas as funcionalidades e melhorias desejadas para o produto, e Sprint Backlog, que inclui as tarefas selecionadas para serem concluídas em um ciclo de desenvolvimento específico (sprint). A gestão do backlog é crucial para priorizar e planejar o trabalho da equipe, garantindo que os itens mais importantes sejam abordados primeiro, promovendo uma progressão do projeto de maneira eficiente e organizada.
 
 ## Metodologia
 
-Para a produção desse artefato ,foi utilizado o documento de [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/) e houve a participação de uma Persona fazendo o papel de PO do projeto, a gravação da encenação de priorização foi feita via Teamns com a Persona Primária Rafeal valério as 13h do dia 26/05/2024 e podem ser vistos detalhes na Tabela 1. Nesse sentido,a persona priorizou as [Histórias de Usuário](Sinesp_Cidadao) elicitadas no outro documento.Comcomitantemente, foi feito a divisão em Temas e épicos, que é melhor explicado a seguir.
+Para a produção desse artefato ,foi utilizado o documento de [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/) e houve a participação de uma Persona fazendo o papel de PO do projeto, a gravação da encenação de priorização foi feita via Teamns com a Persona Primária Rafeal valério as 13h do dia 26/05/2024 e podem ser vistos detalhes na Tabela 1. Nesse sentido,a persona priorizou as [Histórias de Usuário](Sinesp_Cidadao) elicitadas no outro documento.Concomitantemente, foi feito a divisão em Temas e épicos, que é melhor explicado a seguir.
 
 No vídeo a seguir também pode ser visto o vídeo de priorização dos épicos e histórias de usuário:
 
@@ -25,8 +25,6 @@ No vídeo a seguir também pode ser visto o vídeo de priorização dos épicos 
 ## Épicos
 
 Depois de definir os temas, eles são divididos em épicos para reduzir ainda mais a abstração das atividades a serem realizadas no projeto. Os eṕicos foram abstraidos a partir a função principal que realizam no sistema.
-
-
 
 
 <center>
@@ -207,6 +205,6 @@ Autores: [Flávio Melo](https://github.com/flavioovatsug) e [Harryson Campos](ht
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 26/05/2024 | Criação do documento de Backlog |  [Harryson Campos Martins](https://github.com/harry-cmartin) [Flávio Melo](https://github.com/flavioovatsug)|  |
-
+| 1.0 | 26/05/2024 | Criação do documento de Backlog |  [Harryson Campos Martins](https://github.com/harry-cmartin) e [Flávio Melo](https://github.com/flavioovatsug)| [Italo Bruno](https://github.com/ItaloBrunoM) |
+|1.1  |27/05/2024 | Correções |[Harryson Campos Martins](https://github.com/harry-cmartin)|[Italo Bruno](https://github.com/ItaloBrunoM)|
 Co-authored-by: Flávio Melo <flavioovatsug@gmail.com>
