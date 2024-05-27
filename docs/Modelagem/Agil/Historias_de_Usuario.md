@@ -550,6 +550,61 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
   
 <p style="text-align: center">Autor: </p>
 
+<p style="text-align: center">Tabela 39 - História de Usuário Usar Funcionalidades Sem o Cadastro do Gov</p>
+
+<center>
+  
+| HU38   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Usar Funcionalidades Sem o Cadastro do Gov  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero ter acesso a certas funcionalidades do aplicativo sem precisar me cadastrar no Gov, para facilitar o uso inicial e incentivar a adoção do aplicativo. |
+| Critérios de aceitação    | - O usuário deve ser informado sobre as limitações de uso sem cadastro e os benefícios de se registrar no Gov para acesso completo às funcionalidades. <br> - As funcionalidades acessíveis sem cadastro devem incluir busca de informações, visualização do mapa , entre outras.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>]
+
+<p style="text-align: center">Tabela 40 - História de Usuário Editar Perfil Gov</p>
+
+<center>
+  
+| HU39   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Editar Perfil Gov  |
+| Descrição     |  Como um usuário do aplicativo Sinesp Cidadão, eu quero poder editar meu perfil Gov diretamente pelo aplicativo, para manter minhas informações atualizadas e corretas. |
+| Critérios de aceitação    | - O sistema deve permitir que o usuário acesse e edite suas informações de perfil Gov diretamente pelo aplicativo.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 41 - História de Usuário Banco de Dados Ser Constantemente Atualizado Gov</p>
+
+<center>
+  
+| HU40   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Banco de Dados Ser Constantemente Atualizado  |
+| Descrição     |  Como um desenvolvedor ou administrador do aplicativo Sinesp Cidadão, eu quero garantir que o banco de dados do aplicativo seja constantemente atualizado, para fornecer informações precisas e relevantes aos usuários. |
+| Critérios de aceitação    | - O sistema deve implementar processos automáticos de atualização do banco de dados, integrando dados de fontes confiáveis e oficiais. <br> - O sistema deve realizar verificações regulares para garantir a integridade e a precisão dos dados armazenados.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
+
+<p style="text-align: center">Tabela 42 - História de Usuário Ler Texto para Deficientes Visuais</p>
+
+<center>
+  
+| HU41   | carcterísticas |
+| -------- | ----------- |
+| Título     | 	Ler Texto para Deficientes Visuais  |
+| Descrição     |  Como um usuário deficiente visual do aplicativo Sinesp Cidadão, eu quero ter a opção de ouvir a leitura dos textos exibidos no aplicativo, para acessar todas as informações e funcionalidades de forma inclusiva e acessível. |
+| Critérios de aceitação    | - O usuário deve poder ativar ou desativar a leitura de texto de acordo com suas preferências, com controles intuitivos e de fácil acesso.    |
+
+<center>
+  
+<p style="text-align: center">Autor: </p>
 
 ## Referências
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/40/Plano_de_Ensino%20RE%20012024%20Turma%201.pdf>. Acesso em 24 de Maio de 2024.</br>
@@ -559,3 +614,4 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 24/05/2024 | Criação do documento das Histórias de Usuários | [Christian](https://github.com/crstyhs)|  |
+| 1.1 | 27/05/2024 | Adição de Histórias de Usuários | [Christian](https://github.com/crstyhs)|  |
