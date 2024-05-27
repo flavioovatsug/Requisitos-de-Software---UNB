@@ -30,11 +30,11 @@ Método $100
 
 | Tarefa                               | Responsável                                      |
 | ------------------------------------ | ------------------------------------------------ |
-| Metodos de priotização               | Equipe  |  
+| Métodos de priotização               | Equipe  |  
 | Criação da terceira Ata              | [Harryson](https://github.com/harry-cmartin) |
 | Upload das gravações das reuniões   | [Christian](https://github.com/crstyhs)          |
 
-Fonte: [Harryson](https://github.com/harry-cmartin), 2024
+Autor: [Harryson](https://github.com/harry-cmartin), 2024
 
 ## Gravação da reunião
 [Video](https://www.youtube.com/watch?v=pLfmGsFbdCA)

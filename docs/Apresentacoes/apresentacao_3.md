@@ -4,14 +4,14 @@
 
 ## Introdução
 
-Esta página é destinada à apresentação da etapa  do projeto de Requistos de Software. Focada na construção da parte de elicitação com as tecnicas e a priorização. A apresentação foi gravada no dia 20 de maio de 2024.
+Esta página é destinada à apresentação da etapa  do projeto de Requisitos de Software. Focada na construção da parte de elicitação com as técnicas e a priorização. A apresentação foi gravada no dia 20 de maio de 2024.
 
 
 
 ## Entregas
 
-1. Cenarios
-2. Lexicos
+1. Cenários
+2. Léxicos
 3. Casos de uso
 4. Especificação Suplementar
 
@@ -26,7 +26,7 @@ Esta página é destinada à apresentação da etapa  do projeto de Requistos de
 
 </center>
 
-Na apresentação é possível a visualização de todos os artefatos da entrega, assim como, os itens de avaliação presentes no Plano de Ensino da Disciplina e explicitos na Tabela 1:
+Na apresentação é possível a visualização de todos os artefatos da entrega, assim como, os itens de avaliação presentes no Plano de Ensino da Disciplina e explícitos na Tabela 1:
 
 <center>
 
@@ -66,7 +66,7 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 
 
 
-<font size="2"><p style="text-align: center">Fonte: Plano de Ensino da disciplina Requistos de Software UNB-FGA Prof. André Barros</p></font>
+<font size="2"><p style="text-align: center">Fonte: Plano de Ensino da disciplina Requisitos de Software UNB-FGA Prof. André Barros</p></font>
 
 </center>
 

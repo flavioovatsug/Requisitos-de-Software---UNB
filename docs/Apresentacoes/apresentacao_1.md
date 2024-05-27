@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Esta página é destinada à apresentação da etapa 1 do projeto de REquistos de Software. Focada na construção inicial do projeto,com a Definição do APP e Planejamento do Projeto, RichPicture. A apresentação foi gravada no dia 31 de março de 2024.
+Esta página é destinada à apresentação da etapa 1 do projeto de Requisitos de Software. Focada na construção inicial do projeto,com a Definição do APP e Planejamento do Projeto, RichPicture. A apresentação foi gravada no dia 31 de março de 2024.
 
 
 
@@ -40,7 +40,7 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 | 1       | O histórico de versão padronizado? | Sim |
 | 2       | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim |
 | 3       | A motivação e os critérios para a escolha do App? | Sim |
-| 4       | Vídeo de apresentação na categoria “não listado” no youtube? | Sim |
+| 4       | Vídeo de apresentação na categoria “não listado” no YouTube? | Sim |
 | 5       | Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim |
 | 6       | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
 | 7       | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? | Sim |
@@ -55,7 +55,7 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 | 16      | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | Sim |
 Sim                |
 
-<font size="2"><p style="text-align: center">Fonte: Plano de Ensino da disciplina Requistos de Software UNB-FGA Prof. André Barros</p></font>
+<font size="2"><p style="text-align: center">Fonte: Plano de Ensino da disciplina Requisitos de Software UNB-FGA Prof. André Barros</p></font>
 
 </center>
 
