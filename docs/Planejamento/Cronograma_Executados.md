@@ -17,7 +17,7 @@ Os cronogramas presentes no arquivo representam o que o Grupo 05 conseguiu execu
 |  Rich Pictures dos Integrantes   |  28/03  |  29/03  |Ian Lucca, Christian, Marcos Bittar, Italo Bruno,Harryson, Flávio Gustavo|           
 |      Vídeo de apresentação       |  25/03  |  31/03  | Ian Lucca, Christian, Marcos Bittar, Italo Bruno,Harryson, Flávio Gustavo | 
 
-Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
+Autor: [Ian Lucca](https://github.com/IanLucca12), 2024
 
 ## Tabela 2: Executado Entrega 2: Elicitação: Técnicas e Priorização
 | Atividade | Início | Fim  | Responsáveis |
@@ -33,7 +33,7 @@ Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 | Gravação da apresentação | 16/04 | 17/04 | Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo | Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo |
 | Correções pós apresentação | 18/04 | 19/04 | Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo | Ian Lucca, Christian, Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo |
 
-Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
+Autor: [Ian Lucca](https://github.com/IanLucca12), 2024
 
 ## Tabela 3: Executado Entrega 3: Modelagem de Requisitos: Cenários, Léxico, Use Case, Especificação Suplementar
 
@@ -47,7 +47,20 @@ Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 | Gravação da Apresentação e Entrega | 03/05 | 04/05 | Flávio Gustavo, Christian, Italo Bruno, Harryson, Marcos Bittar, Ian Lucca |
 | Correção pós apresentação | 07/05 | 08/05 | Flávio Gustavo, Christian, Italo Bruno, Ian Lucca, Harryson, Marcos Bittar |
 
-Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
+Autor: [Ian Lucca](https://github.com/IanLucca12), 2024
+
+## Tabela 4: Executado  Entrega 4: Modelagem de requisitos: Ágil (Histórias de Usuário, Backlogs, NFR Framework)
+
+| Atividade | Início | Fim | Responsáveis |
+| --- | --- | --- | --- |
+| Ata de Reunião | 27/05 | 27/05 | Harryson |
+| Modelagem de requisitos: Histórias de usuários | 15/05 | 20/05 | Ian Lucca e Christian |
+| Modelagem de requisitos: Backlog |15/05 | 20/05 | Harryson e Flávio Gustavo |
+| NFR: Framework | 15/05 | 20/05 | Ìtalo e Marcos Bittar |
+| Gravação de apresentação | 26/05 | 26/05 | Marcos Bittar, Italo Bruno, Harryson, Christian, Flávio Gustavo, Ian Lucca |
+| Correção pós apresentação | 27/05 | 06/06 | Marcos Bittar, Italo Bruno, Harryson, Christian, Flávio Gustavo, Ian Lucca |
+
+Autor: [Ian Lucca](https://github.com/IanLucca12), 2024
 
 ## Tabela X: Histórico de Versões
 | Versão | Data de execução | Data prevista de revisão | Descrição  |   Autor(es)    |  Revisado  |
@@ -56,9 +69,10 @@ Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
 | `1.1`  |    23/04/2024    |   24/04/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson, Flávio Gustavo, Ian Lucca, Christian |
 | `1.2`  |    13/05/2024    |   20/05/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson |
 | `1.3`  |    20/05/2024    |   20/05/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Cristian, Harryson |
+| `1.4`  |    27/05/2024    |   27/05/2024    |  Ampliação e Correção do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Cristian, Ítalo |
 
 
-Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
+Autor: [Ian Lucca](https://github.com/IanLucca12), 2024
 
 
 
