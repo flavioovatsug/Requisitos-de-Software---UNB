@@ -29,6 +29,8 @@ Este documento foi produzido com base nos requisitos elicitados com persona pres
   
 <p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
 
+# Validação
+A validação das histórias de Usuários foi feita com o uso de personas com a gravação disponível no seguinte link: [gravação](https://www.youtube.com/watch?v=kIUk2A81P6Q)
 
 ## Histórias de Usuários identificados
 Abaixo nas tabelas de 1 a 41 podem ser visto as Histórias de Usuários .
