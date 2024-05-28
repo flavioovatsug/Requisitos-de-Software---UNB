@@ -87,3 +87,6 @@ nav:
       - Cenários: Modelagem/Cenarios.md
       - Ágil:
           - Histórias de Usuário: Modelagem/Agil/Historias_de_Usuario.md
+          - Backlog: Modelagem/Agil/backlog.md
+          - NFR Framework: Modelagem/Agil/NFR.md
+

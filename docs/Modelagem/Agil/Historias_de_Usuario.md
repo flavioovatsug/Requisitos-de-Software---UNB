@@ -10,7 +10,7 @@ Este documento foi produzido com base nos requisitos elicitados com persona pres
 
 <center>
 
-![Figura 1](../assets/lexicos/)
+![Figura 1](../../assets/UserStories/descricaoModelo.jpg)
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: SERRANO M.; SERRANO M. Requisitos - Aula 15.</p></font>
@@ -19,7 +19,7 @@ Este documento foi produzido com base nos requisitos elicitados com persona pres
 
 <center>
   
-| identificador do léxico   | caraterísticas |
+| identificador da histório   | caraterísticas |
 | -------- | ----------- |
 | Título     | Nome da História de Usuário auto-explicativo  |
 | Descrição     |  Descreve "quem", "o que" e o "por que" da funcionalidade   |
@@ -31,7 +31,7 @@ Este documento foi produzido com base nos requisitos elicitados com persona pres
 
 
 ## Histórias de Usuários identificados
-Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
+Abaixo nas tabelas de 1 a 41 podem ser visto as Histórias de Usuários .
 <p style="text-align: center">Tabela 2 - História de Usuário Autenticação de Usuário</p>
 
 <center>
@@ -226,7 +226,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/harry-cmartin">Harryson C Martins</a></p>
 
 <p style="text-align: center">Tabela 16 - História de Usuário Sigilo Relativo de Informações</p>
 
@@ -240,7 +240,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/harry-cmartin">Harryson C Martins</a></p>
 
 <p style="text-align: center">Tabela 17 - História de Usuário Disponibilizar Diversas Opções de Denúncia</p>
 
@@ -254,7 +254,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/harry-cmartin">Harryson C Martins</a></p>
 
 <p style="text-align: center">Tabela 18 - História de Usuário Tutorial de Uso do Aplicativo</p>
 
@@ -380,7 +380,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
 
 <p style="text-align: center">Tabela 27 - História de Usuário 	Disponibilizar Filtro de Pesquisa</p>
 
@@ -394,7 +394,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
 
 <p style="text-align: center">Tabela 28 - História de Usuário Possibilitar Compartilhamento das Informações de Placa</p>
 
@@ -408,7 +408,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: <a href="https://github.com/crstyhs">Christian</a></p>
+<p style="text-align: center">Autor: <a href="https://github.com/flavioovatsug">Flávio Melo</a></p>
 
 <p style="text-align: center">Tabela 29 - História de Usuário Instalação do Aplicativo em Diferentes Sistemas</p>
 
@@ -436,7 +436,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/italobrunom">Italo Bruno</a></p>
 
 <p style="text-align: center">Tabela 31 - História de Usuário Adicionar Novas Informações Sobre Perturbação da Vizinhança</p>
 
@@ -478,7 +478,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/italobrunom">Italo Bruno</a></p>
 
 <p style="text-align: center">Tabela 34 - História de Usuário Aplicativo Deve Ser Constantemente Divulgado</p>
 
@@ -492,7 +492,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/Bittarx">Bittar</a></p>
 
 <p style="text-align: center">Tabela 35 - História de Usuário Visualizar Perfil</p>
 
@@ -506,7 +506,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/Bittarx">Bittar</a></p>
 
 <p style="text-align: center">Tabela 36 - História de Usuário Visualizar Informações Institucionais</p>
 
@@ -520,7 +520,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/Bittarx">Bittar</a></p>
 
 <p style="text-align: center">Tabela 37 - História de Usuário Tirar Foto</p>
 
@@ -534,7 +534,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/IanLucca12">Ian Lucca</a></p>
 
 <p style="text-align: center">Tabela 38 - História de Usuário Comparar Foto com Desaparecido, Procurado ou Mandado</p>
 
@@ -548,7 +548,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/IanLucca12">Ian Lucca</a></p>
 
 <p style="text-align: center">Tabela 39 - História de Usuário Usar Funcionalidades Sem o Cadastro do Gov</p>
 
@@ -562,7 +562,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>]
+<p style="text-align: center">Autor: <a href="https://github.com/IanLucca12">Ian Lucca</a></p>
 
 <p style="text-align: center">Tabela 40 - História de Usuário Editar Perfil Gov</p>
 
@@ -576,7 +576,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/IanLucca12">Ian Lucca</a></p>
 
 <p style="text-align: center">Tabela 41 - História de Usuário Banco de Dados Ser Constantemente Atualizado Gov</p>
 
@@ -590,7 +590,7 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 
 <center>
   
-<p style="text-align: center">Autor: </p>
+<p style="text-align: center">Autor: <a href="https://github.com/Bittarx">Bittarxr</a></p>
 
 <p style="text-align: center">Tabela 42 - História de Usuário Ler Texto para Deficientes Visuais</p>
 
@@ -603,8 +603,8 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 | Critérios de aceitação    | - O usuário deve poder ativar ou desativar a leitura de texto de acordo com suas preferências, com controles intuitivos e de fácil acesso.    |
 
 <center>
-  
-<p style="text-align: center">Autor: </p>
+
+ <p style="text-align: center">Autor: <a href="https://github.com/IanLucca12">Ian Lucca</a></p>
 
 ## Referências
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/40/Plano_de_Ensino%20RE%20012024%20Turma%201.pdf>. Acesso em 24 de Maio de 2024.</br>
@@ -614,5 +614,6 @@ Abaixo nas tabelas de 1 a 16 podem ser visto as Histórias de Usuários .
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 24/05/2024 | Criação do documento das Histórias de Usuários | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
-| 1.1 | 27/05/2024 | Adição de Histórias de Usuários | [Christian](https://github.com/crstyhs)|  |
+| 1.1 | 27/05/2024 | Adição de Histórias de Usuários | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
+| 1.2 | 27/05/2024 | Adição de Histórias de Usuários | [Bittar](https://github.com/Bittarx)| [{[Italo}](https://github.com/ItaloBrunoM) |
 
