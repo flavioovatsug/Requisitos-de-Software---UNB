@@ -32,6 +32,7 @@ Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificaç�
 
 
 </center>
+
 <font size="3"><p style="text-align: center">Autor: [Christian Hirsch Santos](https://github.com/crstyhs) .</p></font>
 
 ### Elicitação
@@ -43,12 +44,20 @@ Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificaç�
 
 | Item   | Descrição                                                                                                                         | Avaliação | Problema | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
-|  |                                              | conforme não conforme Incompleto           |          |            |
-|  |  |           |          |            |
-|  |  |           |          |            |
-|  |                                                                   |           |          |            |
-|  |                                                                             |           |          |            |
-|  |                                                 |           |          |            |
+| 1 |   histórico de versão padronizado ?                                          | conforme não conforme Incompleto           |          |            |
+| 2 |  Presença de autor(es) e o(s) revisor(es) ?|           |          |            |
+| 3 |  Referências bibliográficas e/ou bibliografia ?   |           |          |            |
+| 4 |   As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto ?                                                                |           |          |            |
+| 5 |  O artefato possui introdução ?                                                                |           |          |            |
+| 6 |    A participação do cliente e/ou persona na elicitação ?                                       |           |          |            |
+| 7 |      As perguntas são claras e objetivas ?                   |           |          |            |
+| 8 |         As perguntas são relevantes para os objetivos do projeto ?                               |           |          |            |
+| 9 |       variedade de tipos de perguntas ?                                |           |          |            |
+| 10 |       O questionário evita perguntas tendenciosas?                              |           |          |            |
+| 11 |      O questionário foi distribuído de maneira a alcançar uma amostra representativa ?                                |           |          |            |
+| 12 |       O número de questões adequada para manter o engajamento dos respondentes ?                                |           |          |            |
+| 13 |      Considera a privacidade e confidencialidade das respostas dos participantes?                                |           |          |            |
+| 14 |      A análise dos dados foi feita de forma objetiva ?                                |           |          |            |
 
 </center>
 
@@ -61,12 +70,20 @@ Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificaç�
 
 | Item   | Descrição                                                                                                                         | Avaliação | Problema | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
-|  |                                              | conforme não conforme Incompleto           |          |            |
-|  |  |           |          |            |
-|  |  |           |          |            |
-|  |                                                                   |           |          |            |
-|  |                                                                             |           |          |            |
-|  |                                                 |           |          |            |
+| 1 |   histórico de versão padronizado ?                                          | conforme não conforme Incompleto           |          |            |
+| 2 |  Presença de autor(es) e o(s) revisor(es) ?|           |          |            |
+| 3 |  Referências bibliográficas e/ou bibliografia ?   |           |          |            |
+| 4 |   As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto ?                                                                |           |          |            |
+| 5 |  O artefato possui introdução ?                                                                |           |          |            |
+| 6 |          A participação do cliente e/ou persona na elicitação ?                                         |           |          |            |
+| 7 |          As ideias estão documentadas de forma lógica e clara ?                                        |           |          |            |
+| 8 |          Colaboração de todos integrantes para o levantamento de ideias ?                                         |           |          |            |
+| 9 |          Aborda todas as partes do aplicativo ?                                         |           |          |            |
+| 10 |          O brainstorming incluiu uma diversidade de perspectivas ?                                         |           |          |            |
+| 11 |          A participação do cliente e/ou persona na elicitação ?                                         |           |          |            |
+| 12 |          Requisitos estão diferenciados entre funcionais e não funcionais ?                                         |           |          |            |
+| 13 |          Identificação dos requisitos ?                                         |           |          |            |
+
 
 </center>
 
@@ -79,12 +96,19 @@ Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificaç�
 
 | Item   | Descrição                                                                                                                         | Avaliação | Problema | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
-|  |                                              | conforme não conforme Incompleto           |          |            |
-|  |  |           |          |            |
-|  |  |           |          |            |
-|  |                                                                   |           |          |            |
-|  |                                                                             |           |          |            |
-|  |                                                 |           |          |            |
+| 1 |   histórico de versão padronizado ?                                          | conforme não conforme Incompleto           |          |            |
+| 2 |  Presença de autor(es) e o(s) revisor(es) ?|           |          |            |
+| 3 |  Referências bibliográficas e/ou bibliografia ?   |           |          |            |
+| 4 |   As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto ?                                                                |           |          |            |
+| 5 |  O artefato possui introdução ?                                                                |           |          |            |
+| 6 |         A participação do cliente e/ou persona na elicitação ?                                          |           |          |            |
+| 7 |          Identificação dos requisitos ?                                            |           |          |            |
+| 8 |         As perguntas foram criadas antes da entrevista ?                                          |           |          |            |
+| 9 |          As perguntas são claras, objetivas e relevantes ?	                                           |           |          |            |
+| 10 |          Perguntas seguem algum tipo de padrão ?                                           |           |          |            |
+| 11 |         Entrevistado possui conhecimento sobre o assunto tratado ?                                            |           |          |            |
+| 12 |         O entrevistado foi informado sobre o propósito da entrevista e como suas respostas seriam utilizadas?                                            |           |          |            |
+| 13 |        Requisitos estão diferenciados entre funcionais e não funcionais ?                                             |           |          |            |
 
 </center>
 
@@ -97,12 +121,17 @@ Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificaç�
 
 | Item   | Descrição                                                                                                                         | Avaliação | Problema | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
-|  |                                              | conforme não conforme Incompleto           |          |            |
-|  |  |           |          |            |
-|  |  |           |          |            |
-|  |                                                                   |           |          |            |
-|  |                                                                             |           |          |            |
-|  |                                                 |           |          |            |
+| 1 |   histórico de versão padronizado ?                                          | conforme não conforme Incompleto           |          |            |
+| 2 |  Presença de autor(es) e o(s) revisor(es) ?|           |          |            |
+| 3 |  Referências bibliográficas e/ou bibliografia ?   |           |          |            |
+| 4 |   As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto ?                                                                |           |          |            |
+| 5 |  O artefato possui introdução ?                                                                |           |          |            |
+| 6 |         A participação do cliente e/ou persona na elicitação ?                                          |           |          |            |
+| 7 |           Identificação dos requisitos ?                                             |           |          |            |
+| 8 |              Requisitos estão diferenciados entre funcionais e não funcionais ?                                      |           |          |            |
+| 9 |              O observador possui conhecimento ou buscou conhecer o sistema observado ?                                    |           |          |            |
+| 10 |              As observações foram feitas de forma não intrusiva para não influenciar o comportamento?                               |           |          |            |
+
 
 </center>
 
@@ -122,7 +151,7 @@ Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificaç�
 | 5 |  O artefato possui introdução ?                                                                |           |          |            |
 | 6 |     os requisitos são rastreaveis ?                                                                       |           |          |            |
 | 7 |      Diferenciação entre implementados e não implementados ?                                          |           |          |            |
-| 8 |      Diferenciação entre funcional e não funcional ?                                          |           |          |            |
+| 8 |      Requisitos estão diferenciados entre funcionais e não funcionais ?                                          |           |          |            |
 | 9 |      Nomes descritivos ?                                         |           |          |            |
 | 10 |      Requisitos são verificáveis e testáveis?                                          |           |          |            |
 | 11 |      Requisitos são consistentes e sem ambiguidade?                                          |           |          |            |
@@ -143,12 +172,16 @@ Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificaç�
 
 | Item   | Descrição                                                                                                                         | Avaliação | Problema | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
-|  |                                              | conforme não conforme Incompleto           |          |            |
-|  |  |           |          |            |
-|  |  |           |          |            |
-|  |                                                                   |           |          |            |
-|  |                                                                             |           |          |            |
-|  |                                                 |           |          |            |
+| 1 |   histórico de versão padronizado ?                                          | conforme não conforme Incompleto           |          |            |
+| 2 |  Presença de autor(es) e o(s) revisor(es) ?|           |          |            |
+| 3 |  Referências bibliográficas e/ou bibliografia ?   |           |          |            |
+| 4 |   As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto ?                                                                |           |          |            |
+| 5 |  O artefato possui introdução ?                                                                |           |          |            |
+| 6 |         A participação do cliente e/ou persona na priorização ?                                          |           |          |            |
+| 7 |           Rastreabilidade dos requisitos ?                                             |           |          |            |
+| 8 |           Requisitos estão diferenciados entre funcionais e não funcionais ?                                               |           |          |            |
+| 9 |                Os critérios de inclusão e exclusão estão definidos ?                                |           |          |            |
+| 10 |               As justificativas para inclusão e exclusão de requisitos estão documentadas?                                      |           |          |            |
 
 </center>
 
@@ -161,12 +194,18 @@ Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificaç�
 
 | Item   | Descrição                                                                                                                         | Avaliação | Problema | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
-|  |                                              | conforme não conforme Incompleto           |          |            |
-|  |  |           |          |            |
-|  |  |           |          |            |
-|  |                                                                   |           |          |            |
-|  |                                                                             |           |          |            |
-|  |                                                 |           |          |            |
+| 1 |   histórico de versão padronizado ?                                          | conforme não conforme Incompleto           |          |            |
+| 2 |  Presença de autor(es) e o(s) revisor(es) ?|           |          |            |
+| 3 |  Referências bibliográficas e/ou bibliografia ?   |           |          |            |
+| 4 |   As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto ?                                                                |           |          |            |
+| 5 |  O artefato possui introdução ?                                                                |           |          |            |
+| 6 |         A participação do cliente e/ou persona na priorização ?                                          |           |          |            |
+| 7 |           Rastreabilidade dos requisitos ?                                             |           |          |            |
+| 8 |                Requisitos estão diferenciados entre funcionais e não funcionais ?                           |           |          |            |
+| 9 |           Os requistos são divididos em 3 partes(alta, média, baixa ) ?                                 |           |          |            |
+| 10 |              Foi disponibilizado uma tabela que apresente essa priorização ?                           |           |          |            |
+
+
 
 </center>
 
@@ -179,12 +218,18 @@ Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificaç�
 
 | Item   | Descrição                                                                                                                         | Avaliação | Problema | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
-|  |                                              | conforme não conforme Incompleto           |          |            |
-|  |  |           |          |            |
-|  |  |           |          |            |
-|  |                                                                   |           |          |            |
-|  |                                                                             |           |          |            |
-|  |                                                 |           |          |            |
+| 1 |   histórico de versão padronizado ?                                          | conforme não conforme Incompleto           |          |            |
+| 2 |  Presença de autor(es) e o(s) revisor(es) ?|           |          |            |
+| 3 |  Referências bibliográficas e/ou bibliografia ?   |           |          |            |
+| 4 |   As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto ?                                                                |           |          |            |
+| 5 |  O artefato possui introdução ?                                                                |           |          |            |
+| 6 |         A participação do cliente e/ou persona na priorização ?                                          |           |          |            |
+| 7 |           Rastreabilidade dos requisitos ?                                             |           |          |            |
+| 8 |           Requisitos estão diferenciados entre funcionais e não funcionais ?                                    |           |          |            |
+| 9 |               	Foram utilizadas Must, should, could, won't para a divisão da tabela ?                          |           |          |            |
+| 10 |            O método MoSCoW facilita o entendimento da prioridade dos requisitos ?                               |           |          |            |
+| 11 |           Foram elaboradas pelo menos outras 2 técnicas para uso desta técnica ?                               |           |          |            |
+| 12 |           Foi disponibilizado uma tabela que apresente essa priorização ?                              |           |          |            |
 
 </center>
 
