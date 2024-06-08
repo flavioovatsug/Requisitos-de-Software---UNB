@@ -440,3 +440,4 @@ Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificaç�
 | ------ | ---------- | ---------------- | ------------------ | ----------- |
 | 1.0    | 06/06 | Criação do documento |[Christian Hirsch Santos](https://github.com/crstyhs)|  | 
 | 1.1    | 07/06 | Criação das tabelas |[Christian Hirsch Santos](https://github.com/crstyhs)|  | 
+| 1.2    | 08/06 | Adição de tabelas |[Christian Hirsch Santos](https://github.com/crstyhs)|  | 
