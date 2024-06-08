@@ -10,7 +10,7 @@ A estratégia utilizada para o desenvolvimento desta verificação foi uma adpta
 
 ## Artefatos
 
-Abaixo nas tabelas x a x foram elaboradas listas de controle para a verificação: 
+Abaixo nas tabelas 1 a 16 foram elaboradas listas de controle para a verificação: 
 ### Planejamento
 #### Rich Picture
 <font><p style="text-align: center">**Tabela 1** Rich Picture.</p></font>
