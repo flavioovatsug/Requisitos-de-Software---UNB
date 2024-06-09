@@ -6,7 +6,7 @@ Os casos de uso são uma técnica fundamental na engenharia de software e na an�
 
 ## Metodologia
 
-O diagrama de caso de uso é uma representação visual que resume as interações entre os usuários e um sistema. PAra realização dos casos de uso de nosso sistema, utilizaremos da Persona já definida Rogério Barreto, utilizando de suas expectativas, objetivos, tarefas etc, para construção do mesmo. Utilizadno dessa tecnica é possível montar cénarios realistas de uso do sistema Sinesp, mostrando as diferentes funcionalidades suas necessidades e objetivos. A sguir na tabela 1 podem ser vistos os elementos que foram usados no diagrama de casos de uso. 
+O diagrama de caso de uso é uma representação visual que resume as interações entre os usuários e um sistema. Para realização dos casos de uso de nosso sistema, utilizaremos da Persona já definida Rogério Barreto, utilizando de suas expectativas, objetivos, tarefas etc, para construção do mesmo. Utilizando dessa técnica é possível montar cenários realistas de uso do sistema Sinesp, mostrando as diferentes funcionalidades suas necessidades e objetivos. A seguir na tabela 1 podem ser vistos os elementos que foram usados no diagrama de casos de uso. 
 
 <center>
 
@@ -15,11 +15,11 @@ O diagrama de caso de uso é uma representação visual que resume as interaçõ
 | Nome           |Descrição                     |    Representação                           |
 |----------------|------------------------------|--------------------------------------------|
 | Ator           | Entidade externa que interage com o sistema, podendo ser um usuário ou outro sistema.            | ![Ator](../assets/Casos_De_uso/ator.jpeg) |
-|Retângulo | Representação do sistema por inteiro, delimitando suas fronteiras |![Retangulo](../assets/Casos_De_uso/retangulo.jpeg)|
+|Retângulo | Representação do sistema por inteiro, delimitando suas fronteiras |![Retângulo](../assets/Casos_De_uso/retangulo.jpeg)|
 |Seta| Representações das interações entre atores e usos no sistema|![ASetas](../assets/Casos_De_uso/setas.jpeg)|
 |Elipse|Representação dos casos de uso. Um caso de uso mostra u,ma funcionalidade ou ação a ser realizada dentro do sistema.|![Elipse](../assets/Casos_De_uso/elipse.jpeg)|
 
-<font size="2"><p style="text-align: center">Fonte: [Italo Bruno](https://github.com/ItaloBrunoM) e [Harryson Campos Martins](https://github.com/harry-cmartin)  .</p></font>
+<font size="2"><p style="text-align: center">Autor: [Italo Bruno](https://github.com/ItaloBrunoM) e [Harryson Campos Martins](https://github.com/harry-cmartin) </p></font>
 
 </center>
 
@@ -33,12 +33,12 @@ Na figura 1 pode ser visto o diagrama de casos de uso desenvolvido.
 
 <center>
 
-![Diagram](../assets/Casos_De_uso/Diagrama_casos_De_uso.png)
+![figura](../assets/Casos_De_uso/DiagramaCasoDeUso.jpg)
 
 </center>
 
 
-<font size="2"><p style="text-align: center">Fonte: [Italo Bruno](https://github.com/ItaloBrunoM) e [Harryson Campos Martins](https://github.com/harry-cmartin)  .</p></font>
+<font size="2"><p style="text-align: center">Autor: [Italo Bruno](https://github.com/ItaloBrunoM) e [Harryson Campos Martins](https://github.com/harry-cmartin)  .</p></font>
 
 
 
@@ -59,7 +59,7 @@ Na figura 1 pode ser visto o diagrama de casos de uso desenvolvido.
 | **Data da criação** | 17/05/2024 |
 | **Rastreabilidade** | [RF01](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/), [RF02](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/),[RF16](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/), [RF17](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/) e [RF27](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/)|
 
-<font size="2"><p style="text-align: center">Fonte: [Italo Bruno](https://github.com/ItaloBrunoM)  .</p></font>
+<font size="2"><p style="text-align: center">Autor: [Italo Bruno](https://github.com/ItaloBrunoM)  .</p></font>
 
 </center>
 
@@ -101,7 +101,7 @@ Na figura 1 pode ser visto o diagrama de casos de uso desenvolvido.
 | **Data da criação** | 17/05/2024 |
 | **Rastreabilidade** | [RF08](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/), [RF09](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/), [RF27](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/)|
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Campos Martins](https://github.com/harry-cmartin)  .</p></font>
+<font size="2"><p style="text-align: center">Autor: [Harryson Campos Martins](https://github.com/harry-cmartin)  .</p></font>
 
 </center>
 
@@ -123,7 +123,7 @@ Na figura 1 pode ser visto o diagrama de casos de uso desenvolvido.
 | **Data da criação** | 17/05/2024 |
 | **Rastreabilidade** | [RF10](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/), [RF11](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/) e [RF27](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/)|
 
-<font size="2"><p style="text-align: center">Fonte: [Italo Bruno](https://github.com/ItaloBrunoM)  .</p></font>
+<font size="2"><p style="text-align: center">Autor: [Italo Bruno](https://github.com/ItaloBrunoM)  .</p></font>
 
 </center>
 
@@ -139,11 +139,11 @@ Na figura 1 pode ser visto o diagrama de casos de uso desenvolvido.
 | **Ação** | O usuário encontra mandatos |
 | **Fluxo básico** | <ul><li> O usuário acessa o aplicativo </br> <ul><li> O usuário acessa a aba participação cidadã  </br> <ul><li> O usuário deve ligar a localização do celular </br> <ul><li> O usuário faz a denuncia <br> |
 | **Fluxos de exceção** | <ul><li> O usuário acessa o aplicativo </br> <ul><li> O usuário não possui a localização do celular ligada </br> |
-| **Pós-condições** |O usuário consegue faazer a denúnica do ocorrido |
+| **Pós-condições** |O usuário consegue fazer a denúncia do ocorrido |
 | **Data da criação** | 17/05/2024 |
 | **Rastreabilidade** | [RF13](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/), [RF18](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/), [RF32](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/)|
 
-<font size="2"><p style="text-align: center">Fonte: [Harryson Campos Martins](https://github.com/harry-cmartin)  .</p></font>
+<font size="2"><p style="text-align: center">Autor: [Harryson Campos Martins](https://github.com/harry-cmartin)  .</p></font>
 
 </center>
 
@@ -163,3 +163,4 @@ Bilheteria Digital. Caso de Uso. Repositório da disciplina de Requisitos de Sof
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 17/05/2024 | Criação do documento de casos de uso | [Italo Bruno](https://github.com/ItaloBrunoM) e [Harryson Campos Martins](https://github.com/harry-cmartin)|[Christian Hirsch Santos](https://github.com/crstyhs)  |
+| 1.1 | 24/05/2024 | Correção do documento e do diagrama | [Italo Bruno](https://github.com/ItaloBrunoM) |  |

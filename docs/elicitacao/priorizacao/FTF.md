@@ -22,7 +22,7 @@ O "First Things First" (FTF) é uma abordagem fundamental na gestão de projetos
 | **TOTAL**                     | **48**             | **41**              | **137**     | **100,00**| **38**         | **100,00** | **46**        | **100,00** |            |
 
 
-<font size="2"><p style="text-align: center">Tabela por Italo Bruno </p></font>
+<font size="2"><p style="text-align: center">Autor: Italo Bruno</p></font>
 
 
 ##  Histórico de versões

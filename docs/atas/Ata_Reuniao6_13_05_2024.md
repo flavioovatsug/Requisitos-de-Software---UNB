@@ -32,7 +32,7 @@ Especificação Suplementar:  Bittar, Flávio
 | ------------------------------------ | ------------------------------------------------ |  
 | Criação da sexta Ata              | [Bittar](https://github.com/Bittarx) |
 
-Fonte: [Bittar](https://github.com/Bittarx), 2024
+Autor: [Bittar](https://github.com/Bittarx), 2024
 
 ## Gravação da reunião
 [Video](https://www.youtube.com/watch?v=pl_dRySrwTU)
@@ -41,5 +41,5 @@ Fonte: [Bittar](https://github.com/Bittarx), 2024
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 13/05/2024 | Criação da ata de reunião  | [Bittarx](https://github.com/Bittar)  | [Christian Hirsch Santos](https://github.com/crstyhs)|
+| 1.0 | 13/05/2024 | Criação da ata de reunião  | [Bittar](https://github.com/Bittar)  | [Christian Hirsch Santos](https://github.com/crstyhs)|
 | 1.1 | 20/05/2024 | Correções e  adição do video | [Christian Hirsch Santos](https://github.com/crstyhs)  | [Flávio Melo](https://github.com/flavioovatsug) |

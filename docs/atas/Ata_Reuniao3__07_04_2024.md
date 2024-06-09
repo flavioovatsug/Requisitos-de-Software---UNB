@@ -18,12 +18,12 @@ termino: 21:00
 
 ## Objetivos
 - Tratar sobre os pontos abordados durante a apresentação dos projetos.
-- Defenir os métodos que serão utilizados para a licitação de requisitos.
+- Definir os métodos que serão utilizados para a licitação de requisitos.
 
 ## Assuntos Tratados
 - Discutir como seria feito a entrevista.
-- Separar as atividades que serão feitas para corrigir os ítens entregados no primeiro ponto de controle.
-- Foi gravada a apresentação para ser disponibilizada no youtube.
+- Separar as atividades que serão feitas para corrigir os itens entregados no primeiro ponto de controle.
+- Foi gravada a apresentação para ser disponibilizada no YouTube.
 
 ## Tarefas
 <font size="2"><p style="text-align: center">Tabela 1: Tarefas distribuídas </p></font>
@@ -37,7 +37,7 @@ termino: 21:00
 | Upload das gravações das reuniões   | [Christian](https://github.com/crstyhs)          |
 | Criação do Trello                 | [Marcos](https://github.com/Bittarx)                  |
 
-Fonte: [Ian Lucca](https://github.com/IanLucca12), 2024
+Autor: [Ian Lucca](https://github.com/IanLucca12), 2024
 
 ## Gravação da reunião
 [Video](https://www.youtube.com/watch?v=mM6mq-arqII)

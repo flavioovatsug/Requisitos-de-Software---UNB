@@ -1,7 +1,7 @@
 <h1 align="center"> Grupo 5 </h1>
 
 <p align="center">
-  <img width="450" alt="b26fab25f90d161d81b679edbd5abd24-Full" src="./docs/assets/Logos/Logo_sinesp.png">
+  <img width="450" alt="b26fab25f90d161d81b679edbd5abd24-Full" src="./docs/assets/Logos/Logo_Sinesp.png">
 </p>
 
 <h1 align="center"> Sinesp Cidadão </h1>
@@ -18,11 +18,11 @@ Sinesp Cidadão é um aplicativo do Sistema Nacional de informações de Seguran
 
 ##### Funcionalidades
 
-- Veiculos: Permite que o cidadão consulte sobre roubo e furto de qualquer veiculo dentro do território brasileiro.
+- Veículos: Permite que o cidadão consulte sobre roubo e furto de qualquer veiculo dentro do território brasileiro.
 
-- Mandatos de Prisão: Permite consultar mandatos de prisão que não foram cumpridos tendo a finalidade de comunicar a policia em caso de possiveis informações.
+- Mandatos de Prisão: Permite consultar mandatos de prisão que não foram cumpridos tendo a finalidade de comunicar a policia em caso de possíveis informações.
 
-- Desaparecimentos: Disponibiliza ao cidadão a informação de quais pessoas constão como desaparecidas.
+- Desaparecimentos: Disponibiliza ao cidadão a informação de quais pessoas constam como desaparecidas.
 
 -------
 
@@ -47,4 +47,4 @@ Este projeto é distribuído sob a licença MIT.
 -------
 ## Contato
 
-Para entrar em contato basta enviar um email, ou clonar este repositorio e realizar um pull request em caso de necessidade de atualização nos arquivos presentes dentro do projeto.
+Para entrar em contato basta enviar um email, ou clonar este repositório e realizar um pull request em caso de necessidade de atualização nos arquivos presentes dentro do projeto.

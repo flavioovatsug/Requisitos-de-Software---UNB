@@ -4,7 +4,7 @@ Para desenvolver um aplicativo eficaz, é crucial ter uma compreensão aprofunda
 
 # Metodologia
 
-Pra criar uma persona fizemos uma analise dos perfis de usuarios e com isso foi feito a modelagem das personas para se adequar ao projeto
+Pra criar uma persona fizemos uma analise dos perfis de usuários e com isso foi feito a modelagem das personas para se adequar ao projeto
 
 # Elenco
 
@@ -28,11 +28,11 @@ A seguir são o elenco de personas do projeto
 | **Requisitos**: Interface intuitiva e fácil de usar, acesso rápido a dados precisos e confiáveis, atualizações frequentes para garantir informações em tempo real.                                                                                                                             |
 | **Tarefas**:       Verificar a situação de veículos suspeitos antes de abordá-los, auxiliar amigos e familiares na verificação de informações veiculares quando necessário e verificar a situação das pessoas que conduzem os veículos.                                                                                                                                                                                               <p style="text-align: center"><b>Tabela 2</b> - Persona Secundária Rogério Matos.</p>              |
 
-<font size="3"><p style="text-align: center">Fonte: [Christian](https://github.com/crstyhs).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Christian](https://github.com/crstyhs).</p></font>
 
 <p style="text-align: center"><b>Tabela 2</b> - Persona Primária  Rafael Valério Silva.</p>
 
-| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Valério Silva.</p></font><figure markdown>![Rafael Valério Silva](../assets/Personas/rafaelpersona.png)<figcaption>Fonte: Elaborada por [Ian Lucca](https://github.com/IanLucca12) (2024).</figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 2- Persona Primária Rafael Valério Silva.</p></font><figure markdown>![Rafael Valério Silva](../assets/Personas/rafaelpersona.png)<figcaption>Autor: Elaborada por [Ian Lucca](https://github.com/IanLucca12) (2024).</figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Rafael Valério Silva|
 | **Status**: Persona Primária. |
@@ -47,11 +47,11 @@ A seguir são o elenco de personas do projeto
 | **Requisitos**: Interface intuitiva e fácil de usar, acesso rápido a dados precisos e confiáveis, atualizações frequentes para garantir informações em tempo real.                                                                                                                             |
 | **Tarefas**:      Rafael passa o dia cumprindo com seus afazeres como policial civil, quando ele trabalha em áreas de alta criminalidade ele quer saber se pode avistar um carro roubado. Mantém o aplicativo para ter acesso aos dados dentro dele e costuma usar.                                                                                                                                                                                                          |
 
-<font size="3"><p style="text-align: center">Fonte: [Ian Lucca](https://github.com/IanLucca12).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Ian Lucca](https://github.com/IanLucca12).</p></font>
 
 <p style="text-align: center"><b>Tabela 3</b> - Mahmoud Khaled Mustafa.</p>
 
-| <font size="3"><p style="text-align: center">Figura 3- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Mahmoud Khaled Mustafa](../assets/Personas/Mahmoud.png)<figcaption>Fonte: Elaborada por [Bittar](https://github.com/Bittarx) (2024).</figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 3- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Mahmoud Khaled Mustafa](../assets/Personas/Mahmoud.png)<figcaption>Autor: Elaborada por [Bittar](https://github.com/Bittarx) (2024).</figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Mahmoud Ali Mustafa|
 | **Status**: Persona Primária. |
@@ -60,18 +60,18 @@ A seguir são o elenco de personas do projeto
 | **Profissão**: Vigilante|
 | **Escolaridade**: Ensino Médio |
 | **Habilidades e Experiências**:  Mahmoud é vigilante, trabalhando na segurança de um shopping.|
-| **Relacionamento**: Mahmoud possúi duas esposas e um filho, vai à mesquita para orar e estudar as ciências Quranicas nas sextas feiras.|
+| **Relacionamento**: Mahmoud possui duas esposas e um filho, vai à mesquita para orar e estudar as ciências Quranicas nas sextas feiras.|
 | **Objetivo**: Mahmoud trabalha, enquanto segurança, geralmente no estacionamento do shopping. Assim, resolveu baixar o aplicativo para identificar possíveis carros roubados|
 | **Expectativa**:   Mahmoud deseja que o aplicativo seja objetivo, informando-o que um criminoso em flagrante estacionou o veículo roubado no shopping.            |
 | **Requisitos**: Interface intuitiva e fácil de usar, acesso rápido a dados precisos e confiáveis, atualizações frequentes para garantir informações em tempo real.                                                                                                                             |
 | **Tarefas**:      Mahmoud é vigilante no estacionamento de um shopping, precisa garantir que os carros estejam seguros e, caso algum seja fruto de roubo, informar a polícia. Mantém o aplicativo para ter acesso aos dados dos veículos.                                                                                                                                                             |
 
-<font size="3"><p style="text-align: center">Fonte: [Bittar](https://github.com/Bittarx).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Bittar](https://github.com/Bittarx).</p></font>
 
 
 <p style="text-align: center"><b>Tabela 4</b> - Persona Secundária Rogério Matos.</p>
 
-| <font size="3"><p style="text-align: center">Figura 4- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/Persona_Sec_rogerio.png)<figcaption>Fonte: Elaborada por [Harryson Campos](https://github.com/harry-cmartin) (2024).</figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 4- Persona Primária Roberta do Santos.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/Persona_Sec_rogerio.png)<figcaption>Autor: Elaborada por [Harryson Campos](https://github.com/harry-cmartin) (2024).</figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Rogério Matos.                                                                                   |
 | **Status**: Persona Secundária.                                                   |
@@ -81,16 +81,16 @@ A seguir são o elenco de personas do projeto
 | **Escolaridade**: Pós-Graduação em Direito.                                                                          |
 | **Habilidades e Experiências**: Conhecimento em Direito civil, penal, constitucional, e administrativo.                                                                                          |
 | **Relacionamento**: Equipe de trabalho, familiares e amigos.                                                                                        |
-| **Objetivo**: COmo rogério trabalha como procurador, não tiliza frequentemente o app, procurando-o somente quando precisa fazer denúncias sobre irregularidades encontradas ou pesquisas de procurados.                                        |
-| **Expectativa**: Rogério geralnmente trabalha toda a semana e é muito dedicado a seu trabalho, não gosta de encontrar violações a leis e não denuncia-las, logo quando encontra tais ireegularidades em seu trabalho, abre o app e denuncia.                                            |
+| **Objetivo**: COmo rogério trabalha como procurador, não utiliza frequentemente o app, procurando-o somente quando precisa fazer denúncias sobre irregularidades encontradas ou pesquisas de procurados.                                        |
+| **Expectativa**: Rogério geralmente trabalha toda a semana e é muito dedicado a seu trabalho, não gosta de encontrar violações a leis e não denuncia-las, logo quando encontra tais irregularidades em seu trabalho, abre o app e denuncia.                                            |
 | **Requisitos**: Após a descoberta de irregularidades a pessoa faz a denúncia.                                   |
 | **Tarefas**: Ir para o trabalho de manhã, trabalhar até de tarde, voltar para casa e curtir a sua família.                       |
 
-<font size="3"><p style="text-align: center">Fonte: [Harryson Campos](https://github.com/harry-cmartin).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Harryson Campos](https://github.com/harry-cmartin).</p></font>
 
 <p style="text-align: center"><b>Tabela 5</b> - Persona Secundária Camila Rodrigues.</p>
  
-| <font size="3"><p style="text-align: center">Figura 5 Persona Secundária Camila Rodrigues.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/camilapersona.jpg)<figcaption>Fonte: Elaborada por [Flávio Melo](https://github.com/flavioovatsug).</p></font> (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 5 Persona Secundária Camila Rodrigues.</p></font><figure markdown>![Persona Rogério MAtos](../assets/Personas/camilapersona.jpg)<figcaption>Autor: Elaborada por [Flávio Melo](https://github.com/flavioovatsug).</p></font> (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nome: Camila Rodrigues.                                                                                                                                                                                                                                                                                                                                                              |
 | Status: Persona Secundária.                                                                                                                                                                                                                                                                                                                                                             |
@@ -105,11 +105,11 @@ A seguir são o elenco de personas do projeto
 | Requisitos: Acesso ao aplicativo SINESP Cidadão para consultar informações sobre pessoas desaparecidas e realizar buscas quando necessário.                                                                                                                                                                                                                                                  |
 | Tarefas: Camila utiliza o aplicativo SINESP Cidadão de forma esporádica para auxiliar na localização de pessoas desaparecidas entre seus clientes. Ela verifica informações sobre registros de ocorrências policiais, antecedentes criminais e outras informações relevantes para ajudar em suas investigações e fornecer apoio legal adequado aos seus clientes.                                                                                                                                                                                                                                   |
  
-<font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
 
 
 <p style="text-align: center"><b>Tabela 6</b> - Anti-Persona Marina Silva.</p>
-| <font size="3"><p style="text-align: center">Figura 6- Anti-Persona Marina Silva.</p></font><figure markdown>![Marina Silva](../assets/Personas/anti-persona.jpg.png)<figcaption>Fonte: Elaborada por [Italo Bruno](https://github.com/italobrunom) (2024).<a id="TEC2" href="#QT2"> 2</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 6- Anti-Persona Marina Silva.</p></font><figure markdown>![Marina Silva](../assets/Personas/anti-persona.jpg.png)<figcaption>Autor: Elaborada por [Italo Bruno](https://github.com/italobrunom) (2024).<a id="TEC2" href="#QT2"> 2</a></figcaption></figure> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Marina Silva |
 | **Status**: Anti-Persona. |

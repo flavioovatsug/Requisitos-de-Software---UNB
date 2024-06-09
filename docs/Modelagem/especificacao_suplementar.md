@@ -9,7 +9,7 @@ A Especificação Suplementar é um documento em linguagem natural que descreve 
 Iremos utilizar o FURPS+, que é uma metodologia para categorizar os requisitos de um sistema de software, garantindo uma abordagem abrangente. O acrônimo representa Funcionalidade (as capacidades específicas do sistema), Usabilidade (facilidade de uso e experiência do usuário), Confiabilidade (disponibilidade e tolerância a falhas), Desempenho (eficiência e tempo de resposta), e Suportabilidade (facilidade de manutenção e suporte). Já o "+" abrange requisitos não-funcionais (Requisitos de design, Requisitos de implementação, Requisitos de interface e Requisitos físicos).
 
 ## Funcionalidade
-Disponível no arquivo requisitos elicitados na pasta elicitacao
+Disponível no arquivo requisitos elicitados na pasta elicitação
 
 ## Usabilidade
 
@@ -30,7 +30,7 @@ Na tabela 1, é possível os requisitos identificados para Usabilidade.
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug) e [Harryson Campos](https://github.com/harry-cmartin).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Flávio Melo](https://github.com/flavioovatsug) e [Harryson Campos](https://github.com/harry-cmartin).</p></font>
 
 ## Confiabilidade
 
@@ -53,7 +53,7 @@ Na tabela 2, é possível os requisitos identificados para Confiabilidade.
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug) e [Bittar](https://github.com/Bittarx).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Flávio Melo](https://github.com/flavioovatsug) e [Bittar](https://github.com/Bittarx).</p></font>
 
 ## Desempenho
 
@@ -69,7 +69,7 @@ Na tabela 3, é possível os requisitos identificados para Desempenho.
 | DE02 | O aplicativo não deve ter um tempo de resposta maior que 300ms.                                      |
 | DE04 | O aplicativo deve oferecer uma experiência de usuário suave, com transições rápidas e uma organização intuitiva dos menus. |
 
-<font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
 
 ## Suportabilidade
 
@@ -87,7 +87,7 @@ Na tabela 4, é possível os requisitos identificados para Suportabilidade.
 | SP04 | Deve-se executar testes de integração nos dispositivos das marcas Samsung, Apple, Motorola, Xiaomi, entre outras, assegurando assim que a experiência do usuário seja consistente e sem falhas em diferentes plataformas.                                                                   |
 | SP05 | As atualizações do aplicativo devem ser enviadas e validadas de forma ágil nas lojas de aplicativos pertinentes, como a App Store da Apple e a Google Play Store. |
 
-<font size="3"><p style="text-align: center">Fonte: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Flávio Melo](https://github.com/flavioovatsug).</p></font>
 
 ## Restrições de Design
 
@@ -103,7 +103,7 @@ O aplicativo deve estar de acordo com as boas práticas de Design da engenharia 
 | IMP02 | O sistema deve funcionar em dispositivos IOS 9.0 ou posterior                                       |
 | IMP04 | O sistema deve funcionar com 100MB de memória disponível                                                                    |
 
-<font size="3"><p style="text-align: center">Fonte: [Bittar](https://github.com/Bittarx).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Bittar](https://github.com/Bittarx).</p></font>
 
 ## Requisitos de Interface
 <font><p style="text-align: center">**Tabela 6** - Requisitos de Interface</p></font>
@@ -122,7 +122,7 @@ O aplicativo deve estar de acordo com as boas práticas de Design da engenharia 
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Christian Hirsch Santos](https://github.com/crstyhs) e [Ian Lucca](https://github.com/IanLucca12).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Christian Hirsch Santos](https://github.com/crstyhs) e [Ian Lucca](https://github.com/IanLucca12).</p></font>
 ## Requisitos Físicos
 <font><p style="text-align: center">**Tabela 7** - Requisitos Físicos</p></font>
 
@@ -138,7 +138,7 @@ O aplicativo deve estar de acordo com as boas práticas de Design da engenharia 
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Christian Hirsch Santos](https://github.com/crstyhs).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Christian Hirsch Santos](https://github.com/crstyhs).</p></font>
 ## Requisitos de Sistema de Ajuda e de Documentação
 
 <font><p style="text-align: center">**Tabela 8** - requisitos de Sistema e Documentação</p></font>
@@ -153,11 +153,11 @@ O aplicativo deve estar de acordo com as boas práticas de Design da engenharia 
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Bittar](https://github.com/Bittarx) e [Italo Bruno](https://github.com/ItaloBrunoM).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Bittar](https://github.com/Bittarx) e [Italo Bruno](https://github.com/ItaloBrunoM).</p></font>
 
 ## Observações de Dados
 
-Todos os Dados acessados pelo app (que podem ser obtidos por acesso à câmera, galeria de fotos e localização do aparelho ou por meio de dados oficiais disponibilizados pelo Gov.Br) devem ser armazenados em bancos de dados do Sinesp e, em nenhuma hipótese, devem ser comercializados ou redistribuídos. São coletados também dados de acesso, pesquisas e IMEI para a identificação do usuário somente em casos de auditoria, quando oficialmente solicitado por autoridade polícial ou judiciária, em procedimento de investigação ou processos criminais.
+Todos os Dados acessados pelo app (que podem ser obtidos por acesso à câmera, galeria de fotos e localização do aparelho ou por meio de dados oficiais disponibilizados pelo Gov.Br) devem ser armazenados em bancos de dados do Sinesp e, em nenhuma hipótese, devem ser comercializados ou redistribuídos. São coletados também dados de acesso, pesquisas e IMEI para a identificação do usuário somente em casos de auditoria, quando oficialmente solicitado por autoridade policial ou judiciária, em procedimento de investigação ou processos criminais.
 
 
 ## Referências Bibliográficas

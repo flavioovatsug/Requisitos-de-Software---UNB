@@ -27,15 +27,15 @@ Gravação da apresentação da entrega entrega 3
 
 | Tarefa                               | Responsável                                      |
 | ------------------------------------ | ------------------------------------------------ |  
-| Gravação da apresentação             | [Ian Lucca](https://github.com/IanLucca12), [Harryson Campos](https://github.com/harry-cmartin), [Bittarx](https://github.com/Bittar) , [Christian Hirsch Santos](https://github.com/crstyhs) , [Flávio Melo](https://github.com/flavioovatsug)  |
+| Gravação da apresentação             | [Ian Lucca](https://github.com/IanLucca12), [Harryson Campos](https://github.com/harry-cmartin), [Bittar](https://github.com/Bittar) , [Christian Hirsch Santos](https://github.com/crstyhs) , [Flávio Melo](https://github.com/flavioovatsug)  |
 
-Fonte: [Flávio Melo](https://github.com/flavioovatsug), 2024
+Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024
 
 ## Gravação da reunião
-[Video]()
+[Video](https://www.youtube.com/watch?v=ukevCT7PVPI)
 ## Referências
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 20/05/2024 | Criação da ata de reunião 8  | [Flávio Melo](https://github.com/flavioovatsug) ||
+| 1.0 | 20/05/2024 | Criação da ata de reunião 8  | [Flávio Melo](https://github.com/flavioovatsug) |[Christian Hirsch Santos](https://github.com/crstyhs)|

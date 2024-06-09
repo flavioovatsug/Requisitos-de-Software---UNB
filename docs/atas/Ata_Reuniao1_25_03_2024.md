@@ -21,10 +21,10 @@ Primeira reunião de grupo para distribuição de tarefas e início do desenvolv
 
 ## Assuntos Tratados
 - O documento requisitado <i>Heatmap</i> foi preenchido 
-- Foi elicitado algumas ideias de aplicações plausiveis de serem escolhidas para o projeto
-- Escolha temporaria de uma aplicação para estudo dos Termos de uso(Sinesp Cidadão)
-- Responsabilidades de tarefas foram atribuidas para alguns integrantes
-- Arquivos em MarkDown criados no Github foi o modo de documnetação escolhido para as futuras atas
+- Foi elicitado algumas ideias de aplicações plausíveis de serem escolhidas para o projeto
+- Escolha temporária de uma aplicação para estudo dos Termos de uso(Sinesp Cidadão)
+- Responsabilidades de tarefas foram atribuídas para alguns integrantes
+- Arquivos em MarkDown criados no Github foi o modo de documentação escolhido para as futuras atas
 ## Tarefas
 <font size="2"><p style="text-align: center">Tabela 1: Tarefas distribuídas </p></font>
 

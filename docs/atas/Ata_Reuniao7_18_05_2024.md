@@ -32,7 +32,7 @@ Gravação das elicitações com persona sendo eles :
 | ------------------------------------ | ------------------------------------------------ |  
 | Gravação das elicitações com persona             | [Italo Bruno](https://github.com/ItaloBrunoM) , [Christian Hirsch Santos](https://github.com/crstyhs) , [Flávio Melo](https://github.com/flavioovatsug)  |
 
-Fonte: [Christian Hirsch Santos](https://github.com/crstyhs), 2024
+Autor: [Christian Hirsch Santos](https://github.com/crstyhs), 2024
 
 ## Gravação da reunião
 [Video](https://www.youtube.com/watch?v=huW7cJE9Ajk)
