@@ -11,28 +11,62 @@ Para esta verificação utilizaremos uma ténica de Inspeção Desenvolvida orig
 
 A inspeção será realizada de forma individual por cada integrante da equipe através dos checklists desenvolvidos a seguir bas tabelas de 1 a 4:
 
-## Artefatos
+## Contexto
 
-Abaixo na tabela 1 foi elaborada o modelo da lista de controle para a verificação: 
-### Planejamento
-#### Rich Picture
-<font><p style="text-align: center">**Tabela 1** Modelo Rich Picture.</p></font>
+Nesse documento serão dispostas as checklists estrturadas para verificação do Rich Picture.
+
+
+### Cronograma
+
+A seguir na tabela 1 podem ser vistos o cronograma planejado para verificação dessa entrega:
+
+<center>
+
+Tabela 1- Cronograma.
+
+| Data       | Descrição                                  | Responsável                                      |
+| ---------- | ------------------------------------------ | ------------------------------------------------ |
+| 08/06/2023 | Verificação do Rich Picture.                | [Christian Hirsch Santos](https://github.com/crstyhs) |
+
+
+_Autor: [Christian Hirsch Santos](https://github.com/crstyhs), 2024._
+
+</center>
+
+## Checklists
+
+A checklist foi construídas levando em conta os padrões esperados para os artefatos, baseada no livro _Interação Humano Computador de Barbosa e Silva_<a id="FTF1" href="#FTF1Ref">^1^</a>,  e nos Slides _Requisitos - Aula 13 da professora Milene Serrano e Maurício Serrano_<a id="FTF2Ref" href="#FTF2">2.</a>. 
+
+Abaixo será dividida a checklist em Checklist Gerail e Específica , pode ser visto a seguir nas tabelas 2 a 3:
+
+<font><p style="text-align: center">**Tabela 1** Modelo Rich Picture geral.</p></font>
 
 <center>
 
 | Item   | Descrição                                                                                                                         | Avaliação | Problema | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
-| 1 |    Possui uma legenda explicando os símbolos utilizados no diagrama ?                                       | conforme não conforme Incompleto           |          |            |
-| 2 |  os componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” (atores, operações, armazenamento de dados, setas e o fronteira do sistema)?  |           |          |            |
-| 3 |  histórico de versão padronizado ?|           |          |            |
-| 4 |     Presença de autor(es) e o(s) revisor(es) ?                                                             |           |          |            |
-| 5 |      Referências bibliográficas e/ou bibliografia ?                                                                      |           |          |            |
-| 6 |      textos em norma padrão ?                                    |           |          |            |
-| 7 |      Atores fora do sistema ?                                       |           |          |            |
-| 8 |     Compreensão é rápida e clara ?                                          |           |          |            |
-| 9 |      Está de acordo com o aplicativo selecionado ?                                         |           |          |            |
-| 10 |      As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto ?                                          |           |          |            |
-| 11 |      O artefato possui introdução ?                                          |           |          |            |
+| 1 |  histórico de versão padronizado ?|           |          |            |
+| 2 |     Presença de autor(es) e o(s) revisor(es) ?                                                             |           |          |            |
+| 3 |      Referências bibliográficas e/ou bibliografia ?                                                                      |           |          |            |
+| 4 |      textos em norma padrão ?                                    |           |          |            |
+| 5 |      As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto ?                                          |           |          |            |
+| 6 |      O artefato possui introdução ?                                          |           |          |            |
+
+</center>
+
+<font size="3"><p style="text-align: center">Autor: [Christian Hirsch Santos](https://github.com/crstyhs) .</p></font>
+
+<font><p style="text-align: center">**Tabela 1** Modelo Rich Picture geral.</p></font>
+
+<center>
+
+| Item   | Descrição                                                                                                                         | Avaliação | Problema | Observação |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
+| 7 |    Possui uma legenda explicando os símbolos utilizados no diagrama ?                                       | conforme não conforme Incompleto           |          |            |
+| 8 |  os componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” (atores, operações, armazenamento de dados, setas e o fronteira do sistema)?  |         |    |   |
+| 9 |      Atores fora do sistema ?                                       |           |          |            |
+| 10 |     Compreensão é rápida e clara ?                                          |           |          |            |
+| 11 |      Está de acordo com o aplicativo selecionado ?                                         |           |          |            |
 | 12 |      O Rich picture representa o aplicativo ?                                          |           |          |            |
 | 13 |      Explicação dos símbolos na legenda ?                                          |           |          |            |
 | 14 |      Explicação dos símbolos consizente com a imagem ?                                          |           |          |            |
