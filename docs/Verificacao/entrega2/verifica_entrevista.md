@@ -34,7 +34,7 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 
 
-**Tabela 5** - Checklist para a Verificação da Entrevista.
+**Tabela 2** - Checklist para a Verificação da Entrevista.
 
 | ID   | Descrição                                                                                         | Avaliação | Observações |
 | ---- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
