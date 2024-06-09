@@ -7,9 +7,9 @@ A verificação é uma das etapas onde os artefatos produzidos são analisados g
 
 ## Metodologia
 
-Para esta verificação utilizaremos uma ténica de INspeção Desenvolvida originalmente por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos.
+Para esta verificação utilizaremos uma ténica de Inspeção que segundos os DOutorandos Marcos Kalinowski e Rodrigo Oliveira Spínola de Engenharia e Sistemas da Computação pela UFRJ, na revista Engenharia de Software Magazine, é um tipo particular de revisão que pode ser aplicado atodos os tipos de artegafato de software  a fim de se encontrar defeitos.
 
-A inspeção seŕa realizada de forma individual por cada integrante da equipe atrvés dos checklists desenvolvidos a seguir.
+A inspeção seŕa realizada de forma individual por cada integrante da equipe através do metodo definido de checklists a seguir.
 
 ## Contexto
 
