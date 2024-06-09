@@ -617,5 +617,5 @@ Abaixo nas tabelas de 1 a 41 podem ser visto as Histórias de Usuários .
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 24/05/2024 | Criação do documento das Histórias de Usuários | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
 | 1.1 | 27/05/2024 | Adição de Histórias de Usuários | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
-| 1.2 | 27/05/2024 | Adição de Histórias de Usuários | [Bittar](https://github.com/Bittarx)| [{[Italo}](https://github.com/ItaloBrunoM) |
+| 1.2 | 27/05/2024 | Adição de Histórias de Usuários | [Bittar](https://github.com/Bittarx)| [Italo}](https://github.com/ItaloBrunoM) |
 

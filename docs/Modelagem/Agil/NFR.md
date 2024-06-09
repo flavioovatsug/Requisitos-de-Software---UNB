@@ -215,5 +215,5 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 25/05/2024 | Criação do documento NFR | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
-| 1.1 | 26/05/2024 | Atualização com os cartões de especificação | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
-| 1.2 | 27/05/2024 | Atualização com os SIG e Propagação | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
+| 1.1 | 26/05/2024 | Atualização com os cartões de especificação | [Italo Bruno](https://github.com/ItaloBrunoM)  | [Flávio Melo](https://github.com/flavioovatsug) |
+| 1.2 | 27/05/2024 | Atualização com os SIG e Propagação | [Italo Bruno](https://github.com/ItaloBrunoM)  | [Flávio Melo](https://github.com/flavioovatsug) |
