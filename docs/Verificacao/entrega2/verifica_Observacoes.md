@@ -38,11 +38,11 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 | ID  | Descrição                                                                                         | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 31 |         A participação do cliente e/ou persona na elicitação ?                                          |   sim        |          |            |
-| 32 |           Identificação dos requisitos ?                                             |       sim    |          |            |
-| 33 |              Requisitos estão diferenciados entre funcionais e não funcionais ?                                      | sim          |          |            |
-| 34 |              O observador possui conhecimento ou buscou conhecer o sistema observado ?                                    | sim          |          |            |
-| 35 |              As observações foram feitas de forma não intrusiva para não influenciar o comportamento?                               |sim|          |            |
+| 5 |         A participação do cliente e/ou persona na elicitação ?                                          |   sim        |          |            |
+| 6 |           Identificação dos requisitos ?                                             |       sim    |          |            |
+| 7 |              Requisitos estão diferenciados entre funcionais e não funcionais ?                                      | sim          |          |            |
+| 8 |              O observador possui conhecimento ou buscou conhecer o sistema observado ?                                    | sim          |          |            |
+| 9 |              As observações foram feitas de forma não intrusiva para não influenciar o comportamento?                               |sim|          |            |
 
 
 _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
