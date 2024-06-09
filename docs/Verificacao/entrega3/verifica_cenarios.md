@@ -38,7 +38,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 | --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
 | 1  | O título do cenário é autoexplicativo?                                                            |   Sim        |             |
 | 2  | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?        |  Sim         |             |
-| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  |Incompleto|    Não há pré-condições         |
+| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  |Incompleto|    Não há detalhamento de todas as pré-condições         |
 | 4  | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios?    |  Sim         |             |
 | 5  | Os atores são condizentes com o contexto do cenário?                                              |    Sim       |             |
 | 6  | O cenário descreve situações realistas e relevantes de interação do sistema?                      |     Sim      |             |
@@ -56,7 +56,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 | --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
 | 1  | O título do cenário é autoexplicativo?                                                            |   Sim        |             |
 | 2  | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?        |  Sim         |             |
-| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  |Incompleto|    Não há pré-condições         |
+| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  |Incompleto|    Não há detalhamento de todas as pré-condições         |
 | 4  | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios?    |   Sim       |             |
 | 5  | Os atores são condizentes com o contexto do cenário?                                              |    Sim       |             |
 | 6  | O cenário descreve situações realistas e relevantes de interação do sistema?                      |     Sim      |             |
@@ -74,7 +74,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 | --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
 | 1  | O título do cenário é autoexplicativo?                                                            |   Sim        |             |
 | 2  | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?        |  Sim         |             |
-| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  |Incompleto|    Não há pré-condições         |
+| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  |Incompleto|    Não há detalhamento de todas as pré-condições        |
 | 4  | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios?    |    Sim       |             |
 | 5  | Os atores são condizentes com o contexto do cenário?                                              |    Sim       |             |
 | 6  | O cenário descreve situações realistas e relevantes de interação do sistema?                      |     Sim      |             |
@@ -86,14 +86,21 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
 ## Lista de Problemas e Análise dos cenários verificados pelo membro Harryson C. Martins
 
-- Para os cenários avalaidos em questão só foi identificado a falta das pré-condições para realiazção das acções dos cenários
+- Para os cenários avaliados em questão só foi identificado a falta  de pré-condições mais detalhadas como: sistema operacional necessário, tipo de aparelo que deve ser usado já que é um app mobile
 
 ### Solução
 
-- Para resolução do problema encontrado é viável que o grupo analise o site e busque entender o que é necessário para realizar as ações de Pesquisar e abrir sites, Escolher idioma e Traduzir páginas, e as adicione como preé-condições dos cenários.
+- Para resolução do problema encontrado é viável que o grupo analise mais pré-condições de uso e detalhe esses quesitos, trazendo mais completude ao cenário.
+
+### Verificação dos Cenários
 
 
+ 
+ <center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OTPzQvkQBxk?si=4Fnt_oL6EiuYJ4nz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 
 
