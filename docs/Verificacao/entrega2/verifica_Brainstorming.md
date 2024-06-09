@@ -1,4 +1,4 @@
-# Verificação dos Questionários do Grupo 6
+# Verificação do Brainstorming do Grupo 6
 
 ## Introdução
 
@@ -77,4 +77,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Marcos Bittar](https://github.com/Bittarx)|
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | |
