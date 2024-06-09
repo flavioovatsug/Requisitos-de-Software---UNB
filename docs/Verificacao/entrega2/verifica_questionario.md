@@ -1,0 +1,80 @@
+# Verificação dos Questionários do Grupo 6
+
+## Introdução
+
+Este artefato documenta a verificação do documento de Especificação Suplementar do [Grupo 6](https://requisitos-de-software.github.io/2024.1-Firefox/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
+
+
+## Metodologia
+
+A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Questionário](docs/Verificacao/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
+**Sim**, **Não**, **Incompleto** ou **Não se aplica**, esse artefato será verificado individualmente pelo membro  [Ian Lucca](https://github.com/IanLucca12).
+
+
+
+## Resultados
+
+A seguir podem ser vistos os resultados obtidos nas tabelas 1 e 2: 
+
+<center>
+
+**Tabela 1** - Checklist para os Itens Gerais.
+
+| ID  | Descrição                                                                                              | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 1   | O artefato possui introdução?                                                                          |   Sim        |             |
+| 2   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                      |  Sim         |             |
+| 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |   Sim        |             |
+| 4   |     O artefato possui uma bibliografia/referência bibliográfica?                            |   Sim        |             |
+
+_Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
+
+
+</center>
+
+<center>
+
+**Tabela 3** - Checklist para a Verificação do questionário.
+
+| ID  | Descrição                                                                                                        | Avaliação | Observações |
+| --- | --------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 6 |    A participação do cliente e/ou persona na elicitação ?                                       |  Sim         |          |            |
+| 7 |      As perguntas são claras e objetivas ?                   |    Sim       |          |            |
+| 8 |         As perguntas são relevantes para os objetivos do projeto ?                               |   Sim        |          |            |
+| 9 |       variedade de tipos de perguntas ?                                |    Sim       |  |           |
+| 10 |       O questionário evita perguntas tendenciosas?                              |   Sim        |          |            |
+| 11 |      O questionário foi distribuído de maneira a alcançar uma amostra representativa ?                                |Sim|          |            |
+| 12 |       O número de questões adequada para manter o engajamento dos respondentes ?                                |SIm|          |            |
+| 13 |      Considera a privacidade e confidencialidade das respostas dos participantes?                                |      Sim     |          |            |
+| 14 |      A análise dos dados foi feita de forma objetiva ?                                |     Sim      |          |            |
+
+
+_Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
+
+</center>
+
+
+
+## Lista de Problemas e Análise 
+
+- Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
+
+### Solução
+
+- 
+
+
+
+## Referências Bibliográficas
+
+> <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="FTF2Ref" href="#FTF2">2.</a> Requisistos aulas 5, 6 e 7 - Milene Serrano e Maurício Serrano
+
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
+| ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Marcos Bittar](https://github.com/Bittarx)|
