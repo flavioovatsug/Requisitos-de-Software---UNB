@@ -45,12 +45,12 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 | 7  | Os fluxos alternativos demonstram cenários alternativos ao fluxo principal?                                     |     Sim      |             |
 | 8 | Os casos de uso possuem relacionamentos de extensão, inclusão e generalização?                                  | Sim          |             |
 | 9  | O caso de uso representa uma funcionalidade completa que entrega valor ao usuário?                              |    Sim       |             |
-| 10  | Todos os casos de uso são considerados requisitos funcionais?                                                   |           |   Sim          |
+| 10  | Todos os casos de uso são considerados requisitos funcionais?                                                   |      Sim     |             |
 | 11  | Os casos de uso incluem fluxos principais, alternativos e de exceção?                                           |    Sim       |             |
 | 12  | Os fluxos de exceção indicam como o sistema reage a situações inesperadas?                                      |     Não      |     Não há tal informação         |
 | 13  | Os casos de uso representam interações entre o usuário e o sistema?                                             |    Sim       |             |
 | 14  | O ator principal está posicionado fora das fronteiras da aplicação?                                             |  Sim         |             |
-| 15  | Cada especificação de caso de uso possui apenas um fluxo principal?                                             |           |      Sim       |
+| 15  | Cada especificação de caso de uso possui apenas um fluxo principal?                                             |    Sim       |             |
 | 16  | Os elementos de atores, sistema e metas estão presentes nos casos de uso?                                       |   Sim        |             |
 | 17  |     Os atores do sistema possuem nomes significativos ?                          |    Sim       |             |
 

@@ -7,9 +7,9 @@ A verificação é uma das etapas onde os artefatos produzidos são analisados g
 
 ## Metodologia
 
-Para esta verificação utilizaremos uma ténica de INspeção Desenvolvida originalmente por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos.
+Para esta verificação utilizaremos uma ténica de Inspeção que segundos os DOutorandos Marcos Kalinowski e Rodrigo Oliveira Spínola de Engenharia e Sistemas da Computação pela UFRJ, na revista Engenharia de Software Magazine, é um tipo particular de revisão que pode ser aplicado atodos os tipos de artegafato de software  a fim de se encontrar defeitos.
 
-A inspeção seŕa realizada de forma individual por cada integrante da equipe atrvés dos checklists desenvolvidos a seguir.
+A inspeção seŕa realizada de forma individual por cada integrante da equipe através do metodo definido de checklists a seguir.
 
 ## Contexto
 
@@ -26,10 +26,10 @@ Tabela 1- Cronograma.
 
 | Data       | Descrição                                  | Responsável                                      |
 | ---------- | ------------------------------------------ | ------------------------------------------------ |
-| 03/06/2023 | Verificação do Caso de Uso.                | Equipe  |
-| 04/06/2023 | Verificação do Especificação Suplementar.  | [Harryson Campos Martins](https://github.com/harry-cmartin) |
-| 08/06/2023 | Verificação dos cenários.                  | [Harryson Campos Martins](https://github.com/harry-cmartin)     |
-| 10/06/2023 | Verificação dos Léxicos.                   | Equipe  |
+| 08/06/2024 | Verificação do Caso de Uso.                | Equipe  |
+| 08/06/2024 | Verificação do Especificação Suplementar.  | [Harryson Campos Martins](https://github.com/harry-cmartin) |
+| 08/06/2024 | Verificação dos cenários.                  |  Equipe   |
+| 08/06/2024 | Verificação dos Léxicos.                   | Equipe  |
 
 _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -54,7 +54,7 @@ Abaixo será dividida as checklists em Checklist Gerais e Específicas para cada
 | 4   |     O artefato possui uma bibliografia/referência bibliográfica?                            |           |             |
 
 
-_Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
+_Autor: [Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 </center>
 
@@ -86,7 +86,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
 
 
-_Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
+_Autor:[Christian Hirsch Santos](https://github.com/crstyhs) , 2024._
 
 </center>
 
@@ -108,7 +108,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 | 25  | Existe uma descrição clara dos elementos e a razão pela qual o léxico é parte deles?                      |           |             |
 | 26  | O vocabulário mínimo necessário para descrever os contextos foi corretamente utilizado?                   |           |             |
 
-_Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
+_Autor: [Italo Bruno](https://github.com/ItaloBrunoM), 2024._
 
 </center>
 
@@ -142,7 +142,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 | 44   | O documento possui um tópico de Requisitos de Interface?                                          |           |             |
 | 45  | Os requisitos apresentados para cada um dos tópicos necessários já citados, são testáveis?                                                         |           |             |
 
-_Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
+_Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
 </center>
 
