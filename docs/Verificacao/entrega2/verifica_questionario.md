@@ -34,7 +34,7 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 <center>
 
-**Tabela 3** - Checklist para a Verificação do questionário.
+**Tabela 2** - Checklist para a Verificação do questionário.
 
 | ID  | Descrição                                                                                                        | Avaliação | Observações |
 | --- | --------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
