@@ -39,10 +39,10 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 | Item   | Descrição                                                                                                                         | Avaliação  | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
-| 45 |           Rastreabilidade dos requisitos ?                                             |                  sim              |
-| 46 |           Requisitos estão diferenciados entre funcionais e não funcionais ?                                               | sim          |          |            |
-| 47 |                Os critérios de inclusão e exclusão estão definidos ?                                           |    sim      |            |
-| 48 |        As justificativas para inclusão e exclusão de requisitos estão documentadas?  |sim||                
+| 5 |           Rastreabilidade dos requisitos ?                                             |                  sim              |
+| 6 |           Requisitos estão diferenciados entre funcionais e não funcionais ?                                               | sim          |          |            |
+| 7 |                Os critérios de inclusão e exclusão estão definidos ?                                           |    sim      |            |
+| 8 |        As justificativas para inclusão e exclusão de requisitos estão documentadas?  |sim||                
 
 _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
