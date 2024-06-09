@@ -39,7 +39,7 @@ A checklist foi construídas levando em conta os padrões esperados para os arte
 
 Abaixo será dividida a checklist em Checklist Gerail e Específica , pode ser visto a seguir nas tabelas 2 a 3:
 
-<font><p style="text-align: center">**Tabela 1** Modelo Rich Picture geral.</p></font>
+<font><p style="text-align: center">**Tabela 2** Modelo Rich Picture geral.</p></font>
 
 <center>
 
@@ -56,13 +56,13 @@ Abaixo será dividida a checklist em Checklist Gerail e Específica , pode ser v
 
 <font size="3"><p style="text-align: center">Autor: [Christian Hirsch Santos](https://github.com/crstyhs) .</p></font>
 
-<font><p style="text-align: center">**Tabela 1** Modelo Rich Picture geral.</p></font>
+<font><p style="text-align: center">**Tabela 3** Modelo Rich Picture especifico.</p></font>
 
 <center>
 
 | Item   | Descrição                                                                                                                         | Avaliação | Problema | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | ---------- |
-| 7 |    Possui uma legenda explicando os símbolos utilizados no diagrama ?                                       | conforme não conforme Incompleto           |          |            |
+| 7 |    Possui uma legenda explicando os símbolos utilizados no diagrama ?                                       |            |          |            |
 | 8 |  os componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” (atores, operações, armazenamento de dados, setas e o fronteira do sistema)?  |         |    |   |
 | 9 |      Atores fora do sistema ?                                       |           |          |            |
 | 10 |     Compreensão é rápida e clara ?                                          |           |          |            |
