@@ -91,6 +91,9 @@ nav:
           - Backlog: Modelagem/Agil/backlog.md
           - NFR Framework: Modelagem/Agil/NFR.md
   - Verificação - Grupo 6:
+          - Entrega 1:
+            - Planejamento: Verificacao/entrega1/planejamento_entr_1.md
+            - Rich Picture: Verificacao/entrega1/verifica_RichPicture.md
           - Entrega 3:
             - Planejamento: Verificacao/entrega3/planejamento_entr_3.md
             - Casos de uso: Verificacao/entrega3/verifica_casosdeuso.md
