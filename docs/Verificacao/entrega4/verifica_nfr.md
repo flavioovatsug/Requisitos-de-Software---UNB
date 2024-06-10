@@ -66,5 +66,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Italo Bruno](https://github.com/Italobrunom) |  |
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Italo Bruno](https://github.com/Italobrunom) | [Flávio Melo](https://github.com/flavioovatsug) |
 

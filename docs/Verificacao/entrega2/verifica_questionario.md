@@ -59,12 +59,6 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 - Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
 
-### Solução
-
-- 
-
-
-
 ## Referências Bibliográficas
 
 > <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
