@@ -1,4 +1,4 @@
-# Verificação dos Entrevistas do Grupo 6
+# Verificação das Entrevistas do Grupo 6
 
 ## Introdução
 
