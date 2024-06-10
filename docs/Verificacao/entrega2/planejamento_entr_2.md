@@ -228,17 +228,7 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 ## Bibliografia
 
 
->  Verificação. Repositório do Grupo Bilheteria Digital da Disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo2>>. Acesso em: 07 junho 2024.
-
-
-
-
-## Referências Bibliográficas 
-
-> <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
-Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="FTF2Ref" href="#FTF2">2.</a> Requisistos aulas 5, 6 e 7 - Milene Serrano e Maurício Serrano
+COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley Publishing, 2007. Cap. 5: Modeling Users: Personas and Goals.
 
 
 ## Histórico de Versões
