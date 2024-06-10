@@ -92,10 +92,10 @@ nav:
           - NFR Framework: Modelagem/Agil/NFR.md
   - Verificação - Grupo 6:
           - Entrega 1:
-            - Planejamento: Verificacao/entrega2/planejamento_entr_2.md
-            - Rich Picture: Verificacao/entrega2/verifica_RichPicture.md
-          - Entrega 2:
             - Planejamento: Verificacao/entrega1/planejamento_entr_1.md
+            - Rich Picture: Verificacao/entrega1/verifica_RichPicture.md
+          - Entrega 2:
+            - Planejamento: Verificacao/entrega2/planejamento_entr_2.md
             - Brainstoriming: Verificacao/entrega2/verifica_Brainstorming.md
             - Entrevistas: Verificacao/entrega2/verifica_entrevista.md
             - InOrOut: Verificacao/entrega2/verifica_InOrOut.md
