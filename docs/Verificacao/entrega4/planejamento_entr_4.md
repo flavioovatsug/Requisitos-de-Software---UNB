@@ -2,7 +2,7 @@
 
 ## Introdução 
 
-A verificação é uma das etapas onde os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. ESte artefato em questão faz o planejamento da  documentação da verificação da entrega 4 realizada pelo [Grupo 6](https://requisitos-de-software.github.io/2024.1-Firefox/) da disciplina de Reqisitos de Software e tem por objetivo somente verificar os artefatos produzidos e realizar propostas de correção.
+A verificação é uma das etapas onde os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Este artefato em questão faz o planejamento da  documentação da verificação da entrega 4 realizada pelo [Grupo 6](https://requisitos-de-software.github.io/2024.1-Firefox/) da disciplina de Reqisitos de Software e tem por objetivo somente verificar os artefatos produzidos e realizar propostas de correção.
 
 
 ## Metodologia
