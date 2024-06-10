@@ -41,7 +41,7 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://gi
 |  7  | As histórias de usuário possuem nomes que resumem de forma clara oque os objetivos das histórias ?                          | Sim |      -      |
 |  8  | 	Cada história de usuário possui uma prioridade atribuída?                                                                                 |    Sim     |      -      |
 |  9  | As histórias de usuário incluem critérios de aceitação condizentes?    |    Sim     |      -      |
-| 10 | Existe o cliente ou persona relacionado ao app para validar as histórias?	 | Não | |
+| 10 | Existe o cliente ou persona relacionado ao app para validar as histórias?	 | Sim | |
 | 11 | As estimativas de esforço foram feitas para cada história de usuário? | Sim | |
 
 
@@ -53,7 +53,7 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://gi
 
 ## Lista de Problemas e Análise 
 
-- Não foi identificada a utilização de personas/cliente na confecção das histórias de usuário.
+- Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
 
 
 
