@@ -64,8 +64,9 @@ A metodologia escolhida foi a dos checklists, usando o checklist já montado par
 
 ## Referências Bibliográficas
 
-> ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>>. Acesso em: 08 junho 2024.
+> BENYON, David. Interação Humano-Computador. 2. ed. São Paulo: Pearson Prentice Hall, 2011.
 
+> Requisistos aula 4 - Milene Serrano e Maurício Serrano
 
 
 ## Histórico de Versões
