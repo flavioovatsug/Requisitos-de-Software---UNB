@@ -56,6 +56,14 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://gi
 - Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
 
 
+## Gravação da verificação
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BZyBm_rZ-ts?si=HCQQPZSUcMw25pXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 
 ## Referências Bibliográficas
 [1] SERRANO, Milene; SERRANO, Maurício. Slides de Requisitos. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>. Acesso em 24 de Maio de 2024.
