@@ -1,4 +1,4 @@
-# Verificação dos Entrevistas do Grupo 6
+# Verificação das Entrevistas do Grupo 6
 
 ## Introdução
 
@@ -57,10 +57,8 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 - Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
 
-### Solução
-
-- 
-
+## Gravação da Verficação 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TABgjCmP9Tc?si=SB57KwpYemrg8cm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Referências Bibliográficas
@@ -75,4 +73,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | |
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Italo Bruno](https://github.com/Italobrunom) |

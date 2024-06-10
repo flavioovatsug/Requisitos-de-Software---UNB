@@ -62,7 +62,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
 <center>
 
-**Tabela 3** - Checklist para a Verificação do Caso de Uso - Realizar Pesquisa na Web.
+**Tabela 3** - Checklist para a Verificação do Caso de Uso - Acessar histórico.
 
 | ID  | Descrição                                                                                                        | Avaliação | Observações |
 | --- | --------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
@@ -120,6 +120,66 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 </center>
 
+
+<center>
+
+**Tabela 5** - Checklist para a Verificação do Caso de Uso - Mudar o Idioma.
+
+| ID  | Descrição                                                                                                        | Avaliação | Observações |
+| --- | --------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 1  | Os atores são representados corretamente e posicionados à esquerda do sistema?                                  |     Sim      |             |
+| 2   | Cada caso de uso fornece um resultado observável e de valor para os interessados no sistema?                    |     Sim      |             |
+| 3   | As elipses estão representando as ações dos casos de uso, incluindo fluxos e cenários?                          |    Sim       |             |
+| 4   | Foi utilizada alguma técnica específica para a criação dos casos de uso?                                         |    Sim       |             |
+| 5  | A especificação dos casos de uso detalha a execução de cada um?                                                  |     Sim      |             |
+| 6  | Todos os fluxos principais mostram como o usuário utilizaria a funcionalidade de maneira primária?              |   Sim        |             |
+| 7  | O fluxos alternativo demonstra cenário alternativo ao fluxo principal?                                     |     Sim      |             |
+| 8 | O caso de uso possui relacionamentos de extensão, inclusão e generalização?                                  | Sim          |             |
+| 9  | O caso de uso representa uma funcionalidade completa que entrega valor ao usuário?                              |    Sim       |             |
+| 10  | O caso de uso são considerados requisitos funcionais?                                                   |    Sim            |        |
+| 11  | O caso de uso incluem fluxos principais, alternativos e de exceção?                                           |    Sim       |             |
+| 12  | O fluxos de exceção indicam como o sistema reage a situações inesperadas?                                      |     Sim      |             |
+| 13  | O casos de uso representam interações entre o usuário e o sistema?                                             |    Sim       |             |
+| 14  | O ator principal está posicionado fora das fronteiras da aplicação?                                             |  Sim         |             |
+| 15  | Cada especificação de caso de uso possui apenas um fluxo principal?                                             |  Sim          |            |
+| 16  | O elementos de atores, sistema e metas estão presentes nos casos de uso?                                       |   Sim        |             |
+| 17  | Os atores do sistema possuem nomes significativos ?                          |    Sim       |             |
+
+
+
+_Autor:[Italo Bruno](https://github.com/italobrunom), 2024._
+
+</center>
+
+**Tabela 6** - Checklist para a Verificação do Caso de Uso - Acessar site.
+
+| ID  | Descrição                                                                                                        | Avaliação | Observações |
+| --- | --------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 1  | Os atores são representados corretamente e posicionados à esquerda do sistema?                                  |     Sim      |             |
+| 2   | Cada caso de uso fornece um resultado observável e de valor para os interessados no sistema?                    |     Sim      |             |
+| 3   | As elipses estão representando as ações dos casos de uso, incluindo fluxos e cenários?                          |    Sim       |             |
+| 4   | Foi utilizada alguma técnica específica para a criação dos casos de uso?                                         |    Sim       |             |
+| 5  | A especificação dos casos de uso detalha a execução de cada um?                                                  |     Sim      |             |
+| 6  | Todos os fluxos principais mostram como o usuário utilizaria a funcionalidade de maneira primária?              |   Sim        |             |
+| 7  | O fluxos alternativo demonstra cenário alternativo ao fluxo principal?                                     |     Sim      |             |
+| 8 | O caso de uso possui relacionamentos de extensão, inclusão e generalização?                                  | Sim          |             |
+| 9  | O caso de uso representa uma funcionalidade completa que entrega valor ao usuário?                              |    Sim       |             |
+| 10  | O caso de uso são considerados requisitos funcionais?                                                   |    Sim            |        |
+| 11  | O caso de uso incluem fluxos principais, alternativos e de exceção?                                           |    Sim       |             |
+| 12  | O fluxos de exceção indicam como o sistema reage a situações inesperadas?                                      |     sim     |         |
+| 13  | O casos de uso representam interações entre o usuário e o sistema?                                             |    Sim       |             |
+| 14  | O ator principal está posicionado fora das fronteiras da aplicação?                                             |  Sim         |             |
+| 15  | Cada especificação de caso de uso possui apenas um fluxo principal?                                             |  Sim          |            |
+| 16  | O elementos de atores, sistema e metas estão presentes nos casos de uso?                                       |   Sim        |             |
+| 17  | Os atores do sistema possuem nomes significativos ?                          |    Sim       |             |
+
+
+
+_Autor:[Bittar](https://github.com/Bittarx), 2024._
+
+</center>
+
+
 ## Lista de Problemas e Análise do Caso de Uso verificados
 
 - Para o primeiro caso de uso foi identificado que há a falta do detalhamento sobre como o sistema age com situações inesperadas
@@ -146,5 +206,8 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 07/06/2024 | Criação da página.                          | [Harryson Campos Martins](https://github.com/harry-cmartin) | [Marcos Bittar](https://github.com/Bittarx)|
-| `1.1`  | 07/06/2024 | Verificação de Christian.                          | [Christian Hirsch Santos](https://github.com/crstyhs) | |
-| `1.2`  | 09/06/2024 | Verificação de Ian.                          |[Ian Lucca Soares Mesquita](https://github.com/IanLucca12)| |
+| `1.1`  | 07/06/2024 | Verificação de Christian.                          | [Christian Hirsch Santos](https://github.com/crstyhs) |[Flávio Melo](https://github.com/flavioovatsug) |
+| `1.3`  | 09/06/2024 | Verificação de Ian.                          |[Ian Lucca Soares Mesquita](https://github.com/IanLucca12)|[Flávio Melo](https://github.com/flavioovatsug) |
+| `1.4`  | 10/06/2024 | Verificação de Italo.                          |[Italo Bruno](https://github.com/ItaloBrunoM)|[Ian Lucca Soares Mesquita](https://github.com/IanLucca12)|
+| `1.5`  | 10/06/2024 | Verificação de Italo.                          |[Bittar](https://github.com/Bittarx)|[Christian Hirsch Santos](https://github.com/crstyhs)|
+

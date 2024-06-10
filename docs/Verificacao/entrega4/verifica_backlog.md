@@ -61,4 +61,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Flávio Melo](https://github.com/flavioovatsug) |  |
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Flávio Melo](https://github.com/flavioovatsug) | [Italo Bruno](https://github.com/Italobrunom) |

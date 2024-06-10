@@ -38,22 +38,31 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://gi
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :---------: |
 |     | 
 |  6  | Na história de usuário, está bem definido o "quem", "o que", "por que"?                          |    Sim     |      -      |
-|  7  | As histórias de usuário possuem nomes que resumem de forma clara oque os objetivos das histórias ?                          | Sim |      -      |
+|  7  | As histórias de usuário possuem nomes que resumem de forma clara quais são os objetivos das histórias ?                          | Sim |      -      |
 |  8  | 	Cada história de usuário possui uma prioridade atribuída?                                                                                 |    Sim     |      -      |
 |  9  | As histórias de usuário incluem critérios de aceitação condizentes?    |    Sim     |      -      |
-| 10 | Existe o cliente ou persona relacionado ao app para validar as histórias?	 | Não | |
-| 11 | As estimativas de esforço foram feitas para cada história de usuário? | Sim | |
+| 10 | Existe um cliente ou uma persona relacionada ao app para validar as histórias?	 | Sim | - |
+| 11 | As estimativas de esforço foram feitas para cada história de usuário? | Sim | - |
 
 
-_Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug), 2024._
+_Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug),[Harryson Campos Martins](https://github.com/harry-cmartin), [Christian Hirsch Santos](https://github.com/crstyhs)    , [Ian Lucca Soares Mesquita](https://github.com/IanLucca12)                               , [Marcos Bittar](https://github.com/Bittarx), 2024._
 
 
 </center>
 
+
 ## Lista de Problemas e Análise 
 
-- Não foi identificada a utilização de personas/cliente na confecção das histórias de usuário.
+- Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
 
+
+## Gravação da verificação
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BZyBm_rZ-ts?si=HCQQPZSUcMw25pXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 
 ## Referências Bibliográficas
@@ -65,5 +74,5 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://gi
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug) |  |
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug) | [Harryson Campos Martins](https://github.com/harry-cmartin) |
 

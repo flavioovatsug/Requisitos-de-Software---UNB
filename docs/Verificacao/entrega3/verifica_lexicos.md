@@ -56,16 +56,16 @@ _Autor: [Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 
 | ID  | Descrição                                                                                              | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 5 |       A definição do usuário nos Léxicos?                                         |                     |            |
-| 6 |       Os léxicos possuem ligações entre si ?                                         |                     |            |
-| 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                     |           |          |            |
-| 8 |            Os lexicos possuem sinônimos ?                                     |           |                      |
-| 9 |            Os sinomimos fazem parte dessa lista ?                                     |                     |            |
-| 10 |            Léxicos em algum tipo de organização por exemplo ordem alfabética ?                                    |           |          |            |
-| 11 |        Tipo de organização mencionada ?                                         |           |                      |
+| 5 |       A definição do usuário nos Léxicos?                                         |         Sim            |            |
+| 6 |       Os léxicos possuem ligações entre si ?                                         |       Sim              |            |
+| 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                     |          Sim |          |            |
+| 8 |            Os lexicos possuem sinônimos ?                                     |       Não    |                      |
+| 9 |            Os sinomimos fazem parte dessa lista ?                                     |            Não         |            |
+| 10 |            Léxicos tem algum tipo de organização por exemplo ordem alfabética ?                                    |     Não      |          |            |
+| 11 |        Tipo de organização mencionada ?                                         |    Não       |                      |
 
 
-_Autor: , 2024._
+_Autor:[Italo Bruno](https://github.com/Italobrunom), 2024._
 
 </center>
 
@@ -77,17 +77,16 @@ _Autor: , 2024._
 
 | ID  | Descrição                                                                                              | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 5 |       A definição do usuário nos Léxicos?                                         |                     |            |
-| 6 |       Os léxicos possuem ligações entre si ?                                         |                     |            |
-| 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                     |           |          |            |
-| 8 |            Os lexicos possuem sinônimos ?                                     |           |                      |
-| 9 |            Os sinomimos fazem parte dessa lista ?                                     |                     |            |
-| 10 |            Léxicos em algum tipo de organização por exemplo ordem alfabética ?                                    |           |          |            |
-| 11 |        Tipo de organização mencionada ?                                         |           |                      |
+| 5 |       A definição do usuário nos Léxicos?                                                                | Sim       |             |
+| 6 |       Os léxicos possuem ligações entre si ?                                                             |Sim        |             |
+| 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                              |     Sim   |          |            |
+| 8 |            Os lexicos possuem sinônimos ?                                     |     Não      |                      |
+| 9 |            Os sinomimos fazem parte dessa lista ?                                     |      Não               |            |
+| 10 |            Léxicos em algum tipo de organização por exemplo ordem alfabética ?                                    |     Não     |          |            |
+| 11 |        Tipo de organização mencionada ?                                         |     Não      |                    |
 
 
-_Autor: , 2024._
-
+_Autor:[Bittarx](https://github.com/Bittar), 2024._
 </center>
 
 
@@ -102,7 +101,13 @@ _Autor: , 2024._
 - Ordenar os léxicos por e=ordem alfabética
 
 
+### Verificação dos Léxicos
+ 
+<center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hcm7rI46D-4?si=0NVVFZ96DedwUI-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Referências Bibliográficas
 
@@ -117,5 +122,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 07/06/2024 | Criação da página.                          | [Harryson Campos Martins](https://github.com/harry-cmartin) | [Marcos Bittar](https://github.com/Bittarx)|
-| `1.1`  | 10/06/2024 | Verificação Christian.                          | [Christian Hirsch Santos](https://github.com/crstyhs) | |
+| `1.1`  | 10/06/2024 | Verificação Christian.                          | [Christian Hirsch Santos](https://github.com/crstyhs) | [Italo Bruno](https://github.com/Italobrunom) |
+| `1.2`  | 10/06/2024 | Verificação Christian.                          |  [Italo Bruno](https://github.com/Italobrunom) | [Harryson Campos Martins](https://github.com/harry-cmartin) |
+| `1.1`  | 10/06/2024 | Verificação Christian.                          | [Bittar](https://github.com/Bittarx) | [Italo Bruno](https://github.com/Italobrunom) |
 

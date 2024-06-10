@@ -62,6 +62,19 @@ Autor: [Ian Lucca](https://github.com/IanLucca12), 2024
 
 Autor: [Ian Lucca](https://github.com/IanLucca12), 2024
 
+## Tabela 6: Planejamento Entrega 5.1: Análise de Requisitos: Verificação e Validação
+
+| Atividade | Início | Fim | Responsáveis |
+| :---: | :---: | :---: | :---: |
+| Ata de Reunião | 10/06 | 10/06 | Ian Lucca |
+| Verificação de requisitos | 08/06 | 09/06 | Christian, Italo Bruno, Harryson, Marcos Bittar, Flávio Gustavo, Ian Lucca |
+| Validação de requisitos | 09/06 | 10/06 |Christian, Italo Bruno, Harryson, Marcos Bittar, Flávio Gustavo, Ian Lucca |
+| Gravação da entrega | 10/06 | 10/06 | Christian, Italo Bruno, Harryson, Marcos Bittar, Flávio Gustavo, Ian Lucca |
+| Revisão pós avaliação | 11/06| 15/06 | Christian, Italo Bruno, Harryson, Marcos Bittar, Flávio Gustavo, Ian Lucca |
+
+Fonte:  [Ian Lucca](https://github.com/IanLucca12), 2024
+
+
 ## Tabela X: Histórico de Versões
 | Versão | Data de execução | Data prevista de revisão | Descrição  |   Autor(es)    |  Revisado  |
 | :----: | :--------------: | :----------------------: | :--------: | :------------: | :---------:|
@@ -70,6 +83,8 @@ Autor: [Ian Lucca](https://github.com/IanLucca12), 2024
 | `1.2`  |    13/05/2024    |   20/05/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar, Italo Bruno, Harryson |
 | `1.3`  |    20/05/2024    |   20/05/2024    |  Ampliação do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Cristian, Harryson |
 | `1.4`  |    27/05/2024    |   27/05/2024    |  Ampliação e Correção do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Cristian, Ítalo |
+| `1.5`  |    05/06/2024    |   07/06/2024    |  Ampliação e Correção do Artefato                 | [Ian Lucca](https://github.com/IanLucca12) |  Marcos Bittar |
+
 
 
 Autor: [Ian Lucca](https://github.com/IanLucca12), 2024

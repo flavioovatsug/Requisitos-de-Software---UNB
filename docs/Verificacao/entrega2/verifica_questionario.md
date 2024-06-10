@@ -44,7 +44,7 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 | 8 |       variedade de tipos de perguntas ?                                |    Sim       |  |           |
 | 9 |       O questionário evita perguntas tendenciosas?                              |   Sim        |          |            |
 | 10 |      O questionário foi distribuído de maneira a alcançar uma amostra representativa ?                                |Sim|          |            |
-| 11 |       O número de questões adequada para manter o engajamento dos respondentes ?                                |SIm|          |            |
+| 11 |       O número de questões adequada para manter o engajamento dos respondentes ?                                |Sim|          |            |
 | 12 |      Considera a privacidade e confidencialidade das respostas dos participantes?                                |      Sim     |          |            |
 | 15 |      A análise dos dados foi feita de forma objetiva ?                                |     Sim      |          |            |
 
@@ -59,10 +59,9 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 - Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
 
-### Solução
 
-- 
-
+## Gravação da Verficação 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TABgjCmP9Tc?si=SB57KwpYemrg8cm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Referências Bibliográficas

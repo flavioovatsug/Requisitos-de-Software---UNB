@@ -88,4 +88,4 @@ Abaixo será dividida a checklist em Checklist Gerail e Específica , pode ser v
 
 | Versão | Data   | Descrição | Autor(es) | Revisor(es)     |
 | ------ | ---------- | ---------------- | ------------------ | ----------- |
-| 1.0    | 08/06 | Criação do documento |[Christian Hirsch Santos](https://github.com/crstyhs)|  | 
+| 1.0    | 08/06 | Criação do documento |[Christian Hirsch Santos](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) | 
