@@ -146,5 +146,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 07/06/2024 | Criação da página.                          | [Harryson Campos Martins](https://github.com/harry-cmartin) | [Marcos Bittar](https://github.com/Bittarx)|
-| `1.1`  | 07/06/2024 | Verificação de Christian.                          | [Christian Hirsch Santos](https://github.com/crstyhs) | |
-| `1.2`  | 09/06/2024 | Verificação de Ian.                          |[Ian Lucca Soares Mesquita](https://github.com/IanLucca12)| |
+| `1.1`  | 07/06/2024 | Verificação de Christian.                          | [Christian Hirsch Santos](https://github.com/crstyhs) |[Flávio Melo](https://github.com/flavioovatsug) |
+| `1.2`  | 09/06/2024 | Verificação de Ian.                          |[Ian Lucca Soares Mesquita](https://github.com/IanLucca12)|[Flávio Melo](https://github.com/flavioovatsug) |

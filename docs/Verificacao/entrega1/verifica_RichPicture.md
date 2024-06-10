@@ -72,4 +72,4 @@ A metodologia escolhida foi a dos checklists, usando o checklist já montado par
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 08/06/2024 | Criação da página.                          | [Christian Hirsch Santos](https://github.com/crstyhs) | |
+| `1.0`  | 08/06/2024 | Criação da página.                          | [Christian Hirsch Santos](https://github.com/crstyhs) | [Marcos Bittar](https://github.com/Bittarx) |

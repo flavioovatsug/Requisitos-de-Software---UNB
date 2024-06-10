@@ -50,17 +50,9 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 </center>
 
 
-
-
 ## Lista de Problemas e Análise 
 
 - Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
-
-### Solução
-
-- 
-
-
 
 ## Referências Bibliográficas
 
@@ -74,4 +66,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) ||
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Marcos Bittar](https://github.com/Bittarx) |
