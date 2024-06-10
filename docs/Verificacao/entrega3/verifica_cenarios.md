@@ -187,6 +187,65 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 </center>
 
+
+
+</center>
+
+**Tabela 11** - Ativar modo para daltônicos.
+
+| ID  | Descrição                                                                                         | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 1  | O título do cenário é autoexplicativo?                                                            |   Sim        |             |
+| 2  | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?        |  Sim         |             |
+| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  | Sim |             |
+| 4  | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios?    |    Sim       |             |
+| 5  | Os atores são condizentes com o contexto do cenário?                                              |    Sim       |             |
+| 6  | O cenário descreve situações realistas e relevantes de interação do sistema?                      |     Sim      |             |
+| 7  | O objetivo do cenário é condizente com seu título?                                                |      Sim        |          |
+
+<center>
+
+_Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
+
+</center>
+
+**Tabela 12** - Ativar controle parental.
+
+| ID  | Descrição                                                                                         | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 1  | O título do cenário é autoexplicativo?                                                            |   Sim        |             |
+| 2  | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?        |  Sim         |             |
+| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  | Sim |             |
+| 4  | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios?    |    Sim       |             |
+| 5  | Os atores são condizentes com o contexto do cenário?                                              |    Sim       |             |
+| 6  | O cenário descreve situações realistas e relevantes de interação do sistema?                      |     Sim      |             |
+| 7  | O objetivo do cenário é condizente com seu título?                                                |      Sim        |          |
+
+<center>
+
+_Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
+
+</center>
+
+**Tabela 13** - Alterar fonte do navegador em tipo e tamanho.
+
+| ID  | Descrição                                                                                         | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 1  | O título do cenário é autoexplicativo?                                                            |   Sim        |             |
+| 2  | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?        |  Sim         |             |
+| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  | Sim |             |
+| 4  | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios?    |    Sim       |             |
+| 5  | Os atores são condizentes com o contexto do cenário?                                              |    Sim       |             |
+| 6  | O cenário descreve situações realistas e relevantes de interação do sistema?                      |     Sim      |             |
+| 7  | O objetivo do cenário é condizente com seu título?                                                |      Sim        |          |
+
+<center>
+
+
+_Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
+
+</center>
+
 ## Lista de Problemas e Análise dos cenários verificados 
 
 - Para os cenários avaliados em questão só foi identificado a falta  de pré-condições mais detalhadas como: sistema operacional necessário, tipo de aparelo que deve ser usado já que é um app mobile
