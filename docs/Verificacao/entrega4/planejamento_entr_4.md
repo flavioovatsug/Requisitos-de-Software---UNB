@@ -35,7 +35,7 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://gi
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para os artefatos, baseadas no livro _Interação Humano Computador de Barbosa e Silva_<a id="FTF1" href="#FTF1Ref">^1^</a>,  e nos Slides _Requisitos - Aula 13 da professora Milene Serrano e Maurício Serrano_<a id="FTF2Ref" href="#FTF2">2.</a>. 
+As checklists foram construídas levando em conta os padrões esperados para os artefatos, baseadas no livro _Interação Humano Computador de Barbosa e Silva_<a id="FTF1" href="#FTF1Ref">^1^</a>,  e nos Slides _SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados._<a id="FTF2Ref" href="#FTF2">2.</a>. 
 
 Abaixo será dividida as checklists em Checklist Gerais e Específicas para cada artefato, pode ser visto a seguir nas tabelas 2 a 4:
 
@@ -85,28 +85,25 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 | 10 | Existe o cliente ou persona relacionado ao app para validar as histórias?	 |  | |
 | 11 | As estimativas de esforço foram feitas para cada história de usuário? |  | |
 
-
 _Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
+## Gravação da Verficação 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rQpPdJsloBI?si=2q6OPmXo7UBXgqji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 
-
->  Verificação. Repositório do Grupo Bilheteria Digital da Disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo2>>. Acesso em: 09 junho 2024.
-
-
-
+> Verificação. Repositório do Grupo Bilheteria Digital da Disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo2>>. Acesso em: 09 junho 2024.
 
 ## Referências Bibliográficas 
 
 > <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="FTF2Ref" href="#FTF2">2.</a> Requisistos aula 13 - Milene Serrano e Maurício Serrano
-
+> <a id="FTF2Ref" href="#FTF2">2.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 09/06/2024.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 09/06/2024 | Criação da página.                          | [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug) | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) |
+| `1.0`  | 10/06/2024 | Adição do vídeo                          | [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug) | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) |
