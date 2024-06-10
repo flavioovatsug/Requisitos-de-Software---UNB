@@ -124,4 +124,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | `1.0`  | 07/06/2024 | Criação da página.                          | [Harryson Campos Martins](https://github.com/harry-cmartin) | [Marcos Bittar](https://github.com/Bittarx)|
 | `1.1`  | 10/06/2024 | Verificação Christian.                          | [Christian Hirsch Santos](https://github.com/crstyhs) | [Italo Bruno](https://github.com/Italobrunom) |
 | `1.2`  | 10/06/2024 | Verificação Christian.                          |  [Italo Bruno](https://github.com/Italobrunom) | [Harryson Campos Martins](https://github.com/harry-cmartin) |
+| `1.1`  | 10/06/2024 | Verificação Christian.                          | [Bittar](https://github.com/Bittarx) | [Italo Bruno](https://github.com/Italobrunom) |
 
