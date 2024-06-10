@@ -88,6 +88,9 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
 _Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
+## Gravação da Verficação 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TABgjCmP9Tc?si=SB57KwpYemrg8cm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografia
 
 
