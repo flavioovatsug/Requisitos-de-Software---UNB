@@ -10,20 +10,19 @@ Esta página é destinada à apresentação da etapa  do projeto de Requisitos d
 
 ## Entregas
 
-1. Backlog
-2. NFR Framework
-3. User Storys
+1. Verificações 
 
 
 
 ## Apresentação
 
-[Para assistir a gravação clique aqui](https://www.youtube.com/watch?v=wdazJWgrSVo)
+[Para assistir a gravação clique aqui]()
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wdazJWgrSVo?si=lyy7FtGxuIDwG8_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+</center
 
 
 ## Bibliografia
@@ -36,4 +35,4 @@ Esta página é destinada à apresentação da etapa  do projeto de Requisitos d
 
 | Versão |    Data    | Descrição                         | Autor(es)                                      | Revisor(es)                                    |
 | ------ | :--------: | --------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 27/05/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Christian](https://github.com/crstyhs)|
+| 1.0    | 10/06/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Christian](https://github.com/crstyhs)|
