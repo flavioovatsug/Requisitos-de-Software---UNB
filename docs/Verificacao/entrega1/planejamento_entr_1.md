@@ -35,7 +35,7 @@ _Autor: [Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 
 ## Checklists
 
-A checklist foi construídas levando em conta os padrões esperados para os artefatos, baseada no livro _Interação Humano Computador de Barbosa e Silva_<a id="FTF1" href="#FTF1Ref">^1^</a>,  e nos Slides _Requisitos - Aula 13 da professora Milene Serrano e Maurício Serrano_<a id="FTF2Ref" href="#FTF2">2.</a>. 
+A checklist foi construídas levando em conta os padrões esperados para os artefatos, baseada no livro _David Benyon, Interação Humano-Computador. São Paulo, 2a Edição, Pearson Prentice Hall, 2011_<a id="FTF1" href="#FTF1Ref">^1^</a>,  e nos Slides _Requisitos - Aula 4 da professora Milene Serrano e Maurício Serrano_<a id="FTF2Ref" href="#FTF2">2.</a>. 
 
 Abaixo será dividida a checklist em Checklist Gerail e Específica , pode ser visto a seguir nas tabelas 2 a 3:
 
@@ -81,7 +81,11 @@ Abaixo será dividida a checklist em Checklist Gerail e Específica , pode ser v
 
 ## Referências Bibliográficas
 
-> ESTEVES, Luíza. Planejamento da Verificação da Etapa 5. Repositório do Grupo Agência Virtual Neoenergia Brasília da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-AgenciaVirtualNeoenergia/verifica%C3%A7%C3%A3o_dos_artefatos/etapa_5/planejamento/>>. Acesso em: 08 junho 2024.
+> 1. BENYON, David. Interação Humano-Computador. 2. ed. São Paulo: Pearson Prentice Hall, 2011.
+
+> 2. Requisistos aula 4 - Milene Serrano e Maurício Serrano
+
+
 
 
 ##  Histórico de versões
