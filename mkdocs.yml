@@ -91,11 +91,20 @@ nav:
           - Backlog: Modelagem/Agil/backlog.md
           - NFR Framework: Modelagem/Agil/NFR.md
   - Verificação - Grupo 6:
-          - Planejamento: Verificacao/entrega3/planejamento_entr_3.md
-          - Casos de uso: Verificacao/entrega3/verifica_casosdeuso.md
-          - Léxicos: Verificacao/entrega3/verifica_lexicos.md
-          - Especificação Suplementar: Verificacao/entrega3/verifica_Especificacao.md
-          - Cenários: Verificacao/entrega3/verifica_cenarios.md
+          - Entrega 1:
+            - Planejamento: Verificacao/entrega1/planejamento_entr_1.md
+            - Rich Picture: Verificacao/entrega1/verifica_RichPicture.md
+          - Entrega 3:
+            - Planejamento: Verificacao/entrega3/planejamento_entr_3.md
+            - Casos de uso: Verificacao/entrega3/verifica_casosdeuso.md
+            - Léxicos: Verificacao/entrega3/verifica_lexicos.md
+            - Especificação Suplementar: Verificacao/entrega3/verifica_Especificacao.md
+            - Cenários: Verificacao/entrega3/verifica_cenarios.md
+          - Entrega 4: 
+            - Planejamento : Verificacao/entrega4/planejamento_entr_4.md
+            - Histórias de Usuário: Verificacao/entrega4/verifica_user.md
+            - Backlog: Verificacao/entrega4/verifica_backlog.md
+            - NFR Framework: Verificacao/entrega4/verifica_nfr.md
       
 
 
