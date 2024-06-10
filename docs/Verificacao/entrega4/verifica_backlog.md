@@ -7,7 +7,7 @@ Este artefato documenta a verificação do documento de Casos de uso do [Grupo 6
 
 ## Metodologia
 
-Assim como nas demais verificações, a metodologia escolhida foi a dos checklists. Utilizando o checklist já montado para [casos de uso](docs/Verificacao/entrega3/planejamento_entr_3.md) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
+Assim como nas demais verificações, a metodologia escolhida foi a dos checklists. Utilizando o checklist já montado para [Backlog](docs/Verificacao/entrega4/planejamento_entr_4.md) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
 **Sim**, **Não**, **Incompleto** ou **Não se aplica**.
 
 
