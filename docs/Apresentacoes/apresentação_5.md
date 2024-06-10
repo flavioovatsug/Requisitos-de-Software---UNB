@@ -35,4 +35,4 @@ Esta página é destinada à apresentação da etapa  do projeto de Requisitos d
 
 | Versão |    Data    | Descrição                         | Autor(es)                                      | Revisor(es)                                    |
 | ------ | :--------: | --------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 10/06/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Christian](https://github.com/crstyhs)|
+| 1.0    | 10/06/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Italo Bruno](https://github.com/ItaloBrunoM)|
