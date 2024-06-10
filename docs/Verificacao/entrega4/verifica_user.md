@@ -66,5 +66,5 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://gi
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug) |  |
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug) | [Harryson Campos Martins](https://github.com/harry-cmartin) |
 
