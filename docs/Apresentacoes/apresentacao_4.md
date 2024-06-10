@@ -24,7 +24,7 @@ Esta página é destinada à apresentação da etapa  do projeto de Requisitos d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wdazJWgrSVo?si=lyy7FtGxuIDwG8_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+</center>
 
 ## Bibliografia
 
