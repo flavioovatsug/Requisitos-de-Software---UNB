@@ -1,4 +1,4 @@
-# Verificação dos Cenários do Grupo 6
+# Verificação de Especificação Suplementar do Grupo 6
 
 ## Introdução
 

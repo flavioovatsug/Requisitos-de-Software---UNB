@@ -1,4 +1,4 @@
-# Verificação dos Cenários do Grupo 6
+# Verificação dos Casos de uso do Grupo 6
 
 ## Introdução
 

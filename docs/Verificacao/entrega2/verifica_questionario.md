@@ -64,12 +64,10 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TABgjCmP9Tc?si=SB57KwpYemrg8cm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## Referências Bibliográficas
+## Bibliografia
 
-> <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
-Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> <a id="FTF2Ref" href="#FTF2">2.</a> Requisistos aulas 5, 6 e 7 - Milene Serrano e Maurício Serrano
+COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley Publishing, 2007. Cap. 5: Modeling Users: Personas and Goals.
 
 
 ## Histórico de Versões
