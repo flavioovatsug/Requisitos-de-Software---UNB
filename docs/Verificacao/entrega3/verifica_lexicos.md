@@ -8,7 +8,7 @@ Este artefato documenta a verificação do documento de Léxicos do [Grupo 6](ht
 ## Metodologia
 
 A metodologia escolhida foi a dos checklists, usando o checklist já montado para [léxicos](docs/Verificacao/entrega3/planejamento_entr_3.md) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
-**Sim**, **Não**, **Incompleto** ou **Não se aplica**, a equipe se subdividirá e os membros irão avaliar cada um dos tipo de léxico:
+**Sim**, **Não**, **Incompleto** ou **Não se aplica**, a equipe se subdividirá e os membros irão avaliar cada um dos tipo de léxico nas tabelas 2 a 4:
 
 
 ## Resultados
@@ -29,15 +29,77 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
 </center>
 
+<center>
+
+**Tabela 2** - Checklist para os Léxicos Verbo.
+
+| ID  | Descrição                                                                                              | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 5 |       A definição do usuário nos Léxicos?                                         |        Sim             |            |
+| 6 |       Os léxicos possuem ligações entre si ?                                         |       Sim              |            |
+| 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                     |     Sim      |          |            |
+| 8 |            Os lexicos possuem sinônimos ?                                     |     Não      |         Não foi encontrado no arquivo os sinônimos            |
+| 9 |            Os sinômimos fazem parte dessa lista ?                                     |    Não                 |   Os sinônimos não estão presentes na tabela         |
+| 10 |            Léxicos em algum tipo de organização por exemplo ordem alfabética ?                                    |   Não        |   A tabela não aparenta ter algum padrão       |            |
+| 11 |        Tipo de organização mencionada ?                                         |     Não      |          Não foi mencionado            |
+
+
+_Autor: [Christian Hirsch Santos](https://github.com/crstyhs), 2024._
+
+</center>
+
+
+
+<center>
+
+**Tabela 3** - Checklist para os Léxicos Objeto.
+
+| ID  | Descrição                                                                                              | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 5 |       A definição do usuário nos Léxicos?                                         |                     |            |
+| 6 |       Os léxicos possuem ligações entre si ?                                         |                     |            |
+| 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                     |           |          |            |
+| 8 |            Os lexicos possuem sinônimos ?                                     |           |                      |
+| 9 |            Os sinomimos fazem parte dessa lista ?                                     |                     |            |
+| 10 |            Léxicos em algum tipo de organização por exemplo ordem alfabética ?                                    |           |          |            |
+| 11 |        Tipo de organização mencionada ?                                         |           |                      |
+
+
+_Autor: , 2024._
+
+</center>
+
+
+
+<center>
+
+**Tabela 4** - Checklist para os Léxicos Estado.
+
+| ID  | Descrição                                                                                              | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 5 |       A definição do usuário nos Léxicos?                                         |                     |            |
+| 6 |       Os léxicos possuem ligações entre si ?                                         |                     |            |
+| 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                     |           |          |            |
+| 8 |            Os lexicos possuem sinônimos ?                                     |           |                      |
+| 9 |            Os sinomimos fazem parte dessa lista ?                                     |                     |            |
+| 10 |            Léxicos em algum tipo de organização por exemplo ordem alfabética ?                                    |           |          |            |
+| 11 |        Tipo de organização mencionada ?                                         |           |                      |
+
+
+_Autor: , 2024._
+
+</center>
 
 
 ## Lista de Problemas e Análise 
 
-- 
+- Ausência de sinônimos
+- Ausência de ordenação dos léxicos
 
 ### Solução
 
-- 
+- Criar uma coluna para os sinônimos
+- Ordenar os léxicos por e=ordem alfabética
 
 
 
@@ -55,4 +117,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 07/06/2024 | Criação da página.                          | [Harryson Campos Martins](https://github.com/harry-cmartin) | [Marcos Bittar](https://github.com/Bittarx)|
+| `1.1`  | 10/06/2024 | Verificação Christian.                          | [Christian Hirsch Santos](https://github.com/crstyhs) | |
 
