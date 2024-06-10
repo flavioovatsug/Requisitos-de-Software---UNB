@@ -77,17 +77,16 @@ _Autor:[Italo Bruno](https://github.com/Italobrunom), 2024._
 
 | ID  | Descrição                                                                                              | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 5 |       A definição do usuário nos Léxicos?                                         |                     |            |
-| 6 |       Os léxicos possuem ligações entre si ?                                         |                     |            |
-| 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                     |           |          |            |
-| 8 |            Os lexicos possuem sinônimos ?                                     |           |                      |
-| 9 |            Os sinomimos fazem parte dessa lista ?                                     |                     |            |
-| 10 |            Léxicos em algum tipo de organização por exemplo ordem alfabética ?                                    |           |          |            |
-| 11 |        Tipo de organização mencionada ?                                         |           |                      |
+| 5 |       A definição do usuário nos Léxicos?                                                                | Sim       |             |
+| 6 |       Os léxicos possuem ligações entre si ?                                                             |Sim        |             |
+| 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                              |     Sim   |          |            |
+| 8 |            Os lexicos possuem sinônimos ?                                     |     Não      |                      |
+| 9 |            Os sinomimos fazem parte dessa lista ?                                     |      Não               |            |
+| 10 |            Léxicos em algum tipo de organização por exemplo ordem alfabética ?                                    |     Não     |          |            |
+| 11 |        Tipo de organização mencionada ?                                         |     Não      |                    |
 
 
-_Autor: , 2024._
-
+_Autor:[Bittarx](https://github.com/Bittar), 2024._
 </center>
 
 
@@ -125,4 +124,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | `1.0`  | 07/06/2024 | Criação da página.                          | [Harryson Campos Martins](https://github.com/harry-cmartin) | [Marcos Bittar](https://github.com/Bittarx)|
 | `1.1`  | 10/06/2024 | Verificação Christian.                          | [Christian Hirsch Santos](https://github.com/crstyhs) | [Italo Bruno](https://github.com/Italobrunom) |
 | `1.2`  | 10/06/2024 | Verificação Christian.                          |  [Italo Bruno](https://github.com/Italobrunom) | [Harryson Campos Martins](https://github.com/harry-cmartin) |
+| `1.1`  | 10/06/2024 | Verificação Christian.                          | [Bittar](https://github.com/Bittarx) | [Italo Bruno](https://github.com/Italobrunom) |
 
