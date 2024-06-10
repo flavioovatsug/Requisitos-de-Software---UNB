@@ -98,7 +98,7 @@ _Autor:[Bittarx](https://github.com/Bittar), 2024._
 ### Solução
 
 - Criar uma coluna para os sinônimos
-- Ordenar os léxicos por e=ordem alfabética
+- Ordenar os léxicos por em ordem alfabética
 
 
 ### Verificação dos Léxicos
