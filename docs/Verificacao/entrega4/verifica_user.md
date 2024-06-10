@@ -45,10 +45,11 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://gi
 | 11 | As estimativas de esforço foram feitas para cada história de usuário? | Sim | |
 
 
-_Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug), 2024._
+_Autor: [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug),[Harryson Campos Martins](https://github.com/harry-cmartin), [Christian Hirsch Santos](https://github.com/crstyhs)    , [Ian Lucca Soares Mesquita](https://github.com/IanLucca12)                               , [Marcos Bittar](https://github.com/Bittarx), 2024._
 
 
 </center>
+
 
 ## Lista de Problemas e Análise 
 
