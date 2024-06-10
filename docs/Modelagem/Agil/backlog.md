@@ -207,4 +207,3 @@ Autores: [Flávio Melo](https://github.com/flavioovatsug) e [Harryson Campos](ht
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 26/05/2024 | Criação do documento de Backlog |  [Harryson Campos Martins](https://github.com/harry-cmartin) e [Flávio Melo](https://github.com/flavioovatsug)| [Italo Bruno](https://github.com/ItaloBrunoM) |
 |1.1  |27/05/2024 | Correções |[Harryson Campos Martins](https://github.com/harry-cmartin)|[Italo Bruno](https://github.com/ItaloBrunoM)|
-Co-authored-by: Flávio Melo <flavioovatsug@gmail.com>
