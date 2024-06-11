@@ -40,7 +40,7 @@ Gravar verificação do Rich Picture.
 Autor: [Ian Lucca ](https://github.com/IanLucca12), 2024
 
 ## Gravação da reunião
-[Video](https://www.youtube.com/watch?v=pLfmGsFbdCA)
+[Video](https://www.youtube.com/watch?v=T45vPdBk8LY)
 
 ## Referências
 
@@ -48,3 +48,4 @@ Autor: [Ian Lucca ](https://github.com/IanLucca12), 2024
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 10/06/2024 | Criação da ata de reunião |[Ian Lucca ](https://github.com/IanLucca12)| [Flávio Melo](https://github.com/flavioovatsug)  | 
+| 1.1 | 10/06/2024 | Adiciona vídeo apresentação 5 |[Flávio Melo](https://github.com/flavioovatsug)| [Ian Lucca ](https://github.com/IanLucca12)  | 
