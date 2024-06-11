@@ -36,11 +36,12 @@ Gravar verificação do Rich Picture.
 | Finalizar os Léxicos             | [Harryson](https://github.com/harry-cmartin) |
 | Gravar verificação do Rich Picture   | [Christian](https://github.com/crstyhs)          |
 | Gravar verificação da entrega 2 do Grupo 6   | [Ian Lucca ](https://github.com/IanLucca12)          |
+| Gravar verificação da entrega 4 do Grupo 6   | [Flávio Melo](https://github.com/flavioovatsug) e [Italo Bruno](https://github.com/Italobrunom)          |
 
 Autor: [Ian Lucca ](https://github.com/IanLucca12), 2024
 
 ## Gravação da reunião
-[Video](https://www.youtube.com/watch?v=pLfmGsFbdCA)
+[Video](https://www.youtube.com/watch?v=T45vPdBk8LY)
 
 ## Referências
 
@@ -48,3 +49,4 @@ Autor: [Ian Lucca ](https://github.com/IanLucca12), 2024
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 10/06/2024 | Criação da ata de reunião |[Ian Lucca ](https://github.com/IanLucca12)| [Flávio Melo](https://github.com/flavioovatsug)  | 
+| 1.1 | 10/06/2024 | Adiciona vídeo apresentação 5 |[Flávio Melo](https://github.com/flavioovatsug)| [Ian Lucca ](https://github.com/IanLucca12)  | 
