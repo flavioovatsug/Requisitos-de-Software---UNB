@@ -36,6 +36,7 @@ Gravar verificação do Rich Picture.
 | Finalizar os Léxicos             | [Harryson](https://github.com/harry-cmartin) |
 | Gravar verificação do Rich Picture   | [Christian](https://github.com/crstyhs)          |
 | Gravar verificação da entrega 2 do Grupo 6   | [Ian Lucca ](https://github.com/IanLucca12)          |
+| Gravar verificação da entrega 4 do Grupo 6   | [Flávio Melo](https://github.com/flavioovatsug) e [Italo Bruno](https://github.com/Italobrunom)          |
 
 Autor: [Ian Lucca ](https://github.com/IanLucca12), 2024
 
