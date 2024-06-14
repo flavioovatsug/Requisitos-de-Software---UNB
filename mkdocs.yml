@@ -118,6 +118,5 @@ nav:
             - Histórias de Usuário: Verificacao/entrega4/verifica_user.md
             - Backlog: Verificacao/entrega4/verifica_backlog.md
             - NFR Framework: Verificacao/entrega4/verifica_nfr.md
-      
-
-
+  - Rastreamento:
+      - Backward From: Pós-Rastreabilidade/backward.md
