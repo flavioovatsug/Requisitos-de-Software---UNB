@@ -1,9 +1,11 @@
 # Backward-From
 
 ## Introdução
+
 ## Metodologia
 
 Os principais elos de rastreabilidade são:
+
 > - Satisfação: classe origem tem dependência de satisfação com a classe destino.
 > - Recurso: classe origem tem dependência de recurso com a classe destino.
 > - Responsabilidade: registra a participação, responsabilidade e ação de pessoas sobre artefatos.
@@ -74,9 +76,9 @@ _Autor:[Italo Bruno](https://github.com/ItaloBrunoM), [Flávio Melo](https://git
 
 **Tabela 2** - Requisitos não funcionais elicitados
 
-| ID | Código | Elicitação | Origem | Status |
+| ID | Elicitação | Origem | Status |
 | ---- | ---- | ---- |---- |---- |
-| RNF01 | Rápida disponibilização de informações | AIU27	, AP1, ENT1, IP27| Implementado|
+| RNF01 | Rápida disponibilização de informações | AIU27, AP1, ENT1, IP27| Implementado|
 | RNF02 | Sigilo relativo de informações | AIU26 , IP26| Implementado|
 | RNF03 | Banco de dados ser constantemente atualizado | AP4, IP25, STO3| Não Implementado|
 | RNF04 | Ajudar o trabalho policial e a comunidade | ENT11| Implementado|
@@ -86,11 +88,9 @@ _Autor:[Italo Bruno](https://github.com/ItaloBrunoM), [Flávio Melo](https://git
 
 _Autor:[Italo Bruno](https://github.com/ItaloBrunoM), [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
-
 ## Elos
 
 Neste segmento, abordaremos os vínculos dos requisitos identificados nas tabelas 1 e 2. De acordo com a metodologia mencionada, todos os requisitos serão categorizados com base no tipo de vínculo. No entanto, é importante observar que todos esses requisitos identificados pertencem à categoria de Desenvolvimento. Eles derivam de artefatos criados durante o processo de desenvolvimento do trabalho, sem qualquer relação com a organização ou a gestão do projeto. A partir desses requisitos, compilamos a tabela 3, que apresenta todos os vínculos (elos) envolvidos.
-
 
 **Tabela 3** - Elos funcionais
 
@@ -153,19 +153,17 @@ _Autor:[Italo Bruno](https://github.com/ItaloBrunoM), [Flávio Melo](https://git
 
 _Autor:[Italo Bruno](https://github.com/ItaloBrunoM), [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
-
 ## Conclusão
 
 Considerando o Meta-modelo de Toranzo como referência, este documento apresenta 30 elos de rastreabilidade que permitem avaliar a qualidade e a coerência dos requisitos elicitados para o projeto do aplicativo do Economia-Df. Esses elos abrangem as diferentes dimensões e níveis de abstração dos requisitos, bem como as relações entre eles. Assim, é possível verificar se os requisitos atendem às necessidades e expectativas dos stakeholders, se são consistentes e completos, e se estão alinhados com os objetivos do projeto.
 
-
 ## Referência Bibliografia
 
 > POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam.
-
 > Slides da Aula 26 da Professora Milene Serrano e do Professor Maurício Serrano.
 
-## Histórico de Versões
+## Histórico de Versão
+
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`| 14/06/2024 |Criação do documento|[Flávio Melo](https://github.com/flavioovatsug) e [Italo Bruno](https://github.com/Italobrunom) | |
