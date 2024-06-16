@@ -40,6 +40,7 @@ Na figura 1 pode ser visto o diagrama de casos de uso desenvolvido.
 
 <font size="2"><p style="text-align: center">Autor: [Italo Bruno](https://github.com/ItaloBrunoM) e [Harryson Campos Martins](https://github.com/harry-cmartin)  .</p></font>
 
+## Casos de Uso
 
 
 <center>
@@ -76,7 +77,7 @@ Na figura 1 pode ser visto o diagrama de casos de uso desenvolvido.
 | **Fluxo básico** | <ul><li> O usuário acessa o aplicativo </br> <ul><li> O usuário acessa a aba desaparecidos  </br> <ul><li> O usuário filtra por faixa etária, região, nome etc</br> |
 | **Fluxos alternativos** | <ul><li> O usuário acessa o aplicativo </br> <ul><li> O app solicita a localização do usuário </br> <ul><li> O usuário seleciona "Ok"</br>  |
 | **Fluxos de exceção** | <ul><li> O usuário acessa o aplicativo </br> <ul><li> O suário insere dados incorretos para pesquisa </br> |
-| **Pós-condições** |O suário tem acesso aos desparecidos buscados através dos filtros |
+| **Pós-condições** |O usuário tem acesso aos desparecidos buscados através dos filtros |
 | **Data da criação** | 17/05/2024 |
 | **Rastreabilidade** | [RF05](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/) ,[RF20](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/), [RF21](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/) ,[RF27](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/)|
 
