@@ -6,83 +6,76 @@ Este documento refere-se aos requisitos elicitados disponibilizados nas tabela 1
 ## Metodologia
 
 Este documento foi baseados nas seguintes técnicas documentadas: 
-- questionário
-- Análise de interface
-- Análise de protocolo
-- Entrevista
-- Introspecção
-- Storytelling
+- Questionário </br>
+- Análise de interface </br>
+- Análise de protocolo </br>
+- Entrevista </br>
+- Introspecção </br>
+- Storytelling </br>
 
 ## Requisitos Elicitados
 
-Tabela 1 - Requisitos funcionais elicitados
+**Tabela 1** - Requisitos funcionais elicitados
+
+
+|ID| Elicitação | Origem | Status |
+| ---- | ---- |---- |---- |
+| RF01 | Logar pelo Gov | [AIU2](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/) , [IP2](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/), [DOC10](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)| Implementado|
+| RF02 | Buscar por veículo | [AIU4](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP4](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RF03 | Informar dados do veículo | [AIU5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/), [DOC1](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)| Implementado|
+| RF04 | Adicionar carro como roubado | [AIU6](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP6](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RF05 | Listar pessoas desaparecidas| [AIU9](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP9](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RF06 | Vincular ao desaparecido | [AIU11](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP11](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RF07 | Vincular ao carro | [AIU12](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP12](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RF08 | Buscar por mandados de prisão | [AIU13](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP13](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/), [DOC2](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)| Implementado|
+| RF09 | Fornecer informações sobre mandados de prisão | [AIU14](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP14](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/), [DOC2](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)| Implementado|
+| RF10 | Buscar por procurados | [AIU16](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/),  [IP16](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/), [DOC4](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)| Implementado|
+| RF11 | Fornecer informações sobre procurados |[AIU17](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP17](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RF12 | Sair do aplicativo | [AIU19](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/)| Implementado|
+| RF13 | Anunciar perturbação da vizinhança | [AIU20](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP20](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RF14 | Ler texto para deficientes visuais | [IP1](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Não Implementado|
+| RF15 | Disponibilizar restrição |[AP2](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeProtocolo/), [ENT2](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/)| Implementado|
+| RF16 | Visualizar informações institucionais | [AIU15](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/) | Implementado|
+| RF17 | Disponibilizar informação do tipo de veículo | [AP3](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeProtocolo/), [ENT3](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/), [STO2](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/storytelling/)| Não Implementado|
+| RF18 | Disponibilizar diversas opções de denúncia | [AP5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeProtocolo/), [ENT5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/), [DOC5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/), [DOC6](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/), [DOC7](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/), [DOC8](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/), [DOC9](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)| Implementado|
+| RF19 | Tutorial de uso do aplicativo | [AP7](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeProtocolo/), [ENT7](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/)| Não Implementado|
+| RF20 | Disponibilização de fotos do desaparecido | [AP8](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeProtocolo/), [ENT8](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/)| Não Implementado|
+| RF21 | Disponibilização de informações detalhadas do desaparecido | [ENT9](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/) | Não Implementado|
+| RF22 | Ligar para a polícia | [AIU7](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP7](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RF23 | Visualizar vínculos |[AIU8](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/)| Implementado|
+| RF24 | Requisitar ajuda | [AIU18](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/) | Implementado|
+| RF25 | Retornar ao início | [AIU21](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/)| Implementado|
+| RF26 | Salvar histórico de busca | [AIU22](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP15](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RF27 | Disponibilizar filtro de pesquisa | [AIU23](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/) | Implementado|
+| RF28 | Possibilitar compartilhamento das informações de placa | [AIU25](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/) | Implementado|
+| RF29 | Notificar sobre atualizações sobre vínculo | [IP8](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Não Implementado|
+| RF30 | Adicionar novas informações sobre perturbação da vizinhança | [IP21](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Não Implementado|
+| RF31 | Acesso a mapa da região | [IP22](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Não Implementado|
+| RF32 | Fornecer feedback de periculosidade de áreas no mapa | [IP23](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Não Implementado|
+| RF33 | Visualizar perfil  |[AIU1](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/)| Implementado|
+| RF34 | Usar funcionalidades sem o cadastro do Gov | [ENT12](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/)| Não Implementado|
+| RF35 | Editar perfil Gov |[AIU29](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/)|Implementado|
+| RF36 | Buscar Por Pessoa Desaparecida |[DOC3](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)|Implementado|
+| RF37 | Cadastrar o próprio veículo |[DOC11](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)|Implementado|
+| RF38 | Registrar Furto ou Roubo de veículo |[DOC12](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)|Implementado|
+| RF39 | Inserir foto do desaparecido | [DOC13](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)|Implementado|
+| RF40 | Inserir localização do desaparecido | [DOC14](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)|Implementado|
+
+_Autor:[Christian](https://github.com/crstyhs) e [Italo Bruno](https://github.com/italobrunoM), 2024_
+
+**Tabela 2** - Requisitos não funcionais elicitados
 
 | ID | Elicitação | Origem | Status |
 | ---- | ---- |---- |---- |
-| RF01 | Logar pelo Gov | AIU2 , INT2, DOC10| Implementado|
-| RF02 | Buscar por veículo | AIU4, INT4| Implementado|
-| RF03 | Informar dados do veículo | AIU5, INT5, DOC1| Implementado|
-| RF04 | Adicionar carro como roubado | AIU6, INT6 | Implementado|
-| RF05 | Listar pessoas desaparecidas| AIU9, INT9| Implementado|
-| RF06 | Vincular ao desaparecido | AIU11, INT11| Implementado|
-| RF07 | Vincular ao carro | AIU12, INT12| Implementado|
-| RF08 | Buscar por mandados de prisão | AIU13, INT13, DOC2| Implementado|
-| RF09 | Fornecer informações sobre mandados de prisão | AIU14, INT14, DOC2| Implementado|
-| RF10 | Buscar por procurados | AIU16,  INT16, DOC4| Implementado|
-| RF11 | Fornecer informações sobre procurados |AIU17, INT17| Implementado|
-| RF12 | Sair do aplicativo | AIU19| Implementado|
-| RF13 | Anunciar perturbação da vizinhança | AIU20, INT20| Implementado|
-| RF14 | Ler texto para deficientes visuais | INT1| Não Implementado|
-| RF15 | Disponibilizar restrição |AP2, ENT2| Implementado|
-| RF16 | Disponibilizar informação das características do veículo | RF| Implementado|
-| RF17 | Disponibilizar informação do tipo de veículo | AP3, ENT3, STO2| Não Implementado|
-| RF18 | Disponibilizar diversas opções de denúncia | AP5, ENT5, DOC5, DOC6, DOC7, DOC8, DOC9| Implementado|
-| RF19 | Tutorial de uso do aplicativo | AP7, ENT7| Não Implementado|
-| RF20 | Disponibilização de fotos do desaparecido | AP8, ENT8| Não Implementado|
-| RF21 | Disponibilização de informações detalhadas do desaparecido | RF| Não Implementado|
-| RF22 | Ligar para a polícia | AIU7, INT7| Implementado|
-| RF23 | visualizar vínculos |AIU8| Implementado|
-| RF24 | Requisitar ajuda | AIU18, | Implementado|
-| RF25 | Retornar ao início | AIU21, | Implementado|
-| RF26 | Salvar histórico de busca | AIU22, INT15| Implementado|
-| RF27 | Disponibilizar filtro de pesquisa | AIU23| Implementado|
-| RF28 | Possibilitar compartilhamento das informações de placa | AIU25 | Implementado|
-| RF29 | Notificar sobre atualizações sobre vínculo | INT8| Não Implementado|
-| RF30 | Adicionar novas informações sobre perturbação da vizinhança | INT21| Não Implementado|
-| RF31 | Acesso a mapa da região | INT22| Não Implementado|
-| RF32 | Fornecer feedback de periculosidade de áreas no mapa | INT23| Não Implementado|
-| RF33 | visualizar perfil  |AIU1| Implementado|
-| RF31 | Visualizar informações institucionais |AIU15| Implementado|
-| RF32 | Tirar foto | INT18| Não Implementado|
-| RF33 | Comparar foto com desaparecido, procurado ou mandado | INT19| Não Implementado|
-| RF34 | Usar funcionalidades sem o cadastro do Gov | ENT12| Não Implementado|
-| RF35 | Editar perfil Gov |AIU29|Implementado|
-| RF36 | Buscar Por Pessoa Desaparecida |DOC3|Implementado|
-| RF37 | Cadastrar o próprio veículo |DOC11|Implementado|
-| RF38 | Registrar Furto ou Roubo de veículo |DOC12|Implementado|
-| RF39 | Inserir foto do desaparecido | DOC13|Implementado|
-| RF39 | Inserir localização do desaparecido | DOC14|Implementado|
+| RNF01 | Rápida disponibilização de informações | [AIU27](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [AP1](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeProtocolo/), [ENT1](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/), [IP27](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RNF02 | Sigilo relativo de informações | [AIU26](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/) , [IP26](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RNF03 | Banco de dados ser constantemente atualizado | [AP4](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeProtocolo/), [IP25](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/), [STO3](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/storytelling/)| Não Implementado|
+| RNF04 | Ajudar o trabalho policial e a comunidade | [ENT11](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/)| Implementado|
+| RNF05 | Interface simples | [AIU3](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP3](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/), [STO1](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/storytelling/)| Implementado|
+| RNF06 | Instalação do aplicativo em diferentes sistemas | [AIU28](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP28](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| Implementado|
+| RNF07 | Aplicativo deve ser constantemente divulgado | [AP6](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeProtocolo/), [STO4](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/storytelling/)| Não Implementado|
 
-Autor:[Christian](https://github.com/crstyhs)
-
-Tabela 2 - Requisitos não funcionais elicitados
-
-| ID | Elicitação | Origem | Status |
-| ---- | ---- |---- |---- |
-| RNF01 | Rápida disponibilização de informações | AIU27	, AP1, ENT1, INT27| Implementado|
-| RNF02 | Sigilo relativo de informações | AIU26 , INT26| Implementado|
-| RNF03 | Banco de dados ser constantemente atualizado | AP4, INT25, STO3| Não Implementado|
-| RNF04 |  Ajudar o trabalho policial e a comunidade | ENT11| Implementado|
-| RNF05 | Interface simples | AIU3, INT3, STO1| Implementado|
-| RNF06 | Instalação do aplicativo em diferentes sistemas | AIU28, INT28| Implementado|
-| RNF07 | Aplicativo deve ser constantemente divulgado | AP6,STO4| Não Implementado|
-
-Autor:[Christian](https://github.com/crstyhs)
-
-
-
-
-
+_Autor:[Christian](https://github.com/crstyhs) e [Italo Bruno](https://github.com/crstyhs), 2024_
 
 ## Referências
 [1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 17 de abril de 2024.</br>
@@ -91,8 +84,11 @@ Autor:[Christian](https://github.com/crstyhs)
 [4] SERRANO, Milene; SERRANO, Maurício. Slides de Requisitos. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em 17 de abril de 2024.
 [5] BEATTY, Joy; WIEGERS, Karl. Software Requirements (Developer Best Practices). Edição 3. Microsoft Press , 2013.</br>
 [6] REtraining. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em 17 de abril de 2024.
+
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 17/04/2024 | Criação do documento dos requisitos elicitados | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
-| 1.1 | 17/04/2024 | Atualização do documento dos requisitos elicitado | [Bittar](https://github.com/Bittarx)|  [Ian Lucca](https://github.com/IanLucca12) |
+| `1.0` | 17/04/2024 | Criação do documento dos requisitos elicitados | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
+| `1.1` | 17/04/2024 | Atualização do documento dos requisitos elicitado | [Bittar](https://github.com/Bittarx)|  [Ian Lucca](https://github.com/IanLucca12) |
+| `1.2` | 15/06/2024 | Adição da rastreabilidade dos requisitos | [Italo Bruno](https://github.com/italobrunoM)|  [Flávio Melo](https://github.com/flavioovatsug) |
+
