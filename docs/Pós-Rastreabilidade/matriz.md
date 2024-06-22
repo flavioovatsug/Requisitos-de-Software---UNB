@@ -76,27 +76,27 @@ _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 | RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
 | RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
 | RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
-| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF21 | Disponibilização de informações detalhadas do desaparecido| [ENT9](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/)|  EP02, TM01, 	HU19, LX10, LX13  | Não Implementado |
+| RF22 | Ligar para a polícia| [AIU7](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP7](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)|  EP06 , TM01 , HU21, UC05, CN01, CN02 , CN03 CN04 , CN05 , LX01, LX02   | Implementado |
+| RF23 | Visualizar vínculos| [AIU8](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/)|  EP02 , TM01, HU22, UC01, UC04 ,  CN01, CN02 , CN03 CN04 , CN05 , LX05, LX10  | Implementado |
+| RF24 | Requisitar ajuda| [AIU18](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/) |  EP04 , TM02, HU23 ,  CN01, CN02 , CN03 CN04 , CN05,  LX02   | Implementado |
+| RF25 | Retornar ao início| [AIU21](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/)| EP04 , TM02 , HU24 , CN01, CN02 , CN03 CN04 , CN05 , LX01, LX02 | Implementado |
+| RF26 | Salvar histórico de busca| [AIU22](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/), [IP15](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)|  EP05 , TM01, 	HU25, CN01, CN02 , CN03 CN04 , CN05 , LX11, LX12  | Implementado |
+| RF27 | Disponibilizar filtro de pesquisa| [AIU23](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/) |  EP04, TM02 , HU26 , CN01, CN02 , CN03 CN04 , CN05, LX08  | Implementado |
+| RF28 | Possibilitar compartilhamento das informações de placa| [AIU25](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/)|  EP06 , TM01 , HU27 , CN01, CN02 , CN03 CN04 , CN05, LX02   | Implementado |
+| RF29 |  Notificar sobre atualizações sobre vínculo| [IP8](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| EP04 , TM02 , HU29 , LX05, LX02  | Não Implementado |
+| RF30 | Adicionar novas informações sobre perturbação da vizinhança| [IP21](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)|  EP03 , TM02 , HU30 , UC05 , LX13, LX05  | Não Implementado |
+| RF31 | Acesso a mapa da região| [IP22](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)|  EP04 , TM03 , 	HU31 , LX09   | Não Implementado |
+| RF32 | Fornecer feedback de periculosidade de áreas no mapa | [IP23](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/)| EP04 , TM03 , HU32 , LX09, LX02   |Não Implementado |
+| RF33 | Visualizar perfil| [AIU1](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/)|  EP04 , TM03 , HU34, CN01, CN02 , CN03 CN04 , CN05, LX01, LX02  | Implementado |
+| RF34 | Usar funcionalidades sem o cadastro do Gov| [ENT12](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Entrevista/)| EP04 , TM03, HU38, LX02  | Não Implementado |
+| RF35 | Editar perfil Gov| [AIU29](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/)|  EP04 , TM01 ,CN01, CN02 , CN03 CN04 , CN05,  HU39 , LX01, LX06 | Implementado |
+| RF36 | Buscar Por Pessoa Desaparecida| [DOC3](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)|  EP02, TM01, HU04, UC02,CN01, CN02 , CN03 CN04 , CN05, LX10, LX13  | Implementado |
+| RF37 | Cadastrar o próprio veículo| [DOC11](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)|  EP03, 	TM01,CN01, CN02 , CN03 CN04 , CN05 , LX02, LX05  | Implementado |
+| RF38 | Registrar Furto ou Roubo de veículo| [DOC12](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)|   EP03, 	TM01,UC05 ,CN01, CN02 , CN03 CN04 , CN05 , LX14  | Implementado |
+| RF39 | Inserir foto do desaparecido| [DOC13](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)|  EP03 , TM01,HU37,CN01, CN02 , CN03 CN04 , CN05, UC02, LX05  | Implementado |
+| RF40 | Inserir localização do desaparecido|  [DOC14](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/)|  EP03, TM01 ,CN01, CN02 , CN03 CN04 , CN05,LX09 | Implementado |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | Implementado  |
 
 
 ## Referência Bibliografia
