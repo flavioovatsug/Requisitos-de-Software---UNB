@@ -16,37 +16,37 @@ Tabela 01 - Requisitos elicitados
 
 | ID | Elicitação | Tipo | Status |
 | ---- | ---- |---- |---- |
-| INT1 | Ler texto para deficientes visuais | RF| Não Implementado|
-| INT2 | Logar pelo Gov |  RF| Implementado|
-| INT3 | Interface simples  |RNF| Implementado|
-| INT4 | Buscar por veículo | RF| Implementado|
-| INT5 | Informar dados do veículo |  RF| Implementado|
-| INT6 | Adicionar carro como roubado |  RF| Implementado|
-|  INT7 | Ligar para a polícia| RF| Implementado|
-| INT8  |Notificar sobre atualizações sobre vinculo|  RF| Não Implementado|
-| INT9 | Listar pessoas desaparecidas|  RF| Implementado|
-| INT10 | Fornecer informações sobre desaparecidos|RF| Implementado|
-| INT11  | Vincular ao desaparecido | RF| Implementado|
-| INT12  | Vincular ao carro | RF| Implementado|
-| INT13  | Buscar por mandados de prisão| RF| Implementado|
-| INT14  | Fornecer informações sobre mandados de prisão| RF| Implementado|
-| INT15  | Salvar histórico de busca | RF| Implementado|
-| INT16  | Buscar por procurados | RF| Não Implementado|
-| INT17  | Fornecer informações sobre procurados | RF| Implementado|
-| INT18  | Tirar foto | RF| Não Implementado|
-| INT19  | Comparar foto com desaparecido, procurado ou mandado | RF| Não Implementado|
-| INT20  | Anunciar pertubação da vizinhança | RF| Implementado|
-| INT21  | Adicionar novas informações sobre pertubação da vizinhança | RF| Não Implementado|
-| INT22  | Acesso a mapa da região | RF| Não Implementado|
-| INT23  | Fornecer feedback de periculosidade de áreas no mapa | RF| Não Implementado|
-| INT24  | Rápida disponibilização de informações | RNF| Implementado|
-| INT25  | Constante atualização de informações | RNF| Não Implementado|
-| INT26  | Sigilo relativo de informações | RNF| Implementado|
-| INT27  | Rápida disponibilização de informações | RNF| Implementado|
-| INT28  | Instalação do aplicativo em diferentes sistemas | RNF| Implementado|
+| IP1 | Ler texto para deficientes visuais | RF| Não Implementado|
+| IP2 | Logar pelo Gov |  RF| Implementado|
+| IP3 | Interface simples  |RNF| Implementado|
+| IP4 | Buscar por veículo | RF| Implementado|
+| IP5 | Informar dados do veículo |  RF| Implementado|
+| IP6 | Adicionar carro como roubado |  RF| Implementado|
+| IP7 | Ligar para a polícia| RF| Implementado|
+| IP8  |Notificar sobre atualizações sobre vinculo|  RF| Não Implementado|
+| IP9 | Listar pessoas desaparecidas|  RF| Implementado|
+| IP10 | Fornecer informações sobre desaparecidos|RF| Implementado|
+| IP11  | Vincular ao desaparecido | RF| Implementado|
+| IP12  | Vincular ao carro | RF| Implementado|
+| IP13  | Buscar por mandados de prisão| RF| Implementado|
+| IP14  | Fornecer informações sobre mandados de prisão| RF| Implementado|
+| IP15  | Salvar histórico de busca | RF| Implementado|
+| IP16  | Buscar por procurados | RF| Não Implementado|
+| IP17  | Fornecer informações sobre procurados | RF| Implementado|
+| IP18  | Tirar foto | RF| Não Implementado|
+| IP19  | Comparar foto com desaparecido, procurado ou mandado | RF| Não Implementado|
+| IP20  | Anunciar pertubação da vizinhança | RF| Implementado|
+| IP21  | Adicionar novas informações sobre pertubação da vizinhança | RF| Não Implementado|
+| IP22  | Acesso a mapa da região | RF| Não Implementado|
+| IP23  | Fornecer feedback de periculosidade de áreas no mapa | RF| Não Implementado|
+| IP24  | Rápida disponibilização de informações | RNF| Implementado|
+| IP25  | Constante atualização de informações | RNF| Não Implementado|
+| IP26  | Sigilo relativo de informações | RNF| Implementado|
+| IP27  | Rápida disponibilização de informações | RNF| Implementado|
+| IP28  | Instalação do aplicativo em diferentes sistemas | RNF| Implementado|
 
 
-Autor:  [Christian](https://github.com/crstyhs)
+_Autor:  [Christian](https://github.com/crstyhs)_
 
 </center>
 
@@ -61,7 +61,7 @@ Autor:  [Christian](https://github.com/crstyhs)
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 13/04/2024 | Criação do documento da introspecção | [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
-| 1.1 | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
-| 1.2 | 20/05/2024 | Adição da gravação| [Christian](https://github.com/crstyhs)|  |
+| `1.0` | 13/04/2024 | Criação do documento da introspecção | [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
+| `1.1` | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
+| `1.2` | 20/05/2024 | Adição da gravação| [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/italobrunoM)  |
 

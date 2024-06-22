@@ -1,4 +1,4 @@
-# Verificação dos Cenários do Grupo 6
+# Verificação dos Casos de uso do Grupo 6
 
 ## Introdução
 
@@ -189,9 +189,13 @@ _Autor:[Bittar](https://github.com/Bittarx), 2024._
 - É recomendado que a equipe pesquise no sistema rotas aslternativas de uso que leve o sistema a situações inesperadas e detalhe essa análise
 
 
+### Verificação dos Casos de Uso
+ 
+<center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VRWa8YF-fVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+</center>
 
 ## Referências Bibliográficas
 
