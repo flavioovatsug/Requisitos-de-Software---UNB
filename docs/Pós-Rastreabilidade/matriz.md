@@ -56,7 +56,48 @@ _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 
 | ID | Descrição | Origem | Uso | Implementação |
 | -- | --------- | ------ | --- |--- |
-| RFXX | Nome do requisito| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| RF01 | Logar pelo Gov| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+
 
 ## Referência Bibliografia
 
