@@ -43,9 +43,9 @@ Abaixo a tabela com o modelo da Matriz:
 
 **Tabela 2** -   Modelo da Matriz
 
-| ID | Descrição | Origem | Uso | Implementação |
-| -- | --------- | ------ | --- |--- |
-| RFXX | Nome do requisito| [artefato de origem](../elicitacao/introspeccao.md)|  [Artefato que o utiliza]()  | [Implementado ou não]() |
+| ID | Descrição | Origem | Uso | Implementação | Versão |
+| -- | --------- | ------ | --- |--- |--- |
+| RFXX | Nome do requisito| artefato de origem|  Artefato que o utiliza  | Implementado ou não | |
 
 
 _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
