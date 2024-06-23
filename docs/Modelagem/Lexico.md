@@ -309,5 +309,5 @@ Abaixo nas tabelas de 2 a 17 podem ser visto os léxicos e os modelos seguidos p
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 17/05/2024 | Criação do documento do Léxico | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
-| 1.1 | 24/05/2024 | Correção tabelas por tipo | [Italo Bruno](https://github.com/ItaloBrunoM)|  |
+| 1.1 | 24/05/2024 | Correção tabelas por tipo | [Italo Bruno](https://github.com/ItaloBrunoM)| [Christian Hirsch Santos](https://github.com/crstyhs) |
 

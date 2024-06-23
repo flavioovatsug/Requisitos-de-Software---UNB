@@ -164,4 +164,4 @@ Bilheteria Digital. Caso de Uso. Repositório da disciplina de Requisitos de Sof
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 17/05/2024 | Criação do documento de casos de uso | [Italo Bruno](https://github.com/ItaloBrunoM) e [Harryson Campos Martins](https://github.com/harry-cmartin)|[Christian Hirsch Santos](https://github.com/crstyhs)  |
-| 1.1 | 24/05/2024 | Correção do documento e do diagrama | [Italo Bruno](https://github.com/ItaloBrunoM) |  |
+| 1.1 | 24/05/2024 | Correção do documento e do diagrama | [Italo Bruno](https://github.com/ItaloBrunoM) | [Flávio Melo](https://github.com/flavioovatsug) |
