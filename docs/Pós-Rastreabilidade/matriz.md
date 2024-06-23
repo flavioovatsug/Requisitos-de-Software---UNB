@@ -120,4 +120,4 @@ _Autor:[Christian Hirsch Santos](https://github.com/crstyhs) e [Ian Lucca](https
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`| 22/06/2024 | Criação do documento |[Christian Hirsch Santos](https://github.com/crstyhs)  | |
+|`1.0`| 22/06/2024 | Criação do documento |[Christian Hirsch Santos](https://github.com/crstyhs)  | [Flávio Melo](https://github.com/flavioovatsug)|

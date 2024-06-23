@@ -175,5 +175,5 @@ Considerando o Meta-modelo de Toranzo como referência, este documento apresenta
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`| 14/06/2024 | Criação do documento |[Flávio Melo](https://github.com/flavioovatsug) e [Italo Bruno](https://github.com/Italobrunom) | |
-|`1.1`| 15/06/2024 | Adição dos elos funcionais 21 ao 40| [Italo Bruno](https://github.com/Italobrunom) |
+|`1.0`| 14/06/2024 | Criação do documento |[Flávio Melo](https://github.com/flavioovatsug) e [Italo Bruno](https://github.com/Italobrunom) | [Christian Hirsch Santos](https://github.com/crstyhs) |
+|`1.1`| 15/06/2024 | Adição dos elos funcionais 21 ao 40| [Italo Bruno](https://github.com/Italobrunom) | [Christian Hirsch Santos](https://github.com/crstyhs) |
