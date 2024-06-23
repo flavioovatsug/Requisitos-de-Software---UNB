@@ -29,9 +29,9 @@ Tabela 1: Símbolos
   | EP | Épico |
   |TM |Tema |
   | ENT | Entrevista |
-  | ES | Especificação Suplementar |
-  | AD | Analise de Documento |
-  | INT | Introspecção |
+  | US, CN,DE,SP,IMP,RI,RFS,RAD | Especificação Suplementar |
+  | DOC | Analise de Documento |
+  | IP | Introspecção |
   | LX | Léxico |
   | AP | Análise de Protocolo |
   | Q | Questionário |
@@ -39,7 +39,7 @@ Tabela 1: Símbolos
   | RNF | Requisitos não Funcionais |
   | ST | Storytelling |
   | UC | Casos de Uso |
-  | US | Histórias de usuário |
+  | HU | Histórias de usuário |
   
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
