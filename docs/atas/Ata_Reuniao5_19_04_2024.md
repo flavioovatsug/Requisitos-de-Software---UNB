@@ -3,6 +3,7 @@
 Reunião realizada no Microsoft Teams.
 
 ## Participantes
+
 - [x] Christian Hirsch Santos
 - [x] Flávio Gustavo Araújo de Melo
 - [] Marcos Santos Bittar
