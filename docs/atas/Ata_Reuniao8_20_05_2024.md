@@ -45,4 +45,4 @@ Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 20/05/2024 | Criação da ata de reunião 8  | [Flávio Melo](https://github.com/flavioovatsug) |[Christian Hirsch Santos](https://github.com/crstyhs)|
+| `1.0` | 20/05/2024 | Criação da ata de reunião 8  | [Flávio Melo](https://github.com/flavioovatsug) |[Christian Hirsch Santos](https://github.com/crstyhs)|

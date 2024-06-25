@@ -1,23 +1,17 @@
 # Apresentação etapa 1: Planejamento do Projeto
 
-
-
 ## Introdução
 
 Esta página é destinada à apresentação da etapa 1 do projeto de Requisitos de Software. Focada na construção inicial do projeto,com a Definição do APP e Planejamento do Projeto, RichPicture. A apresentação foi gravada no dia 31 de março de 2024.
 
-
-
 ## Entregas
 
 1. App selecionado
-2. Cronogramas 
+2. Cronogramas
 3. Heatmap
 4. Lista de apps selecionados
-5. Ferramentas 
+5. Ferramentas
 6. Rich pictures
-
-
 
 ## Apresentação
 
@@ -59,16 +53,12 @@ Sim                |
 
 </center>
 
-
-
 ## Bibliografia
 
 > Plano de Ensino da Disciplina de IHC. Disponível em: <<hhttps://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/42/Plano_de_Ensino%20RE%20012024%20Turma%201%20v2.pdf>>. Acesso em: 02 de outubro de 2023
-
-
 
 ## Histórico de versão
 
 | Versão |    Data    | Descrição                         | Autor(es)                                      | Revisor(es)                                    |
 | ------ | :--------: | --------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/04/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Christian](https://github.com/crstyhs)|
+| `1.0`    | 03/04/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Christian](https://github.com/crstyhs)|

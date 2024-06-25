@@ -52,4 +52,4 @@ Autor: [Ian Lucca](https://github.com/IanLucca12), 2024
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :----:|
-| 1.0 | 07/04/2024 | Criação da ata de reunião | [Ian Lucca](https://github.com/IanLucca12) | [Marcos](https://github.com/Bittarx) |
+| `1.0` | 07/04/2024 | Criação da ata de reunião | [Ian Lucca](https://github.com/IanLucca12) | [Marcos](https://github.com/Bittarx) |
