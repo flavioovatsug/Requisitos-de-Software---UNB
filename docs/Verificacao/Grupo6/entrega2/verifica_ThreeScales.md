@@ -42,7 +42,7 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 | 5 |         A participação do cliente e/ou persona na priorização ?                                                    | sim         |            |
 | 6 |           Rastreabilidade dos requisitos ?                                             |sim|            |
 | 7 |                Requisitos estão diferenciados entre funcionais e não funcionais ?                                      |  sim        |            |
-| 8 |           Os requistos são divididos em 3 partes(alta, média, baixa ) ?                                            |    sim      |            |
+| 8 |           Os requisitos são divididos em 3 partes(alta, média, baixa ) ?                                            |    sim      |            |
 | 9 |              Foi disponibilizado uma tabela que apresente essa priorização ?                                     |sim|            |
 
 
@@ -56,9 +56,9 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 ## Lista de Problemas e Análise 
 
-- Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
+- Seguindo a lista construída não foram encontrados problemas relativos ao artefato.
 
-## Gravação da Verficação 
+## Gravação da Verificação 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TABgjCmP9Tc?si=SB57KwpYemrg8cm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 

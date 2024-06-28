@@ -43,7 +43,7 @@ A metodologia escolhida foi a dos checklists, usando o checklist já montado par
 | 11 |      Está de acordo com o aplicativo selecionado ?                                                    |     Sim     |            |
 | 12 |      O Rich picture representa o aplicativo ?                                          |      Sim               |            |
 | 13 |      Explicação dos símbolos na legenda ?                                          |      Sim               |          |
-| 14 |      Explicação dos símbolos consizente com a imagem ?                                          |     Sim                |            |
+| 14 |      Explicação dos símbolos condizente com a imagem ?                                          |     Sim                |            |
 | 15 |      Rich picture apresenta os fluxos corretos do aplicativo ?                                          |       Sim              |            |
 | 16 |      Elementos do Rich picture são relevantes ?                                          |          Sim           |            |
 

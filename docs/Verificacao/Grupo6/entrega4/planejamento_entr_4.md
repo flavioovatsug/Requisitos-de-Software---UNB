@@ -1,19 +1,19 @@
-# Planejamento da Verficação da Entrega 3 do Grupo 6
+# Planejamento da Verificação da Entrega 4 do Grupo 6
 
 ## Introdução 
 
-A verificação é uma das etapas onde os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Este artefato em questão faz o planejamento da  documentação da verificação da entrega 4 realizada pelo [Grupo 6](https://requisitos-de-software.github.io/2024.1-Firefox/) da disciplina de Reqisitos de Software e tem por objetivo somente verificar os artefatos produzidos e realizar propostas de correção.
+A verificação é uma das etapas onde os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Este artefato em questão faz o planejamento da  documentação da verificação da entrega 4 realizada pelo [Grupo 6](https://requisitos-de-software.github.io/2024.1-Firefox/) da disciplina de Requisitos de Software e tem por objetivo somente verificar os artefatos produzidos e realizar propostas de correção.
 
 
 ## Metodologia
 
-Para esta verificação utilizaremos uma ténica de Inspeção que segundos os DOutorandos Marcos Kalinowski e Rodrigo Oliveira Spínola de Engenharia e Sistemas da Computação pela UFRJ, na revista Engenharia de Software Magazine, é um tipo particular de revisão que pode ser aplicado atodos os tipos de artegafato de software  a fim de se encontrar defeitos.
+Para esta verificação utilizaremos uma técnica de Inspeção que segundos os DOutorandos Marcos Kalinowski e Rodrigo Oliveira Spínola de Engenharia e Sistemas da Computação pela UFRJ, na revista Engenharia de Software Magazine, é um tipo particular de revisão que pode ser aplicado a todos os tipos de artefato de software  a fim de se encontrar defeitos.
 
-A inspeção seŕa realizada de forma individual por cada integrante da equipe através do metodo definido de checklists a seguir.
+A inspeção será realizada de forma individual por cada integrante da equipe através do método definido de checklists a seguir.
 
 ## Contexto
 
-Nesse documento serão dispostas as checklists estrturadas para verificação de histórias de usuário, NFR e Backlog.
+Nesse documento serão dispostas as checklists estruturadas para verificação de histórias de usuário, NFR e Backlog.
 
 ### Cronograma
 
@@ -106,4 +106,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 09/06/2024 | Criação da página.                          | [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug) | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) |
-| `1.0`  | 10/06/2024 | Adição do vídeo                          | [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug) | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) |
+| `1.1`  | 10/06/2024 | Adição do vídeo                          | [Italo Bruno](https://github.com/Italobrunom), [Flávio Melo](https://github.com/flavioovatsug) | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) |

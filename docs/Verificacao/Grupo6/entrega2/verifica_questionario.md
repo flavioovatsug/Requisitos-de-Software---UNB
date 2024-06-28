@@ -57,7 +57,7 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 ## Lista de Problemas e Análise 
 
-- Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
+- Seguindo a lista construída não foram encontrados problemas relativos ao artefato.
 
 
 ## Gravação da Verficação 

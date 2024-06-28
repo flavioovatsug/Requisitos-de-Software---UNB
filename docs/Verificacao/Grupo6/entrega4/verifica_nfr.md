@@ -50,7 +50,7 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 
 ## Lista de Problemas e Análise 
 
-- Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
+- Seguindo a lista construída não foram encontrados problemas relativos ao artefato.
 
 
 
