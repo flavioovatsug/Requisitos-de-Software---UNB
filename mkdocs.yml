@@ -124,3 +124,9 @@ nav:
       - Backward From: Pós-Rastreabilidade/backward.md
       - Forward-From: Pós-Rastreabilidade/forward.md
       - Matriz de rastreabilidade: Pós-Rastreabilidade/matriz.md
+  - Verificação e Validação:
+      - Verificação:
+          - Planejamento : Verificacao/Grupo5/entrega4/planejamento_entr_4.md
+          - Histórias de Usuário: Verificacao/Grupo5/entrega4/verifica_user.md
+          - Backlog: Verificacao/Grupo5/entrega4/verifica_backlog.md
+          - NFR Framework: Verificacao/Grupo5/entrega4/verifica_nfr.md
