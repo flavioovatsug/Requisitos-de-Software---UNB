@@ -1,6 +1,5 @@
 # Cenários
 
-
 ## Introdução
 
 Os cenários são basicamente histórias sobre pessoas realizando uma atividade. Como forma de elaborar cenários mais completos, utilizamos a técnica do **questionamento sistemático**. Nessa técnica, segmentamos os cenários em proposições e investigamos cada uma delas, a partir de um conjunto de perguntas, que as respostam geram mais proposições. Repetimos esse ciclo até que tudo esteja completo. As perguntas sugeridas são: Por quê? Como? O que é? X pode ser feito da forma y? X faz parte de y? Conforme podemos ver nas Figuras 1 e 2.
@@ -27,11 +26,12 @@ Os cenários são basicamente histórias sobre pessoas realizando uma atividade.
 
 <font size="2"><p style="text-align: center">Fonte: Barbosa, S., & Silva, B. (Ano de Publicação). Interação Humano-Computador (3ª ed.). Editora.</p></font>
 
-## Cenários
+## O que são cenários
 
 Segundo Cooper, 1999, Rosson e Carroll, 2002, os cenários não precisam ser criados somente após a definição das personas e podem ser realizados em diversas etapas do processo, visando diferentes objetivos. Neste caso, decidimos usar os cenários como forma de auxiliar a equipe a fazer a identificação das personas e onde cada uma delas está inserid, sendo usados também como instrumento de elicitação de requisitos. 
 
 ## Estrutura do Cenário
+
 Abaixo o modelo seguido para elaboração dos cenários na tabela 1
 
 <font size="2"><p style="text-align: center">Tabela 1: Modelo estrutura dos cenários</p></font>
@@ -88,9 +88,6 @@ Abaixo o modelo seguido para elaboração dos cenários na tabela 1
 
 <center>
   
-
-
-
 <font size="2"><p style="text-align: center">Tabela 4: cenário </p></font>
 <center>
   
@@ -107,8 +104,6 @@ Abaixo o modelo seguido para elaboração dos cenários na tabela 1
 
 <center>
   
-
-
 <font size="2"><p style="text-align: center">Tabela 5: cenário </p></font>
 <center>
   
@@ -125,8 +120,6 @@ Abaixo o modelo seguido para elaboração dos cenários na tabela 1
 
 <center>
   
-
-
 <font size="2"><p style="text-align: center">Tabela 6: cenário </p></font>
 <center>
   
@@ -145,19 +138,13 @@ Abaixo o modelo seguido para elaboração dos cenários na tabela 1
   
 <p style="text-align: center">Fonte: <a href="https://github.com/harry-cmartin">Harryson Martins</a></p>
 
-
-  
-
-
-
 ## Bibliografia 
 
->  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
-
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
 ## Histórico de versões
 
 | Versão | Data       | Descrição            | Autor(es)                                                                                              | Revisor(es)                                    |
 | ------ | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| 1.0   | 03/05/2024 | Correção de erros    | [Harryson Martins](https://github.com/harry-cmartin) |  [Christian Hirsch Santos](https://github.com/crstyhs)    |
-| 1.1   | 19/05/2024 | Correção de erros e modificação da estrutura    | [Christian Hirsch Santos](https://github.com/crstyhs) |      |
+| `1.0`   | 03/05/2024 | Correção de erros    | [Harryson Martins](https://github.com/harry-cmartin) |  [Christian Hirsch Santos](https://github.com/crstyhs)    |
+| `1.1`   | 19/05/2024 | Correção de erros e modificação da estrutura    | [Christian Hirsch Santos](https://github.com/crstyhs) |      |

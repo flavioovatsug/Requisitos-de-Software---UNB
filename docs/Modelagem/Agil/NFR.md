@@ -94,8 +94,9 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 |------------| ------------|
 | Descrição | Usabilidade refere-se à capacidade do sistema de entregar uma boa usabilidade para os usuários do aplicativo do "Sinesp Cidadão". |
 | Justificativa| Uma boa Usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e garantir uma satisfação do usuário, aumentando a acessibilidade e por consequência tendo uma redução de erros.|
-| Origem do Requisito| Requisitos elicitados. |
+| Origem do Requisito| [Requisitos elicitados - RNF01 e RNF05](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/) |
 | Critério de Aceitação | O sistema deve ser capaz de ter uma boa eficiência e ser capaz de realizar as ações requisitadas pelo usuário de maneira rápida. |
+| Dependência| Nenhuma |
 | Prioridade| Alta |
 | Conflitos| Nenhum |
 | História| 26/05/2024|
@@ -134,8 +135,9 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 |------------| ------------|
 | Descrição | Segurança refere-se à capacidade do sistema de entregar uma segurança e privacidade para os usuários do aplicativo do "Sinesp Cidadão". |
 | Justificativa| Uma boa Segurança é fundamental para garantir que os usuários possam utilizar o aplicativo de maneira tranquila sem se preocupar com a segurança de seus dados e informações pessoais.|
-| Origem do Requisito| Requisitos elicitados. |
+| Origem do Requisito| [Requisitos elicitados - RNF02, RNF03](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/) |
 | Critério de Aceitação | O sistema deve ser capaz de ter uma boa segurança e ter uma boa privacidade de dados baseado no que o usuário necessitar. |
+| Dependência| Nenhuma |
 | Prioridade| Muito Alta |
 | Conflitos| Nenhum |
 | História| 26/05/2024|
@@ -174,8 +176,9 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 |------------| ------------|
 | Descrição | Portabilidade refere-se à capacidade do sistema de ser utilizado em vários sistemas diferentes. |
 | Justificativa| Uma boa Portabilidade é fundamental para garantir que qualquer usuário possa utilizar o aplicativo, independente do que ele tenha para uso.|
-| Origem do Requisito| Requisitos elicitados. |
+| Origem do Requisito| [Requisitos - RNF08](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Requisitos_elicitados/) |
 | Critério de Aceitação | O sistema deve ser capaz de ser utilizado ao menos em android IOS e em computadores Windows, Linux e MAC. |
+| Dependência| Nenhuma |
 | Prioridade| Média |
 | Conflitos| Nenhum |
 | História| 26/05/2024|
@@ -214,6 +217,7 @@ A propagação de impactos no NFR Framework  envolve a identificação das rela�
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 25/05/2024 | Criação do documento NFR | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
-| 1.1 | 26/05/2024 | Atualização com os cartões de especificação | [Italo Bruno](https://github.com/ItaloBrunoM)  | [Flávio Melo](https://github.com/flavioovatsug) |
-| 1.2 | 27/05/2024 | Atualização com os SIG e Propagação | [Italo Bruno](https://github.com/ItaloBrunoM)  | [Flávio Melo](https://github.com/flavioovatsug) |
+| `1.0` | 25/05/2024 | Criação do documento NFR | [Italo Bruno](https://github.com/ItaloBrunoM)  |  |
+| `1.1` | 26/05/2024 | Atualização com os cartões de especificação | [Italo Bruno](https://github.com/ItaloBrunoM)  | [Flávio Melo](https://github.com/flavioovatsug) |
+| `1.2` | 27/05/2024 | Atualização com os SIG e Propagação | [Italo Bruno](https://github.com/ItaloBrunoM)  | [Flávio Melo](https://github.com/flavioovatsug) |
+| `1.3`  | 27/06/2024 | Correção do artefato.| [Italo Bruno](https://github.com/Italobrunom)|  |

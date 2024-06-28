@@ -29,9 +29,9 @@ Tabela 1: Símbolos
   | EP | Épico |
   |TM |Tema |
   | ENT | Entrevista |
-  | ES | Especificação Suplementar |
-  | AD | Analise de Documento |
-  | INT | Introspecção |
+  | US, CN,DE,SP,IMP,RI,RFS,RAD | Especificação Suplementar |
+  | DOC | Analise de Documento |
+  | IP | Introspecção |
   | LX | Léxico |
   | AP | Análise de Protocolo |
   | Q | Questionário |
@@ -39,7 +39,7 @@ Tabela 1: Símbolos
   | RNF | Requisitos não Funcionais |
   | ST | Storytelling |
   | UC | Casos de Uso |
-  | US | Histórias de usuário |
+  | HU | Histórias de usuário |
   
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -58,10 +58,10 @@ Tabela 2: RF01 - Logar pelo Gov
 |  Tema| TM02 |
 |História de usuário | HU01 |
 | Elicitação | [AIU2](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDaInterface/) , [IP2](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/Introspeccao/), [DOC10](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/elicitacao/tecnicas/AnaliseDeDocumento/) |
-| Caso de uso| - |
+| Caso de uso| |
 | Cenário| Todos os cénarios |
 | Léxico | LX07 |
-|Implementação||
+|Implementação| ![image](../assets/implementacoes_dos_reqs/entrar_pelogov.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -81,7 +81,7 @@ Tabela 2 : RF02 - Buscar por veículo
 | Caso de uso| UC01 |
 | Cenário| Todos os cénarios |
 | Léxico | LX08 |
-|Implementação||
+|Implementação| ![image](../assets/implementacoes_dos_reqs/informar_placa.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -100,7 +100,7 @@ Tabela 3 : RF03 - Informar dados do veículo
 | Caso de uso| UC01 |
 | Cenário| Todos os cénarios |
 | Léxico | LX10 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/informar_placa.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -139,7 +139,7 @@ Tabela 5 : RF05 - Listar pessoas desaparecidas
 | Caso de uso| UC02 |
 | Cenário| Todos os cénarios |
 | Léxico | LX10 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/mostra_desaparecidos.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -199,7 +199,7 @@ Tabela 8 : RF08	- Buscar por mandados de prisão
 | Caso de uso| UC03 |
 | Cenário| Todos os cénarios |
 | Léxico | LX10 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/buscarmandados.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -239,7 +239,7 @@ Tabela 10 : RF10 - Buscar por procurados
 | Caso de uso| UC04 |
 | Cenário| Todos os cénarios |
 | Léxico | LX10|
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/mostra_procurados.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -259,7 +259,7 @@ Tabela 11 : RF11 - Fornecer informações sobre procurados
 | Caso de uso| UC04 |
 | Cenário| Todos os cénarios |
 | Léxico | LX10 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/mostra_procurados.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -278,7 +278,7 @@ Tabela 12 : RF12 - Sair do aplicativo
 | Caso de uso|  |
 | Cenário| Todos os cénarios |
 | Léxico | LX01, LX02 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/sair_do_app.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -297,7 +297,7 @@ Tabela 13 : RF13 - Anunciar perturbação da vizinhança
 | Caso de uso| UC05 |
 | Cenário| Todos os cénarios |
 | Léxico | LX02|
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/particpacao_cidada.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -338,7 +338,7 @@ Tabela 15 : RF16 - Visualizar informações institucionais
 | Caso de uso| UC04 |
 | Cenário| Todos os cénarios |
 | Léxico | LX01,LX10 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/sobre_do_app.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -417,7 +417,7 @@ Tabela 19: RF24 - Requisitar ajuda
 | Caso de uso|  |
 | Cenário| Todos os cénarios |
 | Léxico | LX02 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/requisitar_ajuda.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -437,7 +437,7 @@ Tabela 20 : RF25 - Retornar ao início
 | Caso de uso|  |
 | Cenário|  Todos os cénarios|
 | Léxico | LX01, LX02 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/inicio.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -514,7 +514,7 @@ Tabela 24: RF33 - Visualizar perfil
 | Caso de uso|  |
 | Cenário| Todos os cénarios |
 | Léxico | LX01, LX02 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/visualizar_perfil.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -534,7 +534,7 @@ Tabela 24 : RF35 - Editar perfil Gov
 | Caso de uso|  |
 | Cenário| Todos os cénarios |
 | Léxico | LX01, LX06 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/editar_perfil_gov.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -553,7 +553,7 @@ Tabela 25: RF36 - Buscar Por Pessoa Desaparecida
 | Caso de uso|  UC02|
 | Cenário| Todos os cénarios |
 | Léxico | LX10, LX13 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/mostra_desaparecidos.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
@@ -573,7 +573,7 @@ Tabela 26: RF37 - 	Cadastrar o próprio veículo
 | Caso de uso|  |
 | Cenário| Todos os cénarios |
 | Léxico | LX02, LX05 |
-|Implementação||
+|Implementação|![image](../assets/implementacoes_dos_reqs/mostra_informacoes_dos_veiculos.png)|
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 

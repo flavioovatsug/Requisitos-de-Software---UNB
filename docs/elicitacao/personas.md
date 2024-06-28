@@ -1,16 +1,17 @@
-# Introdução
+# Personas
+
+## Introdução
 
 Para desenvolver um aplicativo eficaz, é crucial ter uma compreensão aprofundada dos usuários envolvidos. As personas desempenham um papel essencial nesse processo, capacitando as equipes de desenvolvimento a projetarem produtos que sejam precisamente adaptados às diversas necessidades e expectativas de cada segmento de usuários. Nesse documento iremos apresentar as personas usadas para o projeto de Requisitos de Software do aplicativo Sinesp Cidadão.
 
-# Metodologia
+## Metodologia
 
 Pra criar uma persona fizemos uma analise dos perfis de usuários e com isso foi feito a modelagem das personas para se adequar ao projeto
 
-# Elenco
+## Elenco
 
 A seguir são o elenco de personas do projeto
 
-                                          
 <p style="text-align: center"><b>Tabela 1</b> - Persona Primária Rogerio Barreto.</p>
 
 | <font size="3"><p style="text-align: center">Figura 1- Persona Primária Rogerio Barreto.</p></font><figure markdown>![Rogerio Barreto](../assets/Personas/personarogerio.jpg)<figcaption>Fonte: Elaborada por [Christian](https://github.com/crstyhs) (2024).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
@@ -128,10 +129,10 @@ A seguir são o elenco de personas do projeto
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-|1.0| 03/05 |   Criação do arquivo    | [Italo Bruno](https://github.com/ItalobrunoM) | [Christian](https://github.com/crstyhs)  |
-|1.1| 03/05 | Persona secundaria | [Harryson Campos](https://github.com/harry-cmartin) |[Italo Bruno](https://github.com/ItalobrunoM) |
-|1.2| 03/05 |   Anti-Persona    | [Italo Bruno](https://github.com/ItalobrunoM) | [Italo Bruno](https://github.com/ItalobrunoM) |
-|1.3| 03/05 | Persona primaria | [Christian](https://github.com/crstyhs) |[Italo Bruno](https://github.com/ItalobrunoM) |
-|1.4| 03/05 | Persona secundaria |[Ian Lucca](https://github.com/IanLucca12) | [Italo Bruno](https://github.com/ItalobrunoM)|
-|1.5| 03/05 | Persona secundaria |[Flávio Melo](https://github.com/flavioovatsug) | [Italo Bruno](https://github.com/ItalobrunoM)|
-|1.6| 03/05 | Persona secundaria |[Bittar](https://github.com/Bittarx) | [Christian](https://github.com/crstyhs)|
+|`1.0`| 03/05 |   Criação do arquivo    | [Italo Bruno](https://github.com/ItalobrunoM) | [Christian](https://github.com/crstyhs)  |
+|`1.1`| 03/05 | Persona secundaria | [Harryson Campos](https://github.com/harry-cmartin) |[Italo Bruno](https://github.com/ItalobrunoM) |
+|`1.2`| 03/05 |   Anti-Persona    | [Italo Bruno](https://github.com/ItalobrunoM) | [Italo Bruno](https://github.com/ItalobrunoM) |
+|`1.3`| 03/05 | Persona primaria | [Christian](https://github.com/crstyhs) |[Italo Bruno](https://github.com/ItalobrunoM) |
+|`1.4`| 03/05 | Persona secundaria |[Ian Lucca](https://github.com/IanLucca12) | [Italo Bruno](https://github.com/ItalobrunoM)|
+|`1.5`| 03/05 | Persona secundaria |[Flávio Melo](https://github.com/flavioovatsug) | [Italo Bruno](https://github.com/ItalobrunoM)|
+|`1.6`| 03/05 | Persona secundaria |[Bittar](https://github.com/Bittarx) | [Christian](https://github.com/crstyhs)|

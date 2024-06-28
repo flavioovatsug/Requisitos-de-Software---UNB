@@ -1,12 +1,8 @@
 # Apresentação etapa 2: Elicitação -Técnicas e Priorização
 
-
-
 ## Introdução
 
 Esta página é destinada à apresentação da etapa  do projeto de Requisitos de Software. Focada na construção da parte de elicitação com as técnicas e a priorização. A apresentação foi gravada no dia 19 de abril de 2024.
-
-
 
 ## Entregas
 
@@ -15,7 +11,6 @@ Esta página é destinada à apresentação da etapa  do projeto de Requisitos d
 3. Técnicas
 4. Priorizações 
 5. Cenários
-
 
 ## Apresentação
 
@@ -32,7 +27,6 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 1: Lista de avaliação para entrega 2</p></font>
-
 
 | Questão | Pergunta | Resposta |
 |---------|----------|----------|
@@ -55,21 +49,16 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 | 17     | A participação do cliente e/ou persona no processo de priorização? | Sim         |
 | 18      | A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | Sim         |
 
-
 <font size="2"><p style="text-align: center">Fonte: Plano de Ensino da disciplina Requisitos de Software UNB-FGA Prof. André Barros</p></font>
 
 </center>
-
-
 
 ## Bibliografia
 
 > Plano de Ensino da Disciplina de IHC. Disponível em: <<hhttps://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/42/Plano_de_Ensino%20RE%20012024%20Turma%201%20v2.pdf>>. Acesso em: 02 de outubro de 2023
 
-
-
 ## Histórico de versão
 
 | Versão |    Data    | Descrição                         | Autor(es)                                      | Revisor(es)                                    |
 | ------ | :--------: | --------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/04/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Christian](https://github.com/crstyhs)|
+| `1.0`    | 03/04/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Christian](https://github.com/crstyhs)|

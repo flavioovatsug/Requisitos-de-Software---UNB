@@ -1,12 +1,8 @@
 # Apresentação etapa 3
 
-
-
 ## Introdução
 
 Esta página é destinada à apresentação da etapa  do projeto de Requisitos de Software. Focada na construção da parte de elicitação com as técnicas e a priorização. A apresentação foi gravada no dia 20 de maio de 2024.
-
-
 
 ## Entregas
 
@@ -14,7 +10,6 @@ Esta página é destinada à apresentação da etapa  do projeto de Requisitos d
 2. Léxicos
 3. Casos de uso
 4. Especificação Suplementar
-
 
 ## Apresentação
 
@@ -31,7 +26,6 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 1: Lista de avaliação para entrega 2</p></font>
-
 
 | Questão                                                                                                      | Resposta  |
 |--------------------------------------------------------------------------------------------------------------|-----------|
@@ -64,22 +58,16 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 | 26 - O documento especifica qual plataforma o aplicativo pode ser executado?                                 | Sim       |
 | 27 - Todos os requisitos podem ser testados (RF e RNF)?                                                      | Sim       |
 
-
-
 <font size="2"><p style="text-align: center">Fonte: Plano de Ensino da disciplina Requisitos de Software UNB-FGA Prof. André Barros</p></font>
 
 </center>
-
-
 
 ## Bibliografia
 
 > Plano de Ensino da Disciplina de IHC. Disponível em: <<hhttps://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/42/Plano_de_Ensino%20RE%20012024%20Turma%201%20v2.pdf>>. Acesso em: 02 de outubro de 2023
 
-
-
 ## Histórico de versão
 
 | Versão |    Data    | Descrição                         | Autor(es)                                      | Revisor(es)                                    |
 | ------ | :--------: | --------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 19/05/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Christian](https://github.com/crstyhs)|
+| `1.0`    | 19/05/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Christian](https://github.com/crstyhs)|

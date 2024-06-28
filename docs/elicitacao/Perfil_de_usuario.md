@@ -54,10 +54,7 @@ Como os dados de idade foram coletados como uma pergunta aberta, a média de ida
 
 </center>
 
-
-
 ## Definição do Perfil
-
 
 Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
 
@@ -67,7 +64,6 @@ Após uma análise das respostas, foi traçado um Perfil de Usuário para o apli
 - **Atitudes perante tecnologias:** Intermediário.
 - **Tarefas primárias:** Consultas e denúncias.
 
-
 ## Referências Bibliográficas
 
 > <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -75,8 +71,6 @@ Após uma análise das respostas, foi traçado um Perfil de Usuário para o apli
 ## Bibliografia
 
 > HENRIQUE, Matheus. Perfil do Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/elicitacao/perfil_de_usuario.md?plain=1](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/elicitacao/perfil_de_usuario.md?plain=1). Acesso em: 15 abr. 2024.
-
-
 
 ## Histórico de Versões
 
