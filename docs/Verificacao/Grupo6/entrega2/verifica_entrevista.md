@@ -1,4 +1,4 @@
-# Verificação da Priorização In or Out do Grupo 6
+# Verificação das Entrevistas do Grupo 6
 
 ## Introdução
 
@@ -7,7 +7,7 @@ Este artefato documenta a verificação do documento de Especificação Suplemen
 
 ## Metodologia
 
-A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Priorização In or Out](docs/Verificacao/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
+A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Entrevista](docs/Verificacao/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
 **Sim**, **Não**, **Incompleto** ou **Não se aplica**, esse artefato será verificado individualmente pelo membro  [Ian Lucca](https://github.com/IanLucca12).
 
 
@@ -33,31 +33,33 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 </center>
 
 
-<center>
-  
-**Tabela 2** - Checklist para a Verificação da Priorização In or Out.
 
-| Item   | Descrição                                                                                                                         | Avaliação  | Observação |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
-| 5 |           Rastreabilidade dos requisitos ?                                             |                  sim              |
-| 6 |           Requisitos estão diferenciados entre funcionais e não funcionais ?                                               | sim          |          |            |
-| 7 |                Os critérios de inclusão e exclusão estão definidos ?                                           |    sim      |            |
-| 8 |        As justificativas para inclusão e exclusão de requisitos estão documentadas?  |sim||                
+**Tabela 2** - Checklist para a Verificação da Entrevista.
+
+| ID   | Descrição                                                                                         | Avaliação | Observações |
+| ---- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 5 |         A participação do cliente e/ou persona na elicitação ?                                          |       sim    |          |            |
+| 6 |          Identificação dos requisitos ?                                            |       sim    |          |            |
+| 7 |         As perguntas foram criadas antes da entrevista ?                                          |    sim       |          |            |
+| 8 |          As perguntas são claras, objetivas e relevantes ?	                                           |sim|          |            |
+| 9 |          Perguntas seguem algum tipo de padrão ?                                           |sim|         |            |
+| 10 |         Entrevistado possui conhecimento sobre o assunto tratado ?                                            |    sim       |          |            |
+| 11 |         O entrevistado foi informado sobre o propósito da entrevista e como suas respostas seriam utilizadas?                                            |    sim       |          |            |
+| 12 |        Requisitos estão diferenciados entre funcionais e não funcionais ? |sim|||
 
 _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
-
 
 </center>
 
 
 
-
 ## Lista de Problemas e Análise 
 
-- Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
+- Seguindo a lista construída não foram encontrados problemas relativos ao artefato.
 
-## Gravação da Verficação 
+## Gravação da Verificação 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TABgjCmP9Tc?si=SB57KwpYemrg8cm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Bibliografia
 
@@ -69,4 +71,4 @@ COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Int
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Christian Hirsch Santos](https://github.com/crstyhs) |
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Italo Bruno](https://github.com/Italobrunom) |

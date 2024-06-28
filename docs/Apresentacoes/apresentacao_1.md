@@ -47,7 +47,6 @@ Na apresentação é possível a visualização de todos os artefatos da entrega
 | 14      | No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | Sim |
 | 15      | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. | Sim |
 | 16      | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina. | Sim |
-Sim                |
 
 <font size="2"><p style="text-align: center">Fonte: Plano de Ensino da disciplina Requisitos de Software UNB-FGA Prof. André Barros</p></font>
 
@@ -61,4 +60,4 @@ Sim                |
 
 | Versão |    Data    | Descrição                         | Autor(es)                                      | Revisor(es)                                    |
 | ------ | :--------: | --------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| `1.0`    | 03/04/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) |[Christian](https://github.com/crstyhs)|
+| `1.0`    | 03/04/2024 | Criação e estruturação do arquivo |[Harryson C. MArtins](https://github.com/harry-cmartin) | [Christian](https://github.com/crstyhs)|

@@ -38,8 +38,8 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 | 5 |       A definição do usuário nos Léxicos?                                         |        Sim             |            |
 | 6 |       Os léxicos possuem ligações entre si ?                                         |       Sim              |            |
 | 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                     |     Sim      |          |            |
-| 8 |            Os lexicos possuem sinônimos ?                                     |     Não      |         Não foi encontrado no arquivo os sinônimos            |
-| 9 |            Os sinômimos fazem parte dessa lista ?                                     |    Não                 |   Os sinônimos não estão presentes na tabela         |
+| 8 |            Os léxicos possuem sinônimos ?                                     |     Não      |         Não foi encontrado no arquivo os sinônimos            |
+| 9 |            Os sinônimos fazem parte dessa lista ?                                     |    Não                 |   Os sinônimos não estão presentes na tabela         |
 | 10 |            Léxicos em algum tipo de organização por exemplo ordem alfabética ?                                    |   Não        |   A tabela não aparenta ter algum padrão       |            |
 | 11 |        Tipo de organização mencionada ?                                         |     Não      |          Não foi mencionado            |
 
@@ -59,8 +59,8 @@ _Autor: [Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 | 5 |       A definição do usuário nos Léxicos?                                         |         Sim            |            |
 | 6 |       Os léxicos possuem ligações entre si ?                                         |       Sim              |            |
 | 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                                     |          Sim |          |            |
-| 8 |            Os lexicos possuem sinônimos ?                                     |       Não    |                      |
-| 9 |            Os sinomimos fazem parte dessa lista ?                                     |            Não         |            |
+| 8 |            Os léxicos possuem sinônimos ?                                     |       Não    |                      |
+| 9 |            Os sinônimos fazem parte dessa lista ?                                     |            Não         |            |
 | 10 |            Léxicos tem algum tipo de organização por exemplo ordem alfabética ?                                    |     Não      |          |            |
 | 11 |        Tipo de organização mencionada ?                                         |    Não       |                      |
 
@@ -80,13 +80,13 @@ _Autor:[Italo Bruno](https://github.com/Italobrunom), 2024._
 | 5 |       A definição do usuário nos Léxicos?                                                                | Sim       |             |
 | 6 |       Os léxicos possuem ligações entre si ?                                                             |Sim        |             |
 | 7 |      Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?                              |     Sim   |          |            |
-| 8 |            Os lexicos possuem sinônimos ?                                     |     Não      |                      |
-| 9 |            Os sinomimos fazem parte dessa lista ?                                     |      Não               |            |
+| 8 |            Os léxicos possuem sinônimos ?                                     |     Não      |                      |
+| 9 |            Os sinônimos fazem parte dessa lista ?                                     |      Não               |            |
 | 10 |            Léxicos em algum tipo de organização por exemplo ordem alfabética ?                                    |     Não     |          |            |
 | 11 |        Tipo de organização mencionada ?                                         |     Não      |                    |
 
 
-_Autor:[Bittarx](https://github.com/Bittar), 2024._
+_Autor:[Bittar](https://github.com/Bittar), 2024._
 </center>
 
 
@@ -114,7 +114,7 @@ _Autor:[Bittarx](https://github.com/Bittar), 2024._
 > <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> <a id="FTF2Ref" href="#FTF2">2.</a> Requisistos aula 13 - Milene Serrano e Maurício Serrano
+> <a id="FTF2Ref" href="#FTF2">2.</a> Requisitos aula 13 - Milene Serrano e Maurício Serrano
 
 
 ## Histórico de Versões
@@ -124,5 +124,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | `1.0`  | 07/06/2024 | Criação da página.                          | [Harryson Campos Martins](https://github.com/harry-cmartin) | [Marcos Bittar](https://github.com/Bittarx)|
 | `1.1`  | 10/06/2024 | Verificação Christian.                          | [Christian Hirsch Santos](https://github.com/crstyhs) | [Italo Bruno](https://github.com/Italobrunom) |
 | `1.2`  | 10/06/2024 | Verificação Christian.                          |  [Italo Bruno](https://github.com/Italobrunom) | [Harryson Campos Martins](https://github.com/harry-cmartin) |
-| `1.1`  | 10/06/2024 | Verificação Christian.                          | [Bittar](https://github.com/Bittarx) | [Italo Bruno](https://github.com/Italobrunom) |
+| `1.3`  | 10/06/2024 | Verificação Christian.                          | [Bittar](https://github.com/Bittarx) | [Italo Bruno](https://github.com/Italobrunom) |
 

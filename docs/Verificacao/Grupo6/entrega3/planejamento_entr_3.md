@@ -1,19 +1,19 @@
-# Planejamento da Verficação da Entrega 3 do Grupo 6
+# Planejamento da Verificação da Entrega 3 do Grupo 6
 
 ## Introdução 
 
-A verificação é uma das etapas onde os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. ESte artefato em questão faz o planejamento da  documentação da verificação da entrega 3 realizada pelo [Grupo 6](https://requisitos-de-software.github.io/2024.1-Firefox/) da disciplina de Reqisitos de Software e tem por objetivo somente verificar os artefatos produzidos e realizar propostas de correção.
+A verificação é uma das etapas onde os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. ESte artefato em questão faz o planejamento da  documentação da verificação da entrega 3 realizada pelo [Grupo 6](https://requisitos-de-software.github.io/2024.1-Firefox/) da disciplina de Requisitos de Software e tem por objetivo somente verificar os artefatos produzidos e realizar propostas de correção.
 
 
 ## Metodologia
 
-Para esta verificação utilizaremos uma ténica de Inspeção que segundos os DOutorandos Marcos Kalinowski e Rodrigo Oliveira Spínola de Engenharia e Sistemas da Computação pela UFRJ, na revista Engenharia de Software Magazine, é um tipo particular de revisão que pode ser aplicado atodos os tipos de artegafato de software  a fim de se encontrar defeitos.
+Para esta verificação utilizaremos uma técnica de Inspeção que segundos os DOutorandos Marcos Kalinowski e Rodrigo Oliveira Spínola de Engenharia e Sistemas da Computação pela UFRJ, na revista Engenharia de Software Magazine, é um tipo particular de revisão que pode ser aplicado a todos os tipos de artefato de software  a fim de se encontrar defeitos.
 
-A inspeção seŕa realizada de forma individual por cada integrante da equipe através do metodo definido de checklists a seguir.
+A inspeção será realizada de forma individual por cada integrante da equipe através do método definido de checklists a seguir.
 
 ## Contexto
 
-Nesse documento serão dispostas as checklists estrturadas para verificação do Cenários, Léxicos, Casos de Uso e Especificação Suplementar.
+Nesse documento serão dispostas as checklists estruturadas para verificação do Cenários, Léxicos, Casos de Uso e Especificação Suplementar.
 
 
 ### Cronograma
@@ -179,7 +179,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 > <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> <a id="FTF2Ref" href="#FTF2">2.</a> Requisistos aula 13 - Milene Serrano e Maurício Serrano
+> <a id="FTF2Ref" href="#FTF2">2.</a> Requisitos aula 13 - Milene Serrano e Maurício Serrano
 
 
 ## Histórico de Versões

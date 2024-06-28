@@ -1,4 +1,4 @@
-# Verificação da Priorização MosCow do Grupo 6
+# Verificação da Priorização Three Scales do Grupo 6
 
 ## Introdução
 
@@ -7,7 +7,7 @@ Este artefato documenta a verificação do documento de Especificação Suplemen
 
 ## Metodologia
 
-A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Priorização MosCow](docs/Verificacao/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
+A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Priorização Three Scales](docs/Verificacao/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
 **Sim**, **Não**, **Incompleto** ou **Não se aplica**, esse artefato será verificado individualmente pelo membro  [Ian Lucca](https://github.com/IanLucca12).
 
 
@@ -35,17 +35,16 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 <center>
   
-**Tabela 2** - Checklist para a Verificação da Priorização MosCow.
+**Tabela 2** - Checklist para a Verificação da Priorização Three Scales.
 
 | Item   | Descrição                                                                                                                         | Avaliação  | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | ---------  | ---------- |
-| 5 |         A participação do cliente e/ou persona na priorização ?                                                     |   sim       |            |
-|6 |           Rastreabilidade dos requisitos ?                                                       |    sim      |            |
-| 7 |           Requisitos estão diferenciados entre funcionais e não funcionais ?                                    |    sim       |          |            |
-| 8 |               	Foram utilizadas Must, should, could, won't para a divisão da tabela ?                          |   sim       |            |
-| 9 |            O método MoSCoW facilita o entendimento da prioridade dos requisitos ?                                         |  sim        |            |
-| 10 |           Foram elaboradas pelo menos outras 2 técnicas para uso desta técnica ?                                          |  sim        |            |
-| 11 |           Foi disponibilizado uma tabela que apresente essa priorização ?                                         |      sim    |            |
+| 5 |         A participação do cliente e/ou persona na priorização ?                                                    | sim         |            |
+| 6 |           Rastreabilidade dos requisitos ?                                             |sim|            |
+| 7 |                Requisitos estão diferenciados entre funcionais e não funcionais ?                                      |  sim        |            |
+| 8 |           Os requisitos são divididos em 3 partes(alta, média, baixa ) ?                                            |    sim      |            |
+| 9 |              Foi disponibilizado uma tabela que apresente essa priorização ?                                     |sim|            |
+
 
 _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
@@ -57,11 +56,11 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 ## Lista de Problemas e Análise 
 
-- Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
+- Seguindo a lista construída não foram encontrados problemas relativos ao artefato.
 
-
-## Gravação da Verficação 
+## Gravação da Verificação 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TABgjCmP9Tc?si=SB57KwpYemrg8cm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Bibliografia
 
@@ -73,4 +72,4 @@ COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Int
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Flávio Melo](https://github.com/flavioovatsug) |
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Italo Bruno](https://github.com/Italobrunom) |

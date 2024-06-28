@@ -67,30 +67,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
 ## Lista de Problemas e Análise 
 
-- Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
-
-### Solução
-
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Seguindo a lista construída não foram encontrados problemas relativos ao artefato.
 
 
 ## Referências Bibliográficas
@@ -98,7 +75,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 > <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> <a id="FTF2Ref" href="#FTF2">2.</a> Requisistos aula 13 - Milene Serrano e Maurício Serrano
+> <a id="FTF2Ref" href="#FTF2">2.</a> Requisitos aula 13 - Milene Serrano e Maurício Serrano
 
 
 ## Histórico de Versões

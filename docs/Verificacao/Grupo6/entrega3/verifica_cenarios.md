@@ -302,7 +302,7 @@ _Autor: [Bittar](https://github.com/Bittarx), 2024._
 
 ## Lista de Problemas e Análise dos cenários verificados 
 
-- Para os cenários avaliados em questão só foi identificado a falta  de pré-condições mais detalhadas como: sistema operacional necessário, tipo de aparelo que deve ser usado já que é um app mobile
+- Para os cenários avaliados em questão só foi identificado a falta  de pré-condições mais detalhadas como: sistema operacional necessário, tipo de aparelho que deve ser usado já que é um app mobile
 
 ### Solução
 

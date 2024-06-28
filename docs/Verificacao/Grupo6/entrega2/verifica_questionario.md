@@ -1,4 +1,4 @@
-# Verificação das Requisitos Elicitados do Grupo 6
+# Verificação dos Questionários do Grupo 6
 
 ## Introdução
 
@@ -7,7 +7,7 @@ Este artefato documenta a verificação do documento de Especificação Suplemen
 
 ## Metodologia
 
-A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Requisitos Elicitados](docs/Verificacao/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
+A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Questionário](docs/Verificacao/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
 **Sim**, **Não**, **Incompleto** ou **Não se aplica**, esse artefato será verificado individualmente pelo membro  [Ian Lucca](https://github.com/IanLucca12).
 
 
@@ -34,19 +34,19 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 <center>
 
-**Tabela 2** - Checklist para a Verificação dos Requisitos Elicitados.
+**Tabela 2** - Checklist para a Verificação do questionário.
 
-| ID  | Descrição                                                                                         | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 5 |     os requisitos são rastreaveis ?                                                                       |     sim      |          |            |
-| 6 |      Diferenciação entre implementados e não implementados ?                                          |    sim       |          |            |
-| 7 |      Requisitos estão diferenciados entre funcionais e não funcionais ?                                          |  sim         |          |            |
-| 7 |      Nomes descritivos ?                                         |       sim    |          |            |
-| 8 |      Requisitos são verificáveis e testáveis?                                          | sim          |          |            |
-| 9 |      Requisitos são consistentes e sem ambiguidade?                                          |       sim    |          |            |
-| 10 |      Requisitos estão alinhados com os objetivos do projeto?                                          |  sim         |          |            |
-| 11 |      Versionamento individual dos requisitos ?                                         |    sim       |    |            |
-| 12 |     O Versionamento individual dos requisitos possui revisores ?                                         |   sim        |          |            |
+| ID  | Descrição                                                                                                        | Avaliação | Observações |
+| --- | --------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 5 |    A participação do cliente e/ou persona na elicitação ?                                       |  Sim         |          |            |
+| 6 |      As perguntas são claras e objetivas ?                   |    Sim       |          |            |
+| 7 |         As perguntas são relevantes para os objetivos do projeto ?                               |   Sim        |          |            |
+| 8 |       variedade de tipos de perguntas ?                                |    Sim       |  |           |
+| 9 |       O questionário evita perguntas tendenciosas?                              |   Sim        |          |            |
+| 10 |      O questionário foi distribuído de maneira a alcançar uma amostra representativa ?                                |Sim|          |            |
+| 11 |       O número de questões adequada para manter o engajamento dos respondentes ?                                |Sim|          |            |
+| 12 |      Considera a privacidade e confidencialidade das respostas dos participantes?                                |      Sim     |          |            |
+| 15 |      A análise dos dados foi feita de forma objetiva ?                                |     Sim      |          |            |
 
 
 _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
@@ -55,14 +55,13 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 
 
 
-
 ## Lista de Problemas e Análise 
 
-- Seguinto a lista construída não foram encontrados problemas relativos ao artefato.
+- Seguindo a lista construída não foram encontrados problemas relativos ao artefato.
+
 
 ## Gravação da Verficação 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TABgjCmP9Tc?si=SB57KwpYemrg8cm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 
 ## Bibliografia
@@ -75,4 +74,4 @@ COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Int
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Harryson Campos Martins](https://github.com/harry-cmartin) |
+| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Marcos Bittar](https://github.com/Bittarx)|
