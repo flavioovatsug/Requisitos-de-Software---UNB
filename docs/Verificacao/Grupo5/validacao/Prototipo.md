@@ -27,9 +27,23 @@ _Autor: [Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 </center>
 
 
+</center>
+
+## Protótipo 3 - RF21 Disponibilização de informações detalhadas do desaparecido
+<center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FL0S5aT1HVrSoGySOqkW6Eh%2FUntitled%3Fnode-id%3D0-1%26t%3DFlmHiU6NYNrc9lfO-1" allowfullscreen></iframe>
+
+
+
+_Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
+
+</center>
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | :-------: | :-------: | :---------: |
 | `1.0`  | 28/06/2024 | Criação da página e adição do protótipo 1 | [Italo Bruno](https://github.com/Italobrunom) | [Christian Hirsch Santos](https://github.com/crstyhs) |
-| `1.1`  | 28/06/2024 | Adição do protótipo 2 | [Christian Hirsch Santos](https://github.com/crstyhs) |  |
+| `1.1`  | 28/06/2024 | Adição do protótipo 2 | [Christian Hirsch Santos](https://github.com/crstyhs) | [Flávio Melo](https://github.com/flavioovatsug) |
+| `1.1`  | 28/06/2024 | Adição do protótipo 3 | [Flávio Melo](https://github.com/flavioovatsug) |  |
