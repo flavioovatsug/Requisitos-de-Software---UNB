@@ -7,14 +7,13 @@ Este artefato documenta a verificação do documento de Especificação Suplemen
 
 ## Metodologia
 
-A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Especificação Suplementar](docs/Verificacao/entrega3/planejamento_entr_3.md) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
+A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Verificacao/Grupo5/entrega3/planejamento_entr_3/) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
 **Sim**, **Não**, **Incompleto** ou **Não se aplica**.
-
 
 
 ## Resultados
 
-A seguir podem ser vistos os resultados obtidos nas tabelas 1 e 2: 
+A seguir podem ser vistos os resultados obtidos nas tabelas a seguir: 
 
 <center>
 
@@ -28,7 +27,7 @@ A seguir podem ser vistos os resultados obtidos nas tabelas 1 e 2:
 | 4   |     O artefato possui uma bibliografia/referência bibliográfica?                            |   Sim        |             |
 
 
-_Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
+_Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
 </center>
 
@@ -39,27 +38,26 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
 | ID   | Descrição                                                                                         | Avaliação | Observações |
 | ---- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 27    | O documento segue o modelo FURPS+?                                                                |      Sim     |             |
-| 28   | O documento possui um tópico de Funcionalidade?                                                   |      Sim     |             |
-| 29   | O documento possui um tópico de Desempenho?                                                       |    Sim       |             |
-| 30 | É apresentado os sistemas operacionais que o sistema funcionará?                                  |      Sim     |             |
-| 31   | O documento possui um tópico de Restrições de Design?                                             |  Sim         |             |
-| 32   | O documento possui um tópico de Usabilidade?                                                      |     Sim      |             |
-| 33   | O documento possui um tópico de Confiabilidade?                                                   |      Sim     |             |
-| 34 | Os requisitos apresentados específica ou restringe o design do sistema?                           |    Sim       |             |
-|35 | Os requisitos apresentados aumentam a confiabilidade do sistema?                                  |  Sim         |             |
-| 36  | Os requisitos relacionados à segurança são apresentados?                                          | Sim          |             |
-| 37  | Os requisitos apresentados facilitam as tarefas realizadas pelos usuários?                        |   Sim        |             |
-| 38   | O documento possui um tópico de Requisitos de Implementação?                                      |    Sim       |             |
-| 39 | As características físicas de onde o sistema funcionará são apresentadas?                         |    Sim       |             |
-| 40   | O documento possui um tópico de Suportabilidade?                                                  |    Sim       |             |
-| 41 | Os requisitos sobre os tempos de respostas são apresentados?                                      |  Sim         |             |
-| 42 | Os requisitos sobre a disponibilidade são apresentados?                                           |  Sim         |             |
-| 43   | O documento possui um tópico de Requisitos Físicos?                                               |        Sim   |             |
-| 44   | O documento possui um tópico de Requisitos de Interface?                                          |  Sim         |             |
-| 45  | Os requisitos apresentados para cada um dos tópicos necessários já citados, são testáveis?                                                         |   Sim        |             |
+| 1    | O documento segue o modelo FURPS+?                                                                |      Sim     |             |
+| 2   | O documento possui um tópico de Funcionalidade?                                                   |      Sim     |             |
+| 3   | O documento possui um tópico de Desempenho?                                                       |    Sim       |             |
+| 4 | É apresentado os sistemas operacionais que o sistema funcionará?                                  |      Sim     |             |
+| 5   | O documento possui um tópico de Restrições de Design?                                             |  Sim         |             |
+| 6   | O documento possui um tópico de Usabilidade?                                                      |     Sim      |             |
+| 7   | O documento possui um tópico de Confiabilidade?                                                   |      Sim     |             |
+| 8 | Os requisitos apresentados específica ou restringe o design do sistema?                           |    Sim       |             |
+|9 | Os requisitos apresentados aumentam a confiabilidade do sistema?                                  |  Sim         |             |
+| 10  | Os requisitos apresentados para cada um dos tópicos necessários já citados, são testáveis?                                                         |   Sim        |             |
+| 11  | Os requisitos apresentados facilitam as tarefas realizadas pelos usuários?                        |   Sim        |             |
+| 12   | O documento possui um tópico de Requisitos de Implementação?                                      |    Sim       |             |
+| 13   | O documento possui um tópico de Requisitos de Interface?                                          |  Sim         |             |
+| 14   | O documento possui um tópico de Suportabilidade?                                                  |    Sim       |             |
+| 15 | Os requisitos sobre os tempos de respostas são apresentados?                                      |  Sim         |             |
+| 16   | O documento possui um tópico de Requisitos Físicos?                                               |        Sim   |             |
 
-_Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
+
+
+_Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
 </center>
 
@@ -67,7 +65,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
 ## Lista de Problemas e Análise 
 
-- Seguindo a lista construída não foram encontrados problemas relativos ao artefato.
+- Não foi identificado problemas
 
 
 ## Referências Bibliográficas
@@ -82,5 +80,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 07/06/2024 | Criação da página.                          | [Harryson Campos Martins](https://github.com/harry-cmartin) | [Marcos Bittar](https://github.com/Bittarx)|
-
+| `1.0`  | 19/06/2024 | Criação da página.                          | [Flávio Melo](https://github.com/flavioovatsug) | |
