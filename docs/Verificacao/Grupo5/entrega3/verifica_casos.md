@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Este artefato documenta a verificação do documento de Casos de uso do nosso grupo [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
+Este artefato documenta a verificação do documento de Casos de uso do nosso [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
 
 
 ## Metodologia
 
 A metodologia escolhida foi a dos checklists, usando o checklist já montado para [casos de uso](docs/Verificacao/entrega3/planejamento_entr_3.md) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
-**Sim**, **Não**, **Incompleto** ou **Não se aplica**, a equipe se subdividirá e os membros irão avaliar 1 caso de uso:
+**Sim**, **Não**, **Incompleto** ou **Não se aplica**.
 
 
 ## Resultados
@@ -181,4 +181,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 29/07/2024 | Criação da página.                          | [Flávio Melo](https://github.com/flavioovatsug) | |
+| `1.0`  | 29/06/2024 | Criação da página.                          | [Flávio Melo](https://github.com/flavioovatsug) | |
