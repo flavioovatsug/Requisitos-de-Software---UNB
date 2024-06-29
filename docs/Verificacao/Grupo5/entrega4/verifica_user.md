@@ -789,4 +789,4 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 
 | Versão | Data| Descrição| Autor(es)| Revisor(es)|
 | ------ | :-: | :------: | :------: | :--------: |
-| `1.0`  | 27/06/2024 | Criação da página.| [Italo Bruno](https://github.com/Italobrunom)|  |
+| `1.0`  | 27/06/2024 | Criação da página.| [Italo Bruno](https://github.com/Italobrunom)| [Flávio Melo](https://github.com/flavioovatsug) |
