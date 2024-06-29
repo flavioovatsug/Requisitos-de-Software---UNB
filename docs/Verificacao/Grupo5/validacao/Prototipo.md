@@ -46,4 +46,4 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 | :----: | :--: | :-------: | :-------: | :---------: |
 | `1.0`  | 28/06/2024 | Criação da página e adição do protótipo 1 | [Italo Bruno](https://github.com/Italobrunom) | [Christian Hirsch Santos](https://github.com/crstyhs) |
 | `1.1`  | 28/06/2024 | Adição do protótipo 2 | [Christian Hirsch Santos](https://github.com/crstyhs) | [Flávio Melo](https://github.com/flavioovatsug) |
-| `1.1`  | 28/06/2024 | Adição do protótipo 3 | [Flávio Melo](https://github.com/flavioovatsug) |  |
+| `1.2`  | 29/06/2024 | Adição do protótipo 3 | [Flávio Melo](https://github.com/flavioovatsug) |  |
