@@ -36,7 +36,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin) 2024._
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para os artefatos, baseadas no livro _Introducing Rich _Pictures - Rich Picture Drawing Guidelines_<a id="FTF1" href="#FTF1Ref">^1^</a>, nos Slides _Requisitos -Pré-Rastreabilidade - Ricg Picture- Aula 04 da professora Milene Serrano e Maurício Serrano_<a id="FTF2Ref" href="#FTF2">2.</a> e no artigo _The Rich Picture: A tool for Reasoning About Work Context_<a id="FTF3Ref" href="#FTF3">3. 
+As checklists foram construídas levando em conta os padrões esperados para os artefatos, baseadas no livro _Introducing Rich _Pictures - Rich Picture Drawing Guidelines_<a id="FTF1" href="#FTF1Ref">^1^</a>, nos Slides _Requisitos -Pré-Rastreabilidade - Ricg Picture- Aula 04 da professora Milene Serrano e Maurício Serrano_<a id="FTF2Ref" href="#FTF2">^2^.</a> e no artigo _The Rich Picture: A tool for Reasoning About Work Context_<a id="FTF3Ref" href="#FTF3">^3^</a>. 
 
 Abaixo será dividida as checklists em Checklist Gerais e Específicas para cada artefato, pode ser visto a seguir nas tabelas a seguir:
 
@@ -63,16 +63,16 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin)  2024._
 
 | Item  | Descrição                                                                                                                         | Avaliação | Observação |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- |
-| 1| Elementos do Rich picture são relevantes?                                          |          Sim           |            |
-| 2| Possui uma legenda explicando os símbolos utilizados no diagrama?                                       |        Sim              |            |
-| 3| Compreensão é rápida e clara?                                          |        Sim             |            |
-| 4| Rich picture apresenta os fluxos corretos do aplicativo?                                          |       Sim              |            |
-| 5 | Explicação dos símbolos na legenda?                                          |      Sim               |          |
-| 6 | O Rich picture representa o aplicativo?                                          |      Sim               |            |
-| 7 | Atores fora do sistema?                                       |    Sim                 |            |
-| 8 | Os componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” (atores, operações, armazenamento de dados, setas e a fronteira do sistema)?  |   Sim          |   |
-| 9 | Explicação dos símbolos condizente com a imagem?                                          |     Sim                |            |
-| 10 | Está de acordo com o aplicativo selecionado?                                                    |     Sim     |            |
+| 1| Elementos do Rich picture são relevantes?                                          |                     |            |
+| 2| Possui uma legenda explicando os símbolos utilizados no diagrama?                                       |                      |            |
+| 3| Compreensão é rápida e clara?                                          |                     |            |
+| 4| Rich picture apresenta os fluxos corretos do aplicativo?                                          |                     |            |
+| 5 | Explicação dos símbolos na legenda?                                          |                     |          |
+| 6 | O Rich picture representa o aplicativo?                                          |                     |            |
+| 7 | Atores fora do sistema?                                       |                     |            |
+| 8 | Os componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” (atores, operações, armazenamento de dados, setas e a fronteira do sistema)?  |             |   |
+| 9 | Explicação dos símbolos condizente com a imagem?                                          |                     |            |
+| 10 | Está de acordo com o aplicativo selecionado?                                                    |          |            |
 
 
 _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin)  2024._
@@ -93,11 +93,11 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin)  2024._
 
 > <a id="FTF2Ref" href="#FTF2">2.</a> Requisitos aula 04 - Milene Serrano e Maurício Serrano
 
-> <a id="FTF3Ref" href="#FTF3">3.</a> Rich Picture: A tool for Reasoning About Work Context, disponível em: 
+> <a id="FTF3Ref" href="#FTF3">3.</a> Rich Picture: A tool for Reasoning About Work Context, disponível em: https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | :-------: | :-------: | :---------: |
-| `1.0`  | 29/06/2024 | Criação da página. | [Harryson Campos Martins](https://github.com/harry-cmartin)  | |
+| `1.0`  | 29/06/2024 | Criação da página. | [Harryson Campos Martins](https://github.com/harry-cmartin)  | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) |
 

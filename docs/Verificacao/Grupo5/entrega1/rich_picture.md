@@ -61,7 +61,7 @@ _Autor: [Harryson Campos Martins](https://github.com/harry-cmartin)  2024._
 
 > <a id="FTF2Ref" href="#FTF2">2.</a> Requisitos aula 04 - Milene Serrano e Maurício Serrano
 
-> <a id="FTF3Ref" href="#FTF3">3.</a> Rich Picture: A tool for Reasoning About Work Context, disponível em: 
+> <a id="FTF3Ref" href="#FTF3">3.</a> Rich Picture: A tool for Reasoning About Work Context, disponível em: https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf.
 
 ## Histórico de Versões
 
