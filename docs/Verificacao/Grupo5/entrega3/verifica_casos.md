@@ -7,7 +7,7 @@ Este artefato documenta a verificação do documento de Casos de uso do nosso [G
 
 ## Metodologia
 
-A metodologia escolhida foi a dos checklists, usando o checklist já montado para [casos de uso](docs/Verificacao/entrega3/planejamento_entr_3.md) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
+A metodologia escolhida foi a dos checklists, usando o checklist já montado para [casos de uso](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/Verificacao/Grupo5/entrega3/planejamento_entr_3/) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
 **Sim**, **Não**, **Incompleto** ou **Não se aplica**.
 
 

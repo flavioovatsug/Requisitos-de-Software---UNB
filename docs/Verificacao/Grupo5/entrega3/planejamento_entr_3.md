@@ -152,17 +152,15 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
 **Tabela 5** - Checklist para os Léxicos.
 
-| ID  | Descrição                                                                                                 | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1 | As descrições dos léxicos são coerentes e esclarecedoras?                                                 |           |             |
-| 2  | Para léxicos do tipo Verbo, as definições de noção e impacto são adequadas?                               |           |             |
-|3  | A organização dos léxicos segue a ordem estabelecida para ordenação?                                            |           |             |
-| 4  | Para léxicos do tipo Estado, as definições de noção e impacto são adequadas?                              |           |             |
-| 5  | Para léxicos do tipo Objeto, as definições de noção e impacto são adequadas?                              |           |             |
-| 6  | Cada léxico está classificado corretamente e inclui sinônimo, noção e impacto?                            |           |             |
-| 7  | A noção de cada léxico é breve e de fácil compreensão?                                                    |           |             |
-| 8  | Existe uma descrição clara dos elementos e a razão pela qual o léxico é parte deles?                      |           |             |
-| 9  | O vocabulário mínimo necessário para descrever os contextos foi corretamente utilizado?                   |           |             |
+| ID  | Descrição                                                                                              | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 1 | A definição do usuário nos Léxicos? |  |  |
+| 2 | Os léxicos possuem ligações entre si?  |  |  |
+| 3 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? |  |  |
+| 4 | Os léxicos possuem sinônimos? |  |  |
+| 5 | Os Léxicos possuem impactos bem definidos? |  |  |
+| 6 | Todos os Léxicos possuem um tipo único? |  |  |
+
 
 _Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
