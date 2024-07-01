@@ -4,6 +4,7 @@
 
 ## Metodologia
 
+
 ## Protótipo 1 - RF30 Editar Perturbação
 <center>
 
@@ -52,6 +53,12 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
 _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
+## Protótipo 5 - RF17 Informações detalhadas do véiculo 
+<center>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FjIEh9FKftPpkK8c7BDKYNH%2FRF17%3Fnode-id%3D1-901%26t%3DlsfqGv9ArXmSGxNW-1%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A901" allowfullscreen></iframe>
+
+  _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
+
 
 </center>
 
@@ -63,3 +70,4 @@ _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 | `1.1`  | 28/06/2024 | Adição do protótipo 2 | [Christian Hirsch Santos](https://github.com/crstyhs) | [Flávio Melo](https://github.com/flavioovatsug) |
 | `1.2`  | 29/06/2024 | Adição do protótipo 3 | [Flávio Melo](https://github.com/flavioovatsug) | [Christian Hirsch Santos](https://github.com/crstyhs) |
 |` 1.3` |29/06/2024|Adição do protótipo 4| [Harryson Campos Martins](https://github.com/harry-cmartin)|[Italo Bruno](https://github.com/Italobrunom)|
+| `1.4`  | 30/06/2024 | Adição do protótipo 5 |[Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Christian Hirsch Santos](https://github.com/crstyhs) |
