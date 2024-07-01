@@ -51,7 +51,7 @@ _Autor:  [Christian](https://github.com/crstyhs)_
 </center>
 
 ## Vídeo
-[Aqui](https://www.youtube.com/watch?v=xqAZWFAZL64)
+[Aqui](https://www.youtube.com/watch?v=xqAZWFAZL64) - data 18/05/2024 as 11 hs - encontro online utilizando Meets
 
 ## Referências
 [1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 13 de abril de 2024.</br>
@@ -64,4 +64,5 @@ _Autor:  [Christian](https://github.com/crstyhs)_
 | `1.0` | 13/04/2024 | Criação do documento da introspecção | [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
 | `1.1` | 17/04/2024 | Atualização das identificações| [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
 | `1.2` | 20/05/2024 | Adição da gravação| [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/italobrunoM)  |
+| `1.3` | 01/07/2024 | Adição da data| [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/italobrunoM)  |
 

@@ -16,35 +16,38 @@ Tabela 01 - Requisitos elicitados
 
 | ID | Elicitação | Tipo | 
 | ---- | ---- |---- |
-| AIU1 | visualizar perfil | RF|
-|  AIU2 | Logar pelo Gov |  RF|
-|  AIU3 | Interface simples  |RNF|
-|  AIU4 | Buscar por veículo | RF|
-|  AIU5 | Informar dados do veículo |  RF|
-|  AIU6 | Adicionar carro como roubado |  RF|
-|   AIU7 | Ligar para a polícia| RF| Implementado|
-|  AIU8  |visualizar vínculos|  RF|
-|  AIU9 | Listar pessoas desaparecidas|  RF|
-|  AIU10 | Fornecer informações sobre desaparecidos|RF|
-|  AIU11  | Vincular ao desaparecido | RF|
-|  AIU12  | Vincular ao carro | RF|
-|  AIU13  | Buscar por mandados de prisão| RF|
-|  AIU14  | Fornecer informações sobre mandados de prisão| RF|
-|  AIU15  | Visualizar informações institucinias | RF|
-|  AIU16  | Buscar por procurados | RF|
-|  AIU17  | Fornecer informações sobre procurados | RF|
-|  AIU18  | Requisitar ajuda | RF|
-|  AIU19  | Sair do aplicativo| RF|
-|  AIU20  | Anunciar pertubação da vizinhaça | RF| Implementado|
-|  AIU21  | Retornar ao início | RF|
-|  AIU22  | Salvar historico de busca	| RF|
-|  AIU23  | Disponibilizar filtro de pesquisa | RF|
-|  AIU24  | Rápida disponibilização de informações | RNF|
-|  AIU25  | Possibilitar compartilhamento das informações de placa | RF|
-|  AIU26  | Sigilo relativo de informações | RNF|
-|  AIU27  | Rápida disponibilização de informações | RNF|
-|  AIU28  | Instalação do aplicativo em diferentes sistemas | RNF|
-|  AIU29  | Editar perfil Gov | RF|
+| ID | Elicitação | Tipo | Implementação |
+| ---- | ---- |---- | ---- |
+| AIU1 | visualizar perfil | RF| Implementado |
+| AIU2 | Logar pelo Gov |  RF| Implementado |
+| AIU3 | Interface simples  |RNF| Implementado |
+| AIU4 | Buscar por veículo | RF| Implementado |
+| AIU5 | Informar dados do veículo |  RF| Implementado |
+| AIU6 | Adicionar carro como roubado |  RF| Implementado |
+| AIU7 | Ligar para a polícia| RF| Implementado|
+| AIU8  |visualizar vínculos|  RF| Implementado |
+| AIU9 | Listar pessoas desaparecidas|  RF| Implementado |
+| AIU10 | Fornecer informações sobre desaparecidos|RF| Implementado |
+| AIU11  | Vincular ao desaparecido | RF| Implementado |
+| AIU12  | Vincular ao carro | RF| Implementado |
+| AIU13  | Buscar por mandados de prisão| RF| Implementado |
+| AIU14  | Fornecer informações sobre mandados de prisão| RF| Implementado |
+| AIU15  | Visualizar informações institucinias | RF| Implementado |
+| AIU16  | Buscar por procurados | RF| Implementado |
+| AIU17  | Fornecer informações sobre procurados | RF| Implementado |
+| AIU18  | Requisitar ajuda | RF| Implementado |
+| AIU19  | Sair do aplicativo| RF| Implementado |
+| AIU20  | Anunciar pertubação da vizinhança | RF| Implementado|
+| AIU21  | Retornar ao início | RF| Implementado |
+| AIU22  | Salvar historico de busca | RF| Implementado |
+| AIU23  | Disponibilizar filtro de pesquisa | RF| Implementado |
+| AIU24  | Rápida disponibilização de informações | RNF| Implementado |
+| AIU25  | Possibilitar compartilhamento das informações de placa | RF| Implementado |
+| AIU26  | Sigilo relativo de informações | RNF| Implementado |
+| AIU27  | Rápida disponibilização de informações | RNF| Implementado |
+| AIU28  | Instalação do aplicativo em diferentes sistemas | RNF| Implementado |
+| AIU29  | Editar perfil Gov | RF| Implementado |
+
 
 </center>
 
@@ -62,5 +65,6 @@ Tabela 01 - Requisitos elicitados
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 13/04/2024 | Criação do documento da análise da interface do usuário | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
 | 1.1 | 17/04/2024 | Atualização das identificações | [Christian](https://github.com/crstyhs)| [Flávio Melo](https://github.com/flavioovatsug) |
-| 1.2 | 20/05/2024 | Adição da gravação | [Christian](https://github.com/crstyhs)|  |
+| 1.2 | 20/05/2024 | Adição da gravação | [Christian](https://github.com/crstyhs)| [Italo Bruno](https://github.com/ItaloBrunoM) |
+| 1.3 | 01/07/2024 | Adição da implementação | [Christian](https://github.com/crstyhs)| [Ian Lucca](https://github.com/IanLucca12) |
 
