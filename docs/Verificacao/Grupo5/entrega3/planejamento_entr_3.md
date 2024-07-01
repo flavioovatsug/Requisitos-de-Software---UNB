@@ -81,23 +81,8 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug) 2024._
 
 _Autor: [Flávio Melo](https://github.com/flavioovatsug) 2024._
 
-<center>
-
-**Tabela 3** - Checklist para a Verificação dos Cenários.
-
-| ID  | Descrição                                                                                         | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1  | O título do cenário é autoexplicativo?                                                            |           |             |
-| 2  | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?        |           |             |
-| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  |           |             |
-| 4  | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios?    |           |             |
-| 5  | Os atores são condizentes com o contexto do cenário?                                              |           |             |
-| 6  | O cenário descreve situações realistas e relevantes de interação do sistema?                      |           |             |
-| 7  | O objetivo do cenário é condizente com seu título?                                                |           |             |
-
-_Autor: [Flávio Melo](https://github.com/flavioovatsug) 2024._
-
 </center>
+
 
 <center>
 
