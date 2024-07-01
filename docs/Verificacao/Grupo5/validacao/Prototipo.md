@@ -76,6 +76,10 @@ _Autor:[Bittar](https://github.com/Bittarx), 2024._
 
 </center>
 
+## Validação dos Protótipos
+
+Para validação dos prototipos desenvolvidos foi definido a participação das Personas Primárias já desenvolvidas, a partir da participação destes, será possível avaliar e elencar os problemas encontrados a fim de produzir um artefato satisfatório para o usuário final.
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
