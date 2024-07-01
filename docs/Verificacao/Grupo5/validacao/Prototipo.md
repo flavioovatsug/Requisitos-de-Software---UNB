@@ -55,6 +55,18 @@ _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 
 </center>
 
+## Protótipo 5 - RF34 Usar funcionalidades sem o cadastro do Gov
+<center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/design/sq8yPy3GQuguU7Wcxfp2T0/Untitled?node-id=1-21&t=MJ2afvWrMEH7Ts7D-1" allowfullscreen></iframe>
+
+
+
+_Autor:[Bittar](https://github.com/Bittarx), 2024._
+
+
+</center>
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -63,3 +75,5 @@ _Autor:[Harryson Campos Martins](https://github.com/harry-cmartin), 2024._
 | `1.1`  | 28/06/2024 | Adição do protótipo 2 | [Christian Hirsch Santos](https://github.com/crstyhs) | [Flávio Melo](https://github.com/flavioovatsug) |
 | `1.2`  | 29/06/2024 | Adição do protótipo 3 | [Flávio Melo](https://github.com/flavioovatsug) | [Christian Hirsch Santos](https://github.com/crstyhs) |
 |` 1.3` |29/06/2024|Adição do protótipo 4| [Harryson Campos Martins](https://github.com/harry-cmartin)|[Italo Bruno](https://github.com/Italobrunom)|
+|` 1.4` |29/06/2024|Adição do protótipo 5| [Bittar](https://github.com/Bittarx)|[Italo Bruno](https://github.com/Italobrunom)|
+
