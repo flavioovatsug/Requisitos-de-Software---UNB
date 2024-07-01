@@ -38,14 +38,14 @@ _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 
 | ID  | Descrição                                                                                         | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 5 |        Foi informado os critérios da seleção e documentos? Se sim, a seleção dos documentos foi baseada em critérios claros e relevantes para os objetivos de informação?                                          |           |          |            |
-| 6 |           Foi utilizado mais de um documento para tentar evitar a seletividade tendenciosa?                                             |           |          |            |
-| 7 |              Foi citado a versão do documento utilizado e o mesmo foi guardado no repositório do projeto para consulta posterior da mesma versão e devidamente organizado?                                      |           |          |            |
-| 8 |              Foi relatado as necessidades de informação a serem respondidas pela técnica?                                    |           |          |            |
-| 9 |              As questões preparatórias foram elaboradas para guiar a análise dos documentos selecionados?                               |           |          |            |
-| 10 |              A elicitação cita os documentos analisados e associa esses documentos às questões respondidas para manter a rastreabilidade ?                               |           |          |            |
-| 11 |              As respostas obtidas com a análise foram documentadas e validadas pelas partes interessadas?                               |           |          |            |
-| 12 |              O processo de análise de documentos foi documentado de maneira adequada?                               |           |          |            |
+| 5 |        Foi informado os critérios da seleção e documentos? Se sim, a seleção dos documentos foi baseada em critérios claros e relevantes para os objetivos de informação?                       |   Sim        |          |            |
+| 6 |           Foi utilizado mais de um documento para tentar evitar a seletividade tendenciosa?                                             |      Não se aplica     |          |            |
+| 7 |              Foi citado a versão do documento utilizado e o mesmo foi guardado no repositório do projeto para consulta posterior da mesma versão e devidamente organizado?                    |      Não se aplica     |          |            |
+| 8 |              Foi relatado as necessidades de informação a serem respondidas pela técnica?                                    |     Não se aplica      |          |            |
+| 9 |              As questões preparatórias foram elaboradas para guiar a análise dos documentos selecionados?                               |    Não se aplica       |          |            |
+| 10 |              A elicitação cita os documentos analisados e associa esses documentos às questões respondidas para manter a rastreabilidade ?                               |  Não se aplica         |          |            |
+| 11 |              As respostas obtidas com a análise foram documentadas e validadas pelas partes interessadas?                               |    Sim       |          |            |
+| 12 |              O processo de análise de documentos foi documentado de maneira adequada?                               |      Sim     |          |            |
 
 
 _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
