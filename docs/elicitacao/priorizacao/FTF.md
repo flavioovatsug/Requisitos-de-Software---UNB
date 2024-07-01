@@ -4,7 +4,7 @@
   
 O "First Things First" (FTF) é uma abordagem fundamental na gestão de projetos, especialmente na análise de riscos. Essa metodologia enfatiza a importância de priorizar as atividades com base em critérios específicos, como benefício relativo, curso relativo e risco relativo. Ao classificar as tarefas de acordo com esses critérios, os gerentes de projeto podem identificar e focalizar as atividades que oferecem os maiores benefícios em relação aos objetivos do projeto, enquanto também levam em consideração a facilidade de realização e a incerteza associada. Essa abordagem permite uma alocação eficiente de recursos e uma gestão mais eficaz dos riscos, resultando em uma maior probabilidade de sucesso para o projeto como um todo.
 
-
+A primeira fórmula utilizada, (Benefício Relativo × Peso Relativo) + (Penalidade Relativa × Peso Relativo), avalia a prioridade de um requisito com base nos benefícios e penalidades associadas, ponderados por seus respectivos pesos para refletir sua importância estratégica. A segunda fórmula usada, (Valor%)/[(Custo%)x(Peso Custo) + (Risco%)x(Peso Risco)], calcula a viabilidade de um requisito considerando o valor que ele agrega, dividido pelos custos e riscos ponderados por seus respectivos pesos, ajudando a determinar a melhor alocação de recursos para maximizar o valor e minimizar os riscos e custos.
 
 
 <font size="3"><p style="text-align: center">Tabela 1: FTF</p></font>
