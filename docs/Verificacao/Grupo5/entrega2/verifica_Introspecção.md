@@ -1,13 +1,13 @@
-# Verificação da Analise Da Interface do Grupo 5
+# Verificação da Introspecção do Grupo 5
 
 ## Introdução
 
-Este artefato documenta a verificação do documento da Analise Da Interface do [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
+Este artefato documenta a verificação do documento da Introspecção do [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
 
 
 ## Metodologia
 
-A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Entrevista](docs/Verificacao/Grupo5/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
+A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Introspecção](docs/Verificacao/Grupo5/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
 **Sim**, **Não**, **Incompleto** ou **Não se aplica**, esse artefato será verificado individualmente pelo membro  [Christian Hirsch Santos](https://github.com/crstyhs).
 
 
@@ -34,20 +34,17 @@ _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 
 
 
-**Tabela 2** - Checklist para a Verificação da Analise Da Interface.
+**Tabela 2** - Checklist para a Verificação da Introspecção.
 
-| ID  | Descrição                                                                                                 | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 5|           O objetivo da avaliação de interface está claramente definido?                                         |   Sim        |          |            |
-| 6 |          Os requisitos foram divididos como funcionais e não funcionais?                                        |   Sim        |          |            |
-| 7|          A metodologia utilizada para a elicitação está bem detalhada?                                         |    Sim       |          |            |
-| 8 |          A data, horário e local da técnica foram inseridos dentro do artefato?                                         |    Não se aplica       |          |            |
-| 9 |          Os requisitos possuem status?(implementado ou não implementado)                                         |  Sim         |          |            |
-| 10 |          Gravação da técnica de elicitação?                                         |  Sim         |          |            |
-| 11 |          Os requisitos utilizados foram identificados por meio de IDs?                                         |  Sim         |          |            |
-| 12 |          As conclusões do documento de verificação são claras?                                         |      Sim     |          |            |
-| 13 |          O documento foi revisado por outros membros da equipe ou partes interessadas para garantir a precisão e completude?                                         |   Sim        |          |            |
-
+| ID   | Descrição                                                                                         | Avaliação | Observações |
+| ---- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 5 |    Os requisitos foram divididos como funcionais e não funcionais?                                                                       |  Sim         |          |            |
+| 6 |      Os requisitos possuem status?(implementado ou não implementado)                                          |      Sim     |          |            |
+| 7 |     A data, horário e local da técnica foram inseridos dentro do artefato?                                          |      Sim     |          |            |
+| 8 |     Gravação da técnica de elicitação?                                         |      Sim     |          |            |
+| 9 |      Utilização da persona ou usuário na técnica de elicitação?                                          |     Sim      |          |            |
+| 10 |     Um cenário imaginário foi utilizado na técnica para uma melhor representação?                                         |   Sim        |          |            |
+| 11 |     Os requisitos utilizados foram identificados por meio de IDs?                                      |     Sim      |          |            |
 
 _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 

@@ -1,13 +1,13 @@
-# Verificação da Analise Da Interface do Grupo 5
+# Verificação do Storytelling do Grupo 5
 
 ## Introdução
 
-Este artefato documenta a verificação do documento da Analise Da Interface do [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
+Este artefato documenta a verificação do documento do Storytelling do [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
 
 
 ## Metodologia
 
-A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Entrevista](docs/Verificacao/Grupo5/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
+A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Storytelling](docs/Verificacao/Grupo5/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
 **Sim**, **Não**, **Incompleto** ou **Não se aplica**, esse artefato será verificado individualmente pelo membro  [Christian Hirsch Santos](https://github.com/crstyhs).
 
 
@@ -34,20 +34,19 @@ _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 
 
 
-**Tabela 2** - Checklist para a Verificação da Analise Da Interface.
+**Tabela 2** - Checklist para a Verificação da Storytelling.
 
-| ID  | Descrição                                                                                                 | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 5|           O objetivo da avaliação de interface está claramente definido?                                         |   Sim        |          |            |
-| 6 |          Os requisitos foram divididos como funcionais e não funcionais?                                        |   Sim        |          |            |
-| 7|          A metodologia utilizada para a elicitação está bem detalhada?                                         |    Sim       |          |            |
-| 8 |          A data, horário e local da técnica foram inseridos dentro do artefato?                                         |    Não se aplica       |          |            |
-| 9 |          Os requisitos possuem status?(implementado ou não implementado)                                         |  Sim         |          |            |
-| 10 |          Gravação da técnica de elicitação?                                         |  Sim         |          |            |
-| 11 |          Os requisitos utilizados foram identificados por meio de IDs?                                         |  Sim         |          |            |
-| 12 |          As conclusões do documento de verificação são claras?                                         |      Sim     |          |            |
-| 13 |          O documento foi revisado por outros membros da equipe ou partes interessadas para garantir a precisão e completude?                                         |   Sim        |          |            |
-
+| ID   | Descrição                                                                                         | Avaliação | Observações |
+| ---- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 5 |     Há narração das histórias?                                                                       |    Sim       |          |            |
+| 6 |     Há gravação ou registro da elicitação dos requisitos?                                         |    Não se aplica       |          |            |
+| 7 |     As histórias remetem aos requisitos do projeto?                                          |    Sim       |          |            |
+| 8 |      As histórias apresentam coerência e coesão?                                        |      Sim     |          |            |
+| 9 |      Os requisitos são classificados em Funcionais e Não Funcionais?                                          |           |          |            |
+| 10 |      Há participação do cliente ou personas na elicitação?                                        |   Sim        |          |            |
+| 11 |      A documentação do Storytelling possui dados importantes, como eventos que remetem para a interação dos personagens com o aplicativo?                                          |   Sim        |          |            |
+| 12 |      As personas ou personagens foram desenvolvidos de maneira que representem os usuários do aplicativo?                                        |    Sim       |          |            |
+| 13 |    Possui links para os outros artefatos?                                         |    Não se aplica       |          |            |
 
 _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 

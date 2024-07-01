@@ -1,13 +1,13 @@
-# Verificação da Analise Da Interface do Grupo 5
+# Verificação da Análise de Protocolo do Grupo 5
 
 ## Introdução
 
-Este artefato documenta a verificação do documento da Analise Da Interface do [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
+Este artefato documenta a verificação do documento de Análise de Protocolo do [Grupo 5](https://requisitos-de-software.github.io/2024.1-Sinesp_Cidadao/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
 
 
 ## Metodologia
 
-A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Entrevista](docs/Verificacao/Grupo5/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
+A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Análise de Protocolo](docs/Verificacao/Grupo5/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
 **Sim**, **Não**, **Incompleto** ou **Não se aplica**, esse artefato será verificado individualmente pelo membro  [Christian Hirsch Santos](https://github.com/crstyhs).
 
 
@@ -34,20 +34,19 @@ _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 
 
 
-**Tabela 2** - Checklist para a Verificação da Analise Da Interface.
+**Tabela 2** - Checklist para a Verificação da Entrevista.
 
-| ID  | Descrição                                                                                                 | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 5|           O objetivo da avaliação de interface está claramente definido?                                         |   Sim        |          |            |
-| 6 |          Os requisitos foram divididos como funcionais e não funcionais?                                        |   Sim        |          |            |
-| 7|          A metodologia utilizada para a elicitação está bem detalhada?                                         |    Sim       |          |            |
-| 8 |          A data, horário e local da técnica foram inseridos dentro do artefato?                                         |    Não se aplica       |          |            |
-| 9 |          Os requisitos possuem status?(implementado ou não implementado)                                         |  Sim         |          |            |
-| 10 |          Gravação da técnica de elicitação?                                         |  Sim         |          |            |
-| 11 |          Os requisitos utilizados foram identificados por meio de IDs?                                         |  Sim         |          |            |
-| 12 |          As conclusões do documento de verificação são claras?                                         |      Sim     |          |            |
-| 13 |          O documento foi revisado por outros membros da equipe ou partes interessadas para garantir a precisão e completude?                                         |   Sim        |          |            |
-
+| ID  | Descrição                                                                                         | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 45 |     Houve a participação do usuário para a realização da técnica?                                                                       |  Sim         |          |            |
+| 46 |      O entrevistado é um stakeholder do aplicativo?                                          |      Sim     |          |            |
+| 47 |      O usuário utilizou a técnica "Thinking Out Loud" para expor suas ações durante a sessão?                                          | Sim          |          |            |
+| 48 |     A data, horário e local da entrevista foram especificados?                                         |    Sim       |          |            |
+| 49 |     Os participantes da sessão foram especificados?                                        |        Sim   |          |            |
+| 50 |      Houve a participação de um secretário para auxiliar o usuário?                                          |    Sim       |          |            |
+| 51 |      Os passos seguidos pelo usuário durante a sessão são apresentados no documento?                                          |       Sim    |          |            |
+| 52 |      As respostas do entrevistado foram devidamente registradas?                                         |       Sim    |          |            |
+| 53 |     Foi elaborada uma tabela resumo com todos os requisitos elicitados após a sessão?                                         |       Sim    |          |            |
 
 _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 
