@@ -2,8 +2,12 @@
 
 ## Introdução
 
+A prototipação é uma parte crucial para validação do projeto final por parte do cliente. Nesse documento é mostrado a prototipagem de alguns requisitos não implementados no projeto, e a partir disso a validação dos mesmos.
+
+
 ## Metodologia
 
+Para validação dos prototipos desenvolvidos foi definido a participação das Personas Primárias já desenvolvidas, a partir da participação destes, será possível avaliar e elencar os problemas encontrados a fim de produzir um artefato satisfatório para o usuário final.
 
 ## Protótipo 1 - RF30 Editar Perturbação
 <center>
@@ -78,9 +82,9 @@ _Autor:[Bittar](https://github.com/Bittarx), 2024._
 
 ## Validação dos Protótipos
 
-Para validação dos prototipos desenvolvidos foi definido a participação das Personas Primárias já desenvolvidas, a partir da participação destes, será possível avaliar e elencar os problemas encontrados a fim de produzir um artefato satisfatório para o usuário final.
 
-Abaixo pode ser visto a gravação do processo de validação com as personas:
+
+
 
 ## Histórico de Versões
 
