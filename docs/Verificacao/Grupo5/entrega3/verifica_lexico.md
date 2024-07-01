@@ -31,24 +31,6 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
 <center>
 
-**Tabela 2** - Checklist para a Verificação do Léxico - Obrigatório
-
-| ID  | Descrição                                                                                              | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1 | A definição do usuário nos Léxicos? | Sim | - |
-| 2 | Os léxicos possuem ligações entre si?  | Sim | - |
-| 3 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | Sim | - |
-| 4 | Os léxicos possuem sinônimos? | Sim | - |
-| 5 | Léxicos possuem impactos bem definidos? | Sim | - |
-| 6 | Todos os Léxicos possuem um tipo único? | Sim | - |
-
-
-_Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
-
-</center>
-
-<center>
-
 **Tabela 3** - Checklist para a Verificação do Léxico - Usuário
 
 | ID  | Descrição                                                                                              | Avaliação | Observações |
@@ -321,12 +303,18 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
 - Não foi identificad Problemas
 
+## Gravação da Verficação 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KtQvdwuilic?si=yFJq_BSbGBSF0_Kn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 ## Referências Bibliográficas
 
 > <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 > <a id="FTF2Ref" href="#FTF2">2.</a> Requisitos aula 13 - Milene Serrano e Maurício Serrano
+
 
 
 ## Histórico de Versões
