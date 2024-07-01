@@ -126,10 +126,20 @@ nav:
       - Matriz de rastreabilidade: Pós-Rastreabilidade/matriz.md
   - Verificação e Validação:
       - Verificação:
-          - Planejamento : Verificacao/Grupo5/entrega4/planejamento_entr_4.md
-          - Histórias de Usuário: Verificacao/Grupo5/entrega4/verifica_user.md
-          - Backlog: Verificacao/Grupo5/entrega4/verifica_backlog.md
-          - NFR Framework: Verificacao/Grupo5/entrega4/verifica_nfr.md
+          - Entrega 1:
+            - Planejamento: Verificacao/Grupo5/entrega1/planejamento_entre1.md
+            - Rich Picture: Verificacao/Grupo5/entrega1/rich_picture.md
+          - Entrega 3 :
+            - Planejamento : Verificacao/Grupo5/entrega3/planejamento_entr_3.md
+            - Casos de uso : Verificacao/Grupo5/entrega3/verifica_casos.md
+            - Cenarios : Verificacao/Grupo5/entrega3/verifica_cenario.md
+            - Especificação : Verificacao/Grupo5/entrega3/verifica_especificacao.md
+            - Léxicos : Verificacao/Grupo5/entrega3/verifica_lexico.md
+          - Entrega 4 :
+            - Planejamento : Verificacao/Grupo5/entrega4/planejamento_entr_4.md
+            - Histórias de Usuário: Verificacao/Grupo5/entrega4/verifica_user.md
+            - Backlog: Verificacao/Grupo5/entrega4/verifica_backlog.md
+            - NFR Framework: Verificacao/Grupo5/entrega4/verifica_nfr.md
       - Validação:
           - Protótipo: Verificacao/Grupo5/validacao/Prototipo.md
   - Entrega Final:
