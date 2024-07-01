@@ -1,8 +1,8 @@
-# Verificação da Priorização MosCow do Grupo 6
+# Verificação da Priorização MosCow do Grupo 5
 
 ## Introdução
 
-Este artefato documenta a verificação do documento de Especificação Suplementar do [Grupo 6](https://requisitos-de-software.github.io/2024.1-Firefox/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
+Este artefato documenta a verificação do documento de Especificação Suplementar do [Grupo 5](https://github.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
 
 
 ## Metodologia
@@ -73,4 +73,4 @@ COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Int
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Flávio Melo](https://github.com/flavioovatsug) |
+| `1.0`  | 01/07/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Flávio Melo](https://github.com/flavioovatsug) |
