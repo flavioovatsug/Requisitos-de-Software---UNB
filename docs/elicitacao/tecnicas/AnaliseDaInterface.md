@@ -52,7 +52,7 @@ Tabela 01 - Requisitos elicitados
 </center>
 
 ## Vídeo
-[Aqui](https://www.youtube.com/watch?v=_VNYyFgZD9A)
+[Aqui](https://www.youtube.com/watch?v=_VNYyFgZD9A) - reunião Teams 18/05/2024- 11:00 hs
 
 ## Referências
 [1] Sinesp Cidadão. Disponível em: [Gov](https://www.gov.br/pt-br/apps/sinesp-cidadao). Acesso em 13 de abril de 2024.</br>
