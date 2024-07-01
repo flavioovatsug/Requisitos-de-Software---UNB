@@ -18,7 +18,7 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 ## Protótipo 2 - RF31 Acesso a mapa da região e RF32 Fornecer feedback de periculosidade de áreas no mapa
 <center>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="450" height="450" src="https://www.figma.com/design/XuHmh79VqS9YInrQ5Qklgt/RF31-e-RF32?t=9yvAoOUSfrCK5ZXz-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="450" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FXuHmh79VqS9YInrQ5Qklgt%2FRF31-e-RF32%3Fnode-id%3D0-1%26t%3DNqtjpX31cwox0TNr-1" allowfullscreen></iframe>
 
 
 
@@ -73,6 +73,7 @@ _Autor:[Bittar](https://github.com/Bittarx), 2024._
 | :----: | :--: | :-------: | :-------: | :---------: |
 | `1.0`  | 28/06/2024 | Criação da página e adição do protótipo 1 | [Italo Bruno](https://github.com/Italobrunom) | [Christian Hirsch Santos](https://github.com/crstyhs) |
 | `1.1`  | 28/06/2024 | Adição do protótipo 2 | [Christian Hirsch Santos](https://github.com/crstyhs) | [Flávio Melo](https://github.com/flavioovatsug) |
-| `1.2`  | 29/06/2024 | Adição do protótipo 3 | [Flávio Melo](https://github.com/flavioovatsug) |  |
+| `1.2`  | 29/06/2024 | Adição do protótipo 3 | [Flávio Melo](https://github.com/flavioovatsug) | [Christian Hirsch Santos](https://github.com/crstyhs) |
 |` 1.3` |29/06/2024|Adição do protótipo 4| [Harryson Campos Martins](https://github.com/harry-cmartin)|[Italo Bruno](https://github.com/Italobrunom)|
 |` 1.4` |29/06/2024|Adição do protótipo 5| [Bittar](https://github.com/Bittarx)|[Italo Bruno](https://github.com/Italobrunom)|
+
