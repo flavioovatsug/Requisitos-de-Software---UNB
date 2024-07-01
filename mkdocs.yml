@@ -136,7 +136,7 @@ nav:
             - Entrevista: Verificacao/Grupo5/entrega2/verifica_entrevista.md
             - FTF: Verificacao/Grupo5/entrega2/verifica_FTF.md
             - Analise de Interface: Verificacao/Grupo5/entrega2/verifica_interface.md
-            - Introspecção: Verificacao/Grupo5/entrega2/verifica_introspecção.md
+            - Introspecção: Verificacao/Grupo5/entrega2/verifica_Introspecção.md
             - MosCow: Verificacao/Grupo5/entrega2/verifica_MosCow.md
             - Analise de Protocolo: Verificacao/Grupo5/entrega2/verifica_protocolo.md
             - Questionário: Verificacao/Grupo5/entrega2/verifica_questionario.md
@@ -153,12 +153,12 @@ nav:
             - Planejamento : Verificacao/Grupo5/entrega4/planejamento_entr_4.md
             - Histórias de Usuário: Verificacao/Grupo5/entrega4/verifica_user.md
             - Backlog: Verificacao/Grupo5/entrega4/verifica_backlog.md
-            - NFR Framework: Verificacao/Grupo5/entrega4/verifica_nfr.
+            - NFR Framework: Verificacao/Grupo5/entrega4/verifica_nfr.md
           - Entrega 6:
-            - Planejamento: Verificacao/Grupo5/entrega6/planejamento_entr_6.
-            - Backward From: Verificacao/Grupo5/entrega6/verifica_backward.
-            - Foward From: Verificacao/Grupo5/entrega6/verifica_foward.
-            - Matriz de Rastreabilidade: Verificacao/Grupo6/entrega4/verifica_matriz.
+            - Planejamento: Verificacao/Grupo5/entrega6/planejamento_entr_6.md
+            - Backward From: Verificacao/Grupo5/entrega6/verifica_backward.md
+            - Foward From: Verificacao/Grupo5/entrega6/verifica_foward.md
+            - Matriz de Rastreabilidade: Verificacao/Grupo6/entrega4/verifica_matriz.md
       - Validação:
           - Protótipo: Verificacao/Grupo5/validacao/Prototipo.md
   - Entrega Final:
