@@ -42,7 +42,7 @@ _Autor:[Christian Hirsch Santos](https://github.com/crstyhs), 2024._
 | 6 |          Os requisitos foram divididos como funcionais e não funcionais?                                        |   Sim        |          |            |
 | 7|          A metodologia utilizada para a elicitação está bem detalhada?                                         |    Sim       |          |            |
 | 8 |          A data, horário e local da técnica foram inseridos dentro do artefato?                                         |    Não se aplica       |          |            |
-| 9 |          Os requisitos possuem status?(implementado ou não implementado)                                         |           |          |            |
+| 9 |          Os requisitos possuem status?(implementado ou não implementado)                                         |  Sim         |          |            |
 | 10 |          Gravação da técnica de elicitação?                                         |  Sim         |          |            |
 | 11 |          Os requisitos utilizados foram identificados por meio de IDs?                                         |  Sim         |          |            |
 | 12 |          As conclusões do documento de verificação são claras?                                         |      Sim     |          |            |
