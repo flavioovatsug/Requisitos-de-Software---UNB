@@ -8,7 +8,7 @@ Este artefato documenta a verificação do documento de Especificação Suplemen
 ## Metodologia
 
 A metodologia escolhida foi a dos checklists, usando o checklist já montado para [Requisitos Elicitados](docs/Verificacao/entrega2/planejamento_entr_2.m) no planejamento dessa etapa, será avaliado o artefato. As respostas possíveis definidas para o checklist são:
-**Sim**, **Não**, **Incompleto** ou **Não se aplica**, esse artefato será verificado individualmente pelo membro  [Ian Lucca](https://github.com/IanLucca12).
+**Sim**, **Não**, **Incompleto** ou **Não se aplica**, esse artefato será verificado individualmente pelo membro  [Christian Hirsch Santos](https://github.com/crstyhs).
 
 
 
