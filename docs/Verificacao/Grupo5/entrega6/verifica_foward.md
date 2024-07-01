@@ -26,16 +26,14 @@ Assim como nas demais verificações, a metodologia escolhida foi a dos checklis
 
 _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 
-**Tabela 2** - Checklist do Backlog
+**Tabela 2** - Checklist do Foward
 
 | ID  | Descrição | Avaliação |Observações |
 | :-: | :---------------------------: | :-------: | :---: |
-|  1  | Foi utilizado alguma metodologia para o desenvolvimento do backlog ? | Sim | - |
-|  2  | A participação do cliente e/ou persona no desenvolvimento do backlog ? | Sim | - |
-|  3  | O PO participou da validação do backlog ? | Sim | - |
-|  4  | O backlog possui ligação direta com o artefato História de Usuário? | Sim | - |
-|  5  | O backlog possui épicos e temas bem definidos e descritos ? | Sim | - |
-|  6  | O backlog apresenta uma tabela contendo os temas, épicos e histórias de usuários ? | Sim | - |
+|  1  | O artefato possui requisitos funcionais?? | Sim | - |
+|  2  | O artefato possui requisitos não funcionais? | Sim | - |
+|  3  | Os requisitos estão ligados à um caso de uso? | Sim | - |
+|  4  | Os requisitos estao ligados à um cenário?? | Sim | - |
 
 _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 
@@ -47,10 +45,7 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 
 ## Referências Bibliográficas
 
-> <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
-Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="FTF2Ref" href="#FTF2">2.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 09/06/2024.
+[1] SERRANO, Milene; SERRANO, Maurício. Slides de Requisitos. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845096/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf>. Acesso em 24 de Maio de 2024.
 
 
 ## Histórico de Versões
