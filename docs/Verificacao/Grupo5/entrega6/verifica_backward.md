@@ -45,6 +45,8 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 
 - Seguindo a lista construída não foram encontrados problemas relativos ao artefato.
 
+## Gravação da verificação
+
 ## Referências Bibliográficas
 
 > <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
