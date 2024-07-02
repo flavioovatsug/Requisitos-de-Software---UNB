@@ -169,6 +169,11 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
 - Não foi identificado problemas
 
+## Gravação da Verficação 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KtQvdwuilic?si=yFJq_BSbGBSF0_Kn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 ## Referências Bibliográficas
 
 > <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -181,4 +186,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 29/06/2024 | Criação da página.                          | [Flávio Melo](https://github.com/flavioovatsug) | |
+| `1.0`  | 29/06/2024 | Criação da página.                          | [Flávio Melo](https://github.com/flavioovatsug) | [Italo Bruno](https://github.com/Italobrunom) |

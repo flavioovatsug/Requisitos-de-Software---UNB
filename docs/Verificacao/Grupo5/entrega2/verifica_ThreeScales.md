@@ -1,8 +1,8 @@
-# Verificação da Priorização Three Scales do Grupo 6
+# Verificação da Priorização Three Scales do Grupo 5
 
 ## Introdução
 
-Este artefato documenta a verificação do documento de Especificação Suplementar do [Grupo 6](https://requisitos-de-software.github.io/2024.1-Firefox/) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
+Este artefato documenta a verificação do documento de Especificação Suplementar do [Grupo 5](https://github.com/Requisitos-de-Software/2024.1-Sinesp_Cidadao) a partir dos checklists já planejados. Os erros serão listados e será proposto formas de correção para os mesmos.
 
 
 ## Metodologia
@@ -59,7 +59,7 @@ _Autor:[Ian Lucca Soares Mesquita](https://github.com/IanLucca12), 2024._
 - Seguindo a lista construída não foram encontrados problemas relativos ao artefato.
 
 ## Gravação da Verificação 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TABgjCmP9Tc?si=SB57KwpYemrg8cm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=RmBheGMtEgQ
 
 
 ## Bibliografia
@@ -72,4 +72,4 @@ COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Int
 
 | Versão | Data       | Descrição                                   | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 09/06/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Italo Bruno](https://github.com/Italobrunom) |
+| `1.0`  | 01/07/2024 | Criação da página.                          | [Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | [Italo Bruno](https://github.com/Italobrunom) |

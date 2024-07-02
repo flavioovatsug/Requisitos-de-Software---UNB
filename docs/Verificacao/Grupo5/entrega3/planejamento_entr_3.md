@@ -81,23 +81,8 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug) 2024._
 
 _Autor: [Flávio Melo](https://github.com/flavioovatsug) 2024._
 
-<center>
-
-**Tabela 3** - Checklist para a Verificação dos Cenários.
-
-| ID  | Descrição                                                                                         | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1  | O título do cenário é autoexplicativo?                                                            |           |             |
-| 2  | Os episódios do cenário estão coerentes e seguem uma ordem lógica para atingir o objetivo?        |           |             |
-| 3  | O contexto é descrito em função de local, tempo e pré-condições?                                  |           |             |
-| 4  | O cenário possui: título, metas/objetivos, contexto, ator(es), recursos, exceções e episódios?    |           |             |
-| 5  | Os atores são condizentes com o contexto do cenário?                                              |           |             |
-| 6  | O cenário descreve situações realistas e relevantes de interação do sistema?                      |           |             |
-| 7  | O objetivo do cenário é condizente com seu título?                                                |           |             |
-
-_Autor: [Flávio Melo](https://github.com/flavioovatsug) 2024._
-
 </center>
+
 
 <center>
 
@@ -166,6 +151,11 @@ _Autor: [Flávio Melo](https://github.com/flavioovatsug), 2024._
 
 </center>
 
+## Gravação da Verficação 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KtQvdwuilic?si=yFJq_BSbGBSF0_Kn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 ## Bibliografia
 
 
@@ -182,5 +172,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | :-------: | :-------: | :---------: |
-| `1.0`  | 29/06/2024 | Criação da página. | [Flávio Melo](https://github.com/flavioovatsug) | |
+| `1.0`  | 29/06/2024 | Criação da página. | [Flávio Melo](https://github.com/flavioovatsug) | [Italo Bruno](https://github.com/Italobrunom) |
 

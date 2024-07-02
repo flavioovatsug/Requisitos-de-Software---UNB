@@ -129,19 +129,39 @@ nav:
           - Entrega 1:
             - Planejamento: Verificacao/Grupo5/entrega1/planejamento_entre1.md
             - Rich Picture: Verificacao/Grupo5/entrega1/rich_picture.md
+          - Entrega 2:
+            - Planejamento: Verificacao/Grupo5/entrega2/planejamento_entr_2.md
+            - 100$: Verificacao/Grupo5/entrega2/verifica_100$.md
+            - Analise de Documento: Verificacao/Grupo5/entrega2/verifica_documento.md
+            - Entrevista: Verificacao/Grupo5/entrega2/verifica_entrevista.md
+            - FTF: Verificacao/Grupo5/entrega2/verifica_FTF.md
+            - Analise de Interface: Verificacao/Grupo5/entrega2/verifica_interface.md
+            - Introspecção: Verificacao/Grupo5/entrega2/verifica_introspecção.md
+            - MosCow: Verificacao/Grupo5/entrega2/verifica_MosCow.md
+            - Analise de Protocolo: Verificacao/Grupo5/entrega2/verifica_protocolo.md
+            - Questionário: Verificacao/Grupo5/entrega2/verifica_questionario.md
+            - Requisitos Elicitados: Verificacao/Grupo5/entrega2/verifica_RequisitosElicitados.md
+            - Storytelling: Verificacao/Grupo5/entrega2/verifica_storytelling.md
+            - Three Scales: Verificacao/Grupo5/entrega2/verifica_ThreeScales.md
           - Entrega 3 :
             - Planejamento : Verificacao/Grupo5/entrega3/planejamento_entr_3.md
             - Casos de uso : Verificacao/Grupo5/entrega3/verifica_casos.md
-            - Cenarios : Verificacao/Grupo5/entrega3/verifica_cenario.md
+            - Cenários : Verificacao/Grupo5/entrega3/verifica_cenario.md
             - Especificação : Verificacao/Grupo5/entrega3/verifica_especificacao.md
             - Léxicos : Verificacao/Grupo5/entrega3/verifica_lexico.md
           - Entrega 4 :
             - Planejamento : Verificacao/Grupo5/entrega4/planejamento_entr_4.md
             - Histórias de Usuário: Verificacao/Grupo5/entrega4/verifica_user.md
             - Backlog: Verificacao/Grupo5/entrega4/verifica_backlog.md
-            - NFR Framework: Verificacao/Grupo5/entrega4/verifica_nfr.md
+            - NFR Framework: Verificacao/Grupo5/entrega4/verifica_nfr.
+          - Entrega 6:
+            - Planejamento: Verificacao/Grupo5/entrega6/planejamento_entr_6.
+            - Backward From: Verificacao/Grupo5/entrega6/verifica_backward.
+            - Foward From: Verificacao/Grupo5/entrega6/verifica_foward.
+            - Matriz de Rastreabilidade: Verificacao/Grupo6/entrega4/verifica_matriz.
       - Validação:
           - Protótipo: Verificacao/Grupo5/validacao/Prototipo.md
   - Entrega Final:
       - Ferramentas Utilizadas: entrega_final/ferramentas.md
       - Apresentações: entrega_final/apresentacao.md
+      
