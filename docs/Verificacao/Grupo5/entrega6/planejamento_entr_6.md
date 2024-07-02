@@ -1,4 +1,4 @@
-# Verificação das Rastreabilidade do Grupo 6
+# Verificação da Rastreabilidade do Grupo 6
 
 ## Introdução
 
