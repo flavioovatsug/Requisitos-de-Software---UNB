@@ -33,7 +33,7 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 |  1  | O artefato possui requisitos funcionais?? | Sim | - |
 |  2  | O artefato possui requisitos não funcionais? | Sim | - |
 |  3  | Os requisitos estão ligados à um caso de uso? | Sim | - |
-|  4  | Os requisitos estao ligados à um cenário?? | Sim | - |
+|  4  | Os requisitos estão ligados à um cenário?? | Sim | - |
 
 _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 
