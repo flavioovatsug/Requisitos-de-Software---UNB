@@ -24,7 +24,7 @@ Assim como nas demais verificações, a metodologia escolhida foi a dos checklis
 | 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | - |
 | 4   | O artefato possui uma bibliografia/referência bibliográfica? |   Sim | - |
 
-_Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
+_Autor: [Bittar](https://github.com/Bittarx), 2024._
 
 **Tabela 2** - Checklist do Backward
 
@@ -36,7 +36,7 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 |  4  | Foram utilizados elos de satisfação, recurso, responsabilidade, representação, alocação e agregação? | Sim | - |
 |  5 | As tabelas possuem ID, elicitação, origem e status de implementação? | Sim | - |
 
-_Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
+_Autor: [Bittar](https://github.com/Bittarx), 2024._
 
 </center>
 
