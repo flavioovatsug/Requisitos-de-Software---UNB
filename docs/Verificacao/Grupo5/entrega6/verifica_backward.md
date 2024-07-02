@@ -33,9 +33,8 @@ _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 |  1  | O artefato possui requisitos funcionais?? | Sim | - |
 |  2  | O artefato possui requisitos não funcionais? ? | Sim | - |
 |  3  | Os requisitos estão linkados à sua origem? ? | Sim | - |
-|  4  | Os níveis foram divididos conforme o modelo de toranzo? (ambiental, organizacional, gerencial e desenvolvimento) | Sim | - |
-|  5  | Foram utilizados elos de satisfação, recurso, responsabilidade, representação, alocação e agregação? | Sim | - |
-|  6 | As tabelas possuem ID, elicitação, origem e status de implementação? | Sim | - |
+|  4  | Foram utilizados elos de satisfação, recurso, responsabilidade, representação, alocação e agregação? | Sim | - |
+|  5 | As tabelas possuem ID, elicitação, origem e status de implementação? | Sim | - |
 
 _Autor: [Italo Bruno](https://github.com/Italobrunom), 2024._
 
