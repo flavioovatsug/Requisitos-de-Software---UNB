@@ -46,6 +46,8 @@ _Autor: [Bittar](https://github.com/Bittarx), 2024._
 
 ## Gravação da verificação
 
+[Video1](https://youtu.be/https://www.youtube.com/watch?v=TkwcfYwHNBk)
+
 ## Referências Bibliográficas
 
 > <a id="FTF1Ref" href="#FTF1">1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
