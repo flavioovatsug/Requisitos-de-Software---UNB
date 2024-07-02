@@ -14,8 +14,6 @@ para o desenvolvimento de requisitos e alinhados com as necessidades dos usuári
 
 Tabela 01 - Requisitos elicitados
 
-| ID | Elicitação | Tipo | 
-| ---- | ---- |---- |
 | ID | Elicitação | Tipo | Implementação |
 | ---- | ---- |---- | ---- |
 | AIU1 | visualizar perfil | RF| Implementado |
